@@ -1,0 +1,500 @@
+{"id":"LocalText/common_bizi","revision":"551adc8e778fc97efa3a674139cf308c265cf7b8aad0222ecff77e245a630c9b","ptbr":"Nariz"}
+{"id":"LocalText/common_fou","revision":"6da19c7efa5e02ce7bc192b8142d51e358a4565ec40c829321f68e1fc755b9c3","ptbr":"Não"}
+{"id":"LocalText/common_houbei","revision":"9f28ff43adecd99f4a8e0cf89b5ae5f8fbd792c6793c449eb3515f4d484061d2","ptbr":"Costas"}
+{"id":"LocalText/common_houfa","revision":"858644aadbd4234f6002dfcccef4d6c4149a627aed3d9e7dc181a01b39423146","ptbr":"Cabelo Traseiro"}
+{"id":"LocalText/common_jinggao","revision":"28da47593e4381e28f882a67e1cb6b05003ba947610995445b513b7ab3626785","ptbr":"Aviso"}
+{"id":"LocalText/common_jingjie","revision":"00b2cf553f012f624e2f73883724ffd5781a78d302fd27b0ae5e03228acf121d","ptbr":"Reino"}
+{"id":"LocalText/common_kuangxie","revision":"b84c3cb903cbe3e7e2f301e22e815fdae147c65d2a60c29fbd500bb99dd93614","ptbr":"Perverso"}
+{"id":"LocalText/common_lianshi","revision":"da85a76ba3de4f5fb09f4aa17fcceec3c5b0f3b84e95a0de33192a14cced2307","ptbr":"Detalhe Facial"}
+{"id":"LocalText/common_liji","revision":"1ce9f9c22b9f72c6afe13f1eb15001d111c24703af78dd8e244534d592611887","ptbr":"Egoísta"}
+{"id":"LocalText/common_maozi","revision":"86038eb31b516327254fe66fbd7885544c628cfbbfa1dcbca2ff5e6a55f99c4f","ptbr":"Adorno de Cabeça"}
+{"id":"LocalText/common_meili","revision":"b6791b1b8bfe40a758e7392be7b209a81fd766fb5b7ca0c47d1c7512ac849cae","ptbr":"Carisma"}
+{"id":"LocalText/common_meimao","revision":"bc6df9cf1475be77f2ab661509286fa182bdf13f5da35ba5f684058f6c63e599","ptbr":"Sobrancelhas"}
+{"id":"LocalText/common_meixin","revision":"799c2b41c3a403cc5153c4c4c9e58557e98abb0e0708e7f75a304a54001eb1ab","ptbr":"Testa"}
+{"id":"LocalText/common_nan","revision":"d576ba86964add140cd2584584a9ee7f29a4d93f445a8e10bd6ff8b6a43eb091","ptbr":"Masculino"}
+{"id":"LocalText/common_neizaixingge","revision":"0ce7b47713f2605b0582f62c5440f997815770334f3f33963330dad3666bc547","ptbr":"Traços Internos"}
+{"id":"LocalText/common_nianling","revision":"d52a0578a087852a05c9a6faa2108f147e0e54eab923fe5ee75ce76c43d52704","ptbr":"Idade"}
+{"id":"LocalText/common_nv","revision":"5a1deeffb3fb15cf5c4cbd74aaa5188b04d1fd610856276621f546d044088983","ptbr":"Feminino"}
+{"id":"LocalText/common_qianfa","revision":"ded684dc811a547a197fa7462029ff7987b2680b7b21c60cc6ed728280039f07","ptbr":"Cabelo Frontal"}
+{"id":"LocalText/common_qita","revision":"570cd2ca8147ab505732f5b20bf69484e04ae5159278192a2c84baeeb9aa8df6","ptbr":"Outros"}
+{"id":"LocalText/common_queding","revision":"335023a965f82dc6a200d98857f67d55e14d7312134b7ed109699a18d1b873e1","ptbr":"OK"}
+{"id":"LocalText/common_queren","revision":"8ca8b8d8d1dd8ee72a9e0af7d71b8a0712e3d9e36dc693fcc3d0d7906b2a011c","ptbr":"Confirmar"}
+{"id":"LocalText/common_quxiao","revision":"ad0a881311ea2375df75540f2d95a78798e9dba7055480f98d3c8be247dfb00e","ptbr":"Cancelar"}
+{"id":"LocalText/common_renlei","revision":"5a49e99f6881a6840a194bdd10095ee2f4c23b161b44063606e4458df70cbb4d","ptbr":"Humano"}
+{"id":"LocalText/common_shi","revision":"46887fa07abfbd38eb431c190091031edcd3ba49659f619f4c5214e1e6d99c89","ptbr":"Sim"}
+{"id":"LocalText/common_shouming","revision":"9369db79b1521bd221008bc1cac6e4db9d245a1719c9060ce44d8f4e22c417b9","ptbr":"Longevidade"}
+{"id":"LocalText/common_shuxing","revision":"a647a4a2cea52b47ee197b4024d1500c837e7696634bc9b702ac0d1b0f7e9a61","ptbr":"Atributos"}
+{"id":"LocalText/common_tian","revision":"2a3dcff7723d64c0e26d9045a52787860803c5bd7123d195452c252fee66c237","ptbr":"d"}
+{"id":"LocalText/common_tuichuyouxi","revision":"3b4216ad869370cb6d4fa7ec1561f8492c381cf90d08575b21595d8d11f7e28b","ptbr":"Sair do jogo?"}
+{"id":"LocalText/common_waimao","revision":"bad4478bec5fc400b310b7f934c0d1648f1519c709cad61690e87c59e4f3f335","ptbr":"Aparência"}
+{"id":"LocalText/common_waizaixingge","revision":"9f42f34f27faddf77144f067c7285038ecc1dad4b5b83b9809e2fc14283c780c","ptbr":"Traços Externos"}
+{"id":"LocalText/common_xingbie","revision":"cdca981a746d61d5513e2e6de1fd557ae9da0fe37cdf51371336ce44c0442304","ptbr":"Sexo"}
+{"id":"LocalText/common_xingming","revision":"5ee1c41d5032565df7ee0da6281537d64d47d5f387129d714a31a5b7db8b5a04","ptbr":"Nome"}
+{"id":"LocalText/common_yanjing","revision":"0d9e25463ad5ad7a216af6d133a9d54d650b9bf4af27ca3bbb2b7c7b3b06caaf","ptbr":"Olhos"}
+{"id":"LocalText/common_yifu","revision":"b2660ba2e3bdeca6b95c261b81b5df93144022416a03a9ee9ff0c0d5f11dff66","ptbr":"Traje"}
+{"id":"LocalText/common_youlian","revision":"3584def2db471bf4391b4a4c49f8c9f7b48377f8a00f2c9c32f8030fade93792","ptbr":"Rosto (Dir.)"}
+{"id":"LocalText/common_youshan","revision":"13fce018b20abb09084c3f81ace6b9abb6dd5d4dc7b5a0df3dad7c0299fda4e0","ptbr":"Bondoso"}
+{"id":"LocalText/common_zhengzhi","revision":"02336b5410f96c04b01be5784e5a03c0b06cbb27e3fb2e1b6de2cbc08ce09192","ptbr":"Íntegro"}
+{"id":"LocalText/common_zhongyong","revision":"444b74708239f3fbad2b1a0bb1fcf9012f7f26e18ac02f944cacf95742f0e690","ptbr":"Caminho do Meio"}
+{"id":"LocalText/common_zhongzu","revision":"ac3cf5412f9613f9664678e808ca6e067dac57d79a4675ffdde9e6a892cd71c8","ptbr":"Raça"}
+{"id":"LocalText/common_zuiba","revision":"95f1b884341c960bef1d4cb47b3510553657a5eee0b9f90807a324759273c232","ptbr":"Boca"}
+{"id":"LocalText/common_zuolian","revision":"4d40a3036884297418fc483bfc52802cb9897f79ebdfc35c8f47e13991a70a03","ptbr":"Rosto (Esq.)"}
+{"id":"LocalText/login_shanchucundang","revision":"6584eb87c0f828ceebaea213568ddc687f8a23050c853a38d15a08e9535c3f65","ptbr":"Excluir este jogo salvo?"}
+{"id":"LocalText/login_shiyixia","revision":"d8e451cf9fb301af5e5ddfffb4aabe8f7c53c36b4de6ca9f7aefde4ce3e270fd","ptbr":"Experimentar"}
+{"id":"LocalText/role_character_desc1","revision":"972fc702fb16882589fa4d9f1ffae677356b2d1817dbe62626f49e7afdf6ffd6","ptbr":"Altruísta. Importa-se profundamente com amigos e membros da seita."}
+{"id":"LocalText/role_character_desc10","revision":"54b31f6eae8846d276e2c6b432f0fd20953d2911e215890f36ffedcbe75ba248","ptbr":"Protetor com filhos e aprendizes."}
+{"id":"LocalText/role_character_desc11","revision":"c53b21b962e17a997446ee3042bd40ed9c7abad53359512d08b1707b35fc2717","ptbr":"Lobo solitário independente que valoriza os próprios interesses."}
+{"id":"LocalText/role_character_desc12","revision":"288dd9aa010d136cbf4cac423f2b9d3e3b8be4262d0676be19be64e54200c3f2","ptbr":"Sempre coloca a família em primeiro lugar."}
+{"id":"LocalText/role_character_desc13","revision":"e80a180556eaea0cf76f8b36d3a26196d73900842613ac7fe5ed7bb60d49310a","ptbr":"Valoriza a fama. Inclinação para o Caminho Justo."}
+{"id":"LocalText/role_character_desc14","revision":"41a964b1bfce073b216ad7b1f27cf94a3aeb3eea94bc167c98dbf4aec001af33","ptbr":"Valoriza o poder. Prioriza os próprios interesses e sua seita. Inclinação para o Caminho Demoníaco."}
+{"id":"LocalText/role_character_desc15","revision":"de0bcd6836299efc963a363c3bfa6f7e9a36ed73be76eae91f2006252db59058","ptbr":"Busca vingança pela menor ofensa. Coloca os próprios interesses em primeiro lugar. Odeia inimigos."}
+{"id":"LocalText/role_character_desc16","revision":"cfdad3e8124c26d8fc3576dacea9c2b1e0f2733857d54513c2042458bc65a102","ptbr":"Despreocupado. Disposto a dedicar mais tempo e esforço aos seus passatempos."}
+{"id":"LocalText/role_character_desc17","revision":"1fabc43943436740a97be371c350e984c5f5d5d24e76008c220a97f4851c6289","ptbr":"Romântico nato, sempre em busca do amor."}
+{"id":"LocalText/role_character_desc18","revision":"9424a5ce75254e743f9607564f9a55732bad5bfacd66e6af3d5e74158ce53109","ptbr":"Valoriza a tradição. Respeita os mais velhos e as figuras de autoridade."}
+{"id":"LocalText/role_character_desc19","revision":"cd2336ef28b3cdc09d743be083f6d6ec244266f08620238a03de8c1c3df4c3d7","ptbr":"Fiel ao cônjuge."}
+{"id":"LocalText/role_character_desc2","revision":"fc92a1be176df727d91cfde5df84f4051def325879b636ababafcbe311d01282","ptbr":"Pessoa íntegra. Preza amigos e membros da seita. Odeia inimigos."}
+{"id":"LocalText/role_character_desc3","revision":"f4127acc625175dd89e164dcc2b3cfce6a72dafe77f0e9f5e15181783f4caec4","ptbr":"Bondoso com a maioria das pessoas."}
+{"id":"LocalText/role_character_desc4","revision":"28f0398015c5aa20de5e473e2d66dead8117fb75163d4c4ed9f2f9723f43d95f","ptbr":"Adepto do Caminho do Meio. Trata a todos de forma igual."}
+{"id":"LocalText/role_character_desc5","revision":"4f0b8e1e6ddd598fa615244db9376c2fae920e3ada066a3ab3b6bc2adbd5cdce","ptbr":"Perverso e excêntrico, de modos imprevisíveis."}
+{"id":"LocalText/role_character_desc6","revision":"a5134c220f00035440c7ccc748ccd8271ba7760fc2136bb69951e7bc4e275467","ptbr":"Prioriza os próprios interesses. Não demonstra piedade com inimigos."}
+{"id":"LocalText/role_character_desc7","revision":"b7bd7a9a9676eab8482603be95a3769666cebf9cf02a5fc0d216469dc7c586fd","ptbr":"Maligno e egocêntrico, sem qualquer consideração pelos sentimentos alheios."}
+{"id":"LocalText/role_character_desc8","revision":"e2f888cd249bd10890d5d28bf52827af72570b3406b1420e6cdc7df6521326d8","ptbr":"Valoriza familiares, mestres e aprendizes."}
+{"id":"LocalText/role_character_desc9","revision":"97310d8a21d938f5306c385cb2c1cf159a39eb7758d27fa18a5ebf64630f144e","ptbr":"Leal a amigos e membros da seita."}
+{"id":"LocalText/role_character_name1","revision":"0917c6d694f050ee5187ba79779fbec6d630a2430f400ff2b1da6bde47d03804","ptbr":"Altruísta"}
+{"id":"LocalText/role_character_name10","revision":"f3d53411a2a736d1d8bfaffab5cc23f21ad730fe988ffa6bdc5b24c7f0224d45","ptbr":"Protetor"}
+{"id":"LocalText/role_character_name11","revision":"1d7844731993d4e415725b934f99ff17621fa264fb62348d2a076b1e12eca67a","ptbr":"Individualista"}
+{"id":"LocalText/role_character_name12","revision":"f4329e06d0c0e7c8a3b1b171cd153fb7b507e4479a6bed18732a77fdac2987c9","ptbr":"Voltado à Família"}
+{"id":"LocalText/role_character_name13","revision":"35ab7fa12954327723759a6c87267c4efef42e29a5d0b7627573b2bdb5bc09a6","ptbr":"Ávido por Glória"}
+{"id":"LocalText/role_character_name14","revision":"145451fce4640803b6934c994b4c83b60355b77fbec40e7ec712817a4503dd60","ptbr":"Sedento de Poder"}
+{"id":"LocalText/role_character_name15","revision":"56c087741b1ba412cbbcb383ecdf4f76e2921e2336b4fdd352bb223b91fd7190","ptbr":"Vingativo"}
+{"id":"LocalText/role_character_name16","revision":"cf3e9451ce18d7724fc70496cb0451f07bc45451473592038e9ba022147f496a","ptbr":"Despreocupado"}
+{"id":"LocalText/role_character_name17","revision":"5dd4d657e07e60460c7f6e145f78e07f56d31eff9f7a290069383e39c0717244","ptbr":"Romântico"}
+{"id":"LocalText/role_character_name18","revision":"c8f98b8244e4044a546e707398e575fafbc1289c4eee981afbcb8a20037dc0d3","ptbr":"Tradicional"}
+{"id":"LocalText/role_character_name19","revision":"e6a7332a44cd84cf9664879c89fc82596864df2a85e67e29db09afa23ff1a6e2","ptbr":"Fiel"}
+{"id":"LocalText/role_character_name2","revision":"1d781d8bc8b76db68b15aa5a42a070318d28fd5fbfbba28fc60907b212fa1d11","ptbr":"Íntegro"}
+{"id":"LocalText/role_character_name3","revision":"27f524db288dc8a204f9b7ff587b4b1dcf55207c3bbd3d0ec8dbbd44032890a9","ptbr":"Bondoso"}
+{"id":"LocalText/role_character_name4","revision":"5b4ac059c78d2a2d4dbc13079f8a140d269fe37a9b1c48275e9dcc1f19609063","ptbr":"Caminho do Meio"}
+{"id":"LocalText/role_character_name5","revision":"f702cf1a724690ec2f3bff99f3cc8f7d1c896c5e5709cebdb80da65f95578c7a","ptbr":"Perverso"}
+{"id":"LocalText/role_character_name6","revision":"7e538fd693a47bceaded11cb57633b3d321173a9e7ecba8438c1c69a8d05573a","ptbr":"Egoísta"}
+{"id":"LocalText/role_character_name7","revision":"784f8fb2f0165e7d0af4bdcdc3c90fc62456916983fbc0a7f4a19e49a36a01cc","ptbr":"Maligno"}
+{"id":"LocalText/role_character_name8","revision":"adfea62b83f6786c74fa3e657abbc9842840a37de9f8d015ef20f28b38b5c538","ptbr":"Afetuoso"}
+{"id":"LocalText/role_character_name9","revision":"0669a92c773bcd4e9ab1d67cac3308127d15610680e3e59358a5241913c219b4","ptbr":"Leal"}
+{"id":"LocalText/role_feature_congenital_name1001","revision":"bcd4b6a04d72c9f1c1af7ba52e72c525b5e5e3e06738b8a122f1768b3ce431ed","ptbr":"Corpo de Ferro"}
+{"id":"LocalText/role_feature_congenital_name1002","revision":"d55b6b94be020b7791ae65e90674b2d6957c24825c532773997cbbf045258068","ptbr":"Energia Transbordante"}
+{"id":"LocalText/role_feature_congenital_name1003","revision":"fe0dfbd1e59f2358f2a0176a395f19d4d9c7c49b3d6a388543189f29e03766bd","ptbr":"Olho de Águia"}
+{"id":"LocalText/role_feature_congenital_name1004","revision":"59b001811ca30f6c788431114d92d516aa36060a75a213332cfabc066ce7e7d3","ptbr":"Pés Ligeiros"}
+{"id":"LocalText/role_feature_congenital_name1005","revision":"10a6ee3bce62695b70df85bf3906d915d1f152115ad1b5eafda574b368b8cd51","ptbr":"Rosto de Palhaço"}
+{"id":"LocalText/role_feature_congenital_name1006","revision":"3d953ccda51c2ef4982461fd4a8914c533fea8628b200ef724b702869edaf840","ptbr":"Beleza Deslumbrante"}
+{"id":"LocalText/role_feature_congenital_name1101","revision":"55d62c855263dfafb078f676cbc9c4bd2bdd508536e150ed48f8ea5e5cc493c8","ptbr":"Sereno como a Montanha"}
+{"id":"LocalText/role_feature_congenital_name1102","revision":"0fa2a7855da26c80d498c027c83a9481bd65e341654f861709d84f2436b8aa51","ptbr":"Feijão com Anis"}
+{"id":"LocalText/role_feature_congenital_name1103","revision":"b0ace1d11f380a81fb6fdf6607c7e351e52adc7378f348652ef5ec61d623e92e","ptbr":"Linhagem da Longevidade"}
+{"id":"LocalText/role_feature_congenital_name1104","revision":"6868a1dc96be75ac6b4addd2377adad324787e820001339e1b8f33fb11100493","ptbr":"Gênio Atormentado"}
+{"id":"LocalText/role_feature_congenital_name1105","revision":"c6ac69d62d9b1908435c2ef8a4dc33d5f7488ac8363c61e520442fcf2dc6cedd","ptbr":"Mau Presságio"}
+{"id":"LocalText/role_feature_congenital_name1106","revision":"8996df0404de903f2ad4e016e5b12e370f6a9195d1de15c71318b8bd315682ad","ptbr":"Combatente Talentoso"}
+{"id":"LocalText/role_feature_congenital_name1201","revision":"8bac074c6d1744dcf1e8a6278e1e5d3d2a0f4253c455395be1a2cfbf547a255c","ptbr":"Pavio Curto"}
+{"id":"LocalText/role_feature_congenital_name1202","revision":"33d777e7562a979e3c90dfe2b12ed4a72d4778a4697b94f4022c52d5c9b58ce7","ptbr":"Carpinteiro"}
+{"id":"LocalText/role_feature_congenital_name1203","revision":"73d0fdb6a41af6227b4d204a67dacf81a4e8923f03d43930c8e6179b194f3724","ptbr":"Açougueiro"}
+{"id":"LocalText/role_feature_congenital_name1204","revision":"4c9ee6ca680c660eaff2bf9ef5d2c3a25945181e70038f0aced35576c78493bc","ptbr":"Arrogante"}
+{"id":"LocalText/role_feature_congenital_name1301","revision":"7007095c74617397a0c86c6bd0c813786c998c8a23d715e8633a4f0998c9ea92","ptbr":"Rebelde"}
+{"id":"LocalText/role_feature_congenital_name1302","revision":"6727bb2e1e8c70cba74ae8a3a1dbb846c2f9631fc987ca0765d319ffd5c0ee5c","ptbr":"Íntegro"}
+{"id":"LocalText/role_feature_congenital_name1303","revision":"214e02db74b4b4f0378a967d04adbb0d16a9c75faf25a5224c0678bc96a382f3","ptbr":"Amaldiçoado"}
+{"id":"LocalText/role_feature_congenital_name1304","revision":"364d8a04440c1d7aa1d181aec0f13270c45e31c31a29d8eef38eed56b9a5908a","ptbr":"Abençoado"}
+{"id":"LocalText/role_feature_congenital_name1305","revision":"a65fd73e54b40615f5596d6d123daf4c8d5d71b7a8876f2b074859636d0b90a5","ptbr":"Sangue-Frio"}
+{"id":"LocalText/role_feature_congenital_name1401","revision":"dd15faaff5e20c0fca9f3c93a896730c3415ca1be73dccf4c73862cc1803adf4","ptbr":"Demônio Marcial (Espada)"}
+{"id":"LocalText/role_feature_congenital_name1402","revision":"fca36b53520fdccd2e08168302e8a4fa7e172827b604fefc61a3b4aad1c57ef3","ptbr":"Demônio Marcial (Sabre)"}
+{"id":"LocalText/role_feature_congenital_name1403","revision":"32551b55d89964a7878dcaebb3b5c4b3fd98d1bb249773c06e032f82cf7a96c9","ptbr":"Demônio Marcial (Lança)"}
+{"id":"LocalText/role_feature_congenital_name1404","revision":"8d314102bfc7a198ccc129c187e69c4c55351f756b57b067069c004deb44cb8d","ptbr":"Demônio Marcial (Punho)"}
+{"id":"LocalText/role_feature_congenital_name1405","revision":"711d40b8839d0eb3c1846550665d1f4ee3eac2d46c1cbd48972dfc6bfc7c3fde","ptbr":"Demônio Marcial (Dedo)"}
+{"id":"LocalText/role_feature_congenital_name1406","revision":"1ed17de670d935c223c9fa1c7894d1294967ec5e03b7979cb33efa7f0ad280b8","ptbr":"Demônio Marcial (Palma)"}
+{"id":"LocalText/role_feature_congenital_name1407","revision":"c39e173865701fe2b830527a84104f6c2aedd6459c16c9e12943ed2e3257dd40","ptbr":"Sábio Marcial (Espada)"}
+{"id":"LocalText/role_feature_congenital_name1408","revision":"6bf3e37785846c3ff9bdca98cbc892418d3aa742cc9b452c6317cfd4c61b7008","ptbr":"Sábio Marcial (Sabre)"}
+{"id":"LocalText/role_feature_congenital_name1409","revision":"b8661cde87de1817044ce0b846c889bdd711237f394d7e46f7559a56b2c7833b","ptbr":"Sábio Marcial (Lança)"}
+{"id":"LocalText/role_feature_congenital_name1410","revision":"6a3e0fc814bca528e830a37c2b27b17c569b23a1d752830c385fab8156823bd3","ptbr":"Sábio Marcial (Punho)"}
+{"id":"LocalText/role_feature_congenital_name1411","revision":"4000b4ea813e6c37edf8eb51e048076543598bdc32381f5975dd9252728ef990","ptbr":"Sábio Marcial (Dedo)"}
+{"id":"LocalText/role_feature_congenital_name1412","revision":"80bad66e202e5211be9ceba7fb40ad4651b6d1de4d5b4c66e34273353c76f6f3","ptbr":"Sábio Marcial (Palma)"}
+{"id":"LocalText/role_feature_congenital_name1413","revision":"d811456efa2091378fb0099f30b904274af084a5c1d73dcd752a36c5e040a30b","ptbr":"Herói Errante"}
+{"id":"LocalText/role_feature_congenital_name1414","revision":"f34663a8690b4ec081a896f20291a76a7de63c7390f4940b0b5f084e23b71519","ptbr":"Dedos Letais"}
+{"id":"LocalText/role_feature_congenital_name1415","revision":"b5ffd47a222888ebfc13dcc83f4d89d8d386276e3ea14592205f24111ecc9023","ptbr":"Mãos Fortes"}
+{"id":"LocalText/role_feature_congenital_name1416","revision":"aabc7e17b20deab9617e49b403813877809b0d301a56424fcd5ee672e97718d5","ptbr":"No Fio da Lâmina"}
+{"id":"LocalText/role_feature_congenital_name1417","revision":"7c944d383a0f50863d1797a31a90940ee243e4c04d7e88fa05f27ddacbf3393a","ptbr":"Força Natural"}
+{"id":"LocalText/role_feature_congenital_name1418","revision":"84200c11656054a4c80f29f30ada04cf66fe447ac3e5afb818729ac481147f7a","ptbr":"Prodígio Marcial"}
+{"id":"LocalText/role_feature_congenital_name1419","revision":"fb52005d9a4d2cfd811d63d1c92488b6b89fe8d814b815a4aaef7b3ec9c2d37d","ptbr":"Mãos Calejadas"}
+{"id":"LocalText/role_feature_congenital_name1420","revision":"281fc0a5a100bce657df0e3041c9a932f8aa2cf011913dec7d506c34e440ebdd","ptbr":"Atirador de Estilingue"}
+{"id":"LocalText/role_feature_congenital_name1421","revision":"d1af75fbbeeb8ac27721a4d19a61cf3274434f5f5cb6b8b2b114d5cdc40518ee","ptbr":"Pugilista"}
+{"id":"LocalText/role_feature_congenital_name1422","revision":"c7cf534ef5f8c0909c7269a346cee18b989819771f8c73f63c370892610bf5e5","ptbr":"Carregador de Fardos"}
+{"id":"LocalText/role_feature_congenital_name1423","revision":"8d1de7e07ee2e25ce4e548dddacf6bc141458cb01229ae08a9aedd1378515553","ptbr":"Cortador de Lenha"}
+{"id":"LocalText/role_feature_congenital_name1424","revision":"a3cb41ef1ce3eed60f6f8221e4efbbf3371b44c9af3b9b08d08d4a2811eacb1a","ptbr":"Espada de Espátula"}
+{"id":"LocalText/role_feature_congenital_name1425","revision":"caa6c1035d75ad3d4dd38122e28527811a7ffda68647f86038a5d7aed51c0121","ptbr":"Aspirante a Herói"}
+{"id":"LocalText/role_feature_congenital_name1426","revision":"936da480f9f643af942efa4737d25ebc3611b1dd7871319bfe8616f1916c953a","ptbr":"Mestre de Armas"}
+{"id":"LocalText/role_feature_congenital_name1427","revision":"ab1af451cee8d5794cd0e4e9c2a92c4fed122299f0560fde2dfe525cc2bef99d","ptbr":"Inovador"}
+{"id":"LocalText/role_feature_congenital_name1428","revision":"73a17963e899bab17775cb414ddf281839dac25d60dcea6f94dbd99247a9bd0b","ptbr":"Foco Absoluto"}
+{"id":"LocalText/role_feature_congenital_name1429","revision":"1c59e45c877a12a432cfdcf3ec938c021702c7e46d7ba7ae08edfcf57e2fca22","ptbr":"Espadachim Fervoroso"}
+{"id":"LocalText/role_feature_congenital_name1430","revision":"f111b496ef1c4dbae6d86baf8feb37357e599028e4834d1fed21654bebdd4e16","ptbr":"Criança-Lobo"}
+{"id":"LocalText/role_feature_congenital_name1431","revision":"ddde70ffc966dcffe30435d3c61550499f0bd34a0aa31ee30c9b5b47ca1f2056","ptbr":"Está no Sangue (Espada)"}
+{"id":"LocalText/role_feature_congenital_name1432","revision":"235af47159579b73fa255afd3524d67d2256225164f594ea60bcd6fb33fadb28","ptbr":"Está no Sangue (Sabre)"}
+{"id":"LocalText/role_feature_congenital_name1433","revision":"1d0d5c04c5b06e5d088f84f2175bd7c16f116a231c9daca21c971972d6b4ae53","ptbr":"Está no Sangue (Lança)"}
+{"id":"LocalText/role_feature_congenital_name1434","revision":"235089d74e72572a3d1ea655eccdf7e947a25ff001c6cc9868e0f6ecb227cc4a","ptbr":"O Pária"}
+{"id":"LocalText/role_feature_congenital_name1435","revision":"d73cc8f025307ca36027dbb5d4d6f9072032861a3a2e223cedc14a6e30fc15e1","ptbr":"O Único Sobrevivente"}
+{"id":"LocalText/role_feature_congenital_name1501","revision":"3f24c6df7f02ac7bef967119ef4c8d6d1d5d8542fc3bb0d7036fa6828cb4532f","ptbr":"Dom Espiritual (Raio)"}
+{"id":"LocalText/role_feature_congenital_name1502","revision":"dc959a6dfb97877066c435bfcc8b1e89fc9cd91af882feafcc5326c499e03f20","ptbr":"Dom Espiritual (Terra)"}
+{"id":"LocalText/role_feature_congenital_name1503","revision":"085987acba98381f505e915607e6e45586a73ab930d2726eac4eed9a2dd43af3","ptbr":"Dom Espiritual (Fogo)"}
+{"id":"LocalText/role_feature_congenital_name1504","revision":"846fe90c1204ad083ed746ace2d0050f0c05e8986c0befbfa2e46b3db845f978","ptbr":"Dom Espiritual (Água)"}
+{"id":"LocalText/role_feature_congenital_name1505","revision":"4704403fe9a48ee577ee0d57dce3e444c67a424a42b29b50de5c13270df35e94","ptbr":"Dom Espiritual (Vento)"}
+{"id":"LocalText/role_feature_congenital_name1506","revision":"96ec49c22afae896ed6e3907a754433341b473a7dd4e27888d728bcb32944619","ptbr":"Dom Espiritual (Madeira)"}
+{"id":"LocalText/role_feature_congenital_name1507","revision":"50a375602912b564aa0b9f6ccc0670920f88968a7d15ef93196ce04828d8f882","ptbr":"À Prova de Raios"}
+{"id":"LocalText/role_feature_congenital_name1508","revision":"a1b2db989f485f5a0195e9677fd360584625f92abe32a1f74bc6359ec2a7b703","ptbr":"À Prova de Fogo"}
+{"id":"LocalText/role_feature_congenital_name1509","revision":"c390da066272bfb2bd6628a60d7f673bf5f9790b0affe8633920e6dcba0574b7","ptbr":"Como Peixe na Água"}
+{"id":"LocalText/role_feature_congenital_name1510","revision":"484bb2830300d89a66d3d5ff5069b3189f94c0618438428d5fd0fc3b12cee5e8","ptbr":"Construtor de Montanhas"}
+{"id":"LocalText/role_feature_congenital_name1511","revision":"bfea53035cc00a80c1e511e5b3069a365eea025b4fca12f3ac9de4b72199265c","ptbr":"Plantador de Árvores"}
+{"id":"LocalText/role_feature_congenital_name1512","revision":"60bf15550e1d59de37dc93c74252ecad2d4191a3d94c9981736d734778fc7968","ptbr":"Veloz como o Vento"}
+{"id":"LocalText/role_feature_congenital_name1513","revision":"d63cd7b899fc6978e0631ec0cf7506a9b5f47eab0c4cab5a024e96b290b3375e","ptbr":"Entusiasta do Trovão"}
+{"id":"LocalText/role_feature_congenital_name1514","revision":"4e87df81781fc9a7ae34b483422b6b4fe1be70ead125aebcd2cf0c077610ad03","ptbr":"Entusiasta do Fogo"}
+{"id":"LocalText/role_feature_congenital_name1515","revision":"95dcb8f97b4eaf7eb99d04ef7e73087c67e465b8a0c5b7b652f47f954deeb648","ptbr":"Entusiasta da Água"}
+{"id":"LocalText/role_feature_congenital_name1516","revision":"25ce9cd863978be235c40e56cd9caa976cb9878ce4b63ad8b2799df4094d9667","ptbr":"Entusiasta da Terra"}
+{"id":"LocalText/role_feature_congenital_name1517","revision":"6c5e3f956bd83894c38d5253cd10c5fbec88cefb91b5967f8d8a7c79c84dff3d","ptbr":"Entusiasta da Madeira"}
+{"id":"LocalText/role_feature_congenital_name1518","revision":"41bf23b6dd910c960bb81add1c0de9e3282ecac04ffccc03696768d30756bb7a","ptbr":"Entusiasta do Vento"}
+{"id":"LocalText/role_feature_congenital_name1519","revision":"90632a8613b7eed149ad8a9caf1197046ad0b212cf6c1f7b2fec3d12c4426e16","ptbr":"Vento e Raio (Justo)"}
+{"id":"LocalText/role_feature_congenital_name1520","revision":"33ee0cad3490a1d124cf645b65e0d8126515985750d0920d4127614061c74581","ptbr":"Terra e Madeira (Justo)"}
+{"id":"LocalText/role_feature_congenital_name1521","revision":"72c9c0e16544f66426a84c63dfc6915e0b8e0c6b522e6025c603d6e6ab8aca84","ptbr":"Vento e Fogo (Demoníaco)"}
+{"id":"LocalText/role_feature_congenital_name1522","revision":"c140501d1353cbe3586ed834d6fff231b55ae66a9f466a1eb4b5f98988a02ebb","ptbr":"Terra e Água (Demoníaco)"}
+{"id":"LocalText/role_feature_congenital_name1523","revision":"9224cb214f99b88847421438c6aaf7f2aa75de82400ef20ef58a4a879750691f","ptbr":"Dom Celestial"}
+{"id":"LocalText/role_feature_congenital_name1524","revision":"624aee1d1360dac78e8d09cede4748a47b8e172d8cd687b6bec742c9cf9505fc","ptbr":"Dom Terreno"}
+{"id":"LocalText/role_feature_congenital_name1525","revision":"08f7a3fc02240c89aca810598e646cee16c17375ad70dad8f753c9d3b05fbf36","ptbr":"Raízes Instáveis"}
+{"id":"LocalText/role_feature_congenital_name1526","revision":"9324d7c519d2a20abedbf725b7c60c1368e77bb0be1e640f3acad0b578cf35fc","ptbr":"Raízes Estáveis"}
+{"id":"LocalText/role_feature_congenital_name1527","revision":"5645fd8453e51505b486690bb017d7a5c59594e29ebce8b437f58769cf91dbca","ptbr":"Poder Elemental"}
+{"id":"LocalText/role_feature_congenital_name1528","revision":"2d149e23740884c9b4702d29e1e3d52cc68f87179f393a2b2d57574ce3371fe2","ptbr":"Filho da Água"}
+{"id":"LocalText/role_feature_congenital_name1529","revision":"ff3628cb0bd5e841138c2d96ca62efae7b319ea5fa5538929122c95ae8b9fb23","ptbr":"Filho da Floresta"}
+{"id":"LocalText/role_feature_congenital_name1530","revision":"de973fd32975b834899ceeaa52a89b326ac93834c47b7f02f0f0130f43266e1d","ptbr":"Filho do Fogo"}
+{"id":"LocalText/role_feature_congenital_name1531","revision":"9da26c9a5eb8eae0025b84db714bae844c9682db255615c5bcfb981dd3b4d540","ptbr":"Filho da Terra"}
+{"id":"LocalText/role_feature_congenital_name1532","revision":"896e8dc04da4873f14c3902e38ecdc5ca6716a4d9725bdfb85b591c4d47497ff","ptbr":"Filho do Vento"}
+{"id":"LocalText/role_feature_congenital_name1533","revision":"51bd1066de74d9fd7e300884a987faa64e91d42c645502fcb33a70f1af8c1051","ptbr":"Filho do Raio"}
+{"id":"LocalText/role_feature_congenital_name1601","revision":"5bdc75f53fe9353d16a795e3508509cc34a8de13e6467521b89884a05ce2043d","ptbr":"Aprendiz de Alquimista"}
+{"id":"LocalText/role_feature_congenital_name1602","revision":"867b8865a8e7817e43d36f557af5ac5963e72c57fbf6bb6c043c25f0365a1a9d","ptbr":"Fascinado pela Alquimia"}
+{"id":"LocalText/role_feature_congenital_name1603","revision":"ee5d752517412033ed3cbacd4933b71bb4507e3fd5ae3181a502772c9edf641a","ptbr":"Alquimista"}
+{"id":"LocalText/role_feature_congenital_name1604","revision":"f8df54d625efda18ad8d99ae20fc9c8fc29f00860759188074ef6a2226874985","ptbr":"Alquimista Renascido"}
+{"id":"LocalText/role_feature_congenital_name1605","revision":"19a8107e725e578c761ef719742c70b25f6bdadd36c41f2e3719ef7bee3fde3e","ptbr":"Adepto dos Rabiscos"}
+{"id":"LocalText/role_feature_congenital_name1606","revision":"0d954e3facd904cba37880633f61112bb5e7ffe313524649d359f6194fd8acaa","ptbr":"Adivinho Iniciante"}
+{"id":"LocalText/role_feature_congenital_name1607","revision":"f8eb13a585d2ee93eff430608c2997e0b54e212d307c1667cc1e7a94604ea5cb","ptbr":"Mestre Geomante"}
+{"id":"LocalText/role_feature_congenital_name1608","revision":"13fea178ee721160f61c007b33acf86f1ce252fab65540169f98eb550206b5a7","ptbr":"Vidente dos Céus"}
+{"id":"LocalText/role_feature_congenital_name1609","revision":"66ce027be59ddf9bb9ab813e5ee2b510792b8e6a754dc8d7f94305fef2ebf60b","ptbr":"Filho do Ferreiro"}
+{"id":"LocalText/role_feature_congenital_name1610","revision":"257bc4406853d6bb34aaf4538e91644b8e76974e7b0badb1eceb174c91bf9dc6","ptbr":"Duplo Talento"}
+{"id":"LocalText/role_feature_congenital_name1611","revision":"351dc890fc9d44a311025cb9f1176b9f498dd324004c8eb0668313e341912408","ptbr":"Herbalista"}
+{"id":"LocalText/role_feature_congenital_name1701","revision":"3feebfe690df6608e106f24c3166b194550d73692e8ccb12b3ff0d522e9f1a62","ptbr":"Tolo"}
+{"id":"LocalText/role_feature_congenital_name1702","revision":"a44d5ac725de91e396a09e49b0467f97fdcaabd9ffa7843365d64da959b8a326","ptbr":"Inteligente"}
+{"id":"LocalText/role_feature_congenital_name1703","revision":"f5eb1f956637c163f3fffc41c3f141bed6286b41aeaed4b353186cc9d5b1f965","ptbr":"Sabedoria Calva"}
+{"id":"LocalText/role_feature_congenital_name1704","revision":"bcecdb1bd1a54637a4aa63039d956ab74b4682388f95b1f350ffeac585fe27bb","ptbr":"Ingênuo"}
+{"id":"LocalText/role_feature_congenital_name1705","revision":"12f35394818cdfafad162bb90e998b95ea4b60a569e7058ebddf333bc627b0fb","ptbr":"Simplório"}
+{"id":"LocalText/role_feature_congenital_name1706","revision":"6694fcf201e2dd0345958c05747bd9cb90770b0648cdf529b6962a9032e3be5e","ptbr":"Astuto, mas Azarado"}
+{"id":"LocalText/role_feature_congenital_name1707","revision":"c3f3de74ccb3833f58933e198beca2c0f6227e28f2d0bffcca7a3b92e35254aa","ptbr":"Generoso"}
+{"id":"LocalText/role_feature_congenital_name1708","revision":"b3a3ddbe34babde5015a791018715367ee582556160527845c54c7480130534a","ptbr":"Curioso"}
+{"id":"LocalText/role_feature_congenital_name1709","revision":"5812bf5c1b687c7c50758f4b12dc19532f5c098970a8dbe6c322d40fc047133f","ptbr":"Persistente"}
+{"id":"LocalText/role_feature_congenital_name1710","revision":"80ae8ac6de9e9f9c3b0172f1714283de3dba64e2980c2a8d6150d5bd0756f3b3","ptbr":"Devorador de Livros"}
+{"id":"LocalText/role_feature_congenital_name1711","revision":"c4507b0f6d800962d79bb22137a39086195398a8bdcad608c4a7954526b8a6ca","ptbr":"Erudito"}
+{"id":"LocalText/role_feature_congenital_name1712","revision":"256e359bcd11c0b0a017d5fceb8993ee5c02f4db67a0df9d7334a66edabbed47","ptbr":"Combatente"}
+{"id":"LocalText/role_feature_congenital_name1713","revision":"d3b7149eaec9caae7b5ed076bc6c4031b828bb835a159349f8ac7e3645ca4804","ptbr":"Artista Marcial"}
+{"id":"LocalText/role_feature_congenital_name1714","revision":"22b4fa76f64a8fcc9f69648dd8a53fbca7bc7e1bbee3f28595e243d87d51289f","ptbr":"Otimista"}
+{"id":"LocalText/role_feature_congenital_name1715","revision":"3bd312ff609b3076595361f359a9a8a8449ca1814c627fb376fb4ca260c67050","ptbr":"Esforçado"}
+{"id":"LocalText/role_feature_congenital_name1716","revision":"e2e71c44d8a6a81e68215e4efc9af20f752d3986176abf718a7784a03a89848c","ptbr":"Vigoroso"}
+{"id":"LocalText/role_feature_congenital_name1717","revision":"9f58366877028fe5e7025c0e6902aa41063ee8d56d353d65c2544dd77937aafc","ptbr":"A Lua Refletida na Fonte"}
+{"id":"LocalText/role_feature_congenital_name1718","revision":"525b67a3cbfa1b8e97cebfddc9b376c4216f2a70359ab5415a35de37717ee19b","ptbr":"Neto de um Mestre Demoníaco"}
+{"id":"LocalText/role_feature_congenital_name1719","revision":"de23c7cbf9247780964596d018f101db665ba875e6ca07c036db52c8c979ce01","ptbr":"Descendente de um Herói"}
+{"id":"LocalText/role_feature_congenital_name1720","revision":"ab0212d9062895cac6d848f83cf0b429bbfa1d65488b19419ee61bd302e540f8","ptbr":"Iniciado do Vale Fantasma"}
+{"id":"LocalText/role_feature_congenital_name1801","revision":"2e8eecf0441115f9129746919144d2c046bf1c9b3e065192777d7810f7d26736","ptbr":"Raposa de Jade"}
+{"id":"LocalText/role_feature_congenital_name1802","revision":"fbe44287d2d802aea6eae5743657b680fd75727a314b7016ae9bc783e6c9701d","ptbr":"Coberto de Escamas"}
+{"id":"LocalText/role_feature_congenital_name1803","revision":"e251c0c3a713d4f057564f1bf63d4995c005f1fdae51a721dbbbf389dce31c0d","ptbr":"Pata de Urso"}
+{"id":"LocalText/role_feature_congenital_name1901","revision":"a632af2cf21c5c897291538f1203ad89a82b96bbf3b9aa25842789f1641a4ecd","ptbr":"Relíquia de Família"}
+{"id":"LocalText/role_feature_congenital_name1902","revision":"6da603e909a42ce86b113ca745cc9b520948aaf76fe7f36a4a62f1bf14c62446","ptbr":"Tesouro na Lama"}
+{"id":"LocalText/role_feature_congenital_name1903","revision":"ca3a718704288598f50f231fc6ea28c93e650f3534b521b84342854fd03eada9","ptbr":"Técnica Marcial Herdada"}
+{"id":"LocalText/role_feature_congenital_name1904","revision":"6dc1b21263057ca3912cf2da426125d2f31670852ad222f9fd2a8b52ce159423","ptbr":"Dádiva de um Imortal"}
+{"id":"LocalText/role_feature_congenital_name1905","revision":"138468904315f89b3644ad2307c52e22f5eae323d6f27b17ab9a9e794dbb25ff","ptbr":"Família Abastada"}
+{"id":"LocalText/role_feature_congenital_name1906","revision":"2c718d9c78703b894a86ec1447ce05d22dff8608ba1f175624a5b772bb601534","ptbr":"Feliz Acaso"}
+{"id":"LocalText/role_feature_congenital_name1907","revision":"af36e57a4bb6b8eba0e5da1929b7b42e61d736ecaafd0d769ead20cd2ba5ac6e","ptbr":"Venturoso Acaso"}
+{"id":"LocalText/role_feature_congenital_name1908","revision":"0b57c20a376f6eb76edc92507f19dff54e88e577a0ec5308134ce9858930debc","ptbr":"Prodigioso Acaso"}
+{"id":"LocalText/role_feature_congenital_name1909","revision":"37492d81e62eb36921f60ea245d89b1b5394b82c45449608bd454378d078ae67","ptbr":"Casamento Arranjado"}
+{"id":"LocalText/role_feature_congenital_name1910","revision":"c7813f4b604f2e7997659b62684b6551fd990468fdef9731e9231631b59ddc38","ptbr":"Anel no Sonho"}
+{"id":"LocalText/role_feature_congenital_name1911","revision":"4584992cefac35c005ef9522514cdc6327f94162bb5ec718d740b8bf7a6ba928","ptbr":"Berço de Ouro"}
+{"id":"LocalText/role_feature_congenital_name2001","revision":"2af292450dda3c4c7061f6c10a68e1a811a9c44cff3bbd96f6f50238ef4ba102","ptbr":"O Escolhido"}
+{"id":"LocalText/role_feature_congenital_name2002","revision":"130f42ef22e88127881fda66f680db74ec72c33cfef315e9a0de1732c6a06025","ptbr":"Santo da Guerra Renascido"}
+{"id":"LocalText/role_feature_congenital_name2003","revision":"f6b6f12a7faf2714c6950ad239b2b225162707ab47ca791c0437aec0d8dc66c2","ptbr":"O Extraordinário"}
+{"id":"LocalText/role_feature_congenital_name2004","revision":"2c01f16dd7d04da8dcade64f6761283e573f2cf35961ca85c27c513cc01c3f36","ptbr":"Máquina de Matar"}
+{"id":"LocalText/role_feature_congenital_name2005","revision":"6983963f90c33861b3587309d525a98d6f1ccbedd3817fd4b47abf99261b3d98","ptbr":"Vingativo"}
+{"id":"LocalText/role_feature_congenital_name2006","revision":"f1be3143f7cf4a1d255aae2886a13ce3c386fa5aa27a2333043c6ffc0a4d2420","ptbr":"Saqueador de Tumbas"}
+{"id":"LocalText/role_feature_congenital_name2007","revision":"4b39355397d934edd4a54bb49f1909c944147c67eb254ae0510b7db841c2a545","ptbr":"Órfão Imperial"}
+{"id":"LocalText/role_feature_congenital_name2008","revision":"9d51dc018365e6adaef98d97c7460bbbea5b82f4b2e209105099c7689abe851c","ptbr":"Demônio do Norte"}
+{"id":"LocalText/role_feature_congenital_name2009","revision":"7731e3a48829a680f230b4821134cf1b13a8b846942be9c2060b0994c450a17e","ptbr":"Salto sobre o Portão do Dragão"}
+{"id":"LocalText/role_feature_congenital_name2010","revision":"ad40978a16ff0a846012515af7c9b1ad4b6bac68a6afc0b2fe2e3a57075c1ffa","ptbr":"Ambicioso"}
+{"id":"LocalText/role_feature_congenital_name2101","revision":"5df9f6f946da20b6b849ed4bae031628fa39d462173f0c8f8f81c3ff91b54c26","ptbr":"Prodígio (Alquimia)"}
+{"id":"LocalText/role_feature_congenital_name2102","revision":"5a4a2a0bb8668077115a9712f3058e1d8caf721603a877b37df02b2585a794a4","ptbr":"Prodígio (Forja)"}
+{"id":"LocalText/role_feature_congenital_name2103","revision":"3415a825c03e07a0df63084d0283cdfc46ef02035519f8b680c460902608011b","ptbr":"Prodígio (Talismãs)"}
+{"id":"LocalText/role_feature_congenital_name2104","revision":"b12bd9b543bcc9e934b7389cf101ec51d68170e7478201a323baac3981dfdf4c","ptbr":"Especialista em Feng Shui"}
+{"id":"LocalText/role_feature_congenital_name2105","revision":"8e89a9735af740f4f7db6d35dff89ba028904eb7f75722336fd0c1296a2c82dc","ptbr":"Discípulo dos Três Puros"}
+{"id":"LocalText/role_feature_congenital_name2106","revision":"845e8173f8f59a94309c6e2927039afd00ae1b13e8739dbd89997b013f361e5a","ptbr":"Sorte Herdada"}
+{"id":"LocalText/role_feature_congenital_name2107","revision":"71de093fd58881da48a88deb3ce4f2d40adddc2ad92f7f7aa8ed91d6727005f5","ptbr":"Cabelos até a Cintura"}
+{"id":"LocalText/role_feature_congenital_name2108","revision":"1221c4fdfa3a6228ad4139d826991389a50340cb2fe3096f5cc683b69c2bbe3c","ptbr":"Caçador do Vento"}
+{"id":"LocalText/role_feature_congenital_name2109","revision":"04110b4d905bbf647cb59099fa24f72a956f1c17c4270152e8201d9c4ac91836","ptbr":"Lança do Dragão"}
+{"id":"LocalText/role_feature_congenital_name2110","revision":"ea3cf3c5b29e5a0cdf5f8b9d9dc4eda1577942e47a062d8252f98bd39e68a332","ptbr":"Protetor dos Refugiados"}
+{"id":"LocalText/role_feature_congenital_name2111","revision":"1d8c0dd5736c3b4f902931118418910ab031a8ef17deabe189cef08b0aab1caa","ptbr":"Acalanatha"}
+{"id":"LocalText/role_feature_congenital_name2112","revision":"30cbf103a1d7e8de3ebf6a454ef25582102e253ee95f440d290717c212fd64b6","ptbr":"Aprendiz de Forja"}
+{"id":"LocalText/role_feature_congenital_name2113","revision":"0ed7546f756571ab0a447adc7350cb55b0a8f2132416fd9d571c5d3c0dd9dc26","ptbr":"Estrela Cadente"}
+{"id":"LocalText/role_feature_congenital_name2114","revision":"6938d533bd7d5d9195af0d2a1ccfb63133d1fc3e93a08b04f55e5f79661898bc","ptbr":"Qi Renascido I"}
+{"id":"LocalText/role_feature_congenital_name2115","revision":"bb13c8bc535c4877b896ef7606cc90f68af0449c8638f555a6567c5bc2707516","ptbr":"Qi Renascido II"}
+{"id":"LocalText/role_feature_congenital_name2116","revision":"3598ee69853425b0721dfa99d3532b29215e831210d44538488411ff0284aa63","ptbr":"Qi Renascido III"}
+{"id":"LocalText/role_feature_congenital_name2201","revision":"ccc1eadd0175f7752053f5f39426889dd0e81def10796fbd68f6b693b189492f","ptbr":"Constituição do Trovão Celestial"}
+{"id":"LocalText/role_feature_congenital_name2202","revision":"541be011fd25173a2e7fcf6e4abad3e760d8743a687f9f4dcb1ea1aacfa5a046","ptbr":"Constituição da Centelha Celestial"}
+{"id":"LocalText/role_feature_congenital_name2203","revision":"992a239e5956c46b80550c0ac3ccfb642572f33f3e74e4c7d32bc666f5ab4812","ptbr":"Constituição do Fogo Yang"}
+{"id":"LocalText/role_feature_congenital_name2204","revision":"3d90c437263df420e801f2e931482019aa57f94075f8c72ae16eb5f6c57d9ab0","ptbr":"Constituição do Fogo Yin"}
+{"id":"LocalText/role_feature_congenital_name2205","revision":"835b08c6e8bd6ac666563c3d265286004998d49434c6931985fab8039110fe4b","ptbr":"Constituição do Dilúvio Impiedoso"}
+{"id":"LocalText/role_feature_congenital_name2206","revision":"ce99c07d512f8243f9aa28fb2dee3ebf9bf8c2b7192fd9e25bbf3849f4b70505","ptbr":"Constituição da Respiração Aquática"}
+{"id":"LocalText/role_feature_congenital_name2207","revision":"7957097ee22683c93127ae7415b13fb8c822c75495f8fc064ef199747aef3d2a","ptbr":"Constituição do Vento Norte"}
+{"id":"LocalText/role_feature_congenital_name2208","revision":"72659bf2cdf6fd413710127ef636ff29ed6a1bd7e20057d063136926005d5265","ptbr":"Constituição do Vento de Outono"}
+{"id":"LocalText/role_feature_congenital_name2209","revision":"276b86d427c3cf5bf2e8d765bfb4d719a193de02b5c71a9b16c64ba1a4250b7e","ptbr":"Constituição da Divindade da Terra"}
+{"id":"LocalText/role_feature_congenital_name2210","revision":"bd7ce702b5beafb31b3098c00d41af38af2c9fe64c5ad0b3df31337ff5076949","ptbr":"Constituição do Espírito da Terra"}
+{"id":"LocalText/role_feature_congenital_name2211","revision":"5036cf84258bf22868954cfe39ace0d4f12db1eff7efd6b8d689f02bdcf1b0b0","ptbr":"Constituição da Floresta Murcha"}
+{"id":"LocalText/role_feature_congenital_name2212","revision":"4161a0b654ecc2056930343e0ee2643ca40c60839541c4cdd694bb04f847ba50","ptbr":"Constituição do Espírito da Madeira"}
+{"id":"LocalText/role_feature_congenital_name2301","revision":"ef0ed86bef8eb86f8b209d343a9c477ae61fabf1d508b0fc576d99e0107fab9e","ptbr":"O Reencarnado"}
+{"id":"LocalText/role_feature_congenital_name2401","revision":"8859e110b9ab02446eed7d00c525068d3b24890620aeb51a3b87f7c088e8d52a","ptbr":"Corpo da Natureza"}
+{"id":"LocalText/role_feature_congenital_name2402","revision":"ec1c0372c56e9c0be91765aec37d31d4dc00dd7ae2a764358a34fdce2fc3ddd3","ptbr":"Corpo da Chuva"}
+{"id":"LocalText/role_feature_congenital_name2403","revision":"4b046f0f8f331c8466f89e1257df648fb3a2de60a508b0137fd86cdac6b49ad8","ptbr":"Corpo do Vento e do Fogo"}
+{"id":"LocalText/role_feature_congenital_name2404","revision":"cc758c905caa272615c42ba6346d13d9c487ab908c2ae7b8597630453e5f56b6","ptbr":"Corpo do Fogo Trovejante"}
+{"id":"LocalText/role_feature_congenital_name2405","revision":"54816250a6f7d682e3f97ae383deb608e094d1d28c05ee4f514c27e4ae00a363","ptbr":"Corpo do Rei da Sabedoria"}
+{"id":"LocalText/role_feature_congenital_name2406","revision":"6adffe19a1b02732e30f75820f88a90a531cfd8466867f50471df90d7009212d","ptbr":"O Banido"}
+{"id":"LocalText/role_feature_congenital_name2407","revision":"0e5562593827ca549c457f2a6e637e1caf6208d141f3f09d1b7f4cee1fa51172","ptbr":"Bibliófilo"}
+{"id":"LocalText/role_feature_congenital_name2408","revision":"16f0ce17ef5d137b2bb1311665480385796ed6cbc2574ea31dfa79e7abf451e8","ptbr":"Árvore Ancestral"}
+{"id":"LocalText/role_feature_congenital_name2409","revision":"633e7425668dcb256413e2a1f54a60ebb80af68e15a5f12e2b8fca493da078c7","ptbr":"Sangue do Dragão"}
+{"id":"LocalText/role_feature_congenital_name2410","revision":"e2d1a859ce1679154f86d8afb81bccfd5f180da79233eab7da7cb6a75300d6f6","ptbr":"Sangue da Fênix"}
+{"id":"LocalText/role_feature_congenital_name2411","revision":"3e915dc6a3382d276837e6ed5fd312e43ae3843c57040cac3283c20301f950b8","ptbr":"Sangue do Tigre"}
+{"id":"LocalText/role_feature_congenital_name2412","revision":"287fa8cd5c9d28439e03ea5918f72cf85f41d6becd982f571ed520af17cee8a7","ptbr":"Sangue do Elefante"}
+{"id":"LocalText/role_feature_congenital_name2413","revision":"0f993ab0f61116d3dc1ee4bf947f28e9fd5ca4bcb30a3e9cfc9e06418ebe2658","ptbr":"O Mendigo Misterioso"}
+{"id":"LocalText/role_feature_congenital_name2414","revision":"bbbf9957e723842510cf4d44955204b73c1a2ee055a8a637a1b9bb393a09eff6","ptbr":"Proteção do Dragão"}
+{"id":"LocalText/role_feature_congenital_name2415","revision":"eaac30f311cd4d81fc2ed538dcdc31650a2a52155a57fa08b106125ab587431c","ptbr":"Graça da Fênix"}
+{"id":"LocalText/role_feature_congenital_name2416","revision":"d963b728e3a3702d1a5ff0cf5049deaaf7c5f4d47d3669907cf488f7150df4dc","ptbr":"O Velho Tolo Move as Montanhas"}
+{"id":"LocalText/role_feature_congenital_name2417","revision":"4ceade7d4be564b6d64a9abd68155d3808530d581224daaa6c7c7ac9c25952e0","ptbr":"Hou Yi Abate os Sóis"}
+{"id":"LocalText/role_feature_congenital_name2418","revision":"2816e1f2fc8b96c376c1a387e2eacb20651c3b5ac084f2c0245248382a65ab16","ptbr":"Jingwei Aterra o Mar"}
+{"id":"LocalText/role_feature_congenital_name2419","revision":"29293f5ff4be3a7eb6a25ad07e35d791c2281b1ffac8c3d45b9d96be47c7dc81","ptbr":"Suiren Acende a Primeira Chama"}
+{"id":"LocalText/role_feature_congenital_name2420","revision":"d8ed4f82849bb668382ffe8331fd79479349ffbba06ed3fab0390580822cd9e9","ptbr":"Kuafu Persegue o Sol"}
+{"id":"LocalText/role_feature_congenital_name2421","revision":"d2a62488ba20652e009fafa783c7df81a14610db6edfb0783184a24e66f8773a","ptbr":"Xingtian Empunha Escudo e Machado"}
+{"id":"LocalText/role_feature_congenital_name2422","revision":"21c1e09a3c7e9c1faa0bd1221a70ec6d97dcfc2cb6e94746c553a33ca707c568","ptbr":"Inimigo Público"}
+{"id":"LocalText/role_feature_congenital_name2423","revision":"9393e0bfacd64508a838b5957558e963650365786b3632e7bc5e0632b92e56ed","ptbr":"Matador de Tigres"}
+{"id":"LocalText/role_feature_congenital_name2424","revision":"9245a18080887a6636cba69ae140456d6a808760d1b3e2577eb81e88e578e57c","ptbr":"Três Flores Eternas"}
+{"id":"LocalText/role_feature_congenital_name2425","revision":"1bc5c414845099343b09bd6d785957c8435180e58c74464adce47b5f25ba44a3","ptbr":"Espírito da Árvore Reencarnado"}
+{"id":"LocalText/role_feature_congenital_name2426","revision":"a310cb011db06c630f9528519de00cc093e2ed20424aa5f641a9af32291f1641","ptbr":"Discípulo do Vale Fantasma"}
+{"id":"LocalText/role_feature_congenital_name2501","revision":"b2ef4ee73f21d483130bfe0d0a9540f1c16d7db38e03e7b358a0b7880bd22cc8","ptbr":"Elegante"}
+{"id":"LocalText/role_feature_congenital_name2502","revision":"da39bde7db16baaa60e46e3eab381bbb9549ff5f2ba67263f16d57ce50682c86","ptbr":"Viril"}
+{"id":"LocalText/role_feature_congenital_name2503","revision":"23601c71062c3f18481873e1e270b2d86139ae6f882cb471e4214af364ce8113","ptbr":"Solteiro Feliz"}
+{"id":"LocalText/role_feature_congenital_name2504","revision":"d991ab5a09820c1f4a49be13e5cb361c7c3041aa981099bd19d647d2b5dceca3","ptbr":"Brado Trovejante"}
+{"id":"LocalText/role_feature_congenital_name2601","revision":"e7aa34859afebe6466432470b91d80fd94d242b5fc2ea952c78df6dae7c72e2e","ptbr":"Canhoto"}
+{"id":"LocalText/role_feature_congenital_name2602","revision":"638b465355d56faca908652c210c94d5c54819e8f6d86b43b6ea389caf3e0009","ptbr":"Alma Andarilha"}
+{"id":"LocalText/role_feature_congenital_name2603","revision":"9a43017b41f8055f16254f338d199b4394bb882b0006d9099fcde696138d1f5b","ptbr":"O Desafortunado"}
+{"id":"LocalText/role_feature_congenital_name2604","revision":"57f734f23ebb1927b0bb8b71c2d4016f00da1883d48b3d1aa849858855956dca","ptbr":"O Justo"}
+{"id":"LocalText/role_feature_congenital_name2605","revision":"f8cb2022466479ae6806583c024506f26852d55246cb185194d3e26c9697c372","ptbr":"Mal Notório"}
+{"id":"LocalText/role_feature_congenital_name2708","revision":"3896e259182fc655fd0ef1be106833e49dc0be59fff5e426729cf9bc5d0e5e3b","ptbr":"Gênio dos Negócios"}
+{"id":"LocalText/role_feature_congenital_name2709","revision":"2a999bb06da854212e18bffefe35cdeb7a425c68d42a69d8182332df5d227b19","ptbr":"Negociador Implacável"}
+{"id":"LocalText/role_feature_congenital_name2801","revision":"5c02f0b94ec22c95b6a4bc9d92cb7e72c0bbf8ee3943d95a213b0e4d57ef8027","ptbr":"Amor Verdadeiro"}
+{"id":"LocalText/role_feature_congenital_name2802","revision":"cbb8ac27ff8163795b8356afcb58b87b0e13e2fa791f17007d66e2f6e59de87b","ptbr":"Grou Branco"}
+{"id":"LocalText/role_feature_congenital_name2803","revision":"c3936b2e528ce81d3c724ee27f22fc7bbe25107ad0c004689d29a26e13ea47e8","ptbr":"Aura do Dragão Ancestral"}
+{"id":"LocalText/role_feature_congenital_tips1","revision":"718098d86511457c7af1a3ebc54a7166e4f3407f93a0da1d524255f7ca9b6360","ptbr":"O humor não é facilmente afetado."}
+{"id":"LocalText/role_feature_congenital_tips10","revision":"c9f60ba4ace6043a11f5a98e11941abdb6415f39b93a19f0e56984cfcb2a1da3","ptbr":"Sabre e Espada +10"}
+{"id":"LocalText/role_feature_congenital_tips11","revision":"4287419700315a4b980f142e352eaafb5eef51d6c6c7eb746c357a0e13d03193","ptbr":"Lança +20, Justo +10"}
+{"id":"LocalText/role_feature_congenital_tips1101","revision":"34d91a4080fb3327b9ec6cd4775f5282b34a0b370f80595f3d0d2f08b75932df","ptbr":"O humor não é facilmente afetado."}
+{"id":"LocalText/role_feature_congenital_tips1102","revision":"fa3b98566c7274c333b3a32a5905c8cb61cf5ae31a998d09819e46d25faa916a","ptbr":"Sorte +20, Longevidade Máxima -10"}
+{"id":"LocalText/role_feature_congenital_tips1103","revision":"68b15c34ae66a8841089fe7a75a2a933d7ffae75c2958415658f7bcb8c4653eb","ptbr":"Longevidade Máxima +50"}
+{"id":"LocalText/role_feature_congenital_tips1104","revision":"cf01fd9285cd92c8504a054f2a850126759c3d18b9d985edb008613467502adb","ptbr":"Percepção +30, Ganho de Cultivo +20%, Longevidade Máxima -20, Saúde Máxima -20"}
+{"id":"LocalText/role_feature_congenital_tips1105","revision":"420399d32b11716e251925ef528b31ea7e1ccbef04480260ecb6e15fc4279035","ptbr":"ATQ +8, Crítico +20, Carisma -300"}
+{"id":"LocalText/role_feature_congenital_tips1106","revision":"fb626dc69cde126e1a4b4985e3f89637b3cf553a132483fc47a158f6e5c41cdd","ptbr":"ATQ +2, Demoníaco +50, Carisma -100"}
+{"id":"LocalText/role_feature_congenital_tips12","revision":"1897a1db6fc9519712a0ae29188b904da76e0f11e3c81e1d0c4c1e608fd9511e","ptbr":"Longevidade -10, Sorte +20"}
+{"id":"LocalText/role_feature_congenital_tips1201","revision":"ca0d493e2d2c7f914af8cc9e4d5f1ec2594eb6af452f3e6829576bcf74d32e05","ptbr":"ATQ +6, DEF -4"}
+{"id":"LocalText/role_feature_congenital_tips1202","revision":"09a95317c3a1caf73c36b73a848e0684543ee536b5f09d8d8303d091e8c481cf","ptbr":"ATQ -1, Percepção +20"}
+{"id":"LocalText/role_feature_congenital_tips1203","revision":"a494c8999b44fec3d965d19cbf2a54fab037a9c6f8206b7f2d6fcb7babcb79e6","ptbr":"ATQ +2, Crítico +10"}
+{"id":"LocalText/role_feature_congenital_tips1204","revision":"326dc113c94a05d083453d1b318b8a20645d6f6e25f2a0a9f6e6e2f04b970cfb","ptbr":"ATQ +6, DEF -2, Carisma -100"}
+{"id":"LocalText/role_feature_congenital_tips13","revision":"47091937b15a2195988ab53bf18c4c5de16d2a5cc492d211381cf437431f64ae","ptbr":"ATQ -10, Percepção +10"}
+{"id":"LocalText/role_feature_congenital_tips1301","revision":"1ba24fbe9a58d5a00e3fc33543f71f62ba5346a44a017235c742d5e780fb8cd0","ptbr":"Demoníaco +50. O humor melhora com facilidade"}
+{"id":"LocalText/role_feature_congenital_tips1302","revision":"17e192d149620915606ac17ba071a1ff438c55e946812405174e80fb014eceb2","ptbr":"Justo +50, Carisma +100"}
+{"id":"LocalText/role_feature_congenital_tips1303","revision":"ae7c382622b94725363573cb36267b67bcae0516069bcd47982b0cc3ad2a8990","ptbr":"ATQ +6, Crítico +20, Demoníaco +100"}
+{"id":"LocalText/role_feature_congenital_tips1304","revision":"6d09308f79b5022b0a11ba6d0d43840d766570a4414ef748c1c3d75098b769d2","ptbr":"DEF +6, Sorte +10, Carisma +100, Justo +100"}
+{"id":"LocalText/role_feature_congenital_tips1305","revision":"10efe4870f5dc620d6ba2b22925906af888d50b2ced248012b8956355384264a","ptbr":"ATQ +6, Crítico +20, Carisma -100"}
+{"id":"LocalText/role_feature_congenital_tips14","revision":"f3869f694773744a1d74384fcae8acc61350844796c4e2394042e9f8599f1365","ptbr":"ATQ +20, Crítico +10"}
+{"id":"LocalText/role_feature_congenital_tips1401","revision":"689e243a1dfad19ae83c2864260e3bbde5236eb7b40ad5e06e9308786d118c2c","ptbr":"Espada +25, ATQ +1, Demoníaco +50"}
+{"id":"LocalText/role_feature_congenital_tips1402","revision":"6b9d60fec9d4c7b4de557b84352be9be493afa8936e7aaff74a7b325af868455","ptbr":"Sabre +25, ATQ +1, Demoníaco +50"}
+{"id":"LocalText/role_feature_congenital_tips1403","revision":"9c383da62702d18236d011ff0d6bebe13c8de54dab23204508eb086c2bd03724","ptbr":"Lança +25, ATQ +1, Demoníaco +50"}
+{"id":"LocalText/role_feature_congenital_tips1404","revision":"010140e7233fcaf72e83fbf975b24179042a3bd269038610cebe3cfebf06e19b","ptbr":"Punho +25, ATQ +1, Demoníaco +50"}
+{"id":"LocalText/role_feature_congenital_tips1405","revision":"a038c3a1638d525b262c5a6bc657a57055dad1ff59994e1014ed7008b28e669f","ptbr":"Dedo +25, ATQ +1, Demoníaco +50"}
+{"id":"LocalText/role_feature_congenital_tips1406","revision":"02dfb1542e5107a4105a0f104c0504be4bdf03c01ed276c235aa4c1b32ef660b","ptbr":"Palma +25, ATQ +1, Demoníaco +50"}
+{"id":"LocalText/role_feature_congenital_tips1407","revision":"86afae401db1d4f09dc4fa06d88159c30e426db6d55f548fbdb8da0df7e67cad","ptbr":"Espada +25, ATQ +1, Justo +50"}
+{"id":"LocalText/role_feature_congenital_tips1408","revision":"f629c6a323bed6982dbdad98704f81971ac12481e7d62449aef7e41a97d9b32d","ptbr":"Sabre +25, ATQ +1, Justo +50"}
+{"id":"LocalText/role_feature_congenital_tips1409","revision":"6b3621af84a4a81c7911fc3eb6cd3576a3f354cca32f078a1bf8fdc3a6a981c6","ptbr":"Lança +25, ATQ +1, Justo +50"}
+{"id":"LocalText/role_feature_congenital_tips1410","revision":"460a5b7652b2704bab739594d23c47327e005d9d8c60185968a6eabe77ee9650","ptbr":"Punho +25, ATQ +1, Justo +50"}
+{"id":"LocalText/role_feature_congenital_tips1411","revision":"4d33333e517c30bdd57950ffddf2fc5ebeda22ed92333ff7da21f4cd801deec0","ptbr":"Dedo +25, ATQ +1, Justo +50"}
+{"id":"LocalText/role_feature_congenital_tips1412","revision":"3a8e6f94fcfe4bdf60fe60494ec8b953685994fa312818e36b2ab07271885f1d","ptbr":"Palma +25, ATQ +1, Justo +50"}
+{"id":"LocalText/role_feature_congenital_tips1413","revision":"19a536459bb272129cb8ff515d46896fe9e1ce8eae061d76383cfcbbb7bf33eb","ptbr":"Sabre e Espada +15"}
+{"id":"LocalText/role_feature_congenital_tips1414","revision":"ac817596832ecbe53975fc3dabf24b60963c894516594b98685c4e1064c85b6b","ptbr":"Lança e Dedo +15"}
+{"id":"LocalText/role_feature_congenital_tips1415","revision":"c96f1ad3a52295c267403d06814cb67df8826d3f9c6a5f1d9317a14a43450b21","ptbr":"Punho e Palma +15"}
+{"id":"LocalText/role_feature_congenital_tips1416","revision":"9ad42d7d2ecb3295a96fcfc86da7ff48189426fcce0ca615eed4a0480c397650","ptbr":"Espada, Lança e Sabre +15, ATQ +3, Justo +100"}
+{"id":"LocalText/role_feature_congenital_tips1417","revision":"e2984a9842aaad6cacc9a2b4ecef2585ea6d1f2e825ad6ec0dde6e096e53a68a","ptbr":"Punho, Dedo e Palma +15, DEF +3, Demoníaco +100"}
+{"id":"LocalText/role_feature_congenital_tips1418","revision":"6c449f4c0235b301b10cb773b05dcfa836293f9e78fb365108ccd14c5470aebe","ptbr":"Todas as Artes Marciais +18, ATQ +5"}
+{"id":"LocalText/role_feature_congenital_tips1419","revision":"59bf8cd6698a7e2b5b03298a3f6819431dc0bf8b571dfeb1b0797adb28562f48","ptbr":"Palma +15, Dedo -10"}
+{"id":"LocalText/role_feature_congenital_tips1420","revision":"ead7cad97e029e9a4db736dadcf425643440f4588f824ceb741ec5d8929ffe86","ptbr":"Dedo +10"}
+{"id":"LocalText/role_feature_congenital_tips1421","revision":"519246a678f18affd778d33feae10dcbf7a7e6ac97fa7f6406db9bdaf2250965","ptbr":"Punho +10"}
+{"id":"LocalText/role_feature_congenital_tips1422","revision":"64862c991e8ca24d237b435cffd313475950c0ba517afa009c8fd1ef595fa836","ptbr":"Lança +10"}
+{"id":"LocalText/role_feature_congenital_tips1423","revision":"ff88c1f22f87a020a6df0aa76cd05cf898a3f045b7ea9ff178a9b6ca1dc331ab","ptbr":"Sabre +10"}
+{"id":"LocalText/role_feature_congenital_tips1424","revision":"4a52e4d93dbf22c67543e5c81d35cc6c707db8a27fd8e82321b79b5679876913","ptbr":"Espada +10"}
+{"id":"LocalText/role_feature_congenital_tips1425","revision":"3dfdc4bdb245c297a8662a354ff2bf2f0cf97cc9cbe9f3de3779b12c8d67263e","ptbr":"Lança +10, Justo +10"}
+{"id":"LocalText/role_feature_congenital_tips1426","revision":"1d174fc316d85fb5178593d387a91fb9bb29a8ad37c28a206beabd59b20a6cc2","ptbr":"Espada, Sabre e Lança +20; a proficiência em Espada/Sabre/Lança aumenta 30% mais rápido"}
+{"id":"LocalText/role_feature_congenital_tips1427","revision":"1f419604f86eea87802663f8b8e32bb1c2bbe373a0ffaff124bcfe51c352c0b8","ptbr":"Punho e Palma +30, DEF +5"}
+{"id":"LocalText/role_feature_congenital_tips1428","revision":"eaecb76e50c014789230d8ae0c1f3f20202f8a6f700e78378ac04bdae4a8f7ee","ptbr":"Lança e Dedo +30, Crítico +20"}
+{"id":"LocalText/role_feature_congenital_tips1429","revision":"abd82b9bc3526e26d9784ffeba578303e07aa61131d9dae4d3d3b37a91fac6f3","ptbr":"Espada +30; a proficiência em Espada aumenta 50% mais rápido"}
+{"id":"LocalText/role_feature_congenital_tips1430","revision":"46172766d76397d8c58c84983174181784e77beee70cb27b6730191cf2deaf48","ptbr":"ATQ +5, Punho +10, Carisma -100"}
+{"id":"LocalText/role_feature_congenital_tips1431","revision":"8d452af5fa3f3c59cf208c951731b5ce9043b5f217a0044d840c3dcb6e3b779e","ptbr":"ATQ +2, Espada +5, Percepção +10"}
+{"id":"LocalText/role_feature_congenital_tips1432","revision":"7af228c8c59f767f245fa2b5dbef52a22395908b2be539f560d4ad91702ead54","ptbr":"ATQ +2, Sabre +5, Percepção +10"}
+{"id":"LocalText/role_feature_congenital_tips1433","revision":"e5b1d34af001402035de16e55b9ff4263d0e07234db137cd28ed739e03283989","ptbr":"ATQ +2, Lança +5, Percepção +10"}
+{"id":"LocalText/role_feature_congenital_tips1434","revision":"5c8b6f2918eeca244da213b7b02e988a73f8d608dcdcf252d303751c9ba5ca94","ptbr":"Todas as Artes Marciais +10, Carisma +100, Caminho Justo +100"}
+{"id":"LocalText/role_feature_congenital_tips1435","revision":"2ad0fe564ed3d93d4ad66d07e7c2f6bfee26244c1b857770c717833d06244dc4","ptbr":"Todas as Artes Marciais +10, Carisma +100, Caminho Demoníaco +100"}
+{"id":"LocalText/role_feature_congenital_tips15","revision":"d50dd3888690dfd87dd878961dc4d64a4813035a2794047b01db069cc3f73c6b","ptbr":"Percepção -20. O humor permanece elevado"}
+{"id":"LocalText/role_feature_congenital_tips1501","revision":"4903b78192087f3c05e10122f8cd11743ddaef7d69e0553509686c1f22e0f770","ptbr":"Raiz de Raio +25"}
+{"id":"LocalText/role_feature_congenital_tips1502","revision":"8ab4c172b353573851b43f831cb528664106f2ef91346dc9733b112444eeb331","ptbr":"Raiz de Terra +25"}
+{"id":"LocalText/role_feature_congenital_tips1503","revision":"12de8fe98490a5157c5085ac6dfd2f120aa6ef87340b8240a7740e43e8a83e6c","ptbr":"Raiz de Fogo +25"}
+{"id":"LocalText/role_feature_congenital_tips1504","revision":"d27d0e58d9baf52725f6415da0adf41a1b8569d066670b33b8953e944244bf95","ptbr":"Raiz de Água +25"}
+{"id":"LocalText/role_feature_congenital_tips1505","revision":"b1e735771833b4ae8d48397455cc473b6697c3d124416f2f3382453a21aa5a97","ptbr":"Raiz de Vento +25"}
+{"id":"LocalText/role_feature_congenital_tips1506","revision":"02929147b0741552cb611263b01241badeb3dc88e5234686c3d7c93ef2b04874","ptbr":"Raiz de Madeira +25"}
+{"id":"LocalText/role_feature_congenital_tips1507","revision":"9bf8fa36ea83d1cb1f11c67ed5ef6af0aedc4d58339e175bd59e255f206799b7","ptbr":"Raiz de Raio +20"}
+{"id":"LocalText/role_feature_congenital_tips1508","revision":"c336f3242333e7e733fcf7fe1713d32613a0e7eb3eb858302f50ee55ad693886","ptbr":"Raiz de Fogo +20"}
+{"id":"LocalText/role_feature_congenital_tips1509","revision":"d0e8195dcb87d83b09291bc16cdf9f33178bcf2374c3ed64f55a8af6bf115e92","ptbr":"Raiz de Água +20"}
+{"id":"LocalText/role_feature_congenital_tips1510","revision":"bf63110a2785f312c815e9a31aec198ec611f106005ff736ae003a363fb3e3b0","ptbr":"Raiz de Terra +20"}
+{"id":"LocalText/role_feature_congenital_tips1511","revision":"53a46475294a76f919c45000c9f4c98e442e1fb67f5843f3eec347f8638287e4","ptbr":"Raiz de Madeira +20"}
+{"id":"LocalText/role_feature_congenital_tips1512","revision":"08344eaa76d0e8eb6d4ca8cd83fe668a3ed051ded2c6d3c4a1e4fcc64513c10e","ptbr":"Raiz de Vento +20"}
+{"id":"LocalText/role_feature_congenital_tips1513","revision":"ed9a9afd9bb7a757b0728098f28d0bf80da14c8c44e8f7dd752bb1fa9d2884d3","ptbr":"Raiz de Raio +5"}
+{"id":"LocalText/role_feature_congenital_tips1514","revision":"50879324c258b8392a4571a5da0ec256f5f885a8fb582c7f2536d51fb9a3df94","ptbr":"Raiz de Fogo +5"}
+{"id":"LocalText/role_feature_congenital_tips1515","revision":"26ed6c043f8dc6e68df357a89a06164eaa918286e0c89074f12e866276af9519","ptbr":"Raiz de Água +5"}
+{"id":"LocalText/role_feature_congenital_tips1516","revision":"b3f467b20bb9c451d0734ada3a960f935aad25dcc45a3bd8af70887086418b41","ptbr":"Raiz de Terra +5"}
+{"id":"LocalText/role_feature_congenital_tips1517","revision":"2233fb507d075f84ba9cc0ae8a7c10ca43300f5e51cfe043a8e7b6437ae3668f","ptbr":"Raiz de Madeira +5"}
+{"id":"LocalText/role_feature_congenital_tips1518","revision":"0d720ba2ddc10baeda531b85e3965296aeb32f05cd795f76a557a463eb30e7c2","ptbr":"Raiz de Vento +5"}
+{"id":"LocalText/role_feature_congenital_tips1519","revision":"7e7155a70bee18451cad88ac1db6f5405aa93c04d5e6d116fc2a12c8565383ee","ptbr":"Raiz de Vento +25, Raiz de Raio +25, Caminho Justo +100, ATQ +3"}
+{"id":"LocalText/role_feature_congenital_tips1520","revision":"79f9383f36e1364e8f506a3a59b4d9cf68689ce39b27c5b99cfc40728787333f","ptbr":"Raiz de Terra +25, Raiz de Madeira +25, Caminho Justo +100, ATQ +3"}
+{"id":"LocalText/role_feature_congenital_tips1521","revision":"835a6aa9c1cf43f761f95453d5bb1549d9e0f721f8556ead620bcfa99171a9b5","ptbr":"Raiz de Vento +25, Raiz de Fogo +25, Caminho Demoníaco +100, ATQ +3"}
+{"id":"LocalText/role_feature_congenital_tips1522","revision":"75ac989f8645fa3bb39bec4111d15a017cd569012b478a030c490a38a3613ce7","ptbr":"Raiz de Terra +25, Raiz de Água +25, Caminho Demoníaco +100, ATQ +3"}
+{"id":"LocalText/role_feature_congenital_tips1523","revision":"78dd7fb6934b3fa8051002fbc16588acf73c21c2b4ee5a4cbd085181fa942264","ptbr":"Raiz de Vento +25, Raiz de Raio +25, Raiz de Fogo +25, ATQ +3"}
+{"id":"LocalText/role_feature_congenital_tips1524","revision":"ecca04049eef2e74827283101bd9e564f9e17afaa7e9029c91d76178f15d69d2","ptbr":"Raiz de Terra +25, Raiz de Madeira +25, Raiz de Água +25, DEF +3"}
+{"id":"LocalText/role_feature_congenital_tips1525","revision":"516121c4254a313353ae95f733367c9b3839725f5da992783ffe6e09372c7bd0","ptbr":"Todas as Raízes Espirituais +20, Foco -80, Vigor Máximo -20, ATQ +3"}
+{"id":"LocalText/role_feature_congenital_tips1526","revision":"f88a3e923a412fd3ea05bd8221c793a7bc9a7e9be4998f3f9b7d0ce39bd3ce71","ptbr":"Todas as Raízes Espirituais -10, Todas as Artes Marciais +10, Foco +200, Vigor Máximo +10"}
+{"id":"LocalText/role_feature_congenital_tips1527","revision":"3537df4df398946b6c459934d007228dcc3bb85f84394cd83cb7264a6e438a51","ptbr":"Todas as Raízes Espirituais +20, Todas as Artes Marciais -5"}
+{"id":"LocalText/role_feature_congenital_tips1528","revision":"c70aa8ae891b36b0c030b3741b5576b1bda203e28ab85ec89f302e0f676fe665","ptbr":"Raiz de Água +10, Carisma +50"}
+{"id":"LocalText/role_feature_congenital_tips1529","revision":"b41e11084434c2d684c70add767698fafaa76a8336c7b82e528b442472213ba2","ptbr":"Raiz de Madeira +10, Carisma +50"}
+{"id":"LocalText/role_feature_congenital_tips1530","revision":"7e762ec12e25e8456cce87de1619b972f73b24f60b47084c0cb9f3aa799994c4","ptbr":"Raiz de Fogo +10, Carisma +50"}
+{"id":"LocalText/role_feature_congenital_tips1531","revision":"a7af3d53c31ec955727ffcab796b5f5b6dd3b5f4e47e4382ec1e202f3730eced","ptbr":"Raiz de Terra +10, Carisma +50"}
+{"id":"LocalText/role_feature_congenital_tips1532","revision":"eb713949ffb4568c12d932d6b71d343baffa092336a15b20a8d140639589ea91","ptbr":"Raiz de Vento +10, Carisma +50"}
+{"id":"LocalText/role_feature_congenital_tips1533","revision":"5e562d97a425c24b61ce93cb318ede164a34923b765da3e1cffb64b7e3194430","ptbr":"Raiz de Raio +10, Carisma +50"}
+{"id":"LocalText/role_feature_congenital_tips16","revision":"0e3bfa0a971a16c1ff88f9e5e15a0bec900c141c49c16a006ca383979b863ce1","ptbr":"Percepção +20, Carisma -50"}
+{"id":"LocalText/role_feature_congenital_tips1601","revision":"d037736a13476ac1f79673ee54c62391c3666dd0bbd7a94f85354152f37158fc","ptbr":"Alquimia +12"}
+{"id":"LocalText/role_feature_congenital_tips1602","revision":"2590f66a374036c6ff1cbd822bd0efd3e004a331249882168bdf4faba8a90fb7","ptbr":"Alquimia +20, Caminho Demoníaco +20"}
+{"id":"LocalText/role_feature_congenital_tips1603","revision":"6502137c8a3520f4d317978bb5d54d0f0d26b0b1f8bab3e47ff61b25bcaf90e0","ptbr":"Alquimia +25, Caminho Demoníaco +50"}
+{"id":"LocalText/role_feature_congenital_tips1604","revision":"d28bcb571c138d4e30e598396086ba610af0c17e3046dc082385a87b9ba6e7f6","ptbr":"Alquimia +25, Caminho Justo +100"}
+{"id":"LocalText/role_feature_congenital_tips1605","revision":"72f70ac5ae4fa7064c918acd9139c6ad22edb40eb4be166eac966f13bd75f426","ptbr":"Feng Shui +10, Vigor +10"}
+{"id":"LocalText/role_feature_congenital_tips1606","revision":"c277e54c576756d89ddde3a5bef61ceb55cd936cb411494a8a545556e6a5a613","ptbr":"Feng Shui +10, Sorte +10"}
+{"id":"LocalText/role_feature_congenital_tips1607","revision":"a935e4833017816e0252332590ad3b19762459fc0e66a136158d35e64fb4915b","ptbr":"Feng Shui +25"}
+{"id":"LocalText/role_feature_congenital_tips1608","revision":"90013437fae431ae553c8271f40695c134f90db509e0026a3d4b45a8528b2580","ptbr":"Feng Shui +40, Saúde -20"}
+{"id":"LocalText/role_feature_congenital_tips1609","revision":"5dfb8817bba5b138562c255ab8807b4bf75c3eb15752a339b134be8934b0288b","ptbr":"Forja +15, Carisma -50"}
+{"id":"LocalText/role_feature_congenital_tips1610","revision":"b700e2a45cbd60f6c6996111f9f4b278ed5b6e4880566a03432ee0935770defe","ptbr":"Alquimia e Forja +15"}
+{"id":"LocalText/role_feature_congenital_tips1611","revision":"dc1195b7cb10f07a428cb264cdf65d560731186832c8db7dfc2f26b6ec74170c","ptbr":"Alquimia +30"}
+{"id":"LocalText/role_feature_congenital_tips17","revision":"2a04477543fcd974170cbf4c224605239d335cf81bc83b11deeecd3104e95bf7","ptbr":"Demoníaco +50"}
+{"id":"LocalText/role_feature_congenital_tips1701","revision":"9b3a4543e66645796dba65971fe1085f045e36bff57b94cd43074e0ef797593a","ptbr":"Percepção = 20, Longevidade +30, Sorte +30. Algumas Artes Marciais só podem ser aprendidas por tolos."}
+{"id":"LocalText/role_feature_congenital_tips1702","revision":"5d7c57869d817f145c2baeaaf4210d3042f6fdde46ed033468955d3a340ea5d0","ptbr":"Percepção = 150, Humor Máximo -30, Carisma -100"}
+{"id":"LocalText/role_feature_congenital_tips1703","revision":"56e60ad62753714b2e5fb0e08dff09ac00ab55ea4a12808ce2e8b2b6a8c048d7","ptbr":"Percepção +50, Carisma -300"}
+{"id":"LocalText/role_feature_congenital_tips1704","revision":"3a399e3546fb1e9b98cbb6c8e94be8540b70bb130504db81c6ec0d157f08a985","ptbr":"Percepção -10, Carisma +200"}
+{"id":"LocalText/role_feature_congenital_tips1705","revision":"5a256f00f9a85890f1b8b77d643da4534725161b3114267816070cfcbca766d5","ptbr":"Percepção -10. O Humor se recupera rapidamente."}
+{"id":"LocalText/role_feature_congenital_tips1706","revision":"6d18cbb0f93f5db50ed39754b2e0e8e84495665ede0d682f3864985db8764394","ptbr":"Percepção +10, Sorte -10, Carisma +100"}
+{"id":"LocalText/role_feature_congenital_tips1707","revision":"1219cd412e384f3c3596367b83c20ea539a0dbed16c6c0ed4b6f09c024440fbe","ptbr":"Percepção +50, Pedras Espirituais -0,5% por mês"}
+{"id":"LocalText/role_feature_congenital_tips1708","revision":"4ef27d793ee5baad5b873b7356f3c65e512808a87839c1578a4968c075074837","ptbr":"Todas as Raízes Espirituais +5, Percepção +10"}
+{"id":"LocalText/role_feature_congenital_tips1709","revision":"4ea3e9ff1490efe671ad4d508c1c1a1420b2636a7d276bb4f8deffb863a2c6b0","ptbr":"Todas as Artes Marciais +5, Percepção +10"}
+{"id":"LocalText/role_feature_congenital_tips1710","revision":"3986774d962b56f42f73a6548edf4e605a6168c30f1cc9664db4192379ce14b2","ptbr":"Todas as Artes Marciais -5, Percepção +25"}
+{"id":"LocalText/role_feature_congenital_tips1711","revision":"cc48cd5e7537327f18db97f796cc8708f4363dc885e3419715a9e266bbe2d3f6","ptbr":"Todas as Artes Marciais -3, Percepção +20"}
+{"id":"LocalText/role_feature_congenital_tips1712","revision":"687437b25850f0bb82ab0ee57cba2ea595c44489f64807f1858e36eedb7868c8","ptbr":"Todas as Artes Marciais +3, Percepção -5"}
+{"id":"LocalText/role_feature_congenital_tips1713","revision":"70af67ed06e2c3220794bf2d76a9ae29d71fb0e38a918cc1c5ecdac0eca97086","ptbr":"Todas as Artes Marciais +3, Percepção -5"}
+{"id":"LocalText/role_feature_congenital_tips1714","revision":"9d27943a537477006ffea23be8a40d6bb6175d3d40e4e6bed23e14c31bd4cc78","ptbr":"Sorte +30, Carisma +200, Velocidade de Viagem +100. O Humor se recupera muito rapidamente."}
+{"id":"LocalText/role_feature_congenital_tips1715","revision":"10a6690b89548a5cf2656753bf72cd0d525676bfe939c20186a00f35fe0ab275","ptbr":"Percepção -5, velocidade de consumo de Humor e Vigor -30%"}
+{"id":"LocalText/role_feature_congenital_tips1716","revision":"d5abf57204cf1326dc6bbadf46570cb32acf2f3737eb30ac102b6654a12a3ec2","ptbr":"Vigor +20, velocidade de consumo de Vigor -30%"}
+{"id":"LocalText/role_feature_congenital_tips1717","revision":"9171a525fdbf85720b4bbd3a83f12b5b3dc63e24afe270d855baa32725f7862d","ptbr":"Percepção +20, Longevidade -20"}
+{"id":"LocalText/role_feature_congenital_tips1718","revision":"6a082c0a2c5a88b874236ecf6a1637a6dfda39eb54e9475512032fb8768e89f1","ptbr":"ATQ +5, Percepção +15, Caminho Demoníaco +300. Recebe uma Técnica Mental Lendária (Fundação) no início do jogo."}
+{"id":"LocalText/role_feature_congenital_tips1719","revision":"412592973a4df81c8c6974657d8d16c5a83a00d71798e9812ad75fdcebb15e12","ptbr":"DEF +5, Percepção +15, Caminho Justo +300. Recebe uma Técnica Mental Lendária (Fundação) no início do jogo."}
+{"id":"LocalText/role_feature_congenital_tips1720","revision":"e8bfbae2f17de13c8eb02bda598f03e9125b8587271909e0bd621d56afd06d1e","ptbr":"ATQ +10, Percepção +30, Reputação +150, Carisma +100"}
+{"id":"LocalText/role_feature_congenital_tips18","revision":"c14dd1e6f39fa58b9ff3a71a84f158b390e1daa02c599582c746628e9110befc","ptbr":"Justo +50"}
+{"id":"LocalText/role_feature_congenital_tips1801","revision":"5d1eefbf94e22610b42421b2d839f548d6f1ecb5cb9071af938771c190a398e3","ptbr":"Você tem assuntos pendentes de sua vida passada com o clã das Nove Caudas."}
+{"id":"LocalText/role_feature_congenital_tips1802","revision":"7f8d38e0594a410591c69ae45a83830fe071f9d4a6daff999e8428aafeb91902","ptbr":"Você tem assuntos pendentes de sua vida passada com o clã Xuanyuan."}
+{"id":"LocalText/role_feature_congenital_tips1803","revision":"7dde236916b428b05c57bb3a6572781cadc4cfae89e0ab043dca2a2bd0b3e695","ptbr":"Você tem assuntos pendentes de sua vida passada com o clã Youxiong."}
+{"id":"LocalText/role_feature_congenital_tips1901","revision":"fac24092d644df43b900a7a7d3ab6deb0c4ceb44396b8fde12764b7efd662a42","ptbr":"Recebe um Artefato Raro aleatório no início do jogo."}
+{"id":"LocalText/role_feature_congenital_tips1902","revision":"55bcb66d1b0b02e9246d898cd22b1b7eaca92fce4a317ccc77ef7ebe0de53aa6","ptbr":"Recebe um Artefato Épico aleatório no início do jogo."}
+{"id":"LocalText/role_feature_congenital_tips1903","revision":"df73784e765b52bace74942dadcede1ecd73c84479ca55f0b1226a61d34fb845","ptbr":"Recebe uma Técnica Marcial Rara aleatória no início do jogo."}
+{"id":"LocalText/role_feature_congenital_tips1904","revision":"93193d432f8bc1c4a085cad47c13530dcb478f06334b62a6872e2ad2f1e31a95","ptbr":"Recebe uma Técnica de Movimento Épica aleatória (Fundação) no início do jogo."}
+{"id":"LocalText/role_feature_congenital_tips1905","revision":"c239a776910f87b89e8646a4bd8d5f519db29189d52d4cb3970ece98b6155dbe","ptbr":"Recebe 1.000 Pedras Espirituais no início do jogo."}
+{"id":"LocalText/role_feature_congenital_tips1906","revision":"33cd1a34ee6adf3e418ff5f1eed5c672666220de7dfa963215423b49402edb3c","ptbr":"Recebe 3.000 Pedras Espirituais no início do jogo."}
+{"id":"LocalText/role_feature_congenital_tips1907","revision":"74bbd0f3c5d991afd69a4ad92a29c933cd7bf0cade13d2c69f8524451896dceb","ptbr":"Recebe os materiais de rompimento necessários para o Núcleo Dourado de 1.º Grau no início do jogo."}
+{"id":"LocalText/role_feature_congenital_tips1908","revision":"c2db2d9f31fc0d45ff84167c01677f979cb177533c56ba0e2d654011b3ba31b5","ptbr":"Recebe os materiais de rompimento necessários para a Alma Nascente - Dao Celestial no início do jogo."}
+{"id":"LocalText/role_feature_congenital_tips1909","revision":"d83a32fedef7d171e4d65074035448c0f4161ea9c7e8cda2f8920f494eb3c3c7","ptbr":"Recebe um Anel Espacial Raro no início do jogo."}
+{"id":"LocalText/role_feature_congenital_tips1910","revision":"ba8959b83196baaf4b1e7644c760840fc80ba6a1a666daec8a9eeb33307a9a6e","ptbr":"Recebe um Anel Espacial Épico no início do jogo."}
+{"id":"LocalText/role_feature_congenital_tips1911","revision":"4631c9d415a618cb0dc0588e7fba7815f9cc5b5c3ffeaaa0584ad18a3d319561","ptbr":"Recebe 2.000 Pedras Espirituais e a Espada Voadora (montaria) no início do jogo."}
+{"id":"LocalText/role_feature_congenital_tips2","revision":"2f9ae80ee2020f49ec5e1cf79a765393aa946b1de6b345c9c9d7c30553d1b6e3","ptbr":"Alquimia e Forja +10"}
+{"id":"LocalText/role_feature_congenital_tips2001","revision":"7020c52799471d3d864c56e58ee3128c91a139200d6cfcfc799191fac8362b49","ptbr":"Sorte +50, Velocidade de Viagem +100, Carisma +200"}
+{"id":"LocalText/role_feature_congenital_tips2002","revision":"897ee6aa03aa28d88adb27c14e0363784f02fe65ff46d556910d164524f8cef1","ptbr":"ATQ +10, DEF +3, Percepção +20, Reputação +100"}
+{"id":"LocalText/role_feature_congenital_tips2003","revision":"9b6b9abedaaabcceb9b51bcb7247ddeb14a184c66cf68fde341fbe632e9c232a","ptbr":"ATQ +8, Percepção +10, Sorte +10, Vitalidade Máxima +100, Carisma +100"}
+{"id":"LocalText/role_feature_congenital_tips2004","revision":"518eab315613ab021e8fc2cdf8e6a4709b40c7f0ece76ed0a8cca83574b2a2ce","ptbr":"ATQ +8, Todas as Artes Marciais +15, Percepção -10, Caminho Demoníaco +100"}
+{"id":"LocalText/role_feature_congenital_tips2005","revision":"4f1afed551b4801d4f93e8c79327b11b2297e63194eed84f894da83f4fe0a584","ptbr":"ATQ +5, Todas as Artes Marciais +6, Todas as Raízes Espirituais +6, Percepção +10, Reputação +50, Caminho Demoníaco +100"}
+{"id":"LocalText/role_feature_congenital_tips2006","revision":"9eab2a93a029e152adf7d77fc3ad4d6887039e563d988b840989d0b784639741","ptbr":"DEF +5, Punho, Palma e Dedo +20, Carisma -100, Reputação +100, Caminho Demoníaco +80"}
+{"id":"LocalText/role_feature_congenital_tips2007","revision":"86fbeef0a82b1987c6b17904b21cc30b94cb65ad60fd857ecb170e82cf26ede1","ptbr":"Sorte +20, Carisma +100. Recebe 1.000 Pedras Espirituais e uma Técnica Mental Rara aleatória (Fundação) no início do jogo."}
+{"id":"LocalText/role_feature_congenital_tips2008","revision":"bb4a46594be35dbea0dc49752cea1633c2d26684bff87b9f5c6eca4da1487fec","ptbr":"ATQ +5, Punho, Palma e Dedo +10, Raiz de Vento +20, Reputação +100"}
+{"id":"LocalText/role_feature_congenital_tips2009","revision":"2feba689108bf86fea2bba174cf8a364566fb0f6eeaddacf9adfc8e9a9676faf","ptbr":"Sorte +40, Carisma +50, Reputação +500, DEF +10, Caminho Justo +50. Uma seita aleatória caçará você desde o início do jogo."}
+{"id":"LocalText/role_feature_congenital_tips2010","revision":"6e0a149b0e77fecb4092e75e90b38fe6b92ee1c111e3cad17d42af01233be564","ptbr":"ATQ +5, Todas as Artes Marciais +10, Vigor Máximo +10"}
+{"id":"LocalText/role_feature_congenital_tips2101","revision":"758189d3342c22df52e75aa477aad83cb41dbf0fa79325eb1ca4ccb60cb5cfdc","ptbr":"Alquimia +20, Percepção +10, Reputação +100, Caminho Justo +50"}
+{"id":"LocalText/role_feature_congenital_tips2102","revision":"203f617ecf2ba3d4d7aa7bf2337d97da7f1f0bc54269cc967c354c4c3a62a544","ptbr":"Forja +20, Percepção +10, Reputação +100, Caminho Justo +50"}
+{"id":"LocalText/role_feature_congenital_tips2103","revision":"8fd30886ee7971ea4e816b02cb642f4ee3d4a20c1fbed8ace63ec9a276d003f8","ptbr":"Percepção +10, Talismãs +60, Reputação +100, Longevidade -10"}
+{"id":"LocalText/role_feature_congenital_tips2104","revision":"41a6a92f739147c93f18fb108de5a6a2c9283190729f47a6e33ef89dde7870de","ptbr":"Percepção +10, Feng Shui +50, Sorte -10, Reputação +100"}
+{"id":"LocalText/role_feature_congenital_tips2105","revision":"f651379ce155f902977e8eaec27bc2a535add25e0a55855055764705f8251dde","ptbr":"Percepção +40, Longevidade +10, Caminho Justo +50, Humor Máximo +20"}
+{"id":"LocalText/role_feature_congenital_tips2106","revision":"e3e2efb07d11b9f06eff5c38efed62fed93bebe6295b7d1a331344e9334e7dcf","ptbr":"Sorte +30, Carisma +200"}
+{"id":"LocalText/role_feature_congenital_tips2107","revision":"a49329242ab98a2c0394e42b6d8ef4c5e15af96bef5cf387cd266f34512cb104","ptbr":"DEF +5, Sorte +5, Carisma +100"}
+{"id":"LocalText/role_feature_congenital_tips2108","revision":"f2a3eafb3aac1c919128e453350748b804b66b9c8e0d9676996e9e4d793a04ba","ptbr":"ATQ +5, Espada +15, Raiz de Vento +15"}
+{"id":"LocalText/role_feature_congenital_tips2109","revision":"76b16cc1f996600b7de89f3ed453ffca67b14ca9ac964d68a2c6f337a7baa704","ptbr":"ATQ +5, Lança +15, Raiz de Raio +15"}
+{"id":"LocalText/role_feature_congenital_tips2110","revision":"a2524df89527ee5ae806545d2e2714d42fc91e7c03e8b64cc0b1a7490b6e3a9b","ptbr":"ATQ +5, Sabre +15, Raiz de Fogo +15"}
+{"id":"LocalText/role_feature_congenital_tips2111","revision":"08f7d7bc05cc2fe79c4a2828933d2c02b37fa63fe5aa497f9b980b83cff22a53","ptbr":"DEF +5, Punho, Palma e Dedo +14"}
+{"id":"LocalText/role_feature_congenital_tips2112","revision":"4a0d384298d6706e37e24e85c5f308efde5dd169384dbe8cffa6be85fc8e61ab","ptbr":"Forja +35, concede um Artefato fundido a um Espírito de Artefato"}
+{"id":"LocalText/role_feature_congenital_tips2113","revision":"8c20877381fc5149f4ecf737a3f859e7b724738779d9958a72219d7aa90dbe30","ptbr":"Forja +30, Sorte +20, Longevidade -20"}
+{"id":"LocalText/role_feature_congenital_tips2114","revision":"72b139103ae50464947df0c7049341909810e6fbe7ee735afc9ca1b811af302a","ptbr":"Percepção +5. Concede um dos 6 Qi (material de rompimento necessário para a Fundação) no início do jogo"}
+{"id":"LocalText/role_feature_congenital_tips2115","revision":"f43f30a3fd3d54bc87d21abfe4f12084a40082c678c24120a2055450e9f1a802","ptbr":"Percepção +10. Concede um dos 6 Orbes de Qi (material de rompimento necessário para o Núcleo Dourado) no início do jogo"}
+{"id":"LocalText/role_feature_congenital_tips2116","revision":"7932fe4ad1451ba3ef51a7117b160a52969a8e9f513de80431243fa1163bc202","ptbr":"Percepção +15. Concede um Tesouro do Céu e da Terra (material de rompimento necessário para a Alma Nascente) no início do jogo"}
+{"id":"LocalText/role_feature_congenital_tips2201","revision":"5fbb6375cfed25387e101fbc384aa1b29de520c18e0a0ea55a34353f34eb3588","ptbr":"ATQ +5, Raiz de Raio +20, Outras Raízes Espirituais -10"}
+{"id":"LocalText/role_feature_congenital_tips2202","revision":"ca75a18532b58b81c4748c350835ed300ff02ef7d56bdb1c185e07529cdca1b1","ptbr":"DEF +5, Raiz de Raio +35, Outras Raízes Espirituais -10"}
+{"id":"LocalText/role_feature_congenital_tips2203","revision":"d166258c04a1860184f57439617362bbd207802a819081f320335d3e97aefe29","ptbr":"ATQ +5, Raiz de Fogo +20, Outras Raízes Espirituais -10"}
+{"id":"LocalText/role_feature_congenital_tips2204","revision":"6ae3f6c1c228b2f45d1d882d1391267acaa63857e074c35ceee905418ac92b08","ptbr":"DEF +5, Raiz de Fogo +35, Outras Raízes Espirituais -10"}
+{"id":"LocalText/role_feature_congenital_tips2205","revision":"c80f2d4e56ad15c1bf8b12ce124d1f2fd8c3e6aa364e4d1f3ceaafd00a8e09e1","ptbr":"ATQ +5, Raiz de Água +20, Outras Raízes Espirituais -10"}
+{"id":"LocalText/role_feature_congenital_tips2206","revision":"9c8460ea72dbf86c83800c7a18fd929ad35d4e6f73c490c0e979dbcbdafefb93","ptbr":"DEF +5, Raiz de Água +35, Outras Raízes Espirituais -10"}
+{"id":"LocalText/role_feature_congenital_tips2207","revision":"c020d2206bbdeb4b8ff11f31699824ace2d66a29a9aa143a80e57d2a0e6346ff","ptbr":"ATQ +5, Raiz de Vento +20, Outras Raízes Espirituais -10"}
+{"id":"LocalText/role_feature_congenital_tips2208","revision":"ebf4b7305c8a7e8183c2668e6e27fee04d9b69516fc182483ba919da9290c444","ptbr":"DEF +5, Raiz de Vento +35, Outras Raízes Espirituais -10"}
+{"id":"LocalText/role_feature_congenital_tips2209","revision":"b103e116349c1c13d182a1cb68cbb1b034a658ac57a6ea3fb914357bf29d8761","ptbr":"ATQ +5, Raiz de Terra +20, Outras Raízes Espirituais -10"}
+{"id":"LocalText/role_feature_congenital_tips2210","revision":"c0ebbde8411fcb75aa28566782496a70e0e69a11c45f1603c8f00342b94f1c23","ptbr":"DEF +5, Raiz de Terra +35, Outras Raízes Espirituais -10"}
+{"id":"LocalText/role_feature_congenital_tips2211","revision":"cb2a06dd237e626f0b478ec100d7ba63250cb3ae6f8b20e6001a468ac0af84d0","ptbr":"ATQ +5, Raiz de Madeira +20, Outras Raízes Espirituais -10"}
+{"id":"LocalText/role_feature_congenital_tips2212","revision":"8b15f446230ff8b6f9595eed4e93fed45250dbf1f596b4f0b8be63590a576fe3","ptbr":"DEF +5, Raiz de Madeira +35, Outras Raízes Espirituais -10"}
+{"id":"LocalText/role_feature_congenital_tips2301","revision":"640c13425cb2480fcb247a9fd9ee60d63677531fa871f96ec4cab3c7f00220c0","ptbr":"Percepção +20, Longevidade +10, Sorte +10, Reputação +100"}
+{"id":"LocalText/role_feature_congenital_tips2401","revision":"f5e4427a4a0bcba6791f0e427bcbac25b81b63dcc9c7a644e1cf3968eb14b030","ptbr":"Raiz de Água +15, Raiz de Madeira +15, Longevidade +10"}
+{"id":"LocalText/role_feature_congenital_tips3","revision":"2cac030497e6df8af62f58a932895cc7ff097c696b7e6f79b776b1262b6dc42a","ptbr":"ATQ +20, DEF -10"}
+{"id":"LocalText/role_feature_congenital_tips4","revision":"5c2b9a38718a9cd1a7ad6398ccdad6d500ae87464c34591a1822f9f0e56ef91e","ptbr":"Alquimia +20, Demoníaco +20"}
+{"id":"LocalText/role_feature_congenital_tips5","revision":"9f7099d47a02b2da86c3fb04dcc5bdea758fd91094c4e389c1c8159ccfab3012","ptbr":"Feng Shui +20, Sorte +5"}
+{"id":"LocalText/role_feature_congenital_tips6","revision":"559ad16e487601699b0c13da037aca15675bfb26216c5c906ed0d80671b18803","ptbr":"Feng Shui +10, Vigor +10"}
+{"id":"LocalText/role_feature_congenital_tips7","revision":"abb18fc524afbc185290d7088c3c7db0646db31a5b27c7d42e8d77868bbef48c","ptbr":"Palma +20, Dedo -20"}
+{"id":"LocalText/role_feature_congenital_tips8","revision":"5ebc4346dc203e6f563e85ad469b4a7b0056c74a9ac66ad3bff63389d51357d2","ptbr":"Dedo +10"}
+{"id":"LocalText/role_feature_congenital_tips9","revision":"7beff5128ee18704a388901f265f4bb18fb37ab746b69cc5340310aa3122e21b","ptbr":"Carisma -10, Forja +25"}
+{"id":"LocalText/role_feature_postnatal_name5001","revision":"e11af7f195ee9a43c8969e81be494e4148e8fa24e0511fc02f2cb7f4d95b923d","ptbr":"Fortalecido"}
+{"id":"LocalText/role_feature_postnatal_name5002","revision":"6873345d80bf9eaef7dd29cc6b99ca8638c6c133b4b9731e75246eb44891bc03","ptbr":"Energizado"}
+{"id":"LocalText/role_feature_postnatal_name5003","revision":"0e5d13211177b59932abd9f3d0c8691705b6abb7e328374763fbd952f88d266b","ptbr":"Fortificado"}
+{"id":"LocalText/role_feature_postnatal_name5004","revision":"c60eaa822e242e9d6c0dfdf76356397b7167925de49a3f6503cc64b1d539e133","ptbr":"Revitalizado"}
+{"id":"LocalText/role_feature_postnatal_name5005","revision":"0e6a1494b257d20fbf263c3160c3cd2e63e3349df39ffebda546c445acb6b5cc","ptbr":"Sabre Afiado"}
+{"id":"LocalText/role_feature_postnatal_name5006","revision":"57dcd0fc6a5fda7ca2eb673555dc32a706e262a4af365cec6ac9b894cd97bbcc","ptbr":"Caminhante do Vento"}
+{"id":"LocalText/role_feature_postnatal_name5007","revision":"8526423eb7661851b5bc952f56235e117989b87f479e765e94b12d8b50e7f806","ptbr":"Protegido"}
+{"id":"LocalText/role_feature_postnatal_name5008","revision":"be3ddd291149891604c2fec822327e49302932bec08782f9c747e0ff52dfa0f3","ptbr":"Orbe de Qi da Água"}
+{"id":"LocalText/role_feature_postnatal_name5009","revision":"98081c7b695e071f5d59f616067fa6c8e71a6db6f12be8e301056c1236bf0c88","ptbr":"A Melhor Defesa"}
+{"id":"LocalText/role_feature_postnatal_name5010","revision":"2a054344eecfbe40df282a70b77c00184a92ec24dc2dcdf1ec97fcab6253cb30","ptbr":"Espírito Selado"}
+{"id":"LocalText/role_feature_postnatal_name5011","revision":"3d4e48aca7a34e1c329b08de3097ac8e5381ecaa6d0c7e98632a57556d258fc7","ptbr":"Gravemente Ferido"}
+{"id":"LocalText/world_Geomantic_event_title1","revision":"d8ca609cee21cef2ba804b84ec4b1bb525e0198ff493abf71e43145ed5d600c6","ptbr":"Lorde Tartaruguinha"}
+{"id":"LocalText/world_Geomantic_event_title2","revision":"954a44a711d892cbc5ec6280d30bb957168219f4189f5b2c859e13323e5b29ec","ptbr":"Mendigo Esfarrapado"}
+{"id":"LocalText/world_Geomantic_event_title3","revision":"69f1778e3ece44fe76e6cfa364de66e85f6b3de9ca61194fba9988f62ea1e5df","ptbr":"Formação Incompleta"}
+{"id":"LocalText/world_Geomantic_event_title4","revision":"f21e5a2ad0e303f0edbfff76dcf8a3c0d5bf69072dec784b3e2986e274384530","ptbr":"Coelho Estranho"}
+{"id":"LocalText/world_Geomantic_event_title5","revision":"580c18045cc40719f42bcda6dc7db1f454de0705adc4ad911145b93d666cb29d","ptbr":"Madeira Atingida por Raio"}
+{"id":"LocalText/world_block_operation1","revision":"2af261c3efffd6046995a7887f090f1661e541e633775f32d93d2c2576a7fe57","ptbr":"Coleta"}
+{"id":"LocalText/world_block_operation2","revision":"8155d1a65b91526c398c81a02e7e373276981c40790877e09cefcea8615a7711","ptbr":"Mineração"}
+{"id":"LocalText/world_block_operation3","revision":"068399923a215c9803f068c218556ed177af43269e204d32e871481a21e8af88","ptbr":"Geomancia"}
+{"id":"LocalText/world_block_operation4","revision":"53edec78d16b3dc130081364a50d59a28264b4f91c3f401d06c5c768e993b198","ptbr":"Cultivo"}
