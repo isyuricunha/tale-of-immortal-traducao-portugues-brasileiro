@@ -4,6 +4,7 @@ import argparse
 from collections import Counter
 from contextlib import closing
 import hashlib
+import io
 import json
 import os
 from pathlib import Path
@@ -13,6 +14,8 @@ import sqlite3
 import sys
 import tempfile
 import zipfile
+
+from native_mod import mod_archive, unpack_resource
 
 ROOT = Path(__file__).resolve().parent.parent
 REFERENCE = Path("Mod/modFQA/配置修改教程/配置（只读）Json格式")
@@ -370,7 +373,7 @@ def rewrite_table(table, raw, translations):
     return prefix + contents.encode("utf-8")
 
 
-def build_editor(root):
+def build_editor(root, native=False):
     with closing(database(root, create=True, require_existing=True)) as db:
         db.execute("BEGIN IMMEDIATE")
         report, translations, _ = translation_state(root, db)
@@ -383,15 +386,32 @@ def build_editor(root):
         seen = {identity for table, raw in sources.items() for identity, _ in table_rows(table, raw)}
         if not expected <= seen:
             raise ValueError("Há traduções sem correspondência na origem")
-        target = root / "translation-work/local/editor-input.zip"
+        filename = "PTBR.zip" if native else "editor-input.zip"
+        target = root / "translation-work/local" / filename
         with tempfile.NamedTemporaryFile(dir=target.parent, delete=False) as staging:
             temporary = Path(staging.name)
         try:
-            with zipfile.ZipFile(temporary, "w", compression=zipfile.ZIP_DEFLATED) as archive:
-                for table in TABLES:
-                    entry = zipfile.ZipInfo(f"ModExcel/{table}.json")
-                    archive.writestr(entry, rewrite_table(table, sources[table], translations),
-                                     compress_type=zipfile.ZIP_DEFLATED)
+            if native:
+                tables = {}
+                for table, raw in sources.items():
+                    rows = []
+                    for identity, row in table_rows(table, raw):
+                        if identity not in translations or translations[identity] == row["en"]:
+                            continue
+                        override = {"id": row["id"], "en": translations[identity]}
+                        if table == "LocalText":
+                            override["key"] = row["key"]
+                        rows.append(override)
+                    tables[table] = rows
+                if not any(tables.values()):
+                    raise ValueError("Nenhuma substituição para o mod")
+                temporary.write_bytes(mod_archive(tables))
+            else:
+                with zipfile.ZipFile(temporary, "w", compression=zipfile.ZIP_DEFLATED) as archive:
+                    for table in TABLES:
+                        entry = zipfile.ZipInfo(f"ModExcel/{table}.json")
+                        archive.writestr(entry, rewrite_table(table, sources[table], translations),
+                                         compress_type=zipfile.ZIP_DEFLATED)
             os.replace(temporary, target)
         finally:
             temporary.unlink(missing_ok=True)
@@ -435,11 +455,12 @@ def doctor(require_arm64):
     if require_arm64 and (sys.platform != "linux" or architecture not in ("aarch64", "arm64")):
         raise ValueError(f"Arquitetura/sistema incompatível: {architecture}/{sys.platform}")
     receipt = decode((ROOT / "translation-work/toolchain.json").read_bytes())
-    if set(receipt) != {"toolkit.py"}:
+    if set(receipt) != {"toolkit.py", "native_mod.py"}:
         raise ValueError("Inventário do toolkit inválido")
-    actual = (ROOT / "translation-work/toolkit.py").read_bytes().replace(b"\r\n", b"\n")
-    if digest(actual) != receipt["toolkit.py"]:
-        raise ValueError("Checksum do toolkit divergente")
+    for name, expected in receipt.items():
+        actual = (ROOT / "translation-work" / name).read_bytes().replace(b"\r\n", b"\n")
+        if digest(actual) != expected:
+            raise ValueError(f"Checksum do toolkit divergente: {name}")
     raw = b'\xef\xbb\xbf[{"id":"1","key":"example","en":"Value {0}","ch":"","tc":""}]\r\n'
     [(identity, row)] = list(table_rows("LocalText", raw))
     validate_text(row["en"], "Valor {0}")
@@ -451,6 +472,10 @@ def doctor(require_arm64):
     row["en"] = "Valor {0}"
     if stored != raw or list(table_rows("LocalText", rebuilt))[0][1] != row:
         raise ValueError("Falha na fixture de leitura e preservação de bytes")
+    with zipfile.ZipFile(io.BytesIO(mod_archive({"LocalText": [row]}))) as archive:
+        resource = next(name for name in archive.namelist() if name.endswith("/LocalText.json"))
+        if decode(unpack_resource(archive.read(resource))) != [row]:
+            raise ValueError("Falha na fixture de empacotamento de mod")
     print(f"OK: Python {platform.python_version()}, SQLite {sqlite3.sqlite_version}, {architecture}")
 
 
@@ -466,6 +491,7 @@ def main():
     commands.add_parser("check")
     commands.add_parser("resume")
     commands.add_parser("build-editor")
+    commands.add_parser("build-mod")
     changes = commands.add_parser("apply")
     changes.add_argument("number", type=int)
     changes.add_argument("payload", type=Path)
@@ -486,8 +512,8 @@ def main():
             apply(ROOT, args.number, args.payload, args.overwrite)
         elif args.command in ("check", "resume"):
             check(ROOT, resume=args.command == "resume")
-        elif args.command == "build-editor":
-            build_editor(ROOT)
+        elif args.command in ("build-editor", "build-mod"):
+            build_editor(ROOT, native=args.command == "build-mod")
         elif args.command == "doctor":
             doctor(args.require_arm64)
         else:

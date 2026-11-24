@@ -13,7 +13,13 @@ O projeto busca localizar menus, descrições de itens e habilidades, missões, 
 
 ## 📦 Download
 
-Quando houver um pacote disponível, abra a página de versões, confira a compatibilidade descrita na publicação e baixe **PTBR.zip** na lista de arquivos. Use as instruções daquela versão para instalar o mod e guarde uma cópia dos seus saves antes de trocar de versão. Para voltar ao idioma anterior, desative o mod no menu de mods do jogo e reinicie.
+Quando houver um pacote disponível, abra a página de versões, confira a compatibilidade descrita na publicação e baixe **PTBR.zip** na lista de arquivos.
+
+1. Na Steam, abra **Gerenciar → Explorar arquivos locais** e localize a pasta `ModExportData`.
+2. Extraia a pasta `Mod_YuPtBr` do ZIP para dentro de `ModExportData`.
+3. Abra o jogo, ative a tradução no menu de mods e selecione inglês como idioma.
+
+Guarde uma cópia dos saves antes de atualizar. Se a edição da Oficina estiver ativa, desative-a antes de ativar a versão baixada. Para voltar ao idioma anterior, desative a tradução no menu de mods e reinicie o jogo.
 
 [Versões da tradução](https://github.com/isyuricunha/tale-of-immortal-traducao-portugues-brasileiro/releases)
 

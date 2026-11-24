@@ -101,25 +101,47 @@ class WorkflowTests(unittest.TestCase):
         target = self.root / "translation-work/local/editor-input.zip"
         with self.assertRaisesRegex(ValueError, "incompleta"):
             toolkit.build_editor(self.root)
+        with self.assertRaisesRegex(ValueError, "incompleta"):
+            toolkit.build_editor(self.root, native=True)
+        mod = target.with_name("PTBR.zip")
+        self.assertFalse(mod.exists())
         self.assertFalse(target.exists())
         records = []
         for table in toolkit.TABLES:
             for identity, row in toolkit.table_rows(table, (self.source / f"{table}.json").read_bytes()):
                 records.append({"id": identity, "revision": toolkit.revision(table, row), "ptbr": row["en"]})
         records[0]["ptbr"] = "Valor {0}"
+        records[2]["ptbr"] = "Registro {0}"
+        records[-1]["ptbr"] = "Prefixo"
         payload = self.root / "payload.jsonl"
         payload.write_text("\n".join(map(toolkit.encode, records)), encoding="utf-8")
         toolkit.apply(self.root, 1, payload, False)
         with contextlib.redirect_stdout(io.StringIO()):
             toolkit.build_editor(self.root)
+            toolkit.build_editor(self.root, native=True)
         before = target.read_bytes()
         with zipfile.ZipFile(target) as archive:
             self.assertEqual(set(archive.namelist()), {f"ModExcel/{table}.json" for table in toolkit.TABLES})
             untouched = (self.source / "RoleLogLocal.json").read_bytes()
-            self.assertEqual(archive.read("ModExcel/RoleLogLocal.json"), untouched)
+            self.assertEqual(toolkit.rewrite_table("RoleLogLocal", untouched, {}), untouched)
             result = toolkit.decode(archive.read("ModExcel/LocalText.json"))
             self.assertEqual(result[0], dict(self.tables["LocalText"][0], en="Valor {0}"))
             self.assertEqual(result[1], self.tables["LocalText"][1])
+        with zipfile.ZipFile(mod) as archive:
+            prefix = "Mod_YuPtBr/"
+            self.assertEqual(set(archive.namelist()), {prefix + "ModExportData.cache"} |
+                             {prefix + f"ModExcel/{table}.json" for table in toolkit.TABLES})
+            metadata = toolkit.decode(toolkit.unpack_resource(archive.read(prefix + "ModExportData.cache")))
+            self.assertEqual(metadata["projectData"]["soleID"], "YuPtBr")
+            self.assertTrue(metadata["projectData"]["excelEncrypt"])
+            expected = {
+                "LocalText": [{"id": "0", "key": "k0", "en": "Valor {0}"}],
+                "RoleLogLocal": [{"id": "0", "en": "Registro {0}"}],
+                "BattleSkillPrefixName": [{"id": "1", "en": "Prefixo"}],
+            }
+            for table, rows in expected.items():
+                raw = archive.read(prefix + f"ModExcel/{table}.json")
+                self.assertEqual(toolkit.decode(toolkit.unpack_resource(raw)), rows)
         with contextlib.closing(toolkit.database(self.root, create=True)) as db:
             db.execute("UPDATE sources SET raw = ? WHERE name = 'RoleLogLocal'", (untouched + b" ",))
             db.commit()
@@ -148,6 +170,8 @@ class WorkflowTests(unittest.TestCase):
         fixture.mkdir()
         modified = fixture / script.name
         modified.write_bytes(canonical.replace(b"\n", b"\r\n"))
+        codec = script.with_name("native_mod.py")
+        (fixture / codec.name).write_bytes(codec.read_bytes().replace(b"\n", b"\r\n"))
         receipt = fixture / "toolchain.json"
         receipt.write_bytes((script.parent / receipt.name).read_bytes())
         git_blob = subprocess.run(
