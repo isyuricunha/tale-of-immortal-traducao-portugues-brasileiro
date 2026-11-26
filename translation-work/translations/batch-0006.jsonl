@@ -1,0 +1,500 @@
+{"id":"LocalText/item_desc10001","revision":"6a65a1386e6602c1341148ee52e53a37b3cd12750e2f69ee41794a4eb82625dd","ptbr":"Pedra Espiritual"}
+{"id":"LocalText/item_desc10011","revision":"751e740131dcc73c5d0d8384f91e2010ddd713724782ea04c6a52fc277483950","ptbr":"Contribuição da Seita"}
+{"id":"LocalText/item_desc10021","revision":"28e35ec6d8f4d7a8d69b21718cb476737631e11dace8ebb6e0f979f61705fb70","ptbr":"Aura de Vida"}
+{"id":"LocalText/item_desc10022","revision":"e2dc3eb281973a9a6bd819bed4c6344cb462c08725f78e0884ecb5e5f7769640","ptbr":"Aura de Morte"}
+{"id":"LocalText/item_desc10031","revision":"dba3eeb616d4e7dc0ba09af7966a3042c81718b0822b3a73280d9b12ff179d8b","ptbr":"Um recurso raro, útil para seitas do Caminho Justo. Use-o para resgatar itens raros em seitas do Caminho Justo."}
+{"id":"LocalText/item_desc10032","revision":"05c367b3eecab4dfd838a1eda3ef7de158fe41f188f43fdffae991d66adda6de","ptbr":"Um recurso raro, útil para seitas do Caminho Demoníaco. Use-o para resgatar itens raros em seitas do Caminho Demoníaco."}
+{"id":"LocalText/item_desc10041","revision":"90be1e7c7dea83c2a76dfa79480282e298baed23b74e5cb87a04dd0f892910e0","ptbr":"Use para resgatar Manuais no Pavilhão dos Pergaminhos.\\n\\nObtenha Decretos do Senhor da Cidade ao concluir Missões de Recompensa."}
+{"id":"LocalText/item_desc1011011","revision":"6133acd8cb70a8e7ac91cc3710e7ef8b1f28661355d6c2fe124022449d98702c","ptbr":"Um Elixir comum usado para recuperar Vitalidade."}
+{"id":"LocalText/item_desc1011012","revision":"f0145d9644b4df8b4196e65f33b3924e97291947cdf4f9f7364734079957787d","ptbr":"Um Elixir comum usado para recuperar Vitalidade."}
+{"id":"LocalText/item_desc1011013","revision":"7d9c5312c1295a74f6ad3d21f4c1b584958af6ebe4d72287d6035c1375a32325","ptbr":"Um Elixir comum usado para recuperar Vitalidade."}
+{"id":"LocalText/item_desc1011014","revision":"469fbd535623a78136e3ea5d9c4639190645e70b05cfabb8f5b7a18da66480f2","ptbr":"Um Elixir comum usado para recuperar Vitalidade."}
+{"id":"LocalText/item_desc1011015","revision":"00557741f1747b761e267a476166073aea8a458730ba6c6fdd3c728d2f385c9f","ptbr":"Um Elixir comum usado para recuperar Vitalidade."}
+{"id":"LocalText/item_desc1011016","revision":"3dde9bf93aac763e3cbeafc352dd36acaeb20b4a5e1367efb1240ac989fd3b47","ptbr":"Um Elixir comum usado para recuperar Vitalidade."}
+{"id":"LocalText/item_desc1011765","revision":"e7e07dbb5ee6e1bd7649ed481073775bc3c99eefd771a0709520a74687afdebf","ptbr":"Use para receber o Corpo do Caos: seu corpo contém o poder do caos, mas sua Longevidade é reduzida em 3 anos a cada mês."}
+{"id":"LocalText/item_desc1011775","revision":"0738d1a032e6a0fff8a95e0cee802f51d1c69fed30ba835aa312f97f38344c78","ptbr":"Use para remover o Corpo do Caos."}
+{"id":"LocalText/item_desc1011785","revision":"c71b501ebe4f55e549dd06d0bf6e062a611cc414a2fbee728544fb27484b1f1d","ptbr":"Use este item e sua Raiz Espiritual correspondente para forjar um Orbe de Qi Condensado: você expele a Raiz de Fogo do corpo e a molda em um orbe. Vitalidade, Energia e Foco são reduzidos em 15%."}
+{"id":"LocalText/item_desc1011795","revision":"67fd9c96ca2690a47dc0e9ee337458cd6a9d942e0e20d43debede309cf55f560","ptbr":"Use este item e sua Raiz Espiritual correspondente para forjar um Orbe de Qi Condensado: você expele a Raiz de Água do corpo e a molda em um orbe. Vitalidade, Energia e Foco são reduzidos em 15%."}
+{"id":"LocalText/item_desc1011805","revision":"2e0997f3bfcee77a9bb13941470bda83f00ee1604415f3341ff5130942cd016f","ptbr":"Use este item e sua Raiz Espiritual correspondente para forjar um Orbe de Qi Condensado: você expele a Raiz de Raio do corpo e a molda em um orbe. Vitalidade, Energia e Foco são reduzidos em 15%."}
+{"id":"LocalText/item_desc1011815","revision":"87b5801d03453cee00ebf263187e2e5bc3ea08fc2ca967c42d65959a29d8cce1","ptbr":"Use este item e sua Raiz Espiritual correspondente para forjar um Orbe de Qi Condensado: você expele a Raiz de Vento do corpo e a molda em um orbe. Vitalidade, Energia e Foco são reduzidos em 15%."}
+{"id":"LocalText/item_desc1011825","revision":"73e6acae5ec4d57aed66c06058c4b622ef94fca332636482a3a2fa9cfb567f7e","ptbr":"Use este item e sua Raiz Espiritual correspondente para forjar um Orbe de Qi Condensado: você expele a Raiz de Terra do corpo e a molda em um orbe. Vitalidade, Energia e Foco são reduzidos em 15%."}
+{"id":"LocalText/item_desc1011835","revision":"5d34d4ea423e0224030c9e695f849d66ff622422fea45ecf48e3ee67c0677487","ptbr":"Use este item e sua Raiz Espiritual correspondente para forjar um Orbe de Qi Condensado: você expele a Raiz de Madeira do corpo e a molda em um orbe. Vitalidade, Energia e Foco são reduzidos em 15%."}
+{"id":"LocalText/item_desc1021011","revision":"01454669952a25cd2dd1c2fe5ce04ba6295b2409b0ebb343d9ba7c3ebd0414b2","ptbr":"Um Elixir explosivo preparado com várias ervas venenosas. Detone-o para gerar fumaça tóxica. Inimigos dentro da fumaça sofrerão dano ao longo do tempo."}
+{"id":"LocalText/item_desc1021012","revision":"834a92690749fc492157652d475b28b99fce987c4d0192a4be0a22e52914e2e6","ptbr":"Um Elixir explosivo preparado com várias ervas venenosas. Detone-o para gerar fumaça tóxica. Inimigos dentro da fumaça sofrerão dano ao longo do tempo."}
+{"id":"LocalText/item_desc1021013","revision":"583920f2fc15e1731f82fe210cae4e5fc42b95274bb1d62d15c507252ea89961","ptbr":"Um Elixir explosivo preparado com várias ervas venenosas. Detone-o para gerar fumaça tóxica. Inimigos dentro da fumaça sofrerão dano ao longo do tempo."}
+{"id":"LocalText/item_desc1021014","revision":"4cf332ce2fd78b267c35e585070bf95d034692f169da74dda51a926cc1016537","ptbr":"Um Elixir explosivo preparado com várias ervas venenosas. Detone-o para gerar fumaça tóxica. Inimigos dentro da fumaça sofrerão dano ao longo do tempo."}
+{"id":"LocalText/item_desc1021015","revision":"f446f9e887259d996ca6dd0101c958545e639225fd3dea4596524077b6bdf4f2","ptbr":"Um Elixir explosivo preparado com várias ervas venenosas. Detone-o para gerar fumaça tóxica. Inimigos dentro da fumaça sofrerão dano ao longo do tempo."}
+{"id":"LocalText/item_desc1021016","revision":"09b7450146fdea628f925905f005b061d674e69fc8e1a6afb82c1a0ca23850ae","ptbr":"Um Elixir explosivo preparado com várias ervas venenosas. Detone-o para gerar fumaça tóxica. Inimigos dentro da fumaça sofrerão dano ao longo do tempo."}
+{"id":"LocalText/item_desc1031011","revision":"afaa791909791843d2686be31315758de959c2fc0a64b34c372ff3b250b6193c","ptbr":"Use para fugir da batalha: Tempo de Recarga de Fuga -25%."}
+{"id":"LocalText/item_desc1031012","revision":"5dd122fe2dc8383412184c350a72cf073bb80c24443a5c3f3c3b76ca61b11a69","ptbr":"Use para fugir da batalha: Tempo de Recarga de Fuga -30%."}
+{"id":"LocalText/item_desc1031013","revision":"11bb2aa8b2c2cc2865de24d4d79269dc074152e572f6b26b1f824252f8f3ac81","ptbr":"Use para fugir da batalha: Tempo de Recarga de Fuga -35%."}
+{"id":"LocalText/item_desc1031014","revision":"f7c9d8d9f923ee0cb77e1bed106ac6b1ca1aa0f9f52f8d9a33c0a661b024687d","ptbr":"Use para fugir da batalha: Tempo de Recarga de Fuga -40%."}
+{"id":"LocalText/item_desc1031015","revision":"e47847e31842f28eb617ea3bcf4b539ce212a066f24f020c7914f67e957b77c3","ptbr":"Use para fugir da batalha: Tempo de Recarga de Fuga -45%."}
+{"id":"LocalText/item_desc1031016","revision":"447eca89437a61d5fedb4d1e9486c972f402f406d80bc0fb3b9023046b9ba98a","ptbr":"Use para fugir da batalha: Tempo de Recarga de Fuga -50%."}
+{"id":"LocalText/item_desc1031021","revision":"3743e832e402cc12feae4827898243b999306c783197e582f2d6e7814c5e6190","ptbr":"Use para fugir da batalha: Sorte +10."}
+{"id":"LocalText/item_desc1031022","revision":"ffdc959da7aad0a9b1168c6317d9639dff2225df79aedd22686db55efc257df9","ptbr":"Use para fugir da batalha: Sorte +15."}
+{"id":"LocalText/item_desc1031023","revision":"96c966e603bef39631624e187f52f33e64a66d5867c62fe78512da009fdff82b","ptbr":"Use para fugir da batalha: Sorte +20."}
+{"id":"LocalText/item_desc1031024","revision":"0ff16a3bc4b373f34d00bc1ed6979857b608f4d9403ab317f7fa358de5cc7165","ptbr":"Use para fugir da batalha: Sorte +25."}
+{"id":"LocalText/item_desc1031025","revision":"7644ff93edd9ce8f7e7b14d188331927235b609ede80b47618ed2918bb3e25f0","ptbr":"Use para fugir da batalha: Sorte +30."}
+{"id":"LocalText/item_desc1031026","revision":"35e291bd6c222485fc0553d2c40e9c11d62045758bd3ee509aaf3ac644c7c69c","ptbr":"Use para fugir da batalha: Sorte +35."}
+{"id":"LocalText/item_desc1031031","revision":"34b2c554cb7792ccdbab23360e89e3bb1c80d009000825dbb004a59fcea90327","ptbr":"Use para fugir da batalha: Velocidade de Viagem +10%."}
+{"id":"LocalText/item_desc1031032","revision":"26b954aece945b971be5c6cded59756ca37b9ef6edd705868b97280f00f166a1","ptbr":"Use para fugir da batalha: Velocidade de Viagem +15%."}
+{"id":"LocalText/item_desc1031033","revision":"c1678fc4caea21036f668d40b346a82fc2da678d3b2d708c18a3699f45afbf12","ptbr":"Use para fugir da batalha: Velocidade de Viagem +20%."}
+{"id":"LocalText/item_desc1031034","revision":"38bc14d86f6968d41d25009155ec18f493a47d5c9ed1ea7e0061e348cf9427ea","ptbr":"Use para fugir da batalha: Velocidade de Viagem +25%."}
+{"id":"LocalText/item_desc1031035","revision":"20dcfb9870577e3133a39f6c8ea3c901947b419d3f9d66c9c665550878d03131","ptbr":"Use para fugir da batalha: Velocidade de Viagem +30%."}
+{"id":"LocalText/item_desc1031036","revision":"295eb559da4758070dbf49991fecffcc150e74f75e1f9e9de168beed5235e2a4","ptbr":"Use para fugir da batalha: Velocidade de Viagem +35%."}
+{"id":"LocalText/item_desc1031041","revision":"6fee13230e9d56d7c40f67bd610008409461892827fff9dcffabf134c9933476","ptbr":"Para uso dentro do <b>Território da Seita</b>.\\nInfundir 20% da sua Energia atrairá feras espirituais próximas. Dizem que, ocasionalmente, chega a atrair até <r>{#battle_unit_name934175}</r>, uma criatura extremamente rara.\\n\\nA coleta leva 10 dias."}
+{"id":"LocalText/item_desc1041011","revision":"052f0ca1d74b06c62c31227171904c9ed116efebac104c796d4273ed78ddf704","ptbr":"Vitalidade +400"}
+{"id":"LocalText/item_desc1041012","revision":"34455c08f55af077d3c8fdd76b88349f0adf06e77a5b5630c79ec54dba954845","ptbr":"Vitalidade +800"}
+{"id":"LocalText/item_desc1041013","revision":"fac8bb57f03d538cf3fa0f6ded80f68b8e207cc62aa72443c1460a481cc75ceb","ptbr":"Vitalidade +1200"}
+{"id":"LocalText/item_desc1041014","revision":"475c0a58dde096048479ae0683952ad7d51a7ac43ab027cba4481fcff076ec3e","ptbr":"Vitalidade +1600"}
+{"id":"LocalText/item_desc1041015","revision":"3c976682dfe48b5cb3a5152af5a60ed2edc29c900a2f4cfb3b20db11d253ea12","ptbr":"Vitalidade +2000"}
+{"id":"LocalText/item_desc1041016","revision":"48550de6b75218caa235fa9e892c42cf32fa56cc9d7008c38c38f0922eacb6ed","ptbr":"Vitalidade +2400"}
+{"id":"LocalText/item_desc1041021","revision":"67be62b7d2eae67dbf36bdb35531184fb181a984716b0fe5853f32e86021a21e","ptbr":"Energia +200"}
+{"id":"LocalText/item_desc1041022","revision":"d209487584961de8a2f4c6d6a6a2c3537549fe4a6a7069c17945ec726a6b3685","ptbr":"Energia +400"}
+{"id":"LocalText/item_desc1041023","revision":"c350e012b23998593f02b23a7443652c97bcda23671b124aeca3ac9521be30ff","ptbr":"Energia +600"}
+{"id":"LocalText/item_desc1041024","revision":"eb5e89a08502dfcd71767f00d500f2f735ed0cf301b3a70133d0aff5ac5a3f66","ptbr":"Energia +800"}
+{"id":"LocalText/item_desc1041025","revision":"fbd7fb532a6a4d242d9a71f5b070d9bf63e3094cd3d8e4e8d76896e707625f51","ptbr":"Energia +1000"}
+{"id":"LocalText/item_desc1041026","revision":"8d3364383fccf56b65907f020605b1bebdd8e2d40ba3745bac18538c9d8f77e2","ptbr":"Energia +1200"}
+{"id":"LocalText/item_desc1041031","revision":"2fa071de61dd6488bdcc7fdcee9d65e11f42ab25f88f27b7b1310539296e4221","ptbr":"Foco +100"}
+{"id":"LocalText/item_desc1041032","revision":"eea517ad4a8669c7f482f02a8db0b28f1bee7aa1a9e6123335898367e3f189e3","ptbr":"Foco +200"}
+{"id":"LocalText/item_desc1041033","revision":"fb62f9006b088c91b6c5382a406efd6cd1bdae5ceb1cddcead20ca95a659cc30","ptbr":"Foco +300"}
+{"id":"LocalText/item_desc1041034","revision":"b93bece756fa5fab9e1912eacf6b6de03bcdd4806f90fe5f9bda577dcaeed967","ptbr":"Foco +400"}
+{"id":"LocalText/item_desc1041035","revision":"1eb7dd105631e3e8ff7ce9ff5aff82f0410c8a00cfd1f80ad67e48cfd64e1328","ptbr":"Foco +500"}
+{"id":"LocalText/item_desc1041036","revision":"f0dbfb1551fa89b543291240326c4a0d15936d1396eefaa56e621f690b109486","ptbr":"Foco +600"}
+{"id":"LocalText/item_desc1041041","revision":"a8f1e110961a9f1259239777c706f6c025774eaf9ffbc84fcaca01beb12203e6","ptbr":"Vitalidade +500"}
+{"id":"LocalText/item_desc1041042","revision":"5fcebd63beb9b0e5100d530350318b31a573ff9bf6f29e5f47b37767b4330d87","ptbr":"Vitalidade +1200"}
+{"id":"LocalText/item_desc1041043","revision":"1357e94a492548fbe5909a5f648b97452b4963d8ecfc0a497e083c56b3149ee2","ptbr":"Vitalidade +2500"}
+{"id":"LocalText/item_desc1041044","revision":"40380c5de6ce85d9f8be8dcbc02466d4d21c88dc8cc0cf6d7f8337bfd0ceaaa2","ptbr":"Vitalidade +4500"}
+{"id":"LocalText/item_desc1041045","revision":"5266de3d72e3551789aed2169a9d3cb14633e7897721d3f02e039e3cc267cd17","ptbr":"Vitalidade +7000"}
+{"id":"LocalText/item_desc1041046","revision":"1122325e1fc2c5459fe6b64b875325bf7b93bbbaa6de473a11aa22bd19c01ec5","ptbr":"Vitalidade +10000"}
+{"id":"LocalText/item_desc1041047","revision":"48cb42459733d2c64e4b8cfb2a566ce37f6fbe1a1abcd11603557691e8892344","ptbr":"Vitalidade +15000"}
+{"id":"LocalText/item_desc1041048","revision":"84295d5317c42140063d88758d617f9fcd674feacdd4fe37759261c75d3219a5","ptbr":"Vitalidade +20000"}
+{"id":"LocalText/item_desc1041049","revision":"82fad083de6e3d8381f8a9cb08066a4896d753be7fd49a1041699b049dd4beab","ptbr":"Vitalidade +26000"}
+{"id":"LocalText/item_desc1041050","revision":"bed27d317e4c2a953604f238b8d01c7f6d5d1c1004b0b24ecbd4a49b7fc6c0ca","ptbr":"Vitalidade +35000"}
+{"id":"LocalText/item_desc1041051","revision":"b5734e4531d827247e6881f039b53bfad0f40fdd690e708d5f0c52ae797051a1","ptbr":"Vitalidade +45000"}
+{"id":"LocalText/item_desc1041052","revision":"b77f6d939cdd3bee16eab2d8942c7afaf441d87af1bfb8c13e3066a657a55eeb","ptbr":"Vitalidade +55000"}
+{"id":"LocalText/item_desc1041053","revision":"afc92af73d09a9a5d6397417637feaaaed040e87995be70e58684ac833eddf2d","ptbr":"Vitalidade +68000"}
+{"id":"LocalText/item_desc1041054","revision":"1fc5cb52a8f97ecc3b8f83b37e387fc56d50eea6954dec11fdd79d92354768f6","ptbr":"Vitalidade +82000"}
+{"id":"LocalText/item_desc1041055","revision":"fbb266cd2497491b58a8c735eca0443dd8863cfc4cb2569d800a223bfbf38e57","ptbr":"Vitalidade +100000"}
+{"id":"LocalText/item_desc1041056","revision":"d052e29a49ec46a0c487a0bf31bd37cfb5920edca43d3cdd6dfbb963b4706658","ptbr":"Energia +250"}
+{"id":"LocalText/item_desc1041057","revision":"93c83133bd9717a9bfd991ab44fd893f502ae8e9a876c86fc92de2d217be4cb5","ptbr":"Energia +600"}
+{"id":"LocalText/item_desc1041058","revision":"f777245ce6c698dc242b9cfdde1ce4811390d72d2cb9e45cbb0d8acd24ab8fcc","ptbr":"Energia +1250"}
+{"id":"LocalText/item_desc1041059","revision":"02ff48e6ff9c721c6f5e59cf0233498f47ead37a217b430e1bdc6bb92beb01d3","ptbr":"Energia +2250"}
+{"id":"LocalText/item_desc1041060","revision":"eeafe4a54afe7ec7e2354823c4976d326ff269275d0d91c9ece8eb84f66338f2","ptbr":"Energia +3500"}
+{"id":"LocalText/item_desc1041061","revision":"11f8d94ebf14c38fd39a5f1900d8b22169130cc25f4f1e1f14fb8c4cf12bde71","ptbr":"Energia +5000"}
+{"id":"LocalText/item_desc1041062","revision":"dd0027734a6a5d7e832a888a9c6e2cd2c39fb5e9450e604b93f20dba87f8e8f5","ptbr":"Energia +7500"}
+{"id":"LocalText/item_desc1041063","revision":"b0f9cdabfe4c8b241e1540896a6118143f6f2ae228b06943984ed246c24888f8","ptbr":"Energia +10000"}
+{"id":"LocalText/item_desc1041064","revision":"5b60822f1f1e8d3bbcd3666d0cb27a447e4d0e77c7ccf89ecfdd7aa1cdf7d997","ptbr":"Energia +13000"}
+{"id":"LocalText/item_desc1041065","revision":"d4a9eddde2863c9b80acb2ef1b94279db525c50a88525ea6a3be8da7bbd0654c","ptbr":"Energia +17500"}
+{"id":"LocalText/item_desc1041066","revision":"3ad92f46d2d41547970491d3538d208add907f3c5e34b2b5e81d61733e327170","ptbr":"Energia +22500"}
+{"id":"LocalText/item_desc1041067","revision":"734cba36179b3157755a2705c731b21b660606ff3dd1d1234d2ea9d99e29a63c","ptbr":"Energia +27500"}
+{"id":"LocalText/item_desc1041068","revision":"906b934c2b87e8c443e5b26b194a4e506de21ced371b3454b93f52671c137787","ptbr":"Energia +34000"}
+{"id":"LocalText/item_desc1041069","revision":"7840d2abf676bd087690451308a71d12cdcb9816a580492899b944e8d7ae8713","ptbr":"Energia +41000"}
+{"id":"LocalText/item_desc1041070","revision":"c19f607e8b796797f9281885749e00c70232db2f9ee3ec58e65968b2eb8c731c","ptbr":"Energia +50000"}
+{"id":"LocalText/item_desc1041071","revision":"cab406fb4edb299e0c4b304b9d3d8eccad73cb1f71fa7cb7c196b89fbaa28a88","ptbr":"Foco +125"}
+{"id":"LocalText/item_desc1041072","revision":"3a6a7aeaa2a2db8af14d7b32c83647326c2bf853ff941b98394a753cd8926640","ptbr":"Foco +300"}
+{"id":"LocalText/item_desc1041073","revision":"4fa92899a00ed1fea20032494b7dc2de4d6fd12153f5916818088d30730b578c","ptbr":"Foco +625"}
+{"id":"LocalText/item_desc1041074","revision":"0eca12e6b463ab980f360ea3715674dab2cec8e3a881764a15664dcc3474e164","ptbr":"Foco +1125"}
+{"id":"LocalText/item_desc1041075","revision":"f265412b36f9d38a8c8710feb251c4b2f0d1c47363c031704b94d111860e4b43","ptbr":"Foco +1750"}
+{"id":"LocalText/item_desc1041076","revision":"92681d43332f4a75d37e21d21c9a6a46e82f6bd05d884cd11d24567c1c721f66","ptbr":"Foco +2500"}
+{"id":"LocalText/item_desc1041077","revision":"8df8b0d7ee894c3c9dced2dd78fabdc0b03b49b759e8131d2e2f2860368fb060","ptbr":"Foco +3750"}
+{"id":"LocalText/item_desc1041078","revision":"feeea73993d28c429e4bddba2a2ab55f4ac97ca7e3f16899817d4878d4466a9f","ptbr":"Foco +5000"}
+{"id":"LocalText/item_desc1041079","revision":"79fabd4a09fe3d3b4256114e0c5b6ce7a046cbfb0219c6980b6010ae5aa6f4c5","ptbr":"Foco +6500"}
+{"id":"LocalText/item_desc1041080","revision":"73e2effcd9a3de27b77924a940b100d23131be2fdaaf5f98e0e1b20f1ef25f2e","ptbr":"Foco +8750"}
+{"id":"LocalText/item_desc1041081","revision":"51fcf4a56d2e32f6e205133b9b7d3afec804a61fac83c53a82048412878a4df5","ptbr":"Foco +11250"}
+{"id":"LocalText/item_desc1041082","revision":"226583665d444d5022f6dfa614b836c0579472586e431c136236a334b68a5154","ptbr":"Foco +13750"}
+{"id":"LocalText/item_desc1041083","revision":"a4cca787e0396bdab3999d1158af6b17107949034f602574b559230d873ccc7a","ptbr":"Foco +17000"}
+{"id":"LocalText/item_desc1041084","revision":"e9b2eb4aa8aa5cd60745dc5d5869e42da53fdc6359321493e246248d0c95538e","ptbr":"Foco +20500"}
+{"id":"LocalText/item_desc1041085","revision":"02ab6acbd32270b8f89db224e20c6b9ae6e12ad8b966f6417d4fdecb8d6344d6","ptbr":"Foco +25000"}
+{"id":"LocalText/item_desc1041086","revision":"7439dacf7dd0b761aad19467909b1d11b73948df36f690d134456486acf83e7a","ptbr":"Vitalidade, Energia e Foco +200"}
+{"id":"LocalText/item_desc1041087","revision":"4aeb637dc58367e36dd3d01a0abf187017c0fb502c3e27ab939040e05ae70400","ptbr":"Vitalidade, Energia e Foco +480"}
+{"id":"LocalText/item_desc1041088","revision":"4f9055de42e21f6cb37166b3466388e690cc46fb92f741087140a5a54872bbb3","ptbr":"Vitalidade, Energia e Foco +1000"}
+{"id":"LocalText/item_desc1041089","revision":"ca1b6b7ba70f41616695d64603e6f83e684f00f25b7cb6f3d8f80de11b0b8653","ptbr":"Vitalidade, Energia e Foco +1800"}
+{"id":"LocalText/item_desc1041090","revision":"abfa683f7adb0b3c6a2976228c736fdd4e228b01a5976cb04ca71045fe95bdb2","ptbr":"Vitalidade, Energia e Foco +2800"}
+{"id":"LocalText/item_desc1041091","revision":"7413392bb259354a0e2427c5fe24c1c07b578cfd39ce47266cb91a56616bd532","ptbr":"Vitalidade, Energia e Foco +4000"}
+{"id":"LocalText/item_desc1041092","revision":"efce30a9177fac11b088beadbc15cb49c60d64b2cc4401e3071a1bf7fe86a6e5","ptbr":"Vitalidade, Energia e Foco +6000"}
+{"id":"LocalText/item_desc1041093","revision":"a2bc364c8592034b7cd9a543dacf9b18fd69fdb25f79c7de7e7d30a281a33949","ptbr":"Vitalidade, Energia e Foco +8000"}
+{"id":"LocalText/item_desc1041094","revision":"14dc5dfc94bd389ba76c93db2b0f864a3a7cfeffdcc830c69abdbd2f7bdf335b","ptbr":"Vitalidade, Energia e Foco +10400"}
+{"id":"LocalText/item_desc1041095","revision":"f7ee5112eeba29f8803f6207cf868e0ac937c836f174814899509d8878690c5e","ptbr":"Vitalidade, Energia e Foco +14000"}
+{"id":"LocalText/item_desc1041096","revision":"3a55982d3912e916d2bba36a485f6980b1fa14317da8986df23267eb7b373d49","ptbr":"Vitalidade, Energia e Foco +18000"}
+{"id":"LocalText/item_desc1041097","revision":"f38ca6aee1315dc289c69e8b25b108ac987c4bb2ac30e5eedc6cd489b3b9af4a","ptbr":"Vitalidade, Energia e Foco +22000"}
+{"id":"LocalText/item_desc1041098","revision":"cd588d80787d815f966620601955db9a0046044019144b4f15fed8bc566ceea7","ptbr":"Vitalidade, Energia e Foco +27200"}
+{"id":"LocalText/item_desc1041099","revision":"2e7902adfd6e11d4881f6c0b16319697944af245db53a4f4c7ecf623c05c8de4","ptbr":"Vitalidade, Energia e Foco +32800"}
+{"id":"LocalText/item_desc1041100","revision":"2478e09155c35a43c6116c5f7c2331fde74b9067a65b55d413167c3f434db0ce","ptbr":"Vitalidade, Energia e Foco +40000"}
+{"id":"LocalText/item_desc1041101","revision":"000d582fe76f352892ac65bde78c07e91e8d472e40b42f92051d4aa14f59fe0c","ptbr":"Recupera 375 pontos do atributo (Vitalidade, Energia ou Foco) com maior perda percentual"}
+{"id":"LocalText/item_desc1041102","revision":"f7045d6c6a70284d87dc0859d4500b74f5a361ccd30c0e9d2e0e05f2879c556b","ptbr":"Recupera 900 pontos do atributo (Vitalidade, Energia ou Foco) com maior perda percentual"}
+{"id":"LocalText/item_desc1041103","revision":"df513ba67f04b4152a6be3aa9f241900800519cadc5365063195c71f68688b4b","ptbr":"Recupera 1875 pontos do atributo (Vitalidade, Energia ou Foco) com maior perda percentual"}
+{"id":"LocalText/item_desc1041104","revision":"237fcdd480a312c62434ae1c10a1364992c637610a6242d9df21323c2b2cf2de","ptbr":"Recupera 3375 pontos do atributo (Vitalidade, Energia ou Foco) com maior perda percentual"}
+{"id":"LocalText/item_desc1041105","revision":"82b0dd6816a083356861f80be55b3963daf8c7854738fcd889f8ff1c425820fa","ptbr":"Recupera 5250 pontos do atributo (Vitalidade, Energia ou Foco) com maior perda percentual"}
+{"id":"LocalText/item_desc1041106","revision":"01400eb4bc349a42a867d67ee3e4002ed29aae628c95cc6a088efee5299cd007","ptbr":"Recupera 7500 pontos do atributo (Vitalidade, Energia ou Foco) com maior perda percentual"}
+{"id":"LocalText/item_desc1041107","revision":"aa6bb96d40a78a1f1c9f62817b13d58263c80c853f0d98e6e8a0694de5057f86","ptbr":"Recupera 11250 pontos do atributo (Vitalidade, Energia ou Foco) com maior perda percentual"}
+{"id":"LocalText/item_desc1041108","revision":"87dd8ea753fdde85326f7aeaa4def95e79e51c275a439a22e92fd28dbbc43ce1","ptbr":"Recupera 15000 pontos do atributo (Vitalidade, Energia ou Foco) com maior perda percentual"}
+{"id":"LocalText/item_desc1041109","revision":"86dd5d41473cff67e40fd6fb0007efd636c8c4b9f30ed664c7c7fac1d89533d4","ptbr":"Recupera 19500 pontos do atributo (Vitalidade, Energia ou Foco) com maior perda percentual"}
+{"id":"LocalText/item_desc1041110","revision":"748519c3250669e2d74ef75b835c898b67994770136206aa5622e1cdb98098b8","ptbr":"Recupera 26250 pontos do atributo (Vitalidade, Energia ou Foco) com maior perda percentual"}
+{"id":"LocalText/item_desc1041111","revision":"b5879e78c18f63bdf42f702e8c6705da0228cbc6ef916de2c8a990b7ac2a3835","ptbr":"Recupera 33750 pontos do atributo (Vitalidade, Energia ou Foco) com maior perda percentual"}
+{"id":"LocalText/item_desc1041112","revision":"de09876e8cd3a0a5d70ecc10d2c6ee59d2ce549d0d457feadc8c36e0a9dcf680","ptbr":"Recupera 41250 pontos do atributo (Vitalidade, Energia ou Foco) com maior perda percentual"}
+{"id":"LocalText/item_desc1041113","revision":"27926469870238e88e5823bf2b61c606e12a0d00444add98acb1121e478bb865","ptbr":"Recupera 51000 pontos do atributo (Vitalidade, Energia ou Foco) com maior perda percentual"}
+{"id":"LocalText/item_desc1041114","revision":"b1b233c5bc85357999b6fcb0b5c3501ebfd32bbe229e236b7695c3228483e6b9","ptbr":"Recupera 61500 pontos do atributo (Vitalidade, Energia ou Foco) com maior perda percentual"}
+{"id":"LocalText/item_desc1041115","revision":"b8fc1709ca903d5c4e322917163f91568b511ba9909cb9b396ec0f69bdae5371","ptbr":"Recupera 75000 pontos do atributo (Vitalidade, Energia ou Foco) com maior perda percentual"}
+{"id":"LocalText/item_desc1041116","revision":"6467b3f7455cfc93c21ff650b3b9edaf12781f41b751c6d38a11af2748287bbb","ptbr":"ATQ +40 por 10 min"}
+{"id":"LocalText/item_desc1041117","revision":"c01fdc516c881eb82a98f2fe97f9b5731ba8d6604686b829cc9e0e66da3b84ba","ptbr":"ATQ +96 por 10 min"}
+{"id":"LocalText/item_desc1041118","revision":"6499308ba68782fade35045039a16c5047572190dfffc787ff9ad89103d96923","ptbr":"ATQ +200 por 10 min"}
+{"id":"LocalText/item_desc1041119","revision":"c66a7de55923627e6d6262abb03c1c4dcfa984cdef299f50b0a9f8c1e38c4fe2","ptbr":"ATQ +360 por 10 min"}
+{"id":"LocalText/item_desc1041120","revision":"ab5967d45a30f70ca2ee2a2799717ed03e29881c7ed2f8c93f307c5e52749541","ptbr":"ATQ +560 por 10 min"}
+{"id":"LocalText/item_desc1041121","revision":"d09b5f7b7612de100cc21d10006f252ac20ef91da0034c42a72d67e546448b01","ptbr":"ATQ +800 por 10 min"}
+{"id":"LocalText/item_desc1041122","revision":"86047ffc2db20db487822126d987350496e26a6acfa81a6c85decd77b4ae3c6a","ptbr":"ATQ +1200 por 10 min"}
+{"id":"LocalText/item_desc1041123","revision":"491609a6a0e4f9cdaa29df15ab430672fbbe65fa1d5beba4ebe7347666a51aae","ptbr":"ATQ +1600 por 10 min"}
+{"id":"LocalText/item_desc1041124","revision":"1e534c50bbb4c3c4f96442499ecab006f573e5210a0b4a80e198862e46f0da9a","ptbr":"ATQ +2080 por 10 min"}
+{"id":"LocalText/item_desc1041125","revision":"8c9fa901fc6c426e47f887a7970dc09d59f24bdf262ee4b695bce0c4bfe9193f","ptbr":"ATQ +2800 por 10 min"}
+{"id":"LocalText/item_desc1041126","revision":"9943ae4cf1bdc3b11d11bb4cdf9ee23976f0cd65616077c38e90e2a845029a1f","ptbr":"ATQ +3600 por 10 min"}
+{"id":"LocalText/item_desc1041127","revision":"925f58c7e45e744ab84f970b42748f1dac22a4a40cfe9aba58f124d0ad38bdd0","ptbr":"ATQ +4400 por 10 min"}
+{"id":"LocalText/item_desc1041128","revision":"10c8105061bbe642eee2bcacbe05bc35700783ba2e4d76e789a5dc2c93a3e7b5","ptbr":"ATQ +5440 por 10 min"}
+{"id":"LocalText/item_desc1041129","revision":"58f5c0d2bdf67ae44118c2d6fc23b56eefd851ba98dc8e9ae6ec52964d00c2bb","ptbr":"ATQ +6560 por 10 min"}
+{"id":"LocalText/item_desc1041130","revision":"251440ac0150a5705b0d80bd252bb9e2fe1115bdcafaebee17b8a2c4c338310a","ptbr":"ATQ +8000 por 10 min"}
+{"id":"LocalText/item_desc1041131","revision":"23654d454148704faab96532fb5d589b22576861a50b6959f990f634dae3971c","ptbr":"DEF +30 por 10 min"}
+{"id":"LocalText/item_desc1041132","revision":"f58a89ece14d03e65def7b01573d12393a259ee00289ba2d0616ab6d3bf4778f","ptbr":"DEF +72 por 10 min"}
+{"id":"LocalText/item_desc1041133","revision":"4b3ba9e93dee3c1f4bb99f01978ba6246aa39ac7327139c7f55c76a10c74234d","ptbr":"DEF +150 por 10 min"}
+{"id":"LocalText/item_desc1041134","revision":"3779d02ea6d74db0d2ae0c70b707556d748905a468f8898cb2112fac22923a89","ptbr":"DEF +270 por 10 min"}
+{"id":"LocalText/item_desc1041135","revision":"e1e4812de3dde3c07765eb96c20c5cf3e1941f9840be9f5e68cb9956597e8e98","ptbr":"DEF +420 por 10 min"}
+{"id":"LocalText/item_desc1041136","revision":"386f7221ebc8e0059006dd2dd4605d7645d976f35400a12b757be6e8597ad18a","ptbr":"DEF +600 por 10 min"}
+{"id":"LocalText/item_desc1041137","revision":"54c06bbcf90aeab592380425e980a7ff8749a5cf5f606108c4ad95ed0ac3dbd5","ptbr":"DEF +900 por 10 min"}
+{"id":"LocalText/item_desc1041138","revision":"c31557165046c8223e0d2d16b80affe48e276ac78e8ddae189bb7e2ab2a54271","ptbr":"DEF +1200 por 10 min"}
+{"id":"LocalText/item_desc1041139","revision":"f710e86e26f3f34b62ed6d4a82264427e46f2ac2c35e76904cd045d7325b33fe","ptbr":"DEF +1560 por 10 min"}
+{"id":"LocalText/item_desc1041140","revision":"e5e29a633a8d85c19da828870d5edf56498ffe4adecef331b42b6e12bbb75386","ptbr":"DEF +2100 por 10 min"}
+{"id":"LocalText/item_desc1041141","revision":"6023d7103f553ab8bb20d598211b3578c4eb8b2cf85a52e7631694847767fe27","ptbr":"DEF +2700 por 10 min"}
+{"id":"LocalText/item_desc1041142","revision":"dd498db48a1f439a94b0987b7c172dda7dfce3dbc67c81c1ae03cdc16120dea5","ptbr":"DEF +3300 por 10 min"}
+{"id":"LocalText/item_desc1041143","revision":"4790734e0a1c6dc59b66732850307ea12e6e12e7c2e814ae54b9feb968d66f22","ptbr":"DEF +4080 por 10 min"}
+{"id":"LocalText/item_desc1041144","revision":"bbc4679cd066cb709c6b672031756766c074c78f692b1eacc537186f288f0878","ptbr":"DEF +4920 por 10 min"}
+{"id":"LocalText/item_desc1041145","revision":"562f12fdbe817438523405d21d21176e34b4c27411e32df3a3713febd99388b5","ptbr":"DEF +6000 por 10 min"}
+{"id":"LocalText/item_desc1041146","revision":"410dae87eee56aa54a72cefc2ad23ef8965406b3727d533b19db2cbcd5b2bf68","ptbr":"Agilidade +50 por 3 min"}
+{"id":"LocalText/item_desc1041147","revision":"4020b479895547807ffa325c717d5c1240de06ed633e0fd4a01072e1af5ea6a0","ptbr":"Agilidade +75 por 3 min"}
+{"id":"LocalText/item_desc1041148","revision":"81d2f5d6ddc02e741c1b815a3427378ebb9a0c6477360c0818a4b56ea62ab9a1","ptbr":"Agilidade +100 por 3 min"}
+{"id":"LocalText/item_desc1041149","revision":"e387758968616c16db61baf87ca9ec797f686b7438703769075af0f594589b39","ptbr":"Agilidade +125 por 3 min"}
+{"id":"LocalText/item_desc1041150","revision":"a36cdcdb05a407ac53aeed1fe93333360e2be759f0e1e82f9fca661d3d9b33cb","ptbr":"Agilidade +150 por 3 min"}
+{"id":"LocalText/item_desc1041151","revision":"a48a246fd2d0a4be33ca55d4f97d02553524fdab142f2e625d47a24dae591baa","ptbr":"Agilidade +175 por 3 min"}
+{"id":"LocalText/item_desc1041152","revision":"db767e29170431189bac3a1459868034720409f3552e771ffef84701d6aad1f3","ptbr":"Agilidade +200 por 3 min"}
+{"id":"LocalText/item_desc1041153","revision":"e53650f12961788d3f5a702366aae246ff9646fd9a6c4ee524df40cc35c4105f","ptbr":"Agilidade +225 por 3 min"}
+{"id":"LocalText/item_desc1041154","revision":"5888cbd14bc865b692ca2c87bc72a8bae4ab85a52b74ef25c88d9b1bc3cf739e","ptbr":"Agilidade +250 por 3 min"}
+{"id":"LocalText/item_desc1041155","revision":"613b95bd43dd8abd98c2942cb1fd7d5cbc1ce4f1d850b41f2b50660149b82dbe","ptbr":"Agilidade +275 por 3 min"}
+{"id":"LocalText/item_desc1041156","revision":"ff1853aef360d0f57f5d55a88c00b6038049b781e296301f6881edaa529cf644","ptbr":"Agilidade +300 por 3 min"}
+{"id":"LocalText/item_desc1041157","revision":"36095616ae485743eb1c248e75ee854975165e6f7f90a750fa4978d5b8d61f46","ptbr":"Agilidade +325 por 3 min"}
+{"id":"LocalText/item_desc1041158","revision":"5a226d89d2fca8a536d93ca043d91ce351eeff2d72399bc437e9df965f096edf","ptbr":"Agilidade +350 por 3 min"}
+{"id":"LocalText/item_desc1041159","revision":"d1729432938db51edbb8a1363c5dfb3046fc55eda7bdc1fa664a31a2e040af7f","ptbr":"Agilidade +375 por 3 min"}
+{"id":"LocalText/item_name5021694","revision":"2338a3c2ebc4858c7fbebcf9508c855e9b77dcb65c57fa2dea3fae9e3cd0c350","ptbr":"Pó de Ouro Abençoado"}
+{"id":"LocalText/item_name5021704","revision":"a89607cc9e6ca5f2e447c8c95864b187c05bdd2079e7db56e5a1810c58db4502","ptbr":"Gema Brilhante Abençoada"}
+{"id":"LocalText/item_name5021714","revision":"391d6a2badc6d28f966efd96b23ce6ad2a80754075519648ac0336edaebe9c2a","ptbr":"Sopro Abençoado do Caos"}
+{"id":"LocalText/item_name5021726","revision":"ab5da67ed975560e5e8b5e5e80e46dd748c210b9ef373a2b5533bfca68704a35","ptbr":"Cogumelo Estranho"}
+{"id":"LocalText/item_name5021734","revision":"bd1903dcaab9a9fa9d17366d12fe4d6f4afc3959be3dcf358929b859492b3349","ptbr":"Jade de Refino da Alma (G4)"}
+{"id":"LocalText/item_name5021744","revision":"eca9b4970f8982cc7092ac79b88bebec4ad32895bc1d4c0d5cecf9f33b79bdb9","ptbr":"Jade de Refino da Alma (G3)"}
+{"id":"LocalText/item_name5021754","revision":"b608b673efda1eea9bb8b9cdf4d4315d0ddbb1df76dd9c30fc337e3a7e0e8d36","ptbr":"Jade de Refino da Alma (G2)"}
+{"id":"LocalText/item_name5021764","revision":"e5f09a89217168832f18e665bd577f5ff714173c22b01ec512624a37c9b403d6","ptbr":"Jade de Refino da Alma (G1)"}
+{"id":"LocalText/item_name5061016","revision":"9cc4c1434ca0d84c62fce1eedd669c375518cefbfc829df64b8ac7d6f130f0e4","ptbr":"Pedra Divina"}
+{"id":"LocalText/item_name5061026","revision":"e34231c4eae6bb0a5f888f3f116d36f6cd0b51294116ac9ee3525b9d04fb8edd","ptbr":"Jade Sombrio"}
+{"id":"LocalText/item_name5061036","revision":"fd72e990d6ac180f62fd3a4afd3fdd5e42c7b69e21a0aafd3d8b1aeb5c7f1492","ptbr":"Madeira de Ágar Dourada"}
+{"id":"LocalText/item_name5061046","revision":"91f18ef7795ce793c7aaccf5341c9ff850a194f8178d190974536db5ecc7ca64","ptbr":"Fruto Etéreo"}
+{"id":"LocalText/item_name5061056","revision":"58d3515965b94074ea6b08e3055cf27b320ab4a849403bdf254d7b14d6b1adb1","ptbr":"Ametista Celestial"}
+{"id":"LocalText/item_name5111101","revision":"6423a917fbe6c29c5d22344a350110dfc1be4a585df5a58bc3026382fd054bc7","ptbr":"Massa Maleável"}
+{"id":"LocalText/item_name5111201","revision":"06c1eaed0a2433b27a4ff1b981988793bcfd9e2b7e2396bc88ca8a8340338fe6","ptbr":"Erva do Eremita"}
+{"id":"LocalText/item_name5111301","revision":"2b53915b3fe83db31db0d554849c8b7972f91020a990c17e9bd86bd46a96613f","ptbr":"Jade Azul-Celeste"}
+{"id":"LocalText/item_name5111302","revision":"3474b23e7264aa7be77491dbc5f743904ee4a0201ddd314acf4e1d57e5a25ecf","ptbr":"Jade Opalino"}
+{"id":"LocalText/item_name5121111","revision":"c2210f19ca7535f654294ebae0a7a9990c1f36bfeda44b0d211fab896f38ef3a","ptbr":"Trompa de Convocação"}
+{"id":"LocalText/item_name5121121","revision":"d5528a66c84e88ff172ffe01b7a2f1872f89692e64f690ac5739999cbd88c3fa","ptbr":"Chifre do Raio"}
+{"id":"LocalText/item_name5121131","revision":"fe44d09d7161b9dd8e228589ab8b9fc42baefc11c1399eae1e3eb43b48577ae4","ptbr":"Carrilhão Lamentoso"}
+{"id":"LocalText/item_name5121141","revision":"ab8c968077cd7027c200eb676fb8277f099d03476f759bd0fc5eb07c6a964909","ptbr":"Semblante Empoeirado"}
+{"id":"LocalText/item_name5121151","revision":"aa56609ee742197882e1c94cf1d1f3919a5091487d05a0f7419d6d8311a19cc9","ptbr":"Cauda de Fogo das Nuvens"}
+{"id":"LocalText/item_name5121161","revision":"640ee53ad51f29d15dc077c66789e2d9ec3533615d86fb8f0f737b65baa96763","ptbr":"Jade de Lágrima"}
+{"id":"LocalText/item_name5121171","revision":"91e4e4a18cfa70f6e326011a836c8f45d020033c2fd6f344484d39b590159fd3","ptbr":"Manto Oculta-Vento"}
+{"id":"LocalText/item_name5121181","revision":"ad60782e5ceeb41e57b349596040559e455dc6f7da8c7f7f4840386aac176e00","ptbr":"Selo do Devorador"}
+{"id":"LocalText/item_name5121182","revision":"e30895481c41e19195ca8cd2159dcf2d49548955b5b68da4e377a0e595441085","ptbr":"Guqin da Melodia do Submundo"}
+{"id":"LocalText/item_name5121191","revision":"55d0a59e4bf4bb9cc371cdfb7aa9e26d64bca515c8ec61ccf5865f4dd72177db","ptbr":"Pirita Estelar"}
+{"id":"LocalText/item_name5131101","revision":"455aa02489a43ab459c666ab76541bfa2e4741f3292315802c229d413e5355c9","ptbr":"Resina de Têmpera (G5)"}
+{"id":"LocalText/item_name5131102","revision":"43ec565b109e3e79682235d6373651a6b48760ff1ed812b936b9eabc296c23ba","ptbr":"Resina de Têmpera (G4)"}
+{"id":"LocalText/item_name5131103","revision":"d5d3d3d879738accaacd7963fbfc972bd080c45b33e7c466d6cbf8b579b45103","ptbr":"Resina de Têmpera (G3)"}
+{"id":"LocalText/item_name5131104","revision":"5b95dc4e4aa18336b7bf497fb4358fe931afa5312082cf6adf3188e3ade03373","ptbr":"Resina de Têmpera (G2)"}
+{"id":"LocalText/item_name5181101","revision":"20637eae62ed67c3d27b27822b08278a522a33247cff00eef4ad127d146373f8","ptbr":"Quartzo de Forja (G5)"}
+{"id":"LocalText/item_name5181201","revision":"d785782592ae4dd4b988540fcfab1a88386cadddaa23dab413b275844339b909","ptbr":"Quartzo de Forja (G4)"}
+{"id":"LocalText/item_name5181301","revision":"4427a68130e1e3f99ca18e41608163f6f7c0d89126b650ecc882a3032f0fb176","ptbr":"Quartzo de Forja (G3)"}
+{"id":"LocalText/item_name5181401","revision":"bad06dc79e322998bd17fc06de85c8a2c77f501a8ba95f8b2eaae626c510df05","ptbr":"Quartzo de Forja (G2)"}
+{"id":"LocalText/item_name5201101","revision":"c3d68ef4dbe5d39c80567905d28750e3dd8da662b22136d080ecade3b18f6d2b","ptbr":"Materiais Terrestres"}
+{"id":"LocalText/item_name5211101","revision":"a7298b234fe0086a380184c0299dcb781576ae514a65d138d3009da2c3918698","ptbr":"Materiais Celestiais"}
+{"id":"LocalText/item_name5221101","revision":"6dafa2d248b315a89492b04ead42bf57ee54290f417b8e432e441cb44a22c804","ptbr":"Fogo Yang Mágico"}
+{"id":"LocalText/item_name5221102","revision":"456237719623523ea6d062272223e00c621da7ffc12ae39fbb9e29513cf7aa3a","ptbr":"Fogo da Folha Prateada"}
+{"id":"LocalText/item_name5221103","revision":"32a7b6bed55c03a47d542a030a5bbe40061098fa408c4a1d2cef424d0d818e38","ptbr":"Fogo da Lua Ardente"}
+{"id":"LocalText/item_name5221104","revision":"0d7abc61e1b1e669a1a44583d3c32ad3dd06c72073fd08f8820d080dd9feac32","ptbr":"Fogo do Veneno Verde"}
+{"id":"LocalText/item_name5221105","revision":"af47dbcec67b2f42081a6102906dedba8684602fadb34bfb4bc7cb3b53fa1e1c","ptbr":"Fogo Purificador de Almas"}
+{"id":"LocalText/item_name5231001","revision":"5a1df36ce05301a7b0e276048ecfb090e3ce0a8eb5222d42c4202eeffab58de4","ptbr":"Amoreira Brumosa"}
+{"id":"LocalText/item_name5231002","revision":"22a222f85fb0d4eb407657302c91f517d4f7f0bf9e3a3eebc7b2d269883a1640","ptbr":"Sândalo Espectral"}
+{"id":"LocalText/item_name5231003","revision":"380ea94627b695590157573448138f0b9840513caed28276fa335dbbf67c41d2","ptbr":"Cipreste Altaneiro"}
+{"id":"LocalText/item_name5231101","revision":"fed23e7432d272d7a4bd7424ccf216ca84ed5f0e4df85ec646298f3e655d5f9f","ptbr":"Pinho da Fonte Sagrada"}
+{"id":"LocalText/item_name5231102","revision":"151df9671f0133dbb20664dd263acc310503a6927cea53b0524d322069b7abc7","ptbr":"Loureiro Gela-Ossos"}
+{"id":"LocalText/item_name5231103","revision":"d71bac00256b5e558d1ebc279d7ee0f455eb49423014dddb5810b352ec320384","ptbr":"Amoreira Brumosa de Ferro"}
+{"id":"LocalText/item_name5231104","revision":"8374b3151c293bc808e185e136627b85909b4d5d64193d50667fc97dc4930fa0","ptbr":"Sândalo Assombrado"}
+{"id":"LocalText/item_name5231105","revision":"c5f337f591f6cfd1fa0523aa002492c89695a9270013338aa094b22bdf49254e","ptbr":"Cipreste Altaneiro Retorcido"}
+{"id":"LocalText/item_name5241101","revision":"cd1b71ed9c3323ea85494d7c7d1b8cd6e5e6fd516f78d490e5856ff69aa590be","ptbr":"Cobre Brunido das Nuvens"}
+{"id":"LocalText/item_name5241102","revision":"19a6cb7b552ce7f3229f418266e1f871161ac0c0d01ad03e7d0a4ac2824860f3","ptbr":"Ferro do Raio"}
+{"id":"LocalText/item_name5241103","revision":"84fec9df203c652f07d8638cfcc22fb270ad5eb67e87c11f068adabfa2b1c4ab","ptbr":"Prata Críptica dos Magos"}
+{"id":"LocalText/item_name5241104","revision":"edf6197c0722349ee2c0b5f295521bae488da6a2cc8ebfd3400a2a0ad1503121","ptbr":"Ouro de Vidro Dracônico"}
+{"id":"LocalText/item_name5241105","revision":"617ff860c19804e04a4185ff2071c1b2eea7c91469f69c366f4d751f1a4ef872","ptbr":"Meteorito Celestial"}
+{"id":"LocalText/item_name5251001","revision":"b95d207bd35ab86f0e3c3cae0c1264293f6231058560ea033968bfd78dd60336","ptbr":"Pedra de Sangue Demoníaca"}
+{"id":"LocalText/item_name5251101","revision":"5cb2604ef365a5d99ec9fed7a679efcd84a606a84c1f7018eccd3d5b5ae40016","ptbr":"Osso de Corvo Dourado"}
+{"id":"LocalText/item_name5251102","revision":"f36343e4dc56d8fe2839f87da367d4b4f4dfb670b29f26a6e6b9137cffc4ef28","ptbr":"Osso de Serpente Gélida"}
+{"id":"LocalText/item_name5251103","revision":"20945a57ddb22ebeb1f5fc77832904043f88af8bfaf7e26f286bd93482e4d8d5","ptbr":"Casca Seca de Seda"}
+{"id":"LocalText/item_name5251104","revision":"3cb4b31e6caa4f301b89dca281ffab99d9f4bc92b366cdaf595914160d2a775e","ptbr":"Osso de Baleia Escarlate"}
+{"id":"LocalText/item_name5251105","revision":"05c157d15266b5566c6d3f8a88561c4f75f81580cd54ea8ea8cf9824477aee5c","ptbr":"Osso do Anjo da Aurora"}
+{"id":"LocalText/item_name5261101","revision":"7e8394e84424db1a6abcaa093eb9962bd5f203df9a13ca8e9c0613f1a6079308","ptbr":"Pedra Azul da Montanha"}
+{"id":"LocalText/item_name5261102","revision":"943c68774084db81ced0469a5364d53dd17b72c8bfe02ee572acb7ff8c7b5845","ptbr":"Coral do Mar do Leste"}
+{"id":"LocalText/item_name5261103","revision":"9430a66675bb67cde87c1a1914be01541bc80bfaa90c2c55ec0e5799142815e4","ptbr":"Pedra do Núcleo Terrestre"}
+{"id":"LocalText/item_name5261104","revision":"bd41b69a4b8a412f66f0ef09d0b6faf6d5b117663fc77077ab0c821a1cb2c76a","ptbr":"Pedra do Submundo"}
+{"id":"LocalText/item_name5261105","revision":"2940babe2a1c26f2dd7c6b7fc7fac71d1771eeb0a9b467e9eed8f8bd7dfc0b13","ptbr":"Pedra da Divindade Profunda"}
+{"id":"LocalText/item_name5271101","revision":"9dc898a58bbc15b471aa5f9edc0c54a168459abe88775b9e3923fa3c2586d0ed","ptbr":"Jade da Fênix"}
+{"id":"LocalText/item_name5271102","revision":"5db192e76b6c35a950af57eb0c853a21c447c7e26877bc7d0f1c4d8be7b47fd9","ptbr":"Roseta Verde"}
+{"id":"LocalText/item_name5271103","revision":"4a996a83082f524bfae0433a5190f9dbf27f979c6d3ea1c8628142bc794e5f03","ptbr":"Jade do Corvo Azul"}
+{"id":"LocalText/item_name5271104","revision":"414c9dcb01d95dc2d2df293488238afe3ec91976f0536837baabecdb1b509f48","ptbr":"Pedra Púrpura"}
+{"id":"LocalText/item_name5271105","revision":"85194087b22c5d345afac7c1a59af4c4b6a65bfdc2b8171c2245ba181886e7c5","ptbr":"Talismã Quebrado da Harmonia"}
+{"id":"LocalText/item_name5281101","revision":"7eea74e102f9055f8216d70bfd763c94b053883c67c093a82a3c78415adbfddf","ptbr":"Essência de Fogo da Fonte Negra"}
+{"id":"LocalText/item_name5281102","revision":"64613202c815a8773211030a9e3f89715d593478b5940fe340f0281d3c41b070","ptbr":"Essência de Trepadeira Emplumada"}
+{"id":"LocalText/item_name5281103","revision":"2d955f3cfb0a640a549d3aafea870cc60e1da56cd9d7f843355efdbdb0396ccc","ptbr":"Essência de Pedra do Trovão"}
+{"id":"LocalText/item_name5281104","revision":"98d8a36841ac496856257640ff15f775b7b2cb0a9b411c2234ddd747171eec37","ptbr":"Essência do Condenado à Morte"}
+{"id":"LocalText/item_name5281105","revision":"ad6ed998d94383a39089f86e4725476ff7698aee6bda0cb3c0a3587f2c167f35","ptbr":"Essência de Sangue Etéreo"}
+{"id":"LocalText/item_name5291101","revision":"efd0cdb65d9fcbd6557148f56041fd0695eb24c1219d0d8a4f81d51297d75368","ptbr":"Pedra Devoradora de Almas"}
+{"id":"LocalText/item_name5301101","revision":"6fc9130a3acbccf4c7e4ccce0ca18a45750cdd51086c8a49851ee1b136a214cd","ptbr":"Gema Iridescente"}
+{"id":"LocalText/item_name5301102","revision":"ef28567b4cda9a63e181a1e0d854cc939fcbd8be9e0ec348b46b6d1efc203ed9","ptbr":"Madeira Nebulosa"}
+{"id":"LocalText/item_name5301103","revision":"cbbbed4c876b4541b6aa149f88a8729ed2d332ca229fbf25a890e1b9960c62fc","ptbr":"Casca de Fogo da Aurora"}
+{"id":"LocalText/item_name5301104","revision":"dc372f89b38042df8cdfc2c101c69bfc9ca0ef804b44f278525ca7c35b0cbbaa","ptbr":"Ferro do Raio"}
+{"id":"LocalText/item_name5301105","revision":"4e468ad4e8ae8b591854f4ca092e8dbdbb5040a9f5e14d38e2fc23e95d5a866e","ptbr":"Licor de Flor de Sangue"}
+{"id":"LocalText/item_name5301106","revision":"6c80c5f9acb3af8812dce062567d06e83adcba4f1cf9efceb6f9726f2e286207","ptbr":"Favo de Mel de Cássia"}
+{"id":"LocalText/item_name5311101","revision":"370db22ca45c33a484a4866d52ce8817f7ee36c313e7e1bc5342e7d6a5ca2898","ptbr":"Orvalho do Céu Estrelado"}
+{"id":"LocalText/item_name5311201","revision":"e4ce0788df0565466073ab352f3b5e2ac2ecee372ca9803a6cec37e2a9aeed60","ptbr":"Orvalho da Sombra das Nuvens"}
+{"id":"LocalText/item_name5311301","revision":"6a5f6765fddea569db3a111ced795d63b2b222edaa855f9e7f34b0800d90de59","ptbr":"Orvalho da Essência Lunar"}
+{"id":"LocalText/item_name5311401","revision":"209b0770d883f6a54af06653eda8132bf529e1a8dd2d6450a4b6192d094787ff","ptbr":"Orvalho do Espírito Solar"}
+{"id":"LocalText/item_name5321101","revision":"f2fd1eea5d801da7b6caa915fa7e043b924f0f83d245a638a644219beeb6831f","ptbr":"Orbe de Pedra das Nuvens"}
+{"id":"LocalText/item_name5321201","revision":"df9931870a1029a22dd341b93f0af46a08a33836226bdcf0ed2e877d2f56ed0a","ptbr":"Orbe do Feixe Estelar"}
+{"id":"LocalText/item_name5321301","revision":"6fb1920341123803cc57ad9abce042fe63928f5ed08c0ab8e469259a73abc2c4","ptbr":"Orbe do Tremor Lunar"}
+{"id":"LocalText/item_name5321401","revision":"ac48f10c7a75dba04eeb26032fda3ae3f1a8a4bd4ad8d495b18948d63e3bcd54","ptbr":"Orbe do Segredo Solar"}
+{"id":"LocalText/item_name5331101","revision":"a82fa881b1426d9cccb0ae0e22d5b5b42bfc6c6c6dff7e2671b22e17601017da","ptbr":"Fragrância de Sândalo (G5)"}
+{"id":"LocalText/item_name5331201","revision":"2bc281d01bd3f5495d1bc6a74da9ce62b1d741e84de8a6b5abe92adf1d6c86f9","ptbr":"Fragrância de Sândalo (G4)"}
+{"id":"LocalText/item_name5331301","revision":"2e9120618d10a8f0a02cdbe2d3852d03708b92dd9e4c07d663c79d076945ae9d","ptbr":"Fragrância de Sândalo (G3)"}
+{"id":"LocalText/item_name5331401","revision":"f9c1d0f99977b9dace1aabf85f33d2c65f2ef57023ae6c832927e270867a9f12","ptbr":"Fragrância de Sândalo (G2)"}
+{"id":"LocalText/item_name5341201","revision":"c07ab150270f62ed185ea0afcaf97e1d576840b5ecaa097fe4e779ade9510cd6","ptbr":"Silício"}
+{"id":"LocalText/item_name5341301","revision":"828bdc9d48df87f75ad5428d7e8de9e8db98e3ec26fb1cd7047ec80acfd603ba","ptbr":"Levítrio"}
+{"id":"LocalText/item_name5341401","revision":"bbd4e59fc4bfd275bb6e7c63078586ae1609e5052e1b16bcb9605b610266808f","ptbr":"Catódio"}
+{"id":"LocalText/item_name5341501","revision":"6df37e17ce3fee0b4ee7270d62f7a30035eb46c104b48d1f5cf7a8f7db2ba52d","ptbr":"Termita"}
+{"id":"LocalText/item_name5341601","revision":"1c48425504e48c0ebbf4108373c125e53f0709e28af53e40214c1e1e396a367b","ptbr":"Cristalínio"}
+{"id":"LocalText/item_name5341701","revision":"4fde6dd0013d2424ab42f7cfbc857023d1b3069003892100b3804696f464847b","ptbr":"Lustério"}
+{"id":"LocalText/item_name5341801","revision":"69ec59372b051e21ae3a626a1472f5ffc66c24fea9b3f08a56061cbee7cc9263","ptbr":"Nebulônio"}
+{"id":"LocalText/item_name5341901","revision":"dae8a23718af5f17306457144142552a8351b10bd99499f8a045a3cb36358caf","ptbr":"Hemofólio"}
+{"id":"LocalText/item_name5342001","revision":"fedcebdc6fa88238310a31aa25bf7ea0b0416e926d76abdaf8b8885fc71d7dcf","ptbr":"Feníxio"}
+{"id":"LocalText/item_name5342101","revision":"97156b55f2d62fa5f8f11d315e7a71fe26639a44aee2b36c1dc97556388bcbbb","ptbr":"Ouro Sombrio Carmesim"}
+{"id":"LocalText/item_name6021011","revision":"a6e4fa8e6a1e81f8dfaa5627fd23591569b61aee6aacaae254f1f743c60a6037","ptbr":"Carta da Família"}
+{"id":"LocalText/item_name6031011","revision":"f59a5297e9d20513e9e422834aaa3316b93aa58e11335de9c22a2a0176551cc8","ptbr":"Caixa de Elixires"}
+{"id":"LocalText/item_name6041011","revision":"87041b173a10b4d94c0256511d7b1ba43b8e9a64f974e9bb27416f1a472e895f","ptbr":"Licor Espiritual (G6)"}
+{"id":"LocalText/item_name6041012","revision":"6a77b68db4da29768ea075d1f6a4d1c1a82fcfb6cad09430dd762e957c3e7711","ptbr":"Licor Espiritual (G5)"}
+{"id":"LocalText/item_name6041013","revision":"9c5b7d87dc19ad1ce510423bbd20cb91919cac902db695f6469371b422123c01","ptbr":"Licor Espiritual (G4)"}
+{"id":"LocalText/item_name6041014","revision":"326c29c56c556593f16efb2061fa7a1771b5dbcb96d4e1367c1f5b97bad8ecd2","ptbr":"Licor Espiritual (G3)"}
+{"id":"LocalText/item_name6041015","revision":"8535d95349d05d2deb5d4e4c992fd996d03c030dc7fdd434a228041d16936d18","ptbr":"Licor Espiritual (G2)"}
+{"id":"LocalText/item_name6041016","revision":"f667d36ce0a0e4c701bd9217628655d7db1ea5bd458886ddc24238a5cc6ee6ef","ptbr":"Licor Espiritual (G1)"}
+{"id":"LocalText/item_name6051011","revision":"f02f138bfaf22f26b6c4dbe1b7f89223268ea48aa4a15167feb3739563621bc4","ptbr":"Receita do Elixir Huayu"}
+{"id":"LocalText/item_name6051021","revision":"28fe48376be9ba6bc5a27fbda8f408947fcc1f9e94c0025c73304f382b351435","ptbr":"Receita do Elixir de Circulação Sanguínea"}
+{"id":"LocalText/item_name6051031","revision":"e0c81457f4aa966be5f2146281dff0289659e4b249ade2edba041e983848473d","ptbr":"Receita do Elixir de Revitalização"}
+{"id":"LocalText/item_name6051041","revision":"be2bce6049061d8371d91c8d7b44efca574f5f5cfb96b145e0ee8c57123ff4ba","ptbr":"Receita do Elixir de Fusão Sanguínea"}
+{"id":"LocalText/item_name6051051","revision":"5c6fc71bea58c93632a264e5349b5d3e8643887636a343a29e7c646d5846bce1","ptbr":"Receita do Elixir do Sol Sagrado"}
+{"id":"LocalText/item_name6051061","revision":"ab7309a852ac1ace33af86c27b99adf3a0d99b733cbbaaa5a61998d7748f7e4c","ptbr":"Receita do Elixir de Convergência de Energia"}
+{"id":"LocalText/item_name6051071","revision":"b6fc58b77af71141b7acf11f139bb9a4da6ed2a26806e1731220950fd5425134","ptbr":"Receita do Elixir de Nutrição Primordial"}
+{"id":"LocalText/item_name6051081","revision":"5020c0a258c5b2ce10a73fffcd61dbf3b897d3204709df5d40266cf79c6ea027","ptbr":"Receita do Elixir da Unidade"}
+{"id":"LocalText/item_name6051091","revision":"d81528a5217d3893ffcfdedd5134e6020fb9363b498481cc78461393a29b6495","ptbr":"Receita do Elixir de Recuperação de Energia"}
+{"id":"LocalText/item_name6051101","revision":"c28582a3484d7c652604a5864958b984e6c5b788b80f74a585c207e59f0bca00","ptbr":"Receita do Elixir Guanglin"}
+{"id":"LocalText/item_name6051111","revision":"fe19ffc102347971475a6cb61387401457e1948edf9b93ced513e81dd8fb72cc","ptbr":"Receita do Elixir Sorve-Almas"}
+{"id":"LocalText/item_name6051121","revision":"dfba5dbf47cba76fbd622bc9b07a0d4d42064c084623dba32f9f5ed2d037d968","ptbr":"Receita de Elixir de Acúmulo de Poder"}
+{"id":"LocalText/item_name6051131","revision":"8526b3254b530fa7504805bafa0f79f6caaae630c9971def40a87e8ebbf3ea37","ptbr":"Receita de Elixir do Sol Escarlate"}
+{"id":"LocalText/item_name6051141","revision":"19dd7d51a4e22d7f9db77fc8354b7580d630606103bb53669c65db8c802b2ed6","ptbr":"Receita de Elixir Sanguinário"}
+{"id":"LocalText/item_name6051151","revision":"bf898764b6269f648c38eab4a005a22ec18c5f582b1256b36cb8b5d7fd3aaec6","ptbr":"Receita de Elixir da Força do Dragão"}
+{"id":"LocalText/item_name6051161","revision":"08c4e8f657814a01b024be6e1ab4d6a859451b0b66e0375b11a76debe56c7bd6","ptbr":"Receita de Elixir do Sol de Sangue"}
+{"id":"LocalText/item_name6051171","revision":"9e50cf7cb36dd6598ab55b47f0968054c9ce040ee98c004b2192527db480e98a","ptbr":"Receita de Elixir de Reconstrução Óssea"}
+{"id":"LocalText/item_name6051181","revision":"ad094e8d695a76eba53b4099d10f45c66930b1c985004afb77869727c706d3f6","ptbr":"Receita de Elixir de Jade Sólido"}
+{"id":"LocalText/item_name6051191","revision":"821ea685f1335b3a77b6ecdeb0f39f40b571f64e0f31b546638633c5f4002650","ptbr":"Receita de Elixir dos Meridianos"}
+{"id":"LocalText/item_name6051201","revision":"122ef380126e77d29ffd75227fa26647272f3337bdf410e03940e1bb7f9b3439","ptbr":"Receita de Elixir de Osso Dourado"}
+{"id":"LocalText/item_name6051211","revision":"81124343eb563aeede4342369528d9a4804f84c0f065ed3be237305f1d92a907","ptbr":"Receita de Elixir Celestial"}
+{"id":"LocalText/item_name6051221","revision":"4e543778334d9f6a40e1ae08fa8b63d617e11d3586bdbed4aa289f98509ee8e9","ptbr":"Receita de Elixir do Corpo Marcial"}
+{"id":"LocalText/item_name6051231","revision":"e490b2847abd97d939b650103c44a676d932dd68e9d10ef8c9422a462f169e79","ptbr":"Receita de Elixir da Longevidade"}
+{"id":"LocalText/item_name6051241","revision":"d068606c939fe349a08b10041242fc8810993a86badc29c746a8a65bdeb8a3fe","ptbr":"Receita de Elixir de Resistência"}
+{"id":"LocalText/item_name6051251","revision":"18d195b6435d638d8ff8be4b58fb70b25c562138812019eb4815edd6f7c42460","ptbr":"Receita de Elixir de Éter"}
+{"id":"LocalText/item_name6051261","revision":"84170b8a5444f93ea0514de41b082f0e16faef49e22727d21065027c171c24de","ptbr":"Receita de Elixir de Fuling"}
+{"id":"LocalText/item_name6051271","revision":"38b40f2408dee3a8c6144358e7b670e4a94cb3a7ee0afd63f77c46252b3b179f","ptbr":"Receita de Elixir da Divindade Terrestre"}
+{"id":"LocalText/item_name6051281","revision":"067addf1ab689da1fadeb209ece390640699faf0896e28633878f711d8321633","ptbr":"Receita de Elixir da Longevidade Empírea"}
+{"id":"LocalText/item_name6051291","revision":"0402da3e84ba702d3b813b8a7e9d341537d87fb3ed715f8cf62d1cddb6907f5b","ptbr":"Receita de Pílula de Essência Amarela"}
+{"id":"LocalText/item_name6051301","revision":"e0f36ad4038955e7755f9989257c1835f8e3104ddd04cf2cf46cb1ab25d705e4","ptbr":"Receita de Pílula Shiquan Dabu"}
+{"id":"LocalText/item_name6051311","revision":"1adf09ca3458092105d0d7b604386df17ae4765c7e9c9e08cc065c789a4f1b04","ptbr":"Receita de Pílula das Dez Essências"}
+{"id":"LocalText/item_name6051321","revision":"31f58ccc8f6f9e94323c3a9874ce580deb809c55a64876202e2e8b96e812f01d","ptbr":"Receita de Pílula de Ginseng"}
+{"id":"LocalText/item_name6051331","revision":"4a098e71de33e5abaf81965c52d12638d19e2b4f6aa0863f29b79974ff2b150f","ptbr":"Receita de Elixir da Beleza"}
+{"id":"LocalText/item_name6051341","revision":"610a6951c69eb5f0147a0587965c6e38abb87680927ab79d29c3e3a8dd05dec0","ptbr":"Receita de Elixir de Encanto"}
+{"id":"LocalText/item_name6051351","revision":"0593ebf2df9909ac079cce3f566e223230ac42c6f923ed22fc9b937a8febeca9","ptbr":"Receita de Elixir da Beleza Perene"}
+{"id":"LocalText/item_name6051361","revision":"23b55df4fc4bec21f06871c16ba0939983197da2fc894b1c78370303692f5cc3","ptbr":"Receita de Elixir de Poder Solar"}
+{"id":"LocalText/item_name6051371","revision":"66645fde82caed6a034bee2a0851d01556d05f19114356d0b34f8eacfdeae5de","ptbr":"Receita de Elixir de Constituição"}
+{"id":"LocalText/item_name6051381","revision":"7af65876e38e752f95ca1c8ca020b5aa3e91da55899eccb8e9d94c6bd7ea17ff","ptbr":"Receita de Elixir de Fusão Espiritual"}
+{"id":"LocalText/item_name6051391","revision":"0b5194ee27ef5b69db6110c4b7856774862b8359398bcfa7a6d02667b7b41c5c","ptbr":"Receita de Elixir de Fortalecimento de Energia"}
+{"id":"LocalText/item_name6051401","revision":"223bc49f7401bd11696c9654c8647b4a63fc7871ea6caaa528d60d0d5a9210bd","ptbr":"Receita de Elixir do Alicerce da Alma"}
+{"id":"LocalText/item_name6051411","revision":"b2a664b44e01f39243cda531982db73209005979a0c69b213261317358ed9e46","ptbr":"Receita de Elixir de Refino da Alma"}
+{"id":"LocalText/item_name6051421","revision":"a357e721cd7edf8b7ddfbb929091c83c7d0894a879943c663447a2fffd126a31","ptbr":"Receita de Elixir de Fundação Mortal"}
+{"id":"LocalText/item_name6051431","revision":"3081b0bd463edd38b591a9c824ce16da778821ef6e42e71f978a33ff9159259e","ptbr":"Receita de Elixir de Condensação de Qi"}
+{"id":"LocalText/item_name6051441","revision":"d07635552fe9ede124e81929e99364e08cd2e9b1d9fcffa015f0f152d61c72bc","ptbr":"Receita de Elixir de Fundação Celestial"}
+{"id":"LocalText/item_name6051451","revision":"65b42e684f05fcf3e8b98cbb1bd4089fa763b2e5b963671868f83ebde75bd4c1","ptbr":"Receita de Elixir de Fundação Terrestre"}
+{"id":"LocalText/item_name6051461","revision":"9b9068c9999f0c29aedc755e4d7fd01baab047a3563a936b55ee292bc96b6b0f","ptbr":"Receita de Elixir dos Mil Rios"}
+{"id":"LocalText/item_name6051471","revision":"156a397afc8d95a42d2beb3df0c0b4979515b3b2a00e6fcd0574ff24b88f78db","ptbr":"Receita de Elixir de Convergência Espiritual"}
+{"id":"LocalText/item_name6051481","revision":"16ed99351c187a761efd3cec8a4bf7eac859b340a37f013c6a18dca8b9cf136c","ptbr":"Receita de Elixir da Sutileza"}
+{"id":"LocalText/item_name6051491","revision":"64e8dfb76be00f6f9925ea6e1290d936a62924e5b83840e0cf8e88e11444b4a2","ptbr":"Receita de Elixir das Nuvens"}
+{"id":"LocalText/item_name6051501","revision":"a0d2fc1032211f761fa83467478bc46ac71f118ba2afc2d14ed4752381ae5087","ptbr":"Receita de Elixir das Três Flores"}
+{"id":"LocalText/item_name6051511","revision":"2ff01f2d58eb80c187bcc033ec5d57c2c57a6bd44954892455591b0115a60a9a","ptbr":"Receita de Elixir de Transformação Espiritual"}
+{"id":"LocalText/item_name6051521","revision":"3570f3b4cdf65ffb26cad9d378539bebd19fe30353f0ab7b1ea62fd637f19883","ptbr":"Receita de Elixir das Seis Aberturas"}
+{"id":"LocalText/item_name6051531","revision":"b65437cdfb0a1cc615dc4194b74d75711b35b1ec1eab4e73a9de619bee7c79dc","ptbr":"Receita de Elixir de Rompimento do Casulo"}
+{"id":"LocalText/item_name6051541","revision":"833d3d01e20f839e2c0286ec5bf3c5fe0b4907fa51331da8265480586674857e","ptbr":"Receita de Elixir de Alma Nascente Mortal"}
+{"id":"LocalText/item_name6051551","revision":"cad77bf75e0f6a56af1de9e6f1457bed6675fd6c55e24bf7d0d9287c3753d776","ptbr":"Receita de Elixir de Reconstrução da Alma"}
+{"id":"LocalText/item_name6051561","revision":"04b625d609ece10d6e226020fab42148fe88da65bb4ec00dc3f0f08f1a267332","ptbr":"Receita de Elixir de Iluminação"}
+{"id":"LocalText/item_name6051571","revision":"e9306096bc722bcac7b10298c98410cc29ef3dd8ce145c95b3ee0e861719e9c3","ptbr":"Receita de Elixir de Iluminação dos Três Reinos"}
+{"id":"LocalText/item_name6051581","revision":"6b722d6edcc5348ddd807255b9b26b243c3401c49193dfd5e2aa79e3069e710f","ptbr":"Receita de Elixir de Renascimento"}
+{"id":"LocalText/item_name6051591","revision":"68de44d2cefea6c96184acc20c2e2aa7e47fbb88acaef9061e6907c116c7ab45","ptbr":"Receita de Elixir Transcendente (Amarelo)"}
+{"id":"LocalText/item_name6051601","revision":"5fcd7d68f5337e146f2e33578b15b6b20823d91c4e60066b03c7bf78b0dece1f","ptbr":"Receita de Elixir Transcendente dos Três Caminhos"}
+{"id":"LocalText/item_name6051611","revision":"0b83af8ee2c5736b5f4de6707a18e4d2dea882e09f08a44d51a97b48afbbd557","ptbr":"Receita de Elixir do Dragão Majestoso"}
+{"id":"LocalText/item_name6051621","revision":"b7eb0806d5297c62308c00ab86821254aefeda516f535f1489d7d010409314fc","ptbr":"Receita de Elixir do Coração de Gelo"}
+{"id":"LocalText/item_name6051631","revision":"ed8bf0ad6697370f67f42f9968ab529d07d3451f519d7be9d44ba3d6654363c4","ptbr":"Receita de Elixir do Dragão Azul"}
+{"id":"LocalText/item_name6051641","revision":"1e35cb4b40a22f58ed5147b1d33b85edaf21bdad4eff79423d5dbf724f6877fb","ptbr":"Receita de Elixir Estrelado"}
+{"id":"LocalText/item_name6051651","revision":"f5681899f13b49bef82e455eec7249203cee54b2ff112c1b49ca9e730df47062","ptbr":"Receita de Elixir Sem Forma"}
+{"id":"LocalText/item_name6051661","revision":"6ea850fe1f8f4a875d9ef18bf71a8aaa84ec4b14391476a69fadc5f2317b75b4","ptbr":"Receita de Elixir de Reparo Ósseo"}
+{"id":"LocalText/item_name6051671","revision":"8650d0ec0a6da4ea524aaf4e891e11999e3a370571529cca391236785c715625","ptbr":"Receita de Elixir de Cura"}
+{"id":"LocalText/item_name6051681","revision":"60e2c96394a177a5648644b164891a905778a6b8086b56fc6c3e4510dc96d83c","ptbr":"Receita de Elixir de Reconstrução Corporal I"}
+{"id":"LocalText/item_name6051682","revision":"b9119588675d20f12af753cfdf3de038e3f6d046df634ceee2e8cc7b6e6d4bd6","ptbr":"Receita de Elixir de Reconstrução Corporal II"}
+{"id":"LocalText/item_name6051683","revision":"b543e370e48c945ef2b2a493ad5a7de54ee417b338602e493bfecc88b5ea8a52","ptbr":"Receita de Elixir de Reconstrução Corporal III"}
+{"id":"LocalText/item_name6051684","revision":"3524f6ca358e343ce8b42385922b3f414154863c8224e9600b253f8fd3fbeece","ptbr":"Receita de Elixir de Reconstrução Corporal IV"}
+{"id":"LocalText/item_name6051691","revision":"f2d8decf4366312e6b1c8c0d0e4ac09792a17ba24b98546c32e1b3826ebb58a9","ptbr":"Receita de Elixir Desintoxicante"}
+{"id":"LocalText/item_name6051701","revision":"bd4543073be00a4a80df3c9291f123729f622f9efb1bf05fc032a5d9514a49a8","ptbr":"Receita de Elixir de Cura Floral"}
+{"id":"LocalText/item_name6051711","revision":"2681f44b8defcf8e0c0d0e69a9df1be7ca630522cd9515695323cb0a3450549c","ptbr":"Receita de Elixir Taixuan"}
+{"id":"LocalText/item_name6052011","revision":"807993834ea578df1a27dc82df91e7f1434c5a69ef8830957df45f86cf08a966","ptbr":"Receita de Incenso Tóxico"}
+{"id":"LocalText/item_name6052012","revision":"8014ae522175dc9396c0a55a31e358484f322c4ede85c841f6ba1e91d2a3532d","ptbr":"Receita de Incenso Tóxico"}
+{"id":"LocalText/item_name6052013","revision":"8568e37c69480076598313731e8bf88ff9ce0f1577044e0c6b9fdfbbccf1c760","ptbr":"Receita de Incenso Tóxico"}
+{"id":"LocalText/item_name6052014","revision":"7601924477a9a90e48a204a9012f99e81fa0f813c7da3a8eaca9a09335ccb602","ptbr":"Receita de Incenso Tóxico"}
+{"id":"LocalText/item_name6052015","revision":"d23629011b7a0cb0e49468e6f1d6b15002a5d9f06a97f8d2d1c749c4221a67df","ptbr":"Receita de Incenso Tóxico"}
+{"id":"LocalText/item_name6052021","revision":"fcc4b98d4b0abca08ed7f9b73041aa3a47c167b6b540200374f6bcede11ad42b","ptbr":"Receita de Pílula Tiangang"}
+{"id":"LocalText/item_name6052022","revision":"caeb6623d23b52bd21c57067cfd42758befe5c8940c3cbd98b8a4ecfb5401086","ptbr":"Receita de Pílula Tiangang"}
+{"id":"LocalText/item_name6052023","revision":"8e72254c0a9b1819d9c5ea1eb14d0154a3468ff7d39f8e0ab0bd12efbc297e17","ptbr":"Receita de Pílula Tiangang"}
+{"id":"LocalText/item_name6052024","revision":"87af1ff3a1c907a58e1b640f05b3f0e1dda0d3786567f7a57c51ce3dc77f96ef","ptbr":"Receita de Pílula Tiangang"}
+{"id":"LocalText/item_name6052025","revision":"8a056f79c60940db12223b54975bc85cc3add52d2f5aff5f8e33ea8bc55273bb","ptbr":"Receita de Pílula Tiangang"}
+{"id":"LocalText/item_name6052031","revision":"e154cfb809a9db54174f0feb7dd0e270999c401aff248ce4e1cec9efba1415e6","ptbr":"Receita do Elixir de Convergência de Energia"}
+{"id":"LocalText/item_name6052032","revision":"a430dfd7a7749e4e69b622081437b90b252514ffb43a21c605454028c8cf3798","ptbr":"Receita do Elixir de Convergência de Energia"}
+{"id":"LocalText/item_name6052033","revision":"95308802b13350e35369b450561bff61b062cf592163d6399e063d3af7402ba9","ptbr":"Receita do Elixir de Convergência de Energia"}
+{"id":"LocalText/item_name6052034","revision":"0125ce265f1fe9728207a7f85ef5d96b0179af9e6ba7c73a79a38d7af5e08c1c","ptbr":"Receita do Elixir de Convergência de Energia"}
+{"id":"LocalText/item_name6052035","revision":"26360e8ddbcc36c805e1965d5e307b312f03dd044b9d5b1c69b3ba441dd30595","ptbr":"Receita do Elixir de Convergência de Energia"}
+{"id":"LocalText/item_name6052041","revision":"752d87d18b1294012ab02e91fc3aa29aad6334dcacaaece02fb7ef201b496311","ptbr":"Receita de Elixir de Sangue Ardente"}
+{"id":"LocalText/item_name6052042","revision":"36da13711b4a0072e57fff51509efad7b9f0498fcac6c2149b3c751526f076e9","ptbr":"Receita de Elixir de Sangue Ardente"}
+{"id":"LocalText/item_name6052043","revision":"06bcf7805a72c08fa1e35799919c70f05b13bd77de1a20ab10b20fbf9b627c1f","ptbr":"Receita de Elixir de Sangue Ardente"}
+{"id":"LocalText/item_name6052044","revision":"552feeda8295023c5e641911079ecb40558919da0c400e3988ac786ec973eb95","ptbr":"Receita de Elixir de Sangue Ardente"}
+{"id":"LocalText/item_name6052045","revision":"9127cfbe4cfb407af7bf3806443fcaa68b6faf1bd819a9603eaba1b76202f52e","ptbr":"Receita de Elixir de Sangue Ardente"}
+{"id":"LocalText/item_name6052051","revision":"d6adb570e02bf92e27ce18fe8d839e9491b29326d80a95aba2a489537149bff5","ptbr":"Receita de Elixir da Alma de Gelo"}
+{"id":"LocalText/item_name6052052","revision":"7f27278118d1b896a7e65db19c0ea76fc14493998840c9cc6551be3f557e6d05","ptbr":"Receita de Elixir da Alma de Gelo"}
+{"id":"LocalText/item_name6052053","revision":"fd39825c3d7a6efad6977e49d73d18d4b05e265756d2745884c621b1da813acc","ptbr":"Receita de Elixir da Alma de Gelo"}
+{"id":"LocalText/item_name6052054","revision":"479c868f7d82ae7c582d416a42be19b0323f11e170100c0bf55dbb3597228516","ptbr":"Receita de Elixir da Alma de Gelo"}
+{"id":"LocalText/item_name6052055","revision":"b8ad14fa10d1fb9de7e02fb46ec8e061544460ee9a9592d889af3c58ef50db4d","ptbr":"Receita de Elixir da Alma de Gelo"}
+{"id":"LocalText/item_name6052061","revision":"c66f6f0aecf109dbbf488308627dc59a6d64c4518907fd8a819e3f2583603d46","ptbr":"Receita de Incenso Alucinógeno"}
+{"id":"LocalText/item_name6052062","revision":"0b67f9708f66ed9a353712edd47f08a557960dcdd2b70f27fe438dcf94cbb0c0","ptbr":"Receita de Incenso Alucinógeno"}
+{"id":"LocalText/item_name6052063","revision":"01029816c0b9b75f19055f6ca87a3933f985725893103658907e197350422048","ptbr":"Receita de Incenso Alucinógeno"}
+{"id":"LocalText/item_name6052064","revision":"0d0c0aa47f54d046c268b5b4a0745f31f4295da27b80c083b1bcab88d6109831","ptbr":"Receita de Incenso Alucinógeno"}
+{"id":"LocalText/item_name6052065","revision":"ab3c80acfe8715435c91b02c19d42ff9b996c5894232976707099001a19006fb","ptbr":"Receita de Incenso Alucinógeno"}
+{"id":"LocalText/item_name6052071","revision":"f19ec791cc9f0bd8c6aabeb2715be0f253454356bc8cd33801d4afc28bcaf527","ptbr":"Receita de Orbe Queima-Traseiro"}
+{"id":"LocalText/item_name6052072","revision":"496f31e501014255e702e89b187ba53fc92120c1f002547fa0b3c30dc0029154","ptbr":"Receita de Orbe Queima-Traseiro"}
+{"id":"LocalText/item_name6052073","revision":"61315a3c85f14ef6eff260c8ac8e6d09ba8e26eb7f5f2ab9b5b36820e7b5456e","ptbr":"Receita de Orbe Queima-Traseiro"}
+{"id":"LocalText/item_name6052074","revision":"b6b47ad73990c521e3daebe37e7a648863aa3a50b21f7a7a51689e774d87214a","ptbr":"Receita de Orbe Queima-Traseiro"}
+{"id":"LocalText/item_name6052075","revision":"37430b10c4d5893b3e941b6651458a07d929d1ceb12bf66beaae6ab465db04db","ptbr":"Receita de Orbe Queima-Traseiro"}
+{"id":"LocalText/item_name6052081","revision":"b00902cd3d3cfc8d6b4d055aa2fcf1cec7e8aed0351716e1d8a9c7024d09d35f","ptbr":"Receita de Elixir das Gotas de Chuva Nefastas"}
+{"id":"LocalText/item_name6052082","revision":"3edae9b069491ded07e7a8a176622a0dfd772d9117e7f31df371ce68108ff033","ptbr":"Receita de Elixir das Gotas de Chuva Nefastas"}
+{"id":"LocalText/item_name6052083","revision":"0ef0f41c40455e9eb27dea1daa3aeb4239c27bb555667eef0d471520b10e9485","ptbr":"Receita de Elixir das Gotas de Chuva Nefastas"}
+{"id":"LocalText/item_name6052084","revision":"710ea7a8fc77636eeaee460731186ef6ebfc008dfee8cef506b7720bb20d3979","ptbr":"Receita de Elixir das Gotas de Chuva Nefastas"}
+{"id":"LocalText/item_name6052085","revision":"25a58041f9d77d68ba500e33f415b677d35ecb8f9853b33b5aa6dd2001600bbd","ptbr":"Receita de Elixir das Gotas de Chuva Nefastas"}
+{"id":"LocalText/item_name6052091","revision":"9e8c822d27ecdc3451a4753d5a8cfcabeb4b8ad8d025cc2e2e1d074f905d4745","ptbr":"Receita de Elixir do Chamado do Submundo"}
+{"id":"LocalText/item_name6052092","revision":"71f544e66a9d83721e9de6043d48ec3c74728b987db93b720e1b9a6087060734","ptbr":"Receita de Elixir do Chamado do Submundo"}
+{"id":"LocalText/item_name6052093","revision":"e8639fd173a0975c085692796da6f2b552df522d88a1f85867f8c02069485b7d","ptbr":"Receita de Elixir do Chamado do Submundo"}
+{"id":"LocalText/item_name6052094","revision":"01530ef91a4bf75708b6de95b3e402323953852c0e60e8a5aeb718ef5f78acce","ptbr":"Receita de Elixir do Chamado do Submundo"}
+{"id":"LocalText/item_name6052095","revision":"10310f4b9581861741728f8c661a453832fb5514fd3e68649774c48d8ace7b1d","ptbr":"Receita de Elixir do Chamado do Submundo"}
+{"id":"LocalText/item_name6053011","revision":"9750839ab587821f1397453e842a28ea1fb87645dac6b63069801f2af59a210e","ptbr":"Receita de Bálsamo Venenoso"}
+{"id":"LocalText/item_name6053012","revision":"30041734b7ea0053e7a16f0c61ce90d98b3bd93686ad6b480fcda6a45dca965d","ptbr":"Receita de Bálsamo Venenoso"}
+{"id":"LocalText/item_name6053013","revision":"6e5f686f714f94f8d2d8496ee84b7b2d4627a3281b889a4014336d55ad3947e8","ptbr":"Receita de Bálsamo Venenoso"}
+{"id":"LocalText/item_name6053014","revision":"4830684b85fb744cebfd53c0c1b78107691037057d378db39964e162dbc11f97","ptbr":"Receita de Bálsamo Venenoso"}
+{"id":"LocalText/item_name6053015","revision":"61788870129c1b5633c94519ecbe8a2bc2bcca991b9ebca00bcfa5f9974676b1","ptbr":"Receita de Bálsamo Venenoso"}
+{"id":"LocalText/item_name6053021","revision":"62e4ad6c0f480d4ed5e11fc2e376c205213dc5ffc977b4d3378448e30e3f41a7","ptbr":"Receita de Pó da Paixão"}
+{"id":"LocalText/item_name6053022","revision":"0ffe2111fd2da3478a9d44e0ce5f64ccc1fa3ba8d98988dc3c9f1e6ff873aeba","ptbr":"Receita de Pó da Paixão"}
+{"id":"LocalText/item_name6053023","revision":"1c0325267dd2183153cfc1739371673428922b586b320d102b90950f33a97210","ptbr":"Receita de Pó da Paixão"}
+{"id":"LocalText/item_name6053024","revision":"2b7e42f4ed7921bb7e346cc889bebb97f4dbeb4dc7deb66776f97b71e26f7c12","ptbr":"Receita de Pó da Paixão"}
+{"id":"LocalText/item_name6053025","revision":"e11b79473c9b6e26f882840fe0ed0f7db06b80a37c4974e805998ba68de9f1d1","ptbr":"Receita de Pó da Paixão"}
+{"id":"LocalText/item_name6053031","revision":"fda870bac4e580cc13c57f36e143d3fd7b424dbd7764048e8f8d9bafdf5e31b4","ptbr":"Receita de Flor de Ameixeira na Neve"}
+{"id":"LocalText/item_name6053032","revision":"9004882173d6a6782cda466cf88837e42887a4caea963c87b4748465737e91a7","ptbr":"Receita de Flor de Ameixeira na Neve"}
+{"id":"LocalText/item_name6053033","revision":"a9d0521360aa21d84d1612fb939cb5481b0895103211b1b9647061a212c64e8a","ptbr":"Receita de Flor de Ameixeira na Neve"}
+{"id":"LocalText/item_name6053034","revision":"93735b5cc8fa6deb9faf3ee707194ed5f28f7c1be2045f72077168475a6aa889","ptbr":"Receita de Flor de Ameixeira na Neve"}
+{"id":"LocalText/item_name6053035","revision":"5d492fc3a1d96150838775a9754cf3227499119723b7f21b5081d726087fa826","ptbr":"Receita de Flor de Ameixeira na Neve"}
+{"id":"LocalText/item_name6053041","revision":"0b163441cd157fd05b8dae6ca55022fba83e9f4e33e5720958830082e147d387","ptbr":"Receita de Elixir da Avareza"}
+{"id":"LocalText/item_name6053042","revision":"07a642a1ef526d1712ce42017cbaccc4f4f0208eb2f4b4a938ec643206178131","ptbr":"Receita de Elixir da Avareza"}
+{"id":"LocalText/item_name6053043","revision":"5e28ffbd8ab1b52141bac25ac7b2940ce8cf221bc9cfde317855793ccd413c61","ptbr":"Receita de Elixir da Avareza"}
+{"id":"LocalText/item_name6053044","revision":"8d599244ce86fe82052cdde3980bf28eee870e3a05168c69eb575819270fb2c3","ptbr":"Receita de Elixir da Avareza"}
+{"id":"LocalText/item_name6053045","revision":"4c30b796834940c6e52f57c9f9918673d4b6a087c93cc46d3c55584a8a6e9c17","ptbr":"Receita de Elixir da Avareza"}
+{"id":"LocalText/item_name6053051","revision":"288bf4f9424187e9c35abffd3527eeaa98ffe2a0116be9b7acfe735354ebaec6","ptbr":"Receita de Elixir da Benevolência"}
+{"id":"LocalText/item_name6053052","revision":"e8e32e8aff47199f181e46d0088f0d548879ba12a1755e9556686b17f9941554","ptbr":"Receita de Elixir da Benevolência"}
+{"id":"LocalText/item_name6053053","revision":"6b4ca78efae1eb57da4fee5c7f11a99b09f958653243a0718400ec06364b3b36","ptbr":"Receita de Elixir da Benevolência"}
+{"id":"LocalText/item_name6053054","revision":"2f8e7cb6c564d97ec818ef2fda2fc6a63427028fef6c8f04585d08a86ce8b231","ptbr":"Receita de Elixir da Benevolência"}
+{"id":"LocalText/item_name6053055","revision":"c8b4deff0fd703e3f64c8492e8e52dbd03991142908b260640131ed68abacc91","ptbr":"Receita de Elixir da Benevolência"}
+{"id":"LocalText/item_name6053061","revision":"4b6ae701757a86c1e76acec6fdf85d0ff35869a885f8f84ee4730c6f9fc5d73f","ptbr":"Receita de Elixir do Yang Radiante"}
+{"id":"LocalText/item_name6053062","revision":"10ea205a9cc403dda22a34effac172008234ac01c8d03b2aa74b6a949116c21c","ptbr":"Receita de Elixir do Yang Radiante"}
+{"id":"LocalText/item_name6053063","revision":"173507e782dbce3a53b1138fec589e83fd81451b1c82b7f7c8cce1f78852592d","ptbr":"Receita de Elixir do Yang Radiante"}
+{"id":"LocalText/item_name6053064","revision":"f4489db36a37454002ad49ccdac0963adee7816aeba43e6f294eb924d32d44a9","ptbr":"Receita de Elixir do Yang Radiante"}
+{"id":"LocalText/item_name6053065","revision":"e512cb866a9e1eb037fb493be27b28d97a4604debd0d4763ae012e3d2539e547","ptbr":"Receita de Elixir do Yang Radiante"}
+{"id":"LocalText/item_name6053071","revision":"52322420caef4211c25a98db4aec403fa5375035b2b4a832ab2dd45751db94fc","ptbr":"Receita de Elixir do Guardião da Lei"}
+{"id":"LocalText/item_name6053072","revision":"86a434d0f2eab267dc5ee8ba6c8beb9d0f51adda697d2861761f20b076fc6157","ptbr":"Receita de Elixir do Guardião da Lei"}
+{"id":"LocalText/item_name6053073","revision":"bebeed85a89b6a1ac51390b3cd975eb03881415894c07fd78e1a5036420b6c68","ptbr":"Receita de Elixir do Guardião da Lei"}
+{"id":"LocalText/item_name6053074","revision":"4d4a50a867a1159b71a8ea36156e7675e3952e3cd06e870be434e810cc224e19","ptbr":"Receita de Elixir do Guardião da Lei"}
+{"id":"LocalText/item_name6053075","revision":"52c5da3fea7a54827752a8d9cd2abf40a7cf3e8ba27795bd8806687b506b9e5a","ptbr":"Receita de Elixir do Guardião da Lei"}
+{"id":"LocalText/item_name6053081","revision":"921146c6cfbb29a3bf71b72ef93c5564d05c7631406d966db6a5e4e148b3ac14","ptbr":"Receita de Elixir do Malfeitor"}
+{"id":"LocalText/item_name6053082","revision":"d588297de0b21ea2a4535df6e0b3b6b44ece7f534324cc41ba68209ecd6c02e1","ptbr":"Receita de Elixir do Malfeitor"}
+{"id":"LocalText/item_name6053083","revision":"a9cec654bafa344cf95463532f048c682b2e8099b2f59246e9e854307da859cb","ptbr":"Receita de Elixir do Malfeitor"}
+{"id":"LocalText/item_name6053084","revision":"158086fb48fe83a2adcde432b42fed91418d1f09737a06e16579338aebe46ac8","ptbr":"Receita de Elixir do Malfeitor"}
+{"id":"LocalText/item_name6053085","revision":"d55cb7ba3c279d0d2af746aba32b16018b0e1d89ea6e848d0a47ea8ee7cf5df7","ptbr":"Receita de Elixir do Malfeitor"}
+{"id":"LocalText/item_name6061011","revision":"3aa1f4bb6203c68e87c43214150e7f040049e500a5ef3bed80e0ed71d4ec81f8","ptbr":"Fornalha de Latão"}
+{"id":"LocalText/item_name6061021","revision":"04e549d863688f09bf71e3009199d36b102584fa8395e150276cd46bb0c0516c","ptbr":"Fornalha da Sabedoria"}
+{"id":"LocalText/item_name6061031","revision":"6f05facfdd8f2cf85c7bda77d4fca91f68fa363bc372cd81bce6464169628bd3","ptbr":"Fornalha de Auxílio"}
+{"id":"LocalText/item_name6061041","revision":"c87478ea59601bec428ce0850563904efdcb74f84ba8f2e9e85575e8d3b43c68","ptbr":"Fornalha de Chifre Dourado"}
+{"id":"LocalText/item_name6061051","revision":"3749f69b842fdea2a6b3e5e1562adf1ce0de931c339b8a67a37cb680080ceef3","ptbr":"Fornalha de Alívio"}
+{"id":"LocalText/item_name6061061","revision":"bd497bb9a2db3f4a4e7d06391b8880946942fd70853f43ed08d829888e7d13b8","ptbr":"Fornalha de Restauração"}
+{"id":"LocalText/item_name6061071","revision":"33644be59f11ae75577b6cf269e1bf270a35f230465188a2c09ff4078181fbab","ptbr":"Fornalha de Reforço"}
+{"id":"LocalText/item_name6061081","revision":"8aaefcd44d4e11c9f3cf439ef445758b2ffc4911f7acd90c98fd8ca8ce44bede","ptbr":"Fornalha de Impulso Elemental"}
+{"id":"LocalText/item_name6061091","revision":"15d2659564185f09dddeeff46fa5b7a6f8c0fbed611029188ee4eeb05e3d07ba","ptbr":"Fornalha da Acuidade"}
+{"id":"LocalText/item_name6061101","revision":"d6f31cffae86c781b57b7aedd71721f222d4e6e2aae7a6fcda5d882791321316","ptbr":"Fornalha de Amplificação de Fogo"}
+{"id":"LocalText/item_name6061111","revision":"5b74ca82072fc5e467b708499667d26a25243f0f32a2088dc46e0206ad9d8d13","ptbr":"Fornalha de Amplificação de Água"}
+{"id":"LocalText/item_name6061121","revision":"ccf492ab3ba90b55004909ee5c59193d2efe223c16a19db4d37887028ad376c8","ptbr":"Fornalha de Amplificação de Vento"}
+{"id":"LocalText/item_name6061131","revision":"eb02bbec71bdf1d18ddcf157f37053d40ae8bbf0eac6b8dcf8f06a62babd614a","ptbr":"Fornalha de Geada Ardente"}
+{"id":"LocalText/item_name6061141","revision":"f6cc5fe6bdb89a5d1e31081e5915d47e02fa971a92a63d1904fe53a370a2bc15","ptbr":"Fornalha de Chama Gélida"}
+{"id":"LocalText/item_name6061151","revision":"50448ca7fc160770dd3c7d7679ef0d84aab147cc7eef984bdd076551e954f0ec","ptbr":"Fornalha de Raio Branco"}
+{"id":"LocalText/item_name6061161","revision":"133854a6e1434565e467354f17b0da3662709f19123a04e833bc38c0a8745d30","ptbr":"Fornalha de Nuvem Púrpura"}
+{"id":"LocalText/item_name6061171","revision":"e89b8efe07232ef2a7f131a61c0558499ad3a542d9df2ed8ab754f3ef4cbf193","ptbr":"Fornalha de Granito Verde"}
+{"id":"LocalText/item_name6061181","revision":"5f11a2e6d8b8e6bf1921427769cbfe7e5f75bdca01574ffcd9bb8d464adcba32","ptbr":"Fornalha de Núcleo Fortificado"}
+{"id":"LocalText/item_name6061191","revision":"4245be670389559a7d5bae22a2c6cbf09d1122d4ec3e24075fc9dd42dc96d17b","ptbr":"Fornalha da Centelha"}
+{"id":"LocalText/item_name6061201","revision":"bc484b2628addf4767774a54860226f2c6d8df99ab249dc2c6410ac2a027f96c","ptbr":"Fornalha Perpétua"}
+{"id":"LocalText/item_name6061211","revision":"090f1c001a60d02a4e22234e3f9efdcb19e237b06d32d38a8f3a0bc3dd52324f","ptbr":"Fornalha Energizante"}
+{"id":"LocalText/item_name6061221","revision":"64b5594927b37a3d2b4d8dbb31d8adb30a86ab3d7022e1f9ea45ccb39d6daa99","ptbr":"Fornalha da Estrela Mágica"}
+{"id":"LocalText/item_name6061231","revision":"6e71699cddd2145e3dd9042f0e1de1234e352d90302e006b6c1d113c8e17e17e","ptbr":"Fornalha da Estrela do Vazio"}
+{"id":"LocalText/item_name6061241","revision":"22be36fc9b88471b9bc764f0765cc2508f37593402d6a15e14af2a776bacfec1","ptbr":"Fornalha de Recarga Elemental"}
+{"id":"LocalText/item_name6061251","revision":"5d26f0ddb0915937e7d9952511aabc33d6bea51eb3208030068e3b475098745d","ptbr":"Fornalha de Orvalho Flamejante"}
+{"id":"LocalText/item_name6061261","revision":"c4f5490e4074e0b20ac139da134cf71df29905df80ca91fea347dde846c825f6","ptbr":"Fornalha de Nuvem de Raios"}
+{"id":"LocalText/item_name6061271","revision":"04d303f558817ae26a74c265be52fce3f32563b14f8ef0cd7b832ec6a1ceae26","ptbr":"Fornalha de Núcleo da Terra"}
+{"id":"LocalText/item_name6061281","revision":"1c3c6ca6f5f2a33660bb241a232d32408c12495e2aaf1a0a5c52112d7a8e6902","ptbr":"Fornalha de Yanluo"}
+{"id":"LocalText/item_name6061291","revision":"35f875f1d929dff148f4a4ea615cd1f2f8e4269f6fb8430d5ec19e6c069adf36","ptbr":"Fornalha do Corvo Solar"}
+{"id":"LocalText/item_name6061301","revision":"b02f6158f3fff76487aa3ab4cb635bcb3589d614319de60ad52f677e548df8a0","ptbr":"Fornalha do Fado"}
+{"id":"LocalText/item_name6061311","revision":"338b522aeb9c4d69fafe6706ae540b6abb27b9057ebd5d54880aea152cc60418","ptbr":"Fornalha de Irrupção"}
+{"id":"LocalText/item_name6061321","revision":"0b5c837c4d0c15645e6d526608718a047b420ffb93d5918f97988158c738b53f","ptbr":"Fornalha de Jade Sagrado"}
+{"id":"LocalText/item_name6061331","revision":"306bac2613f20c28a953abd534ed094c37d8db566f9ce6eaebda0cf9875d16de","ptbr":"Fornalha Zen"}
+{"id":"LocalText/item_name6061341","revision":"33c13c4eac2847bcc3a4d6f98d23d866043c2f956d55d8481c3ebc9f169d1cdd","ptbr":"Fornalha do Deus Celestial"}
+{"id":"LocalText/item_name6061351","revision":"5d795a309fd7690899467acdf3128dbbb5726f92094720cea54badfda139caa5","ptbr":"Fornalha do Deus Terrestre"}
+{"id":"LocalText/item_name6061361","revision":"85763a5672aacbb96a803cca3014a2ffd2509d8e9aadce4ed142bef62a55212b","ptbr":"Fornalha Primordial"}
+{"id":"LocalText/item_name6061371","revision":"674a6f6f2e94715d484a7032848a766c279482cdec9779bc1db461ffa1d7d50d","ptbr":"Fornalha de Revigoramento Elemental"}
+{"id":"LocalText/item_name6061381","revision":"6b1554f0fa00f5844e26642d712d358bba0fb93ce494a289eb78321de4e8aa46","ptbr":"Fornalha do Caminho Celestial"}
+{"id":"LocalText/item_name6061391","revision":"84284737abb251757583bf14debd616b46552bdae313e6c3f6d7cb45bdfc1b0d","ptbr":"Fornalha do Destino"}
+{"id":"LocalText/item_name6061401","revision":"dc248d318118e583723f3107460dc56c43e57f7a6cc0538c41a234e49ea20d48","ptbr":"Fornalha do Baluarte"}
+{"id":"LocalText/item_name6081011","revision":"e86c5559d9249e483c80df017bbe39265fa49d7a7c397933702f3bd8d08fef46","ptbr":"Talismã de Jade Desconhecido"}
+{"id":"LocalText/item_name6101011","revision":"bf40d7b5cfbbcb885528655af597199aa0f0244f7f5eb7a40119bff1cd9a705c","ptbr":"Grampo de Pérola"}
+{"id":"LocalText/item_name700203","revision":"b55c825c48b1784fdd72f5bc954ea331cb8cffe445ea1c83e8f2d227211b2291","ptbr":"Caldeirão da Miragem"}
+{"id":"LocalText/item_name700204","revision":"d452f8153b803af79a57527606d2a71ac8eabba59ad0b817e88f9ea9272bc02a","ptbr":"Caldeirão da Miragem I"}
+{"id":"LocalText/item_reputationDesc","revision":"952d832aee8777fed2365a14aa43ffcdbcdddeb800deba29b8d69e19542313e0","ptbr":"Aumente sua Reputação ao concluir Missões de Recompensa."}

@@ -1,2 +1,500 @@
+{"id":"LocalText/battle_dungeon_info101","revision":"d5a1d84c64f006da11416de7df1b1f06c023d1cfa926bb3baed734ab3fe6124e","ptbr":"Formidáveis Espíritos de Bambu habitam esta floresta. Eles absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info1011","revision":"8cb642b9367d58c442caef1c04e5346d75a87293f7b2e13e6b240f67fce2c7ea","ptbr":"Formidáveis Espíritos de Bambu habitam esta floresta. Eles absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info1012","revision":"674f99f574fb1e12d544bb86fcdc4e1e5325f8bd7da3a96e9042122af4eb1c62","ptbr":"Formidáveis <r>Ursos</r> habitam esta floresta. Eles absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info1013","revision":"f5779f78fc9d6d7e01b90335bb035a35846ecb0cabcbbd03e452a4ec283a9135","ptbr":"Formidáveis <r>Espíritos de Bambu Arqueiros</r> habitam esta floresta. Eles absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info1014","revision":"de32cfa953267e16b13171fbcef3e4d3eb0b9681c503f6283e84d236f5fabdad","ptbr":"Formidáveis <r>Espíritos de Bambu Lanterna</r> habitam esta floresta. Eles absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info1015","revision":"dad21dd7eecd227ebb34b4b5b84a2bf72233c616eaa27f1ecb48b2f1aa994219","ptbr":"Formidáveis <r>Espíritos de Bambu Espadachins</r> habitam esta floresta. Eles absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info1016","revision":"0248b087e0545c992ae23cbde82c197d4f867b961d04e6f06dd5c37b8330ad5b","ptbr":"Formidáveis <r>Espíritos de Bambu Lanterna</r> habitam esta floresta. Eles absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info1017","revision":"d0f63d323d5f519fb7221f5622d5a4598500314f1e7f5ff9d8af6765c5004928","ptbr":"Formidáveis <r>Serpentes Espirituais</r> habitam esta floresta. Elas absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info1018","revision":"f970ae0ed5d5168e4aaaab47a1e15a43d6537a93e61da1b5dbd89a17ae6d2ae4","ptbr":"Formidáveis <r>Aranhas-Fantasma</r> habitam esta floresta. Elas absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info102","revision":"59c22b67ab510aeba475c39b0ba806425c06b39dfb022508032bce4a33ec15ba","ptbr":"Uma terra desolada ocupada por monstros do Submundo."}
+{"id":"LocalText/battle_dungeon_info1021","revision":"34cf98d5889f0ce436986ebda3ce0f41f46b74efc19f50e3d6acf264767c898a","ptbr":"Formidáveis Espíritos de Bambu habitam esta floresta. Eles absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info1022","revision":"3ed6b42976e00854978cf2b01821a3678642ae840168afe252491b70be44d4d2","ptbr":"Formidáveis <r>Ursos</r> habitam esta floresta. Eles absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info102288","revision":"6a60a2e6d9950972a6bbc46fa62917aed272423bdad335488a0de9c51bbfe6f9","ptbr":"Formidáveis <r>Ursos</r> habitam esta floresta. Eles absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info1023","revision":"11a1eae8c83827098f63ba8cc6f283d1a816eedf12566ab90af39b26456820c0","ptbr":"Formidáveis <r>Espíritos de Bambu Arqueiros</r> habitam esta floresta. Eles absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info102388","revision":"e7f28f8ff0a68115c79f8a1d2e51c473aae8867e92a846a7a9d219fa5a53688e","ptbr":"Formidáveis <r>Espíritos de Bambu Arqueiros</r> habitam esta floresta. Eles absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info1024","revision":"040f9a731b001e11c04bf363bc033b5aa9c8a51ab7d0cbe8b7657b696a6897e1","ptbr":"Formidáveis <r>Espíritos de Bambu Lanterna</r> habitam esta floresta. Eles absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info102488","revision":"a94d80fc3387171267e88904bb7a3e428c2ed3f3f5e97ba158b0de05be4d2c12","ptbr":"Formidáveis <r>Espíritos de Bambu Lanterna</r> habitam esta floresta. Eles absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info1025","revision":"a21d563c61f70da5531ffaddfd23cece7411c66b161149c161a5e073a3c40615","ptbr":"Formidáveis <r>Espíritos de Bambu Espadachins</r> habitam esta floresta. Eles absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info102588","revision":"394c51c34539038863a36155b0d33ee7d5cce28489e1ca520683a2c5e4238fe3","ptbr":"Formidáveis <r>Espíritos de Bambu Espadachins</r> habitam esta floresta. Eles absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info1026","revision":"15171ece2c33516715c9326cc3b3b0c66702baf6b468241c5f15c9e9e6e6f4b4","ptbr":"Formidáveis <r>Espíritos de Bambu Sábios</r> habitam esta floresta. Eles absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info102688","revision":"d5b586f5211b80b69eee34ee357249cd3938b1ee9439ae6fd9262fdc4dc23ed1","ptbr":"Formidáveis <r>Espíritos de Bambu Sábios</r> habitam esta floresta. Eles absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info1027","revision":"69de47affdcdf027c47cc74792b168c2c85aa8ea04f903e5391070ad2a1bb207","ptbr":"Formidáveis <r>Serpentes Espirituais</r> habitam esta floresta. Elas absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info102788","revision":"9bafe2246e264af1f9abada74e791af3467cd5f2648717912b6e92cf2c6fe708","ptbr":"Formidáveis <r>Serpentes Espirituais</r> habitam esta floresta. Elas absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info1028","revision":"494e27e87e248c026c7e71b39d3313783ae182be25ba203ef96d9d197463a614","ptbr":"Formidáveis <r>Aranhas-Fantasma</r> habitam esta floresta. Elas absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info102888","revision":"215ee55d6aed4b9fe2355745a8e517024263918da00ca70d2a009d260215a608","ptbr":"Formidáveis <r>Aranhas-Fantasma</r> habitam esta floresta. Elas absorvem o Qi das redondezas para seu cultivo."}
+{"id":"LocalText/battle_dungeon_info103","revision":"4080d578fb9ed8fb580c01bc8da3fc8e7152d0932651ed0dc160ba83896beecd","ptbr":"Bandidos montaram acampamento aqui. Ao roubar viajantes, acumularam uma boa fortuna."}
+{"id":"LocalText/battle_dungeon_info1031","revision":"43a5274cab0848f62d148db80344ff5990b7aef0e9fb3b2653d914c0e8a8b520","ptbr":"Não se deixe enganar pela atmosfera calma e tranquila. Monstros ferozes espreitam na floresta de pessegueiros, à espera de suas presas."}
+{"id":"LocalText/battle_dungeon_info1032","revision":"8022b0acc26ca3f3aeda100a9039c4ed766b4d9684b2373f4c5f939f9bdb6355","ptbr":"Não se deixe enganar pela atmosfera calma e tranquila. Ferozes <r>Lagartos Cavaleiros</r> espreitam na floresta de pessegueiros, à espera de suas presas."}
+{"id":"LocalText/battle_dungeon_info1033","revision":"9998a34682caed4584719b9e810763ffc7ae244f87bd0466701cc74b31716259","ptbr":"Não se deixe enganar pela atmosfera calma e tranquila. Ferozes <r>Lagartos Lutadores</r> espreitam ali, à espera de suas presas."}
+{"id":"LocalText/battle_dungeon_info1034","revision":"442107b1d6379fc7b1fe7f8b4781ec7c0189859a9dcf0b0eedf4c96bd9f9c3fd","ptbr":"Não se deixe enganar pela atmosfera calma e tranquila. Ferozes <r>Lagartos Lanceiros</r> espreitam na floresta de pessegueiros, à espera de suas presas."}
+{"id":"LocalText/battle_dungeon_info1035","revision":"4cbd4d7edf19c112a7f8e9a6eca0aa469129bdc8729c57947b7c50ee070d91c9","ptbr":"Não se deixe enganar pela atmosfera calma e tranquila. Ferozes <r>Lagartos Espadachins</r> espreitam ali, à espera de suas presas."}
+{"id":"LocalText/battle_dungeon_info104","revision":"2b8664ccd0f0f8bb010f2b754bd3b8ab227fc2caf8f595cd3109d609f20f47be","ptbr":"Como o próprio nome sugere, a Colina das Raposas é o lar das Raposas Espirituais. Espere ataques implacáveis se invadir o território delas."}
+{"id":"LocalText/battle_dungeon_info1041","revision":"5ba01c42228dd9d46f97f030216b733f4f1e7e10a800fccbe4c4304d5572f492","ptbr":"Não se deixe enganar pela atmosfera calma e tranquila. Monstros ferozes espreitam na floresta de pessegueiros, à espera de suas presas."}
+{"id":"LocalText/battle_dungeon_info1042","revision":"57f7e91e83060fbf513009d42619a4b3a06ebcea93d7d77825efab330279ac49","ptbr":"Não se deixe enganar pela atmosfera calma e tranquila. Ferozes <r>Lagartos Cavaleiros</r> espreitam ali, à espera de suas presas."}
+{"id":"LocalText/battle_dungeon_info104288","revision":"36f0911e611d13ab07a53f0cd46b647741401e5e802ea99a26a641ec4c5095f2","ptbr":"Não se deixe enganar pela atmosfera calma e tranquila. Ferozes <r>Lagartos Cavaleiros</r> espreitam ali, à espera de suas presas."}
+{"id":"LocalText/battle_dungeon_info1043","revision":"e520429e9d3821cd09ad0e20ed4077c1f9652929a8e25400b0bada9a052f23fb","ptbr":"Não se deixe enganar pela atmosfera calma e tranquila. Ferozes <r>Lagartos Lutadores</r> espreitam na floresta de pessegueiros, à espera de suas presas."}
+{"id":"LocalText/battle_dungeon_info104388","revision":"3fa4187eb39b099c758471b4012c730767b28f2d5b96d544fb57e5b3c4579e78","ptbr":"Não se deixe enganar pela atmosfera calma e tranquila. Ferozes <r>Lagartos Lutadores</r> espreitam na floresta de pessegueiros, à espera de suas presas."}
+{"id":"LocalText/battle_dungeon_info1044","revision":"9a92689e12beb79693b821e1112d0cb65bfc13a9ff952af6060d71af7811a046","ptbr":"Não se deixe enganar pela atmosfera calma e tranquila. Ferozes <r>Lagartos Lanceiros</r> espreitam ali, à espera de suas presas."}
+{"id":"LocalText/battle_dungeon_info104488","revision":"40f811a25fdc7830005e11ee3c564661262effd2017c6f6d3c1b84796a61dd0b","ptbr":"Não se deixe enganar pela atmosfera calma e tranquila. Ferozes <r>Lagartos Lanceiros</r> espreitam ali, à espera de suas presas."}
+{"id":"LocalText/battle_dungeon_info1045","revision":"1270833b05dc26bb3af3c4a1e6720cef65cf94b9afefd97db21d426cb180a896","ptbr":"Não se deixe enganar pela atmosfera calma e tranquila. Ferozes <r>Lagartos Espadachins</r> espreitam ali, à espera de suas presas."}
+{"id":"LocalText/battle_dungeon_info104588","revision":"a932e881237c09ad5aa790f0a03c3c24e26ed15eedfe3a7fa4d2e14d355bc417","ptbr":"Não se deixe enganar pela atmosfera calma e tranquila. Ferozes <r>Lagartos Espadachins</r> espreitam ali, à espera de suas presas."}
+{"id":"LocalText/battle_dungeon_info105","revision":"20ab9d965072e80fd88aeac132f14c9fe7bc024e6d3419cc2ee710a7ffc0108c","ptbr":"Não se deixe enganar pela superfície calma e tranquila. Monstros ferozes espreitam sob este pântano, à espera de suas presas."}
+{"id":"LocalText/battle_dungeon_info1051","revision":"afabad8fb3439c6fd157bf0ec70faa16ef4c1d2a18ce8fed5f950855b5112c9e","ptbr":"Como o próprio nome sugere, a Colina das Raposas é o lar das Raposas Espirituais. Espere ataques implacáveis se invadir o território delas."}
+{"id":"LocalText/battle_dungeon_info1052","revision":"920a1aa5f170b8b5fe48f7a91a115619ded313390a86307a8beb5ef9558915a0","ptbr":"Como o próprio nome sugere, a Colina das Raposas é o lar das Raposas Espirituais. Espere ataques implacáveis das <r>Raposas Espadachins</r> se invadir o território delas."}
+{"id":"LocalText/battle_dungeon_info1053","revision":"b99ece763ff85427642b51dc99e84adef75dea5b7f88242303e3cf0cb978f4e2","ptbr":"Como o próprio nome sugere, a Colina das Raposas é o lar das Raposas Espirituais. Espere ataques implacáveis das <r>Raposas de Chama Azul</r> se invadir o território delas."}
+{"id":"LocalText/battle_dungeon_info1054","revision":"351b187566fbc508fd0069ffd090456d5536a39f92177fa728ab17e9a31b5083","ptbr":"Como o próprio nome sugere, a Colina das Raposas é o lar das Raposas Espirituais. Espere ataques implacáveis dos <r>Espíritos de Junco</r> se invadir o território delas."}
+{"id":"LocalText/battle_dungeon_info1055","revision":"44f185285f1fa7223befb97ce93c2c63fa6ab97ee73a42e2222cefdfbcf29e74","ptbr":"Como o próprio nome sugere, a Colina das Raposas é o lar das Raposas Espirituais. Espere ataques implacáveis das <r>Raposas Amarelas</r> se invadir o território delas."}
+{"id":"LocalText/battle_dungeon_info106","revision":"b41cd33947b31fb96bb4af92506dfa9b6fe7297bb5cb327ece92689f392eb6d9","ptbr":"Areia. Nada além de areia. Ainda assim, muitos monstros incomuns habitam este deserto. E pensar que alguma criatura consegue sobreviver em um ambiente tão hostil... É melhor manter distância deles."}
+{"id":"LocalText/battle_dungeon_info1061","revision":"7969db0022906743b18d78d7fcfba4e1162c64b3ab7abe004ad3ab7dc5539bc2","ptbr":"Como o próprio nome sugere, a Colina das Raposas é o lar das Raposas Espirituais. Espere ataques implacáveis se invadir o território delas."}
+{"id":"LocalText/battle_dungeon_info1062","revision":"dbac5a7a38a092215ade6900f8e73dae3ddd5cec9bea2811e517871aa3d4c089","ptbr":"Como o próprio nome sugere, a Colina das Raposas é o lar das Raposas Espirituais. Espere ataques implacáveis das <r>Raposas Espadachins</r> se invadir o território delas."}
+{"id":"LocalText/battle_dungeon_info106288","revision":"b18238bf25245a7c93ed37255caa6610e8e652989eb32b470d9547fd8db05750","ptbr":"Como o próprio nome sugere, a Colina das Raposas é o lar das Raposas Espirituais. Espere ataques implacáveis das <r>Raposas Espadachins</r> se invadir o território delas."}
+{"id":"LocalText/battle_dungeon_info1063","revision":"726fc7771b144d1be98e8e9694a4b972f2f227ff29aa428d146b75b39ec371af","ptbr":"Como o próprio nome sugere, a Colina das Raposas é o lar das Raposas Espirituais. Espere ataques implacáveis das <r>Raposas de Chama Azul</r> se invadir o território delas."}
+{"id":"LocalText/battle_dungeon_info106388","revision":"18f2d404ddcb2c55ce9a7b465b6898004d1b177978ca1adfa709ae69fec7f016","ptbr":"Como o próprio nome sugere, a Colina das Raposas é o lar das Raposas Espirituais. Espere ataques implacáveis das <r>Raposas de Chama Azul</r> se invadir o território delas."}
+{"id":"LocalText/battle_dungeon_info1064","revision":"e58270652f9666acd97f72572d6bd5b3eca421909aa38a4f6aac78420083b524","ptbr":"Como o próprio nome sugere, a Colina das Raposas é o lar das Raposas Espirituais. Espere ataques implacáveis dos <r>Espíritos de Junco</r> se invadir o território delas."}
+{"id":"LocalText/battle_dungeon_info106488","revision":"46e3e7075f557f8bd15935397dec75dd00a87094e367eef4009b0be1d95f0f5a","ptbr":"Como o próprio nome sugere, a Colina das Raposas é o lar das Raposas Espirituais. Espere ataques implacáveis dos <r>Espíritos de Junco</r> se invadir o território delas."}
+{"id":"LocalText/battle_dungeon_info1065","revision":"080fea9ad5aff529549cc90f827cfce10687ecd91bd3a9945c257abaa0b9ea02","ptbr":"Como o próprio nome sugere, a Colina das Raposas é o lar das Raposas Espirituais. Espere ataques implacáveis das <r>Raposas Amarelas</r> se invadir o território delas."}
+{"id":"LocalText/battle_dungeon_info106588","revision":"c2533d480acdfe8a73fe57971e235251356d1c7b4425818401ece69c957abc62","ptbr":"Como o próprio nome sugere, a Colina das Raposas é o lar das Raposas Espirituais. Espere ataques implacáveis das <r>Raposas Amarelas</r> se invadir o território delas."}
+{"id":"LocalText/battle_dungeon_info107","revision":"d52412f147a4e139090318ad2c97ccdc28871f04fd726c4626a550746b0a0abc","ptbr":"Um deserto sem vida, repleto de perigos. Incontáveis pares de olhos observam você de recantos e fendas ocultos, feras prontas para atacar a qualquer momento."}
+{"id":"LocalText/battle_dungeon_info1071","revision":"9bfd42906e29e2d9b5e011d38ebb2008aaff030cc6d6a28d831adb4da0a60bce","ptbr":"Bandidos montaram acampamento aqui. Ao roubar viajantes, acumularam uma boa fortuna."}
+{"id":"LocalText/battle_dungeon_info1072","revision":"823df527155860c7561b8be055c700233c2045bd116806b3d1eff70bada10171","ptbr":"Bandidos montaram acampamento aqui. Ao roubar viajantes, acumularam uma boa fortuna. Tenha cuidado especial com os <r>Bandidos de Martelo</r>!"}
+{"id":"LocalText/battle_dungeon_info1073","revision":"38d838c7fb2d40a33f87777b7b06776fd4407bb2cfb04be5a0e59bee290dbec6","ptbr":"Bandidos montaram acampamento aqui. Ao roubar viajantes, acumularam uma boa fortuna. Tenha cuidado especial com os <r>Daoístas Decadentes</r>!"}
+{"id":"LocalText/battle_dungeon_info1074","revision":"4979993ef9f2c228f27662fc1480d96ea40574d4d5c42e7efacd8fc8596d9656","ptbr":"Bandidos montaram acampamento aqui. Ao roubar viajantes, acumularam uma boa fortuna. Tenha cuidado especial com os <r>Bandidos Espadachins</r>!"}
+{"id":"LocalText/battle_dungeon_info1075","revision":"3ee1666f60521b17ad0937213fd0934a834fd959f9acfe495a83528a5341e775","ptbr":"Bandidos montaram acampamento aqui. Ao roubar viajantes, acumularam uma boa fortuna. Tenha cuidado especial com os <r>Cães Rastreadores</r>!"}
+{"id":"LocalText/battle_dungeon_info108","revision":"7a396d012e788155bfcac158d690c4372945e43de74cbbf6410e3d66e11ced0e","ptbr":"Um deserto sem vida, repleto de perigos. Incontáveis pares de olhos observam você de recantos e fendas ocultos, feras prontas para atacar a qualquer momento."}
+{"id":"LocalText/battle_dungeon_info1081","revision":"a968182fbc0817bd3cd5bbcf78aef2f7979b93dbf892968b9f357a6fc26714ed","ptbr":"Bandidos montaram acampamento aqui. Ao roubar viajantes, acumularam uma boa fortuna."}
+{"id":"LocalText/battle_dungeon_info1082","revision":"71cfcae644993a26d89bfb5b61b6b97a3b9b70fe54faee6d05ef7fb231b9837c","ptbr":"Bandidos montaram acampamento aqui. Ao roubar viajantes, acumularam uma boa fortuna. Tenha cuidado especial com os <r>Bandidos de Martelo</r>!"}
+{"id":"LocalText/battle_dungeon_info108288","revision":"d63fd365934120bcef238be69feefceccb209cafe37126875a6676df575320fd","ptbr":"Bandidos montaram acampamento aqui. Ao roubar viajantes, acumularam uma boa fortuna. Tenha cuidado especial com os <r>Bandidos de Martelo</r>!"}
+{"id":"LocalText/battle_dungeon_info1083","revision":"6fd3c17dfb81cccf4fd0ac13b9a1aaa791f6e842aa90bfd060c929290643387c","ptbr":"Bandidos montaram acampamento aqui. Ao roubar viajantes, acumularam uma boa fortuna. Tenha cuidado especial com os <r>Daoístas Decadentes</r>!"}
+{"id":"LocalText/battle_dungeon_info108388","revision":"2ad7c03e9816832cfcd10593c2488f0124af2bb151cc501d6493223f32380c6a","ptbr":"Bandidos montaram acampamento aqui. Ao roubar viajantes, acumularam uma boa fortuna. Tenha cuidado especial com os <r>Daoístas Decadentes</r>!"}
+{"id":"LocalText/battle_dungeon_info1084","revision":"4702d9839fc6bfe5d6ec543598fca055e00733c00c94404dfb2e0858faa78ef9","ptbr":"Bandidos montaram acampamento aqui. Ao roubar viajantes, acumularam uma boa fortuna. Tenha cuidado especial com os <r>Bandidos Espadachins</r>!"}
+{"id":"LocalText/battle_dungeon_info108488","revision":"32ff3d5468613cffaf16e993e5ee42805f93de7f2b5a29c069b2caeff5116a9b","ptbr":"Bandidos montaram acampamento aqui. Ao roubar viajantes, acumularam uma boa fortuna. Tenha cuidado especial com os <r>Bandidos Espadachins</r>!"}
+{"id":"LocalText/battle_dungeon_info1085","revision":"7e8941bb10439460e86cbc3ca28cbfcd1db8699f54fd5f479c10cea3a4164bf1","ptbr":"Bandidos montaram acampamento aqui. Ao roubar viajantes, acumularam uma boa fortuna. Tenha cuidado especial com os <r>Cães Rastreadores</r>!"}
+{"id":"LocalText/battle_dungeon_info108588","revision":"ac15a8b855dc94c0c81900cbb2eb4eb544082949ff44a5f5756004c3a7b7ffe3","ptbr":"Bandidos montaram acampamento aqui. Ao roubar viajantes, acumularam uma boa fortuna. Tenha cuidado especial com os <r>Cães Rastreadores</r>!"}
+{"id":"LocalText/battle_dungeon_info109","revision":"6ed5575d65158720a8f7404652d7c747350579897cca3d9c3a84a9f74135e4ad","ptbr":"O perigo espreita por toda parte nestas colinas. Monstros famintos estão sempre de prontidão. Mal veem a hora de devorar suas presas inteiras."}
+{"id":"LocalText/battle_dungeon_info1091","revision":"cad878800f2f4d3607baffac7aac83042b3b7a42d67a406ce529b31a9e2b296b","ptbr":"Uma terra desolada ocupada por monstros do Submundo."}
+{"id":"LocalText/battle_dungeon_info1092","revision":"2f9028afb7275ec5c0debc0c40353fd3cb70ed16720fb57c2882c1f69dc1771a","ptbr":"Uma terra desolada ocupada por <r>Zumbis Enjaulados</r> do Submundo."}
+{"id":"LocalText/battle_dungeon_info1093","revision":"981533127d5a7ef11d9f9a43edca81d03a2736ad83539f62c55d95e0893d3e72","ptbr":"Uma terra desolada ocupada por <r>Esqueletos Arqueiros</r> do Submundo."}
+{"id":"LocalText/battle_dungeon_info1094","revision":"11524f228c8b9c4bb9c24e3a4164aaa2d276c7b3fe0785814fdc7af8f0db730e","ptbr":"Uma terra desolada ocupada por <r>Esqueletos Espadachins</r> do Submundo."}
+{"id":"LocalText/battle_dungeon_info110","revision":"0cb2bd8aa1fee43cd9d96b82d11dd9361bed32c31b8d113a19b540a19efc1b5d","ptbr":"O vento uivante torna fácil ignorar outro som estranho. Quando você percebe que é o rosnado de monstros, já é tarde demais..."}
+{"id":"LocalText/battle_dungeon_info1101","revision":"d994e2657be69179e442246481bd8a891963330e1b7c2067ceb365ab70e4fb8e","ptbr":"Um covil em Chi You, ocupado por <r>monstros de Chi You</r>."}
+{"id":"LocalText/battle_dungeon_info1102","revision":"dc08d27e530ee071948fb86a1d9b9899f46eee7e82a863c2cdc479886ee2410a","ptbr":"Um covil em Chi You, ocupado por <r>monstros de Chi You</r>."}
+{"id":"LocalText/battle_dungeon_info110288","revision":"1992cfdee0971a5b29ca1a58f3cee3d66d1db902e2e3b087e9656deeb9fae70a","ptbr":"Um covil em Chi You, ocupado por <r>monstros de Chi You</r>."}
+{"id":"LocalText/battle_dungeon_info1103","revision":"3f476dff5b4fdc5c0eeb156c3720126c66085deb78d6a933150dcf4165511baf","ptbr":"Um covil em Chi You, ocupado por <r>monstros de Chi You</r>."}
+{"id":"LocalText/battle_dungeon_info110388","revision":"2f64fe117e69b92b6bf7252d868592e1a90dbe3fb64717da4ddbb76903985da1","ptbr":"Um covil em Chi You, ocupado por <r>monstros de Chi You</r>."}
+{"id":"LocalText/battle_dungeon_info1104","revision":"8f779209ef040e1f8853c5d0d1f6f278d4e6dea1a06b6b5b845ed2d8cac1a3b2","ptbr":"Um covil em Chi You, ocupado por <r>monstros de Chi You</r>."}
+{"id":"LocalText/battle_dungeon_info110488","revision":"0949dd429df0f3fd7081e7c812fdfcaf473cf150974a1776cac28fb33ed81984","ptbr":"Um covil em Chi You, ocupado por <r>monstros de Chi You</r>."}
+{"id":"LocalText/battle_dungeon_info111","revision":"fc35b924acde814e996fe572edaf11fc592616a4d475bef0e7970b877cf562f7","ptbr":"O monstro mais forte, Xingtian!"}
+{"id":"LocalText/battle_dungeon_info112","revision":"e1575a569801782ac729afff4d7b1a56c554b460b9aa20c7c291b3fbc3a53194","ptbr":"Masmorra da Caverna da Montanha"}
+{"id":"LocalText/battle_dungeon_info113","revision":"3bc11256368e803577fede625be880436b543bf1ab016e3282d301688ddbe4bf","ptbr":"Masmorra da Seita"}
+{"id":"LocalText/battle_dungeon_info2001","revision":"1e4e1bc8cd75e44ed2f61b78277fe910d69157e31ad173374929dadced274b6c","ptbr":"Raposa Gananciosa"}
+{"id":"LocalText/battle_dungeon_info2002","revision":"022a97fc23fa5382cb09992b00b414ff0b5cf9514951e880a43d9a3f30588252","ptbr":"Masmorra de Sabre/Espada"}
+{"id":"LocalText/battle_dungeon_info2003","revision":"dd8797e13c359a7fe58a0be0b42037312ed410c781bfa4bc156dc17f0da7ff71","ptbr":"Masmorra de Punho/Palma"}
+{"id":"LocalText/battle_dungeon_info2004","revision":"047ab0aa74cf249b50675f4ae0479090df19291332f876cdb0720bbab55a1735","ptbr":"Masmorra de Lança/Dedo"}
+{"id":"LocalText/battle_dungeon_info2005","revision":"3af1935a9ddcf5e0faa6a1b1707698fce0692cf40e92a40a88713a58e3f15daa","ptbr":"Masmorra de Aventura de Lei Ze"}
+{"id":"LocalText/battle_dungeon_info2006","revision":"293abc63feb6b7424a2a33492d82e7e49f4df299931c18361eea22f52e70706b","ptbr":"Masmorra de História do Forte Qingtian"}
+{"id":"LocalText/battle_dungeon_info2007","revision":"b93c398ccacd8646fc034aff800c402227cbd4992b97f7ee5a2be4b9db864673","ptbr":"Cerco dos Espíritos de Madeira"}
+{"id":"LocalText/battle_dungeon_info2008","revision":"e892d87baef09d795e6d3f0f37050d96b4e3fcbbae22926d007514f0ff669952","ptbr":"Vingança: Pequeno Esquerda"}
+{"id":"LocalText/battle_dungeon_info2009","revision":"71a6a23baab317836e33ecfed9e395ae8cc2c6f23fd732d39e96bf4e658d9cc5","ptbr":"Masmorra do Ancião das Nove Fênix"}
+{"id":"LocalText/battle_dungeon_info2010","revision":"7bdbe49230662b74c5827ae87ff315c676489871918f4a3204589132647d197d","ptbr":"Ancião das Nove Fênix (Alta Dificuldade)"}
+{"id":"LocalText/battle_dungeon_info2011","revision":"0b071231bd6d53602871b28f95d75e88468e18f6c24631bf7bff08ca1cc69332","ptbr":"Masmorra do Soberano Serpente-Verme"}
+{"id":"LocalText/battle_dungeon_info2012","revision":"92d5124d73cbad50d20c6a360b4245bfa8cfc5407b8332e42291d26288a57de4","ptbr":"Masmorra da Pequena Serpente-Verme"}
+{"id":"LocalText/battle_dungeon_info2013","revision":"6319f3e9b664a2500fab6a538e82f43804c3358ccea3f5da5c64947ce7237103","ptbr":"Vingança: Pequeno Direita"}
+{"id":"LocalText/battle_dungeon_info2014","revision":"456a8d0f5248228b9bd52190bf4ea59cf29267a079d8a4b8efb33572055f80e7","ptbr":"Vingança: Pequeno Leste"}
+{"id":"LocalText/battle_dungeon_info2015","revision":"c39f7a81bdce0502d458582d2f66993a999c496f3bff00d65f460d02311a1016","ptbr":"Vingança: Pequeno Oeste"}
+{"id":"LocalText/battle_dungeon_info2016","revision":"ba83daa670727770c309a8b80480fa73cbc1847821bacecbf50293a631967da5","ptbr":"Vingança: Pequeno Sul"}
+{"id":"LocalText/battle_dungeon_info2017","revision":"61d6b0d1d5da25b50afa753702c40a5e6795f2fb3bd10d83daea949316ef92c8","ptbr":"Vingança: Pequeno Norte"}
+{"id":"LocalText/battle_dungeon_info2018","revision":"d4c65bbfde2dbfaba3e3bb476c009d86428892d0e53a743bbc71a1ca4c414393","ptbr":"Masmorra de Jagu"}
+{"id":"LocalText/battle_dungeon_info2019","revision":"867d6f7d49823bff6c73c5502091658f0d7272b0720ed049586574a3d50e4115","ptbr":"Masmorra de Aventura da Caverna da Montanha"}
+{"id":"LocalText/battle_dungeon_info2020","revision":"c2a892786457a08fc2aadfe43f78c082e543de04042f4398a226eb0cad14846d","ptbr":"Masmorra da Fera"}
+{"id":"LocalText/battle_dungeon_info2021","revision":"c0ad3a327119880f4d3ef3f3dc6a8ee3c158667d2c8eb6a6b1b7ba9c79a2d03d","ptbr":"Palácio Celestial - Primeira Batalha"}
+{"id":"LocalText/battle_dungeon_info2022","revision":"183f54fa369c35882ed1045f1205d8dc6425746134a68533c03da356763b9c5f","ptbr":"Palácio Celestial - Batalha do Sul"}
+{"id":"LocalText/battle_dungeon_info2023","revision":"85f4ef58bf6180989a6d07b8f91e36403438f17d86100f126c5d0b215a317483","ptbr":"Palácio Celestial - Batalha do Norte"}
+{"id":"LocalText/battle_dungeon_name101","revision":"eeafc3d35ab7c3425005f6a82e442d50739f1d3d4f15ae45930026dd6dcf354f","ptbr":"Floresta Lingyun"}
+{"id":"LocalText/battle_dungeon_name1011","revision":"a25031dfc44176525e2f12148074baf87581ace9755a1fc2737fefbec6b3a19f","ptbr":"Floresta Lingyun"}
+{"id":"LocalText/battle_dungeon_name1012","revision":"62c812b20847eb200a0113da1b582041e5039ada5dd65bf62d15f09e1d75992a","ptbr":"Floresta Lingyun"}
+{"id":"LocalText/battle_dungeon_name1013","revision":"60e543877b5b4088264c39b0dc86c2f13d3646d232d1dc816219a2fae8596ee9","ptbr":"Floresta Lingyun"}
+{"id":"LocalText/battle_dungeon_name1014","revision":"0963d298a133f255ae3153b9209f411587906f4de25502da2302b1674e7968f7","ptbr":"Floresta Lingyun"}
+{"id":"LocalText/battle_dungeon_name1015","revision":"71daf780471bb083c8a5a70b3c6c3e05750b4dde170550e43a7eb13fd37bdc51","ptbr":"Floresta Lingyun"}
+{"id":"LocalText/battle_dungeon_name1016","revision":"f6bd5ce395287072148d8f340565b021257166694035c8ac08424e657b096e43","ptbr":"Floresta Lingyun"}
+{"id":"LocalText/battle_dungeon_name1017","revision":"44f80300b46368f78519bddec5beaa64342c839295f24ff1118ba2f5aeca6192","ptbr":"Floresta Lingyun"}
+{"id":"LocalText/battle_dungeon_name1018","revision":"e8b55b4a268119c823f6039c65b50c6f859c64543ae88fe6bae519fc53d4f709","ptbr":"Floresta Lingyun"}
+{"id":"LocalText/battle_dungeon_name102","revision":"8089528d8a4db77de11a1e4d7d3539bcecb14c229b8e052b1d13fa129566443f","ptbr":"Terras Ermas"}
+{"id":"LocalText/battle_dungeon_name1021","revision":"a691b27fe584fb7c5a08a13b699656cb0b07708b93ded0bcb510fd13a18a1e62","ptbr":"Floresta Lingyun"}
+{"id":"LocalText/battle_dungeon_name1022","revision":"b6acd5268fda2abcc2ad561554bdd2a2dbe5efc9005a2accb13174f7b256f5ca","ptbr":"Floresta Lingyun"}
+{"id":"LocalText/battle_dungeon_name102288","revision":"eee83defb38cb7f65be138c9cb19965418f492782fcd38742bee25adbc6f44cb","ptbr":"Floresta Lingyun - Tesouro"}
+{"id":"LocalText/battle_dungeon_name1023","revision":"04896a05a538f322d41344000a622d8905178102ec1799ad7d25df92b8c27fd3","ptbr":"Floresta Lingyun"}
+{"id":"LocalText/battle_dungeon_name102388","revision":"0416bbc592d8481110307c203345f33321df404cadefb1bc6283cf1c87f42db6","ptbr":"Floresta Lingyun - Tesouro"}
+{"id":"LocalText/battle_dungeon_name1024","revision":"3860c0fafd3dcd587862ad903165d9ed543d6fb1ccdd505b8c2e7ce64fb2e4c3","ptbr":"Floresta Lingyun"}
+{"id":"LocalText/battle_dungeon_name102488","revision":"f74b539654bb3b9a62664d5adf2ab6beb7f4ecf10e4f857dfe85f31b30ec348d","ptbr":"Floresta Lingyun - Tesouro"}
+{"id":"LocalText/battle_dungeon_name1025","revision":"b6f153e896cc516cfd093fc9d5fe7daa9ea491bd0ae4ba66b55aaad0678bef8a","ptbr":"Floresta Lingyun"}
+{"id":"LocalText/battle_dungeon_name102588","revision":"06c5cd063cee58cff1ed6e864e24a1092ae7daad9ebf344d716da3f49c95e655","ptbr":"Floresta Lingyun - Tesouro"}
+{"id":"LocalText/battle_dungeon_name1026","revision":"aef00bd8c64784e33f7c3b600ab0145a92f7fed6d26af6fc68bb4cb5349c87f2","ptbr":"Floresta Lingyun"}
+{"id":"LocalText/battle_dungeon_name102688","revision":"1ac29d9deb9a1ef61693851dbde9313f07e6d8d987a1681bceb266bbf3b396c2","ptbr":"Floresta Lingyun - Tesouro"}
+{"id":"LocalText/battle_dungeon_name1027","revision":"7b27b2f6ae2712413af627f72eba7f396eac507a81bdfa672b3f39f5c6c4ea62","ptbr":"Floresta Lingyun"}
+{"id":"LocalText/battle_dungeon_name102788","revision":"705a45f41b0985afdf4b61b2c93644dc3a9d65adc1de61c67f92eae358fb768f","ptbr":"Floresta Lingyun - Tesouro"}
+{"id":"LocalText/battle_dungeon_name1028","revision":"692ca283cf2e07198ddf0f06d5e28d838ee32f073e552bb048fb9c8f5e7fc44a","ptbr":"Floresta Lingyun"}
+{"id":"LocalText/battle_dungeon_name102888","revision":"9b3b5728f6d25b1b5a251fdf1ae3e4eea936f6d28e7b040c49e77b30f7845548","ptbr":"Floresta Lingyun - Tesouro"}
+{"id":"LocalText/battle_dungeon_name103","revision":"0700d5353786939f3286bfe824fa36136f278181a825d72d9e39aa8ae01d6e12","ptbr":"Acampamento dos Bandidos"}
+{"id":"LocalText/battle_dungeon_name1031","revision":"548a41ba3afc51fd722684ba632a031ae6ac4af4b150a752a7b1289d4391d0bc","ptbr":"Lei Ze"}
+{"id":"LocalText/battle_dungeon_name1032","revision":"0ebb9e2eb9c1d52572ed18056f6a74e9e77e1f6fa55671b0692832a48814117f","ptbr":"Lei Ze"}
+{"id":"LocalText/battle_dungeon_name1033","revision":"65e5010b361dc93da14cc231320461f3174346fdeaa791126b3e41ba9ce924d9","ptbr":"Lei Ze"}
+{"id":"LocalText/battle_dungeon_name1034","revision":"547c6c99633f158076141acce669fb65c826924b6283b54cda7e74010c45a0b7","ptbr":"Lei Ze"}
+{"id":"LocalText/battle_dungeon_name1035","revision":"8992349900256a33bdf9b1644c1db07700f0b6aadca12aa00bcb4fef350f4b9c","ptbr":"Lei Ze"}
+{"id":"LocalText/battle_dungeon_name104","revision":"e59b5e776d15b3953b9f787af8d1acf909738ed4f580bb9cc813e642a3f0cec5","ptbr":"Colina das Raposas"}
+{"id":"LocalText/battle_dungeon_name1041","revision":"7d0018ae49bc507455c4a404493145b40b873a8f52564b8a896a1805e4e036a4","ptbr":"Floresta dos Pessegueiros"}
+{"id":"LocalText/battle_dungeon_name1042","revision":"54199e41fd034d490e68bdef1ea3a70ba2616eae73c683bc3fa8cfb2c7201a30","ptbr":"Floresta dos Pessegueiros"}
+{"id":"LocalText/battle_dungeon_name104288","revision":"1fc4f25392b0e61b68990037e686772720128bac743e9389de620b0ff5d7dcfd","ptbr":"Floresta dos Pessegueiros - Tesouro"}
+{"id":"LocalText/battle_dungeon_name1043","revision":"8f8f992a69cb53d935959892d29210d40a010b8423ef752011b50a8666bab774","ptbr":"Floresta Sempre-Verde"}
+{"id":"LocalText/battle_dungeon_name104388","revision":"a01561620c2f73cd94c2afd581bb037bef18b1ea59397d1b440317f93907ea41","ptbr":"Floresta Sempre-Verde - Tesouro"}
+{"id":"LocalText/battle_dungeon_name1044","revision":"054a15d2df7fa8ae096c780ffd89417af18ca050a35beef09a855ae386392734","ptbr":"Floresta dos Pessegueiros"}
+{"id":"LocalText/battle_dungeon_name104488","revision":"d6b84d7494675faf8feb451c555559418d0e485924f8fc122538383710655ac6","ptbr":"Floresta dos Pessegueiros - Tesouro"}
+{"id":"LocalText/battle_dungeon_name1045","revision":"81207f00d76419324b9ff520c2a3c4507046e404ad80bc58b883a5cb445b9613","ptbr":"Floresta Sempre-Verde"}
+{"id":"LocalText/battle_dungeon_name104588","revision":"3fc05a4e5ce629d59fcf7e2bc2e6d63d615bab981fb19960ccd3cb2610dda0dc","ptbr":"Floresta Sempre-Verde - Tesouro"}
+{"id":"LocalText/battle_dungeon_name105","revision":"ce4a66abc37b90696fca93c172e5feda32c071b8e68f57198ae897d2bcfb5507","ptbr":"Pântano da Desolação"}
+{"id":"LocalText/battle_dungeon_name1051","revision":"46744352e9f967e4b8b089ed206891958daceda36cc884d440eb36f04d248b37","ptbr":"Floresta dos Pessegueiros"}
+{"id":"LocalText/battle_dungeon_name1052","revision":"ba6786a236a0782d8d828d054d17ce9c34ccf760a3f218f2c3dc4c762953ca3a","ptbr":"Floresta Sempre-Verde"}
+{"id":"LocalText/battle_dungeon_name1053","revision":"34b215ea3e50c6433ba9ee14526be5a473d569a657b8a5245ec049f3e5ba7f5a","ptbr":"Floresta dos Pessegueiros"}
+{"id":"LocalText/battle_dungeon_name1054","revision":"fd5cb3d432ab51b5a35747e8a0cddf3d5a6481ef8343b02e82dca5ed6e185d7b","ptbr":"Floresta Sempre-Verde"}
+{"id":"LocalText/battle_dungeon_name1055","revision":"fcd7a378a7d9071e4893a29517fb504ae150e0c86607418835ccac0e4180509b","ptbr":"Floresta Sempre-Verde"}
+{"id":"LocalText/battle_dungeon_name106","revision":"0dba5d807f48a310521018f5eac64566645641259d5a9838dd5b7f1c7a286489","ptbr":"Deserto das Areias Amarelas"}
+{"id":"LocalText/battle_dungeon_name1061","revision":"60ea0e99c6395463e85b988888a4c48047842a41acf73fc538d7b0c2ffff0ae3","ptbr":"Acampamento dos Bandidos"}
+{"id":"LocalText/battle_dungeon_name1062","revision":"6b1eefb0fc488504e5c2029230b4b61cb849a24470b53f5e37ebd0a702b94732","ptbr":"Acampamento dos Bandidos"}
+{"id":"LocalText/battle_dungeon_name106288","revision":"628fe3d9c40d3a5f09d6f16fcb5783e44f9ba55c9375e0febed4c86b2f417517","ptbr":"Acampamento dos Bandidos - Tesouro"}
+{"id":"LocalText/battle_dungeon_name1063","revision":"a1fb90f38271284e1f50aed9321c0f65eb886e7164a92aa04118f599a5fec7d9","ptbr":"Acampamento dos Bandidos"}
+{"id":"LocalText/battle_dungeon_name106388","revision":"8502747b02cc3a311f30ef4353512ddfd4b925ff111c43370a40fd32bc1f08e5","ptbr":"Acampamento dos Bandidos - Tesouro"}
+{"id":"LocalText/battle_dungeon_name1064","revision":"6419e11e6ab6111b8dc4bf9c57de9cec2b5accc885f17f2f2a80c4b63f53296f","ptbr":"Acampamento dos Bandidos"}
+{"id":"LocalText/battle_dungeon_name106488","revision":"a1a339b249688536d9b5d8c74762eb62ded4629832cb05b9355ed0931e7316c4","ptbr":"Acampamento dos Bandidos - Tesouro"}
+{"id":"LocalText/battle_dungeon_name1065","revision":"ca4273a58acc50b6e1321f7c324cafdef3e717c56388c60a7a8f920827287fe6","ptbr":"Acampamento dos Bandidos"}
+{"id":"LocalText/battle_dungeon_name106588","revision":"68935b9aaf6a1a65d84ebdbe0c617c3462727cd79a595bf260401983ba056110","ptbr":"Acampamento dos Bandidos - Tesouro"}
+{"id":"LocalText/battle_dungeon_name107","revision":"3b01415a0904c5ff3697138d50e325d5fb1b681e5bda3d22f18fb3f49b3fddcb","ptbr":"Deserto Desolado"}
+{"id":"LocalText/battle_dungeon_name1071","revision":"4069ba889a451568a69263471d1a92cf26088f59141dad87c1fcfb418433245d","ptbr":"Acampamento dos Bandidos"}
+{"id":"LocalText/battle_dungeon_name1072","revision":"8fb93c0399d5e745c0eaf944fd972d83d1016e9e6f49ea8e2cb3b833740e99f4","ptbr":"Gelo Eterno"}
+{"id":"LocalText/battle_dungeon_name1073","revision":"3d3b7cb916c720292510a0cb2fb39db20c0fcf1daab9fd2ada4119a97026d105","ptbr":"Gelo Eterno"}
+{"id":"LocalText/battle_dungeon_name1074","revision":"e822ccefb5a4548c3f0d0aad17e843d259ddebce44527294ac083fcab0100947","ptbr":"Gelo Eterno"}
+{"id":"LocalText/battle_dungeon_name1075","revision":"1f0c4497ffba4d1df2b4d099f8f8cb83abe3608760d28839f589adf543ca4998","ptbr":"Gelo Eterno"}
+{"id":"LocalText/battle_dungeon_name108","revision":"8dacf3ccd735a9c6d6706f5c0ff18506e9179818beca621db11260650680e1b9","ptbr":"Deserto Desolado"}
+{"id":"LocalText/battle_dungeon_name1081","revision":"0c75f360d732f7fce2008e3148bb37ca5a98f6f59dc4020d269352188ceb55b0","ptbr":"Colina das Raposas"}
+{"id":"LocalText/battle_dungeon_name1082","revision":"3d543f1898f69f8a0e8703543434c87ad7f47f5995863f8b29223774bda23f4e","ptbr":"Colina das Raposas"}
+{"id":"LocalText/battle_dungeon_name108288","revision":"a9b4214a5e5fd72432719cbe04ad354fb65149c7ca52e036dfd1092a54d29e25","ptbr":"Colina das Raposas - Tesouro"}
+{"id":"LocalText/battle_dungeon_name1083","revision":"b479c461a79fba782ec549e08267c7615cbd840c27362cec294734ae48ef4ece","ptbr":"Colina das Raposas"}
+{"id":"LocalText/battle_dungeon_name108388","revision":"5af0ab9c213275bef0e72a4fa95467c3b418f105217b5bbbddd1d8ed2ef2ac46","ptbr":"Colina das Raposas - Tesouro"}
+{"id":"LocalText/battle_dungeon_name1084","revision":"161d4f47ac28952b9e60a2f8e9c9900a65280d608bcf63cd7612ac5e26391a90","ptbr":"Colina das Raposas"}
+{"id":"LocalText/battle_dungeon_name108488","revision":"dc32402d9c306a17cf7a75b5e3e5bad224b7226798b59434c4d7bc0bffb083e9","ptbr":"Colina das Raposas - Tesouro"}
+{"id":"LocalText/battle_dungeon_name1085","revision":"9a79a751cd057aec58216cc8076a0ab3392f06091c25cfef5483b8a2dd588389","ptbr":"Colina das Raposas"}
+{"id":"LocalText/battle_dungeon_name108588","revision":"4d81e1f0bd5ad02ae326c5b1d7189f00df2bd3e10585a1e9400739dba08b6139","ptbr":"Colina das Raposas - Tesouro"}
+{"id":"LocalText/battle_dungeon_name109","revision":"f5c7d0fa213cbda527712dfb6793c404e8d15b65c1df670ed232817f57721b28","ptbr":"Cem Mil Montes"}
+{"id":"LocalText/battle_dungeon_name1091","revision":"3fadc7ec97415b208cca07710d2eb8ff493b745cf34d7dec886e39db445324c3","ptbr":"Colina das Raposas"}
+{"id":"LocalText/battle_dungeon_name1092","revision":"d63ed2da531fa84802d672d327257774755f6b20812205c6e485b139605054a9","ptbr":"Deserto do Extravio"}
+{"id":"LocalText/battle_dungeon_name1093","revision":"c2a57393ea8732221f59c13a8e5c6d2bce3791fdfa80eef29e7f76011bb97434","ptbr":"Deserto do Extravio"}
+{"id":"LocalText/battle_dungeon_name1094","revision":"53f63a2b265df14828dbd42105adcc9b721e6402538b3f0fcf0efd215db75ec6","ptbr":"Deserto do Extravio"}
+{"id":"LocalText/battle_dungeon_name110","revision":"5248d63ce36df466f3f950d428d9c25ee3d722103a27e0d87914ae7f023c6b7c","ptbr":"Planícies de Gelo"}
+{"id":"LocalText/battle_dungeon_name1101","revision":"dfbe5390c2647a60397b803835b2fc0eae2e22a15e9082247235150f7edc0445","ptbr":"Covil da Desolação"}
+{"id":"LocalText/battle_dungeon_name1102","revision":"c6240d4950219c392aa67abfdaaf36d502b95bd8ff16ef142045fc7a4c335b2b","ptbr":"Covil da Desolação"}
+{"id":"LocalText/battle_dungeon_name110288","revision":"cf3855972176ea72d93dc703fbe6ca4bd1fd5bf7000c9fd7f7a5fd67390857d2","ptbr":"Covil da Desolação - Tesouro"}
+{"id":"LocalText/battle_dungeon_name1103","revision":"50deef5d24b170ffe2d81bc5e70a0d2f3bd1bbc5b5cff6187ff2f3ad4a1629a3","ptbr":"Covil da Desolação"}
+{"id":"LocalText/battle_dungeon_name110388","revision":"8d5d52f27068fc0e4af5d75704f49d8544361a43a5456529fb145d10096ed909","ptbr":"Covil da Desolação - Tesouro"}
+{"id":"LocalText/battle_dungeon_name1104","revision":"9c507d3c14857796efebe5f6efecb9e3be516bd9b7eb500723a5552d98632001","ptbr":"Covil da Desolação"}
+{"id":"LocalText/battle_dungeon_name110488","revision":"2f8085c066e9aad84268aa04d517b4a4e6653ff1befc617ca455e6289ec6740e","ptbr":"Covil da Desolação - Tesouro"}
+{"id":"LocalText/battle_dungeon_name111","revision":"414fe58d89763f60e0348b3deedb119c67b68055d12c3694d86dbb8790a129f5","ptbr":"Masmorra de Xingtian"}
+{"id":"LocalText/battle_dungeon_name112","revision":"ced972f816500e3a94462e29d2d8fcbc2d95e1c2aa11b2e37f8fe08b6a0835ca","ptbr":"Masmorra da Caverna da Montanha"}
+{"id":"LocalText/battle_dungeon_name113","revision":"77f614d1d4dca293b0b680a774ded4614a0ab843358673af6d334fb798a41848","ptbr":"Masmorra da Seita"}
+{"id":"LocalText/battle_dungeon_name16","revision":"d71b22ee077ee0f812d9d3c919d0bcc83d977bdafb5a4f1f280d5aaa41b8f07f","ptbr":"Floresta Lingyun"}
+{"id":"LocalText/battle_dungeon_name2001","revision":"0a412f74439d5f47a8d9e7e32fb86980830b63e8f8fda0cf2c99b07475123205","ptbr":"Raposa Gananciosa"}
+{"id":"LocalText/battle_dungeon_name2002","revision":"d0370352b3c851f34430def7e7505e9d6a91354c17e039227c96e0e8fe47bd1b","ptbr":"Masmorra de Sabre/Espada"}
+{"id":"LocalText/battle_dungeon_name2003","revision":"25651a0c126dd5e9db14503db71088d7ae6ab4e9beda8e577a9313033cd7b394","ptbr":"Masmorra de Punho/Palma"}
+{"id":"LocalText/battle_dungeon_name2004","revision":"285c360d23e5ba2fbb2dc8d4f2df5c007b63fb7751de7aafedb359dc11cf90f6","ptbr":"Masmorra de Lança/Dedo"}
+{"id":"LocalText/battle_dungeon_name2005","revision":"950d54e91b1848503909ba23427adc55ce2dd504fb48ff30bfbc05c5b50b1e11","ptbr":"Aventura em Lei Ze"}
+{"id":"LocalText/battle_dungeon_name2006","revision":"c859c28c8cf46f9a68b6c26b5f614d1a53b2a417115612e2f47f0ca240e8ef33","ptbr":"Forte Qingtian"}
+{"id":"LocalText/battle_dungeon_name2007","revision":"5f74c81e3df6f38e0cbfd83a58637b57ef8beceb8175571a00d600438f730c11","ptbr":"Cerco dos Espíritos de Madeira"}
+{"id":"LocalText/battle_dungeon_name2008","revision":"a8e131b6097eadcf61f8260593232d3c8032b28a91722ea34eee0238c0094110","ptbr":"Vingança: Pequeno Esquerda"}
+{"id":"LocalText/battle_dungeon_name2009","revision":"6b05e739ed2fc045056195823e7e5c0df2443913a7cdc894dae88d483f3fcd92","ptbr":"Masmorra do Ancião das Nove Fênix"}
+{"id":"LocalText/battle_dungeon_name2010","revision":"69ee3260994281cf6e7c9b47978e8a82223cfbdd1e73e863b00403044d9eb19b","ptbr":"Ancião das Nove Fênix (Alta Dificuldade)"}
+{"id":"LocalText/battle_dungeon_name2011","revision":"e7fab8dadd92db776a2611665bb54dc8eb480ea6ec5126c46863bf1e97f36af9","ptbr":"Masmorra do Soberano Serpente-Verme"}
+{"id":"LocalText/battle_dungeon_name2012","revision":"82ac1b534fd85f12b4d6d3968939853a931c53222e484a29d08c02fcadc013ad","ptbr":"Masmorra da Pequena Serpente-Verme"}
+{"id":"LocalText/battle_dungeon_name2013","revision":"295dd074c26e4d65f4e10e106cb76a246dd7234615e3ec2aeca3ea3f8aeb1121","ptbr":"Vingança: Pequeno Direita"}
+{"id":"LocalText/battle_dungeon_name2014","revision":"e7a7d89c55712aca07e6d7ed40707856d76189fa8ce9b9b524d68d5eb43cc6b7","ptbr":"Vingança: Pequeno Leste"}
+{"id":"LocalText/battle_dungeon_name2015","revision":"02393e5229b3cadd67422a02eb412ee526037b631405728377b1893ac0d8e9ec","ptbr":"Vingança: Pequeno Oeste"}
+{"id":"LocalText/battle_dungeon_name2016","revision":"2bedacc2710a38ac9475d6bf994db1c712cafce73a218e90ce48c7fc3def5b74","ptbr":"Vingança: Pequeno Sul"}
+{"id":"LocalText/battle_dungeon_name2017","revision":"02770299bd6cf0dd562e8683c5a215fbb1c17b418452030603b722581a6b18f3","ptbr":"Vingança: Pequeno Norte"}
+{"id":"LocalText/battle_dungeon_name2018","revision":"7bc2f34dbdfc5a08489e8c465130bad6bbb321b54fc204d90ab17a730cce2315","ptbr":"Jagu"}
+{"id":"LocalText/battle_dungeon_name2019","revision":"12a25802d5df8146eab4ae567788c84f7d81471e49bfc51ccedef4485fc5240e","ptbr":"Caverna da Montanha"}
+{"id":"LocalText/battle_dungeon_name2020","revision":"bed37e5e24a5217a3d59fb68aefcde01cf863c751e38d0462c3a6947dd0649b6","ptbr":"Masmorra das Feras"}
+{"id":"LocalText/battle_dungeon_name2021","revision":"2973279e5f8431c6d5f020577d72488c8ccef5a42b7e4a5dcb42d0ac37c0d228","ptbr":"Palácio Celestial - Praça"}
+{"id":"LocalText/battle_dungeon_name2022","revision":"de9dd93bf7740885c091460fabb95b4fbda4523be1c57ac6690f2c80a71890f6","ptbr":"Palácio Celestial - Sul"}
+{"id":"LocalText/battle_dungeon_name2023","revision":"27e08c55a9b283cc20258739960a9b3bc245934f46088fc59c11b3005a362f25","ptbr":"Palácio Celestial - Norte"}
+{"id":"LocalText/battle_dungeon_name2024","revision":"9417995eef8c906e3e35eb1612935fd29c58cf6d15485d9def72d59af3cefc89","ptbr":"Palácio Celestial - Oeste"}
+{"id":"LocalText/battle_dungeon_name2025","revision":"b1073cd7060848cefb275277203dcfe31f670dbba02aed215adc9b48b6706b15","ptbr":"Palácio Celestial - Leste"}
+{"id":"LocalText/battle_dungeon_name2026","revision":"b753e213aa5c8c0e444f90cbca8acbe2539411d85b57e4eb99d0047325fa0e6f","ptbr":"Palácio Celestial - Praça"}
+{"id":"LocalText/battle_dungeon_name2027","revision":"ff36acd9f933115b0323eed6d87d09b98cd61843fc87f6858e34e2cea137b3d9","ptbr":"Estela 1"}
+{"id":"LocalText/battle_dungeon_name2028","revision":"adc4a0e401acd39b8c272adfa6b5fd01a472e1f5621dc3a1f2770b6922d821b0","ptbr":"Estela 2"}
+{"id":"LocalText/battle_dungeon_name2029","revision":"5b7b96167f9b5a1e6181c23c17ca78506d9652d6339364f4b706591771bf94f1","ptbr":"Estela 3"}
+{"id":"LocalText/battle_dungeon_name2030","revision":"4d5550117a4c22203245a9a8a30f8aaf5f27fa493d78cd6bc689e6cd90bacd6f","ptbr":"Estela 4"}
+{"id":"LocalText/battle_dungeon_name2031","revision":"3161aacbe69fabbbf5db9cad33b54cc6e78423b42148b0dd83c76e2b461f11b9","ptbr":"Estela 5"}
+{"id":"LocalText/battle_dungeon_name2032","revision":"4f8a91c76cefacf7232e6b873a10d1d61519aab24b01a30469d8fc934dc1a5a2","ptbr":"Estela 6"}
+{"id":"LocalText/battle_dungeon_name2033","revision":"a90cfc765938c12b4e3c5124a63ca8329b28850062945a9b0565f5f82ec51b7d","ptbr":"Jardim de Ervas"}
+{"id":"LocalText/battle_dungeon_name2034","revision":"6018998b20d84c41b934cfbf4f1e8c8b2ae91da1e07b03ef52a25b50ea75c677","ptbr":"Ruínas"}
+{"id":"LocalText/battle_dungeon_name2035","revision":"2afed194baab7501556b317ca0b3a10ebfa7a96c0e6eb74f7034778036b41ec9","ptbr":"Batalha do Clã Shennong"}
+{"id":"LocalText/battle_dungeon_name2036","revision":"0a6ab27a1413b3e19fa4535e8e0c85a25147d5cbf6d715a23491de568169ebca","ptbr":"Batalha do Tornado"}
+{"id":"LocalText/battle_dungeon_name2037","revision":"97bc5ef54393872bc86bfdd6800189c37d530d6674876d7d8c53f3467acb5b6a","ptbr":"Batalha contra Sempre-Verde"}
+{"id":"LocalText/battle_dungeon_name2101","revision":"b1736a2c6a20a8e2d0ed63ad7e0ad44d6baf00eaca26427a6a38fc04b0a86e05","ptbr":"Floresta Lingyun"}
+{"id":"LocalText/battle_dungeon_name2102","revision":"c7665718bddb53371fc89e1b4acc44054096335cedc2093aa249710f34add025","ptbr":"Terras Ermas"}
+{"id":"LocalText/battle_dungeon_name2103","revision":"1370100feedc542dc99ef3acd75d3b47f875b522d3a91c0a1fc8ae58fd29394c","ptbr":"Terras Ermas"}
+{"id":"LocalText/battle_dungeon_name2104","revision":"d21131d0fe1b62ecfea363d21bdc312ccfee941ab0529795d39672942e525b72","ptbr":"Acampamento dos Bandidos"}
+{"id":"LocalText/battle_dungeon_name2105","revision":"df3ecacb3b152483821da0f9c6ddc6cdb46a73dee53db71af5549231f7b0bfe4","ptbr":"Colina das Raposas"}
+{"id":"LocalText/battle_dungeon_name2106","revision":"2539c658e823bcbc30851dd5ff083c2f860e967ab93f38b3b8eaf2e383472f8b","ptbr":"Pântano da Desolação"}
+{"id":"LocalText/battle_dungeon_name2107","revision":"283aad30077ffd0b8da9d438e365ded24137533bb14bb26f75b96c2a3fb13540","ptbr":"Terras Ermas"}
+{"id":"LocalText/battle_dungeon_name2108","revision":"23fc5e7d1b68525fbfcb695837f01ad17868d046759a6d993eca020991a87e50","ptbr":"Acampamento dos Bandidos"}
+{"id":"LocalText/battle_dungeon_name2109","revision":"9236b82646f5542b500ad700fbd43d3562a6325198dffe067e715c1f2de5ac1a","ptbr":"Colina das Raposas"}
+{"id":"LocalText/battle_dungeon_name2110","revision":"c6eab3330ab43b9666658437ddfa301b1d2dc9506295feb0ef47b40ec037b621","ptbr":"Pântano da Desolação"}
+{"id":"LocalText/battle_dungeon_name3001","revision":"920e5e4d6980150564cbc4610cd0c6bd6f5d7ce06138b61160517cc7d901276b","ptbr":"Reino Místico - Anel 4"}
+{"id":"LocalText/battle_dungeon_name3002","revision":"0f10f8196693bc552738431597e54d471a1921175bd26ccb20ea181f2bd17888","ptbr":"Reino Místico - Anel 3"}
+{"id":"LocalText/battle_dungeon_name3003","revision":"28bb86343666afa5e6e9e87a63b6d15b35265b2ab75a7c6e0b98abde2324b684","ptbr":"Reino Místico - Anel 2"}
+{"id":"LocalText/battle_dungeon_name3004","revision":"e407c178f3612498ee22a9c848a8ab70d443a75a6afac767c74bd495cadb3ccf","ptbr":"Reino Místico - Anel 1"}
+{"id":"LocalText/battle_dungeon_name3005","revision":"50e20e85e03db7c80c4f7bb9def3184e13ea9f5c7d2df8f679ebf869a2e4aa80","ptbr":"Núcleo do Reino Místico"}
+{"id":"LocalText/battle_dungeon_name3006","revision":"cf383969dea65f4e29ac9e2c948f382a3e16c4bb7dd4ca047e128392d597784f","ptbr":"Reino Místico - Anel 4"}
+{"id":"LocalText/battle_dungeon_name3007","revision":"16177ea5c181be508c06b0e0a9d382b54b9d215f666a5b96d1ad445dfb04f997","ptbr":"Reino Místico - Anel 3"}
+{"id":"LocalText/battle_dungeon_name3008","revision":"1eca26fb984fe195df87f92acc5a493ce276fdd2a8c6dd7954daeab72e01926f","ptbr":"Reino Místico - Anel 2"}
+{"id":"LocalText/battle_dungeon_name3009","revision":"944ccb3b2c658015ae204eeb544eac945cc7cb8a1f69a8d0776ebd72fbc503d3","ptbr":"Reino Místico - Anel 1"}
+{"id":"LocalText/battle_dungeon_name3010","revision":"194d539ce30c4570817bc1527fea59a45a61f9d1d616bfc3468a070eff99fc37","ptbr":"Núcleo do Reino Místico"}
+{"id":"LocalText/battle_dungeon_name3011","revision":"d648ce138150b2daae4cf1805b0e436070f8c977ee2e4f697329dcc75741de59","ptbr":"Reino Místico - Anel 4"}
+{"id":"LocalText/battle_dungeon_name3012","revision":"704aff1e19d1ebbc0dff438ecf095a6186e3f67f0993751b0ec300b3f3fb7e06","ptbr":"Reino Místico - Anel 3"}
+{"id":"LocalText/battle_dungeon_name3013","revision":"254db6aaa66e2273267cba43a7a6e568a607c7f6739c4ad1cd95e3bd4dfdfe64","ptbr":"Reino Místico - Anel 2"}
+{"id":"LocalText/battle_dungeon_name3014","revision":"efda47d11bd158bda48016a7a77219f9439a69274f11f9b3fe4048026411eb95","ptbr":"Reino Místico - Anel 1"}
+{"id":"LocalText/battle_dungeon_name3015","revision":"a1fca5347c0bfca909727baa1eecb3f5010c74882c1fb5203c002b2b860920c4","ptbr":"Núcleo do Reino Místico"}
+{"id":"LocalText/battle_dungeon_name3016","revision":"54039ec9dfb045980554d3b7c1d6120aea93d638e2e6ce19be5f38984217f35a","ptbr":"Reino Místico Básico"}
+{"id":"LocalText/battle_dungeon_name3017","revision":"822b4f07600c8b7779545e582f6a2bbb404a60db0fd0a33ec9d078b3e8f46e3b","ptbr":"Reino Místico Intermediário"}
+{"id":"LocalText/battle_dungeon_name3018","revision":"72ef3a811b8715f134e5469330d262056b16254af170d23ff82f5e5138ffb16f","ptbr":"Reino Místico Avançado"}
+{"id":"LocalText/battle_dungeon_name3019","revision":"d6523c5a04a1de72c6f195a4c1038456e4cdcbad496987f65d906444200db6d3","ptbr":"Reino Místico Especial"}
+{"id":"LocalText/battle_dungeon_name3020","revision":"d1881fe2f68fa2d742bbcb5f7a216d9ccf01e299c58e0db2cd9a904264bb0c82","ptbr":"Reino Místico Supremo"}
+{"id":"LocalText/battle_dungeon_name3021","revision":"45db447b7fae5f80001518ac7e73ec17d4aae26f547b9710d8f332879bbf3557","ptbr":"Reino Místico do Vale Espiritual"}
+{"id":"LocalText/battle_dungeon_name3022","revision":"71d9b8ddc49d4e8d061529f01e04d8df26141efc09c945f05048492bcc1fd2e7","ptbr":"Provação da Raposa Espiritual"}
+{"id":"LocalText/battle_dungeon_name3023","revision":"b064f0eb219fc46d803754180f45e0f70046ce2f347d5b3c41a981ffe0ea61a8","ptbr":"Provação do Cão Espiritual"}
+{"id":"LocalText/battle_dungeon_name3024","revision":"4cbb96de8d2e3535ff41a7f09ebdb2488291269047899ea931db25d4a5a76dc5","ptbr":"Provação da Serpente Espiritual"}
+{"id":"LocalText/battle_dungeon_name3025","revision":"dbeae85154afbc7bb7e6ea68fc1e5ff0acb3560d2a3bc4f344a4ac4ce64e934e","ptbr":"Provação do Sapo Espiritual"}
+{"id":"LocalText/battle_dungeon_name3026","revision":"1a70ee8a2ef7355d4e268c221fe6fc87c1c9328bc245726d61610ef7939866f6","ptbr":"Provação do Escorpião Espiritual"}
+{"id":"LocalText/battle_dungeon_name3027","revision":"fbfbca797e7f966aa5ae3bf382c9fb571ea44ce9dfc3cd0e22b2184f678c2acb","ptbr":"Provação do Lagarto Espiritual"}
+{"id":"LocalText/battle_dungeon_name3901","revision":"bb69b3cd6d1b560eb0d5a3a036e8577e5d8e4323b36f2b74576e31a060fc6b4e","ptbr":"Reino de Refino de Qi"}
+{"id":"LocalText/battle_dungeon_name3902","revision":"65472bb5ce26a7968368c898c3d72b5bf71796e7a24e8fa849c4b00b8496d12e","ptbr":"Reino da Fundação"}
+{"id":"LocalText/battle_dungeon_name3903","revision":"7ed1e12e0c8bbc4993401cf56197167815061814a2cd5345d975052469e6d8d2","ptbr":"Reino de Condensação de Qi"}
+{"id":"LocalText/battle_dungeon_name3904","revision":"1354933341686c3a335ab2731a6a5c2f3df1b37da27c159f6838eb570db412fa","ptbr":"Reino do Núcleo Dourado"}
+{"id":"LocalText/battle_dungeon_name3905","revision":"222b454ead61171186cef23b281eb26a223ceecad24fd32369db448a4c29434e","ptbr":"Reino do Espírito de Origem"}
+{"id":"LocalText/battle_dungeon_name3906","revision":"a3bd0a901de921edaa13c02c7c72b2bbec8725697790bf4fed477c3e947ba62c","ptbr":"Reino da Alma Nascente"}
+{"id":"LocalText/battle_dungeon_name3907","revision":"5ec739674a232be78ca3838d56d303885253bb14a7e5bcd9ea8d4d5ed91b86e9","ptbr":"Reino da Formação da Alma"}
+{"id":"LocalText/battle_dungeon_name3908","revision":"cbab5e7d091afdab74a6b4f29998cfd96092ee2bbf17fc6cc64f133a250b2b24","ptbr":"Reino da Iluminação"}
+{"id":"LocalText/battle_dungeon_name3909","revision":"2aa26e988af3b7d772dd11ba1a5687e27a46ef60c67bc137cc5cd870e51093bb","ptbr":"Reino do Renascimento"}
+{"id":"LocalText/battle_dungeon_name3910","revision":"878b6c0daff86b780ac0b390590bd01a9fc5ebd122bd36066376d9329fcd6e34","ptbr":"Reino Transcendente"}
+{"id":"LocalText/battle_dungeon_name3911","revision":"7541d22fee126b50424a8e7e35f6713ea6265a5faa73b7a5d56cebb962aa876a","ptbr":"Cume de Tian Yuan"}
+{"id":"LocalText/battle_dungeon_name4601","revision":"cd3e707d1a08e1604881f5c024c7c57ab07652eb8b2f5f7472c3e8a83c9df106","ptbr":"Masmorra de Cargo da Seita"}
+{"id":"LocalText/battle_dungeon_name4701","revision":"232c1299aaf4d3fa6e2c04c2952ded3f939590c2badce04e8d0d02352b103aba","ptbr":"Terras Flamejantes"}
+{"id":"LocalText/battle_dungeon_name4702","revision":"25c48f44d3b5012bcf7603bd6f056eaebd214214e68d95ac33771c166a9d2060","ptbr":"Campo Ártico"}
+{"id":"LocalText/battle_dungeon_name4703","revision":"7ea5790c48d35601afe4387e6dae2198c9bbf5dff88349f6a49d7e94c1396034","ptbr":"Terras do Trovão"}
+{"id":"LocalText/battle_dungeon_name4704","revision":"218e431deb91493ef017b7de60d662cd5ec31f71562c244dd82a4dc525101aa8","ptbr":"Vale das Tempestades"}
+{"id":"LocalText/battle_dungeon_name4705","revision":"992247f26c14134e3e05a832706d8ec9978543cdbfc4bd5c9c43de2e35d30e26","ptbr":"Domínio das Areias Movediças"}
+{"id":"LocalText/battle_dungeon_name4706","revision":"a75336064d418acc99697e5c26443cab2501d11f29e3c3be0e056a0f4d7e10a1","ptbr":"Floresta das Flores Embriagantes"}
+{"id":"LocalText/battle_dungeon_name4707","revision":"14ae6f8ee4ad0912c28075d5a9b402e41e62ec45a6909f52265d926e5035ae6c","ptbr":"Terras Flamejantes"}
+{"id":"LocalText/battle_dungeon_name4708","revision":"d9b15f575359f7707f9ce94a2aedf0afef28d1de19b798f35c9188c77f2f61ef","ptbr":"Campo Ártico"}
+{"id":"LocalText/battle_dungeon_name4709","revision":"440ea73b79655d4078ab2087e36bc082c56a34526fa84f29367fc2d7d0172711","ptbr":"Terras do Trovão"}
+{"id":"LocalText/battle_dungeon_name4710","revision":"28121f20e048497e2af4483ff4536b2d05e9d0320261e72bd8cb4ece76db682f","ptbr":"Vale das Tempestades"}
+{"id":"LocalText/battle_dungeon_name4711","revision":"922143dffdd6c0dc2095541d51814925f1a2c38315f727280eef6371ac23abe4","ptbr":"Domínio das Areias Movediças"}
+{"id":"LocalText/battle_dungeon_name4712","revision":"52706409e6b5eb5ad6323cd07d78b605a194f63a5c50c23ee0f952c5abc87758","ptbr":"Floresta das Flores Embriagantes"}
+{"id":"LocalText/battle_dungeon_name4713","revision":"a4d7310a56dd66656578b5f70658c9063387e935022051b7cb6f8e3177501bcf","ptbr":"Terras Flamejantes"}
+{"id":"LocalText/battle_dungeon_name4714","revision":"13d805bf2983a564b1b3cb2bd9ab95b4565c3b5b828f4479d1716f7e263cfa30","ptbr":"Campo Ártico"}
+{"id":"LocalText/battle_dungeon_name4715","revision":"f04862ca6386e6a890061dbf9f76bbb6127f42e597358a24031c74bbee4dffc3","ptbr":"Terras do Trovão"}
+{"id":"LocalText/battle_dungeon_name4716","revision":"6102729ceef7446c233266a8dc8b03ae261baef29e4eb694d6df5ea7a426ab3c","ptbr":"Vale das Tempestades"}
+{"id":"LocalText/battle_dungeon_name4717","revision":"dedd9ed899b5da8c58a55a2473f387c4a58fbc40d96471fbf6f83ad1a5d51f5e","ptbr":"Domínio das Areias Movediças"}
+{"id":"LocalText/battle_dungeon_name4718","revision":"81e8d9484d6289dece78f0a3a172331e3be551da1cb84b2de3aea56045b2ffcd","ptbr":"Floresta das Flores Embriagantes"}
+{"id":"LocalText/battle_dungeon_name4719","revision":"69fb605243da99a864787b6494cf73ba1af70b29fc3c74657c184939906c8b67","ptbr":"Terras Flamejantes"}
+{"id":"LocalText/battle_dungeon_name4720","revision":"b8043934bc9e86d521a4500cc8b5c137654ecdc1d43af30a2d1f7edc7eaf9de5","ptbr":"Campo Ártico"}
+{"id":"LocalText/battle_dungeon_name4721","revision":"efd5603abc6c1c5190817d5b14ee01d5d46612dc55a0b221663fb3e5cc4ffa4e","ptbr":"Terras do Trovão"}
+{"id":"LocalText/battle_dungeon_name4722","revision":"db6feabf6694375edefa19eeb6455b26b30bd1d501ec00874bf19b44e087ce95","ptbr":"Vale das Tempestades"}
+{"id":"LocalText/battle_dungeon_name4723","revision":"5d430a3d2d1614848e02e69beb67a36f30d3cd269b4cf3423d8859f10d727314","ptbr":"Domínio das Areias Movediças"}
+{"id":"LocalText/battle_dungeon_name4724","revision":"dfe55944c365d92ade9bd17b2ac783e5e467e6436893a01d394aeb8341439a0c","ptbr":"Floresta das Flores Embriagantes"}
+{"id":"LocalText/battle_dungeon_name4725","revision":"d43483ace591a35cacfe6772eba377657065cebf41d55bd40cd1ae0ba59a2eac","ptbr":"Reino da Origem"}
+{"id":"LocalText/battle_dungeon_name4726","revision":"7da389a734f195d6418f012f154b234846774f2e32d7c35718a0d0210476a6e3","ptbr":"Terra do Princípio"}
+{"id":"LocalText/battle_dungeon_name4727","revision":"c6aec261a8a489e0245e875c14a939fbd038d18d5110b4b7d08e21df6aa77eef","ptbr":"Terras Flamejantes"}
+{"id":"LocalText/battle_dungeon_name4728","revision":"01869c09922adacaa8023aa2d986d5755b98b0b6b4b8ca02eb98850a7457373a","ptbr":"Campo Ártico"}
+{"id":"LocalText/battle_dungeon_name4729","revision":"75f3398652685bfab6b55e659eba01174653e51b4948b4b0cdbfa778bfec113a","ptbr":"Terras do Trovão"}
+{"id":"LocalText/battle_dungeon_name4730","revision":"fe4649329f7f0589f27fcc08442a7ddc584afbc3700208af04257ea49c92162d","ptbr":"Vale das Tempestades"}
+{"id":"LocalText/battle_dungeon_name4731","revision":"0a2caa1a1ace4c4112e8995a69f5914df354432d6aa0676526d39f5d9b326d59","ptbr":"Domínio das Areias Movediças"}
+{"id":"LocalText/battle_dungeon_name4732","revision":"06cc86b13cdd0ec4f7084cbfcd9afc9bd0ae5369f68408e70ca18ea538957d86","ptbr":"Floresta das Flores Embriagantes"}
+{"id":"LocalText/battle_dungeon_name6101","revision":"f240feacbfd94d46f97033e1c50acaab5d44403a695888d5daf7fd36381c7a2c","ptbr":"Fera Enfurecida"}
+{"id":"LocalText/battle_dungeon_name6102","revision":"095b0f3474e1d1318e269b952946128a0d6bcd8245fe88a95e0fc5f7cbc61666","ptbr":"Fera Enfurecida"}
+{"id":"LocalText/battle_dungeon_name6103","revision":"5779f2f12e39329255c91e69de97fed8b34e59e31a6df2f21f6181b1be3a14f1","ptbr":"Fera Enfurecida"}
+{"id":"LocalText/battle_dungeon_name6104","revision":"d45a3c958aa6efd714e38332828a055fa902623140fa20b612c8c3c2b30af0c4","ptbr":"Fera Enfurecida"}
+{"id":"LocalText/battle_dungeon_name6105","revision":"f4ca376c6d3e2d8adec10eac27ae282b3b5a342b3e7f619b591030d58e452da4","ptbr":"Fera Enfurecida"}
+{"id":"LocalText/battle_dungeon_name6106","revision":"1049672ceb47513eee0184caaf802253089d3b4b69ca4c01c07e33dcf5616d31","ptbr":"Fera Enfurecida"}
+{"id":"LocalText/battle_dungeon_name6107","revision":"f5513297494e3a11e93f3f92e02d5a0c2c321f73cde9f938c1a663449a52d2d6","ptbr":"Fera Enfurecida"}
+{"id":"LocalText/battle_dungeon_name6108","revision":"3686e442ec46901bf084dcdb03e266fb828e1ffe93ceb2e4411a4a9186f80273","ptbr":"Fera Enfurecida"}
+{"id":"LocalText/battle_dungeon_name6109","revision":"2f41eb16297c6113aa9c5e7b2d4af45a64060304bf7acfd13a39faf26c556c37","ptbr":"Fera Enfurecida"}
+{"id":"LocalText/battle_dungeon_name7001","revision":"eb25f614407e486cc988e67413aa00bd35b17d7bd1a2fdd8aeb1a5a9add8da7f","ptbr":"Terra dos Espíritos"}
+{"id":"LocalText/battle_dungeon_name7002","revision":"11949493876e4ad0f1c566bb29e0ba8444df929e01fd7cf6f850d944bd96d8ac","ptbr":"Terra dos Espíritos"}
+{"id":"LocalText/battle_dungeon_name7003","revision":"049de9d4eab7834317f9bf0e53045cd06780c0f7bed59ff643aff5ff41d37789","ptbr":"Terra dos Espíritos"}
+{"id":"LocalText/battle_dungeon_name7004","revision":"d4763ce73551f4c8bd7db6e7d3379f9720ed0a589d9638dcca3d0bfc377572e3","ptbr":"Terra do Arcano"}
+{"id":"LocalText/battle_dungeon_name7005","revision":"d73c30ef1afde57d41b6152421316345cb973f2ad2d7b131e087e44759d0d676","ptbr":"Terra do Arcano"}
+{"id":"LocalText/battle_dungeon_name7006","revision":"4331ebb98ffe6c77ad6dcd6f26a9831a7f7c39ddf81cbf9439f26aba00eed95b","ptbr":"Terra do Arcano"}
+{"id":"LocalText/battle_dungeon_name7007","revision":"a9f3118857ebef8f56b815f5aff7e13840051b581c42078b41fccfaed70efc3b","ptbr":"Círculo Tranca-Espíritos"}
+{"id":"LocalText/battle_dungeon_name7008","revision":"5f73bb9584fe22f6355fc85b3ff754d57fb6c656e9e4248647f9e806e2b06f01","ptbr":"Círculo Tranca-Espíritos"}
+{"id":"LocalText/battle_dungeon_name7009","revision":"9942a4b969e76e43ddd09f9eda328a08b3bb20aeb4d8499eee505b042d2ebce4","ptbr":"Círculo Tranca-Espíritos"}
+{"id":"LocalText/battle_dungeon_name7010","revision":"df4a401e3126d65763004def309924d7cec7290bd608599a7d85277af29fea08","ptbr":"Círculo Tranca-Espíritos"}
+{"id":"LocalText/battle_dungeon_name7011","revision":"473fed0a61a5e423eb9f0205652d6a63ec414dcefffc0e0785091f7752738505","ptbr":"Círculo Selador de Demônios"}
+{"id":"LocalText/battle_dungeon_name7012","revision":"8f87fb7b25176d909d7c85eff95eb83ceb90d78bc9a8e57d998f62417b8f142d","ptbr":"Círculo Selador de Demônios"}
+{"id":"LocalText/battle_dungeon_name7013","revision":"6f366f7d570a6efd9d0a1b6d78c93c0b9009a751bbdf9de8dead8e88e84e9542","ptbr":"Círculo Selador de Demônios"}
+{"id":"LocalText/battle_dungeon_name7201","revision":"f009de9ec4a3ce1f3d85eb884ec5cdce18adf0427a1fb38589257d223688d37a","ptbr":"Caverna das Nuvens"}
+{"id":"LocalText/battle_dungeon_name7221","revision":"ce8ed1e42907bc441c6d0d888603d6f306b7a5fd6f3eec0fc806b384ab71ea03","ptbr":"Terra do Infinito"}
+{"id":"LocalText/battle_dungeon_name7222","revision":"f5cd94c770405922625efb273fe5d6c327e985969c7fa437eb636135d6fe8f60","ptbr":"Terra sem Retorno"}
+{"id":"LocalText/battle_dungeon_name7241","revision":"0a6828be6d8a5f6720e3a387ce4662cbdf7289d7a41d632e8acb5bf5124c5176","ptbr":"Terra dos Tesouros"}
+{"id":"LocalText/battle_dungeon_name7242","revision":"6a39b98a1a54b0acca28146fae8293dcf82d2388cf3d5e656cf4c6458737c29c","ptbr":"Terra dos Tesouros"}
+{"id":"LocalText/battle_dungeon_name7261","revision":"4d04994160450f717e905eb76c075100485d32553b86c5e3a2d9dd068186a1d1","ptbr":"Alquimista"}
+{"id":"LocalText/battle_dungeon_name7262","revision":"9b7bff920e26d6bb4b7366129a5d6380304c6da447044b0a67f0edc3e8508d33","ptbr":"Alquimista"}
+{"id":"LocalText/battle_dungeon_name7263","revision":"e8b303d7f54c2da5276066cb6fbd3480e224e71f50c6dd3ceecb97aab064c1be","ptbr":"Alquimista"}
+{"id":"LocalText/battle_dungeon_name7264","revision":"f428c45cbd4860fb846ffaf4c7e3bc1dd91e1868469a1f228aaff3f76a5704b3","ptbr":"Alquimista"}
+{"id":"LocalText/battle_dungeon_name7281","revision":"6641d11609be05a58d809aabd5ae164b61f234288323577fa5d205c22b75361c","ptbr":"Marionete de Sangue Enfurecida"}
+{"id":"LocalText/battle_dungeon_name7282","revision":"4b38f71c11d1cb957442d6036b3d43021947aa20c5776027d5578bf0f678c682","ptbr":"Marionete de Sangue Enfurecida"}
+{"id":"LocalText/battle_dungeon_name7283","revision":"8195e634695d758492551b9f3c65fad96f521e54c3e7e977e621093a8f1bc768","ptbr":"Marionete de Sangue Enfurecida"}
+{"id":"LocalText/battle_unit_name1001","revision":"d703289f43b3b8fd94a894c0f6e02a0b7f49d1fcc6ab757c65848f0c8d59de32","ptbr":"7.º Ancião do Palácio Celestial"}
+{"id":"LocalText/battle_unit_name1002","revision":"7c2719ab751ca55dcf1a66b227d7419e148504c9ae44df49806dc83b91f475b8","ptbr":"Discípulo de Elite do Palácio Celestial"}
+{"id":"LocalText/battle_unit_name1003","revision":"b9286a28155d061446108e651bad7006c9557b6d3489ed7a6c20a5b22b553208","ptbr":"Discípulo do Palácio Celestial"}
+{"id":"LocalText/battle_unit_name1004","revision":"30fc4a0a75253120740d0def10ab6696a3331c0d859ec782ee3366977d178e73","ptbr":"Acólito do Palácio Celestial"}
+{"id":"LocalText/battle_unit_name106","revision":"480e61ccd1d70fb2a789e3847339c8507a7794211047af1947b96e24db41a645","ptbr":"Serpente"}
+{"id":"LocalText/battle_unit_name107","revision":"3bfaaceff82172cd20d253d0fa2081484da7dd3ac752fbacb6425bec6989d150","ptbr":"Aracnídeo"}
+{"id":"LocalText/battle_unit_name108","revision":"c3e5cae13c56565000e840d95e26850f6bb8ba1f5b726d79a237198e6c918d16","ptbr":"Zumbi Enjaulado"}
+{"id":"LocalText/battle_unit_name109","revision":"3f3c7e55e4fed41c5e2941ff39615ae517db8d4c230064a75e745cd849e03d29","ptbr":"Esqueleto Arqueiro"}
+{"id":"LocalText/battle_unit_name110","revision":"98775ed241a8d0ad5231abe500010b7cae9c8e325635b6d077828ef63334f4a9","ptbr":"Esqueleto Guerreiro"}
+{"id":"LocalText/battle_unit_name1103","revision":"73e517875ed366b4951534da7dea50ee88f18fa6812bb3a82189f5c51d8318c2","ptbr":"Jiang Lanyan"}
+{"id":"LocalText/battle_unit_name111","revision":"b548c8c11a0cdfaebdf028f4ab694f2234a19b4d9a78753ace962415f3e4eda2","ptbr":"Marteleiro"}
+{"id":"LocalText/battle_unit_name112","revision":"4c5c32e364d58bd35a9ec1be4b50f9041f95177d33ca2727ba07612579a0819d","ptbr":"Mago"}
+{"id":"LocalText/battle_unit_name113","revision":"13afbd9c4b914c78cf393cdc8d5d73ca800a2a766b04e128fb23b8fc76e450f0","ptbr":"Espadachim"}
+{"id":"LocalText/battle_unit_name114","revision":"106fcb4e9aa801b01da3e43782dd5cf438d2cd0d82bc2aa124c16f8df1a3ffdf","ptbr":"Cão Selvagem"}
+{"id":"LocalText/battle_unit_name115","revision":"ac601f75a2d1e144e27dcb3697ffbdc9bf6c8b15c245fec51881d4797ee6f1f4","ptbr":"Guerreiro da Espada"}
+{"id":"LocalText/battle_unit_name116","revision":"799b14dfe74993247e9bee0620bb618bccf350524994827f32020945388d2922","ptbr":"Espírito de Raposa"}
+{"id":"LocalText/battle_unit_name117","revision":"068c960be70b028c9618b9e1634ee1ca4a0a49fcb13921092adad9a5c122ec5a","ptbr":"Junco"}
+{"id":"LocalText/battle_unit_name118","revision":"a0e166b00cddbe5b90a9d98ec6e38c0526669d46dde9e884745a2c638b94e90e","ptbr":"Raposa"}
+{"id":"LocalText/battle_unit_name119","revision":"7f72c9d8a81073ff7fc4a5f322827e802c90090c9f6a23abb8ee4c415996967d","ptbr":"Arqueiro do Pântano"}
+{"id":"LocalText/battle_unit_name120","revision":"6b5beb854a34dd7e88dfbf942e851a2dc328778ee51301f16d79e270620ccb1e","ptbr":"Lagarto do Pântano"}
+{"id":"LocalText/battle_unit_name121","revision":"21f8677ff445ed7ea497cfdb45d6bb1be06233abbad22a114cd9d1989107782f","ptbr":"Lanceiro do Pântano"}
+{"id":"LocalText/battle_unit_name122","revision":"67fd9b1b3c037c62fa2537f48ab4151256ce58faa1382967ddf5567ea3e61b51","ptbr":"Espadachim do Pântano"}
+{"id":"LocalText/battle_unit_name126","revision":"828fe464a87f8f4b1c2c5f20e34e1edf713a6e4d8577eb9fa939e4ce6a7d5d20","ptbr":"Semente"}
+{"id":"LocalText/battle_unit_name127","revision":"9cecf9dc4981486f29ba63e75e85d6344a3747909a802f8c7d85207957b0b9c9","ptbr":"Escudo do Guardião da Amoreira Divina"}
+{"id":"LocalText/battle_unit_name128","revision":"25634339ade3efb11ba6b21748e3da6841ff23cce9256f54d9ab641a4259df13","ptbr":"Espírito de Flor"}
+{"id":"LocalText/battle_unit_name129","revision":"4f17e61c977519a0338f7cf7fd9bc6ea37bd74bd236f5f3ca45b0f3b11fe26f1","ptbr":"Lanterna Assombrada"}
+{"id":"LocalText/battle_unit_name130","revision":"89f5339dc3e1b3d9babd7eefda8b48519d53bc0ced96817b348c10a654d130ea","ptbr":"Espírito de Fogo"}
+{"id":"LocalText/battle_unit_name131","revision":"23beca81c70e9d23e327fc333a46830492f16a7b11709d8e5166431bb0b204d9","ptbr":"Merloc Pavoroso"}
+{"id":"LocalText/battle_unit_name132","revision":"8e382cf7a35391e3cc73891ec1f8919b0d27333d3658ebb6c80048271525a331","ptbr":"Fada das Flores"}
+{"id":"LocalText/battle_unit_name133","revision":"01f9a4ae6f1429e2149238c94997525e5ce4d77188732ecb5df3d55d18969a3f","ptbr":"Espírito de Terra"}
+{"id":"LocalText/battle_unit_name134","revision":"81a07f8da389eeac872d6fb9734351d835d9a73742f888002acdca1386e27328","ptbr":"Horror sem Cabeça"}
+{"id":"LocalText/battle_unit_name135","revision":"b7265f4859b6aebe53a7b260d5273b4f37a167d1516b28ee1fa5ea2509ce596b","ptbr":"Javali Atroz"}
+{"id":"LocalText/battle_unit_name1931","revision":"b2874ad7d6eebdc3dd700d7edf4bde52303377ec7336d1632325bb96174f5bd9","ptbr":"Espírito de Bambu-Espada"}
+{"id":"LocalText/battle_unit_name20001","revision":"8f5cf980233ee7f498cf991e85e50219c5b0fc8428ffe1ba0cc410171967ad20","ptbr":"Subchefe dos Bandidos"}
+{"id":"LocalText/battle_unit_name20023","revision":"bb710202480515de45398ceb7cdc655d0111ddbbc9a810fd1bde83790313de42","ptbr":"Demônio da Seca"}
+{"id":"LocalText/battle_unit_name20026","revision":"d4c34d91632a8daa75cac82f02702933d305cd01869f4d3d01c57959cf77299c","ptbr":"Tiangou"}
 {"id":"LocalText/battle_unit_name20027","revision":"e385edda050102d55c751ab12ea4629aeab78659afd3aa056d6904d2da7f6eb2","ptbr":"???"}
+{"id":"LocalText/battle_unit_name2501","revision":"5ad5ed88641d0d57ec0ce485435a4a5de9c62094eb30d59b72a8ca0acc2b864c","ptbr":"Cultivador em Desvio de Qi"}
+{"id":"LocalText/battle_unit_name2601","revision":"f787acfd01c810364995a27a8c424b27269baa5e7b8005ba6ebb29deeafba72e","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2602","revision":"647de2f7dc5184bd880af63b7b5eea03218ff511e679f829313aacd9ab1a8e00","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2603","revision":"6fc574114eeb8b40f2302b6c71fac5a2a33591be808d4b1eda8b0914d5f52f75","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2604","revision":"a301f1ead9729a689117acfca133acc180356b86097c87f5d6b2d9e7af09f3df","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2605","revision":"1c1d6e267a854f31f3571d7b4dc54f6e6c1f5618e2305a0d984edf36fda49f29","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2606","revision":"0aa8774012d8b52d06021feedf32d2a72984ae221d7ab3d5cc3f1d238e1349a2","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2607","revision":"724cdb9581b54cac2309fedf722bd91e3b4d604786c216b38caf058e255c9017","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2608","revision":"f6dc33424c62e6ddbfa0783c3602f188f4063868ce35770a2254c8ee4f99550b","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2609","revision":"efb747adc6a564abcb0937179f9ca9bcaccf7337558a51c0216faa814cd8b801","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2610","revision":"5638dbd07a8000b61f232b86807870553a1bf7adf4d98355d1c623632310acde","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2611","revision":"9c0ee5f81227ebcac5d0fc1549cb845db0a3a80be20a5a3c1c950eaa55804dc8","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2612","revision":"aa56fc3a7805064439220a5e58c4b41c711e649ef75aa0a428213d95e3de31a4","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2613","revision":"96d61b793456f520e8cf7d5871642cc67494fddc38a062c28241af77a6286ace","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2614","revision":"4cc8379e85027803d9d845dce4158e028af602ffec98929d13f3f8d023e79caa","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2615","revision":"6549ffd55a77bd8ed997ec0a67fb721acdc289c1d7d29d4d1d263b7f6adc2fa0","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2616","revision":"8555aa7faf81733c5a5cccf9986a16cb04888834c9477e499378882fac3f903f","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2617","revision":"3255b7e6e40b6a73daf6c7392021e73b7e8846fcea9a982b7d06d256f2af3bed","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2618","revision":"304f1c6861c1f72407dacb5018bf9450ca42378401891511333cb5c4510fbc9a","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2619","revision":"a0fadc4f6f85383a0319eb0baa301f0dde72dac5fee0929e423ccc53c9c0ac48","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2620","revision":"3f33805532c81a806eaccb730b6badc561e362e4fa8d08c18c6dcb36822037df","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2621","revision":"017d8f938481cad56d431f68eefeabbae8183f267a8f77cd4689d4896a4848f3","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2622","revision":"1baf5e8e2357cd9932cf98e42b7823ddb2584161a541bc0724ebcd3f9495a0d1","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2623","revision":"5495286053914706ffd74bf55537fd9eb7aa2d52ce566dae5cf8fd79e2f54d37","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2624","revision":"0d457f7cca0c0caf1d864639395545d11beea8bf91794895c8596d9efccea099","ptbr":"Eremita do Dao"}
+{"id":"LocalText/battle_unit_name2701","revision":"6d3980c66d2b77dafd0a0cba6304e445e41ac6f6e5890692366f7e5f3df177cf","ptbr":"Corrompido pelo Desvio de Qi"}
+{"id":"LocalText/battle_unit_name340171","revision":"c939324ae7eea3d36b15abea513fa12c63283ce39c2fbbeb20d7c2d4d55d8c38","ptbr":"Homem-Cogumelo"}
+{"id":"LocalText/battle_unit_name501","revision":"89bbd150c233bb77729e86893f20b7710b7a3a30fa0523a4d9fc3bc43fd50bf2","ptbr":"Raposa Gananciosa"}
+{"id":"LocalText/battle_unit_name502","revision":"e825bc02337006109d64921b52ecfef06200ba6b01c370fa73d839aaa2744261","ptbr":"Alma do Caos"}
+{"id":"LocalText/battle_unit_name507","revision":"df633390fd6efbc493a1aab3b25e6b71401e859298977b51dbec6a51817b15b8","ptbr":"Fonte Sagrada"}
+{"id":"LocalText/battle_unit_name508","revision":"656fcf8e822ba96cf6e33ef0e65048a087e81cf18fb4944b06337b44fcce3868","ptbr":"Árvore Assombrada"}
+{"id":"LocalText/battle_unit_name509","revision":"c0e00e0eb14c3baa8f2bc8e9ac27da7fdff7dde8f52ebd352d3ba4620f6cf7ec","ptbr":"Sapo Venenoso"}
+{"id":"LocalText/battle_unit_name510","revision":"11a9d032ebdb12523a036604e4a7e96476a10c5146f8dfaf5eeef421fc291679","ptbr":"Símio Atroz"}
+{"id":"LocalText/battle_unit_name511","revision":"c6cafdcab072be0f77959743aafc5735023e6859878ccfcfdcb8292a1c754a98","ptbr":"Chefe Menor dos Bandidos"}
+{"id":"LocalText/battle_unit_name512","revision":"992eef9a6c4aa21b9a7cedb70c9fb0c634b753ca786bc5686913b09f10a50f9b","ptbr":"Monólito"}
+{"id":"LocalText/battle_unit_name513","revision":"b9c3bf7173917012f099097a1453897e9bdbe4d368bcef760713d31aba632a9e","ptbr":"Tartaruga Tirana"}
+{"id":"LocalText/battle_unit_name519","revision":"c80aea6b65a4889249aac7e38c863e3393f6e82f90540ba55d6f11d9080a7f80","ptbr":"Árvore Corrompida"}
+{"id":"LocalText/battle_unit_name520","revision":"d10ac4200397b827feb3ca939a849827eaa4a9c2784df03151138d4ba7eff99a","ptbr":"Bi Fang"}
+{"id":"LocalText/battle_unit_name533","revision":"a65b4adb8b70f5806d1ddf488641f95c7bb090f2f7ae8cf17126b5cb555dcfef","ptbr":"Raposa Acumuladora"}
+{"id":"LocalText/battle_unit_name543","revision":"6b482c51519e04bceec857b0d1877419085d4a76b2c298335c2f42558fe0c7ec","ptbr":"Covarde"}
+{"id":"LocalText/battle_unit_name701","revision":"8652ce6af82d4700eb129bedff90a9440080b71b1ea7ae481541842d3c2e379b","ptbr":"Sempre-Verde"}
+{"id":"LocalText/battle_unit_name702","revision":"4e83206bd8b660e30b994c9fd5130b8720f993e8b9ffaa364a19ead6a9a0d806","ptbr":"Senhor dos Cadáveres"}
+{"id":"LocalText/battle_unit_name703","revision":"58853b954c5ec3717ad418af177fa7f6fafe45afbcc388289c39af512f2f776d","ptbr":"Chefe dos Bandidos"}
+{"id":"LocalText/battle_unit_name704","revision":"bcadee643d000e338aa067ea671f739fdb8d6820f96049fc90eb7ef02c141aef","ptbr":"Raposa de Nove Caudas"}
+{"id":"LocalText/battle_unit_name705","revision":"218724cb434889ffb08402b1038622d8efdeabd86a6dd2e681b14f57eb117a04","ptbr":"Raposa de Seis Caudas"}
+{"id":"LocalText/battle_unit_name706","revision":"64ebac681e100de03c234adfa0452e4c1f365188b30436587130bfaeb4d3bb82","ptbr":"Hatuibwari"}
+{"id":"LocalText/battle_unit_name7061","revision":"c212e4cf7b8c89a78c2e15add47b7f41f52a76ab414f4bb3e47b3cc706865c8b","ptbr":"Nove Céus - Hatuibwari"}
+{"id":"LocalText/battle_unit_name707","revision":"2cfbd49c25016f31da21188b5ca57a4af65cf063ffd1eebdb7d8e7f6c4a589be","ptbr":"Xingtian"}
+{"id":"LocalText/battle_unit_name708","revision":"16aa45a36763a734f19d2e547c4461225ed4680d7fc26a23bce26364b35d2bf5","ptbr":"Harpia"}
+{"id":"LocalText/battle_unit_name709","revision":"4738589a4cab2062157b9af67d086fc2e123c04b02567cacacc32fc596cec14f","ptbr":"Jagu"}
+{"id":"LocalText/battle_unit_name710","revision":"9f521f6f8cc6903dbe4f67e09d0874e5cd4c29a8560a52b174d91a03a956f0b7","ptbr":"Jagu"}
+{"id":"LocalText/battle_unit_name711","revision":"ac81fa0c29b1c2a944d541201c999d909f60c6565e9895398c86de19152a5243","ptbr":"Espectro da Montanha"}
+{"id":"LocalText/battle_unit_name7111","revision":"92d3e9bae05b88357360204c85ea2fc475dc877964bbd6c4c50569ed958d8163","ptbr":"Quebra-Sonhos - Espectro da Montanha"}
+{"id":"LocalText/battle_unit_name712","revision":"7e20255b62cc9bed41ee898291148a877a90c17745d876445ba79b0e2c55f8ce","ptbr":"Lydra"}
+{"id":"LocalText/battle_unit_name713","revision":"6485cd3a7d430966bee15d6187fbd317d0d5cffb83dfd8fd2ee92579796bd080","ptbr":"Senhor das Harpias"}
+{"id":"LocalText/battle_unit_name714","revision":"4c9597550cd2482fbacd3d6bde8e0ea501abd7c3a1fa7d9c7c3810cbab2978a5","ptbr":"Hou Yi"}
+{"id":"LocalText/battle_unit_name715","revision":"5d2543ba36d13c161e9ba03246c0d48eff2e338f4ecb53c590f36c3676200c0f","ptbr":"Caranguejo Golias"}
+{"id":"LocalText/battle_unit_name716","revision":"78d28cf991cb7ae1010186dfaf26c7cd0655e95b07cdcdbba1e3cca0899d5a01","ptbr":"Corvo de Três Patas Ígneo"}
+{"id":"LocalText/battle_unit_name717","revision":"85c28354c768541dd93f624821f6c051ebd7b94838d4175b852a8f37b76da017","ptbr":"Corvo de Três Patas Solar"}
+{"id":"LocalText/battle_unit_name718","revision":"40b7d47d4c7a8968e2c89bc4d9f10a9fa9d2a9e392526bd2abac5ec7c7893d5d","ptbr":"Corvo de Três Patas"}
+{"id":"LocalText/battle_unit_name719","revision":"616c7120ff321f2ac83f12edb7ee40233dd26e55300f27fb8eeab58cbfca1f9f","ptbr":"Guardião da Amoreira Divina"}
+{"id":"LocalText/battle_unit_name720","revision":"0728266e7ecddb3aa6aa38f9d5ff7f107be2e95c7c0705aaafe1fdeacf266a81","ptbr":"Coatl"}
+{"id":"LocalText/battle_unit_name7201","revision":"457ff667618f2d415871347425df60edeac4a98b3ba713d2311922d93575a612","ptbr":"Cerúleo - Coatl"}
+{"id":"LocalText/battle_unit_name721","revision":"edbf7fdcf025fb1dce71fdae7ba48c337117f320923a65fc034c19b9b3299911","ptbr":"Dangkang"}
+{"id":"LocalText/battle_unit_name7211","revision":"c9483a13883f091c8d1d5250d0d2514a5aa002a1dd81757f602f22fedf2db5f1","ptbr":"Infernal - Dangkang"}
+{"id":"LocalText/battle_unit_name722","revision":"00d9ef3a93c6b8e3f0f85eecd07d39a41a73f5a9c26404f6d968174030d6351f","ptbr":"Leonid"}
+{"id":"LocalText/battle_unit_name7221","revision":"2417cd758243a9781933c0f0d039558a66ed328ef45de38e01edaec3a2c7492c","ptbr":"Nuvem Solitária - Leonid"}
+{"id":"LocalText/battle_unit_name723","revision":"4d57b1d2d68de110282246ac4024337f03a10d7b36b77689ab9c45f87de32976","ptbr":"Fantasma Masculino Estranho"}
+{"id":"LocalText/battle_unit_name724","revision":"a9890a7850e63d25e669001abe3d8b873867b5977de9c7ecdb23c41190c7408f","ptbr":"Demônia Estranha"}
+{"id":"LocalText/battle_unit_name725","revision":"1ae105cd136ff9dc724057c53cd67f672344cc9014657530b4f055e843202888","ptbr":"Leviatã"}
 {"id":"LocalText/battle_unit_name726","revision":"3e796bd1d88f3b3b0cb2e26f283bbefc316dad74899808d8217132d44dfe0877","ptbr":"???"}
+{"id":"LocalText/battle_unit_name727","revision":"8a6b84087cd53efef60411315997c9dde5c34437d59bee244042b18adeb00fa3","ptbr":"Leviatã"}
+{"id":"LocalText/battle_unit_name728","revision":"616e7e100ca4964681db9aa3506e251f8b579926d01cac627bf4b9dfa4f1ed1f","ptbr":"Bi Fang"}
+{"id":"LocalText/battle_unit_name729","revision":"d2b924fbabe386fcb0fcac9175d1199e0f72110a20f8fc17e4fdf47267352159","ptbr":"Senhor do Sangue"}
+{"id":"LocalText/battle_unit_name730","revision":"db5591698540d5f8f3b90f930c8838c007e7c627bebf99327ec6bbc436395489","ptbr":"Árvore Corrompida"}
+{"id":"LocalText/battle_unit_name731","revision":"384b15d51bc5dfb8794b3074c6cfa843a186df45373ac81801cd0481d62fb023","ptbr":"Demônio da Seca"}
+{"id":"LocalText/battle_unit_name732","revision":"82d188e4cd72a253ddb0a732b88a6c55a47f8d1ad2ba4bd99418d9ab5b3fc382","ptbr":"Carpia"}
+{"id":"LocalText/battle_unit_name733","revision":"b3bc1a4b709c704e5c8c89fa02fda18847b6673baa21f61385a844e1ba18e0c2","ptbr":"Núcleo da Formação"}
+{"id":"LocalText/battle_unit_name734","revision":"248f60d0d07bd156d05c51b5be8d8b60f1f5e2d3a85b8427dc90600be6501e69","ptbr":"Esfinge"}
+{"id":"LocalText/battle_unit_name735","revision":"c75af0ea24618876384a720e271efcb38d4f9507b1d76f7028d905ef9bc47ec0","ptbr":"Praga Vil"}
+{"id":"LocalText/battle_unit_name736","revision":"d8b63a2a5e7c0b954f2b42351fdb014757fe5e31d7d64c1a5e60c8fa7cf9dba0","ptbr":"Símio Albino"}
+{"id":"LocalText/battle_unit_name737","revision":"1fe2c2569bd187690c9aadf394b01946ed36255f31d7a322b8b9e52b8e6fa1c8","ptbr":"Abominação"}
+{"id":"LocalText/battle_unit_name738","revision":"9c91a58ce4de6a5e4c59988cfd1544d741536333c1ce6a432f9275a6e6cb4477","ptbr":"Sagittar"}
+{"id":"LocalText/battle_unit_name739","revision":"fa429b914957bb8e7889a4382dc467732d1d08933e8d6f1c84c839ea3d15727e","ptbr":"Espada Rouba-Almas"}
+{"id":"LocalText/battle_unit_name741","revision":"fd6a86e75d016cfde5a62cdb52e1fff050db208290a0fa590f68ade3e5f15ca3","ptbr":"Selado - Jiaolong"}
+{"id":"LocalText/battle_unit_name742","revision":"5908cc9aa9b0a653f34b7fab3f37da931594009ad50bbf566a6896db3334dd08","ptbr":"Selado - Gouchen"}
+{"id":"LocalText/battle_unit_name743","revision":"d60dc6d2904a5cef14b4694e1704f1c8304f8c4e73e28add0982eaaf6ba653b2","ptbr":"Selado - Xuangui"}
+{"id":"LocalText/battle_unit_name744","revision":"9b10147bd28b89ed343ed7ecb4412c745e8508cda5ed10a4e972fb4e7b9e7e88","ptbr":"Feitiço de Sangue - Carpia"}
+{"id":"LocalText/battle_unit_name745","revision":"911b0241a7e1791c7b469b0ad7b39fd508203e87be6fded3d8c0662152c0bac3","ptbr":"Selado - Luwu"}
+{"id":"LocalText/battle_unit_name746","revision":"625fa5fa1e170dbb32de6314c7e38f33c63efb52a861e5afbe415b33e04d8590","ptbr":"Selado - Chongming"}
+{"id":"LocalText/battle_unit_name747","revision":"e405975595ab4085f42da6fefc8ef0db5d0cf383a21436ddc1d2e262b0d1d9c5","ptbr":"Sacerdote do Vale Isolado"}
+{"id":"LocalText/battle_unit_name748","revision":"7f55cce93649b70c1c470f3336a5e78b0c86d8486dff19d29877232cbbb16fff","ptbr":"Sacerdote do Pico do Exorcismo"}
+{"id":"LocalText/battle_unit_name749","revision":"314d435b9a9f02aa62d1dfa6463ba2d34146ef737983f5575fe08c634c973565","ptbr":"Sacerdote da Montanha Panlong"}
+{"id":"LocalText/battle_unit_name750","revision":"3ed54bdf0ee34770afd6fe81d47316029ddb3e91fa2c33afcbd108ddc4b2bcf0","ptbr":"Sacerdote da Montanha da Lua Poente"}
+{"id":"LocalText/battle_unit_name751","revision":"3844088885b9bafdfcd3a2ac6e64fe3989b3591c00f4da53f914be38418efa79","ptbr":"Sacerdote do Vale Rochoso"}
+{"id":"LocalText/battle_unit_name753","revision":"b48ab5b2fdc6891f5a84a7b56e6cf665d72e0a8bf7ea2299fdbeb6248c02ca19","ptbr":"Guardião do Portão Celestial"}
+{"id":"LocalText/battle_unit_name754","revision":"f5f8d769d46ecb4eaeedb448c1caeff2ba3c6003f0f5f08c79a12b78de294af1","ptbr":"Qiongqi"}
+{"id":"LocalText/battle_unit_name755","revision":"f14f04f1d1c4aba2b6e3b6f6351d3929048ac1265a79eded4434c3fb3cbcecd3","ptbr":"Kui"}
+{"id":"LocalText/battle_unit_name756","revision":"432e34aee69e504871d9ed709543c6281d14105a19791ad32472467409f9926c","ptbr":"Ninfa da Gruta"}
+{"id":"LocalText/battle_unit_name757","revision":"993e38df101c3a97040dacc2e36e99c50e368c2588e9f1997f7633d854e5c4b8","ptbr":"Cria do Inferno"}
+{"id":"LocalText/battle_unit_name758","revision":"9368ecf8055d9346997bb156e317a373331b19570c620476425d38a6403dd3c7","ptbr":"Jimeng"}
+{"id":"LocalText/battle_unit_name759","revision":"7f4957cad5684d5d55fe042b47a25a80d35ff9b62b7f046c9442fada641a9237","ptbr":"Rompe-Nuvens - Abominação"}
+{"id":"LocalText/battle_unit_name760","revision":"85d19265a96a8ae01d264ff8a48e1381c3f9d25659b1cc70edde57a22ea289ba","ptbr":"Espírito de Bambu-Espada"}
+{"id":"LocalText/battle_unit_name761","revision":"a0e373efbc7295e6fb810e8ef2acefabd43733d1d983bf897e0eefabf06a20a1","ptbr":"Senhor do Sangue Ancestral"}
+{"id":"LocalText/battle_unit_name763","revision":"768388eb1b33e80d62896765e6019e3c4c17112242f568348c1b4644c3c7822c","ptbr":"Gudiao"}
+{"id":"LocalText/battle_unit_name765","revision":"0ee6742734a1f0f3cfa695c4a98c8b242cd0029847ec8555ab4b0f33300d2e24","ptbr":"Tushan Hao"}
+{"id":"LocalText/battle_unit_name766","revision":"2eeb1a401c356e31942065e43da9f4b82afe11a7f0afa7b8f3a9c3831d72e6cf","ptbr":"Espírito de Cristal Sombrio"}
+{"id":"LocalText/battle_unit_name767","revision":"fcf81409e03fa6d052069d99260d775de6adbf7883a0ca67834df35b28fbaefe","ptbr":"Máscara de Fogo Sombrio"}
+{"id":"LocalText/battle_unit_name768","revision":"8a4a7dd6f4581e9f040afab166b7f46e2771cdfd854c2f832a175735c832d1c0","ptbr":"Suanyu"}

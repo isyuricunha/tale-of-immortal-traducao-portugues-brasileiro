@@ -1,0 +1,500 @@
+{"id":"LocalText/casual_event_cost_type1","revision":"a952377673f8f66dcfdd36afc6b66730fc1c745273a5d99dbfa3e7c46b0a84d5","ptbr":"Tempo necessário: {0}d"}
+{"id":"LocalText/casual_event_cost_type2","revision":"165a7f32b812508d8f2de2209df9d56b5a8076199facd2664a476748a763d8a4","ptbr":"Requer {0}"}
+{"id":"LocalText/dramaSelectItem203021","revision":"a2406545b912297b487bde5bad1850056329b2ce945fb480407725884f0e47d7","ptbr":"Selecione um item para ajudar você a escapar"}
+{"id":"LocalText/dramaSelectItem237031","revision":"531b9fc677b755cec61bbf70f62cf7c8100d1240d6944a1dc2d182090821d8d0","ptbr":"Selecione o item sobre o qual deseja perguntar"}
+{"id":"LocalText/drama_option7000111","revision":"36afa39e5fedfb58ce4eb26918fd35a1dfc98ca7f45ad24badf495a848f64768","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7000112","revision":"bffde1fdba27e8a55438ca4d8b7adb76921e215f05322799b653ea88a745ef9e","ptbr":"Deixe-me pensar"}
+{"id":"LocalText/drama_option7000411","revision":"b47cd50789085a427f9839b317d18b18c23fc9e25215c00fa505e230723aca62","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7000511","revision":"7bb818f47cd7fe9a4942f872ad310caa6bcb4bac84d84c3ab9f04a7d6e1fedc2","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7000512","revision":"2b5d7dd68cd698749f897bfc5d72c20ab7c9d4beb970e14fc115ac4bf4846f52","ptbr":"Ainda não..."}
+{"id":"LocalText/drama_option7000721","revision":"859e7f3407ae7eed7058059b1f80469a2893009510572704a019790c7a119971","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7000722","revision":"dee680e231f01ca22c0dc4279117a0fa5b0918508387c77db9ed9034d30b88df","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7000811","revision":"5307db7a5100c23183045797e34e98b9cd07c6f5a9707e4e40fbecf1e4ac3661","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7000911","revision":"514f42c33e6469d8d8ffc247b9c2af8a4e4f699148128874b4531d29c6a060e1","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7001111","revision":"e81169861183c38746a99cc9343d8064e53b5cca1acf07cc3db28cc850424f1d","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7001112","revision":"61a30e28acf7fee296fdb28ac109b349e8f29e966884392ad37d7c9007b8967a","ptbr":"Deixe-me pensar"}
+{"id":"LocalText/drama_option7001411","revision":"0b8c52a3681ae8daae7983b4c2a4b54b52146d2a8b4599950ab6e71da2902f7b","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7001511","revision":"15f1ee51fbd435d5d17cebe0ec1197fb9d060ff85bb1cad2793d13b454746a7f","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7001512","revision":"8618d3dd1d6649769267cbb51041f7b10b652df9b17c4c47f6671ab269f7db7e","ptbr":"Ainda não..."}
+{"id":"LocalText/drama_option7001721","revision":"329b24e13017cbbfd2b31436fcd6a90f72202b9544c93a3326a60df7b25509ed","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7001722","revision":"33e7ae863a996f22a70820f59a09f5b566000c6911118b9621fc62755eb8f5dc","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7001811","revision":"75c80c2aa7ef55caff78663a9f2c16a739b1816ef2c1821b39a6084b3666b96c","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7001911","revision":"59e29efb61ddd8644eb33c25006037edf5a453176bbc9179154b9c5c180930ae","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7002111","revision":"f3b9ebf331a57e33a439e8a65bbe1e3fca16f5dffb7b6cbbe7f2774926eddb0d","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7002112","revision":"8c8e1c1f4043bb465e254be14c949ee9d3baadf322fee0c5afdc59f6983b24b0","ptbr":"Deixe-me pensar"}
+{"id":"LocalText/drama_option7002411","revision":"49bd2cc1c38a0c62f5999e4bcac1342244924dc58c5996f77e2b11ad333c716c","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7002511","revision":"58f895f58057681c2f62e2593993a5ef09ca08db1fb31339c871de8e1593c6b8","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7002512","revision":"ef5c19a9b99350bad33ab4b4031344def56372ae2b7f11498dce1b92434329b2","ptbr":"Ainda não..."}
+{"id":"LocalText/drama_option7002721","revision":"65bc37ae580db829d65a1af5cb2f7be7d852d87c35fba91b0a427ee8b96d7918","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7002722","revision":"370441084ad2155f6571a71955a929db2f7ff1ed841a5da5ed77c3b2cf88156c","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7002811","revision":"fd5a740ae1fa7c7d328a5e8859e72085a827fadb76978696275e7a8b8748564b","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7002911","revision":"7edf8fe0f9d4a42a9646d168923460d50d6b54842c9fb87184b4a61b89f0bb33","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7003111","revision":"19edc6f2cf8fd2bc158c0c5111650b7a5c2215eb54682a0c68e17f24499cb6d6","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7003112","revision":"19279899376b50bec202e4aa0f8b41f8acf28f04ec15fed1948682a0188ad97b","ptbr":"Deixe-me pensar"}
+{"id":"LocalText/drama_option7003411","revision":"a3bb58aedb1e6b8647d2ebadf033cad8d4a1b7b9ffc8c34b1e9d8a33fff3dee6","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7003511","revision":"1a3cc077d41e37dce021d0eefc6a5edd93bcf2ed6e674da1bd2e255aa4f621de","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7003512","revision":"ca69302c769d42e311d3b1d267b251ade59033ac6eac051186e549371b24651f","ptbr":"Ainda não..."}
+{"id":"LocalText/drama_option7003721","revision":"372d2ce10c139c48abcd44b565b27d8b08f856e6aad90d03bb32c64ab6e55645","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7003722","revision":"be087f9a81529185127c514bc312739794d98a3dec49ad9796a5a7065f0ab6b0","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7003811","revision":"a1148abbd69b1fa00aceb8b14e208b5f42473f08d7a30f93ba62439c4225d77c","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7003911","revision":"49ea743e79b5a9c145be939d7123b91629d121f3bf8442674fbddf10329bffad","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7004111","revision":"79c2bd444be8bff005b7e90015e6e9ae162b841c875b7705f2232487c1017ab6","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7004112","revision":"3f107335a028322e8b4dc882108204515a32ccd0f31399f812b71d865440115d","ptbr":"Deixe-me pensar"}
+{"id":"LocalText/drama_option7004411","revision":"3ef293a719ddf32426fccc8f3b19262d45d691236209d04d2de0a784dd69ba82","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7004511","revision":"2f78f5137a6f39343d4d2a6ec198e4e4331245673f20ba7cdb75e90fdcddab7c","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7004512","revision":"1c48a14a273845be380428fab5f950f3432fa6f8c316c2052290b8e306e95425","ptbr":"Ainda não..."}
+{"id":"LocalText/drama_option7004721","revision":"a486b9d00a3f630c00f1e418ee06bd4fa0a6ffdce34ca4175447ecf890339da3","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7004722","revision":"c210c26204a321be9d8b447e265eff3fa387cb1cb68481f5c8e8576e566cfdaa","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7004811","revision":"16676969d046abc1387f4fbf697864b68e76e624fe99cfb43a855e12f9d80393","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7004911","revision":"d76593a0e642f0a1aa45df0c21e7312c21cc1ffe258a3d71dab7743f835cec73","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7005111","revision":"fa9b6d348f8ca12c999a1c710ca3fdd3a1985456a902997f2985e7b95a1e12dd","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7005112","revision":"e78acee56e1dc02e5e7749b9b73d644259a8ac4e0bcaee609a3ba41a8bcb1923","ptbr":"Deixe-me pensar"}
+{"id":"LocalText/drama_option7005411","revision":"90ee6ca24b86bb9fbbd1e5bdc22a6c9cbe2ac6854592a0daffc071be0b168fed","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7005511","revision":"84882f1229762580d5f04f36b2b90b64ee8ea2a919dcbbc498fbf10bf80aa7dd","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7005512","revision":"c6fd1f0ddb8eff63a043a378815d2cb4d2f0c1936c961875a93b543f487e01a4","ptbr":"Ainda não..."}
+{"id":"LocalText/drama_option7005721","revision":"b6236bf20634b11a0fe1b6ec2e6da735c41492c7b14fe3d01c67790e003e26ab","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7005722","revision":"5d93503fe6136548067a5f8fe38b8c10132a97be3f539df027c60b29bd20ca30","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7005811","revision":"2f7067666d2f100bd803240b02de72c21566074fda2bb669f5181acae74b8f0d","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7005911","revision":"35474a9b9871425f640cebde7b3a5828bd38f35df479fddaeb089807a111bcd1","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7006111","revision":"2da9473542b495d0a5fb9b3576fa70d83d4bbdf5f25865085365ca6fa897b93d","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7006112","revision":"e0f7c28aa5b502a37d3475454f231d93c23fb392250356bdc93d9d879330188e","ptbr":"Deixe-me pensar"}
+{"id":"LocalText/drama_option7006411","revision":"1541d711793e45765a9d40576bc1018440fca7dd1586124e5ce4133ccdff2e44","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7006511","revision":"99cd51b57177597fbf4c167a31428a2ddfc93df70aafa9aa7dad08559f7753ac","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7006512","revision":"5cddad10af555339dadeee48795250ea1d35e79b816a19b7ae05a11df6f35650","ptbr":"Ainda não..."}
+{"id":"LocalText/drama_option7006721","revision":"18b9c28461d967fa7187c5589da9438d0d9d8a9fbcebfb06647c13944bb8a804","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7006722","revision":"c252ae6dc8f8354eaf0f567f123c081a9514c61a316bd62dc4ff261e261b64e7","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7006811","revision":"1fe17674b7b9680b7968e766a87cdaf4033ff21b10a0f60a322a34eedb3a6a4d","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7006911","revision":"4f671916552363a5e52fbad693cb4de1574bf9dd4afb05bc9fc812ebf0e599fa","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7100011","revision":"1fd2e8073cec198863e1c6c5307399a1b876a1515638bd9575ed8ed6c7ea2431","ptbr":"Entrar na caverna"}
+{"id":"LocalText/drama_option7100012","revision":"3b34a787ae91c14a9c94876da91bae8771ec39b0c3b4c800ce5ec8ded39777be","ptbr":"Partir por enquanto"}
+{"id":"LocalText/drama_option7100021","revision":"0af709534cb33ad0599c742ecae4ae2f14483e48577c6e8a16815aad769929da","ptbr":"Entrar na caverna"}
+{"id":"LocalText/drama_option7100022","revision":"f4ff11b817e791aa0d3154bab8ac14e743d7ab44d9878a0a5939af1d3a7d5e44","ptbr":"Partir por enquanto"}
+{"id":"LocalText/drama_option7100111","revision":"22395a9caeea0f735de6e844dc2a829a4c8f982fc57182b5be7fb381dfe9f853","ptbr":"Entrar na caverna"}
+{"id":"LocalText/drama_option7100112","revision":"aa03c35985b23e4676035d3df0cb3115deac64d57a49fbc3f79bb74fe31b2d4f","ptbr":"Partir por enquanto"}
+{"id":"LocalText/drama_option7100121","revision":"4e69cf30e4de5b3c71afa857a128c10461f791df202458549976045e83144ef6","ptbr":"Entrar na caverna"}
+{"id":"LocalText/drama_option7100122","revision":"8d1632079e5462dd4089d7f7f841fb45d7c882114cd228ccaa738522169b85be","ptbr":"Partir por enquanto"}
+{"id":"LocalText/drama_option7101211","revision":"7b533ade9560683bfb66869b07582f8a3d7b09d9f295765146ed515b18a2ed3f","ptbr":"Atacar"}
+{"id":"LocalText/drama_option7101212","revision":"d18ae2b1e810beac8c6d311ff9bb9b92ceab7b802a7fbe37d2f0a99a7288b7a2","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7101411","revision":"db2f6ba1b13b48833c8019026f7d081018c1a78ec16ad7b297c62ffa5f55ce73","ptbr":"Atacar"}
+{"id":"LocalText/drama_option7101412","revision":"f8260cd0e619526e44949db7254a69437d8a25383d41a56a2e0254e42e79ef3c","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7101611","revision":"cef17d7645da9cf1bb4275dbb800df4738640e468068db4a381113dcf820af90","ptbr":"Atacar"}
+{"id":"LocalText/drama_option7101612","revision":"3ac2a602cdb9e985b0642e80c869475d6288ce375792bfcca3b8fad99ae580d8","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7101811","revision":"7d8a0cf9e1b411938a19bc209e6df70af5eef3ca9b9184ff63c612dcbbdcb4db","ptbr":"Atacar"}
+{"id":"LocalText/drama_option7101812","revision":"3d6baf925666be8699993a5d26636b9a174db3c48afebbb3ad8248a7715239b0","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7101911","revision":"d7aa1bd3c265ac059bf0ae87eec283d38b615f9a8c5a277f50e64a007d585a08","ptbr":"Atacar"}
+{"id":"LocalText/drama_option7101912","revision":"ef9a0f462626fc570837955d6dcc19bb905be2714555301bb1842d84b5a30ec3","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7102511","revision":"9847fb557188f9dce983bc67e678367ea7871d7d964e4e339be0e2f897579f58","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7102711","revision":"43897a87673e28ae7e64a14dd7254c116be1b5f530d223bf421ac1f402f2f97c","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7102911","revision":"b8df5b5ad59cf77823d175f130afc1a1e3f2a3789b3aa74d174ac1f79f1a2175","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7102921","revision":"c4c47ddfb392f51c9428a5fb40220622bd708de93517b4890d5611ec84e0337c","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7102931","revision":"83e4a597ebad9d112c3f46122d9275044dbd431c832c9c90dbc6379abf45dac7","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7103111","revision":"4598fa15458ccdb1950b3bf8c8383b491cf84903b4fdb62d98da815f19684b94","ptbr":"Colocar oferendas"}
+{"id":"LocalText/drama_option7103112","revision":"c30ecf58797fda2702092deda131a5f700119f2668cbf21203bd8d6e8a47d9fd","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7103211","revision":"0bb2fbae832c3299dbfa5757e1973ba9cbdb1a35405d42df58b9efdd3cdeedff","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7103311","revision":"edf1c3cf96f3d12bf1773ba81f2be67497bac0a7e2b8df3d65e7d0ff45952454","ptbr":"Partir"}
+{"id":"LocalText/drama_option711111","revision":"3b235b93dcf9fc9fee83c94068f6a2359346ab90cbe383cf9f629721cc1cd07d","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option711221","revision":"b2736d7f842bf594db40d786831961a7c643b2de845e00aaa6054a87aa4af3d5","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option711881","revision":"d77e25e7349c45695745c1c8e41204aa26eda9ac3938918752d15084488bbdbe","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option711991","revision":"bfc9c682c00be56297451ecbd07b522abc13c6c5d8c2a7f8fd6864caced2ff80","ptbr":"Entendido!"}
+{"id":"LocalText/drama_option712311","revision":"a549d337c06db7dd8f3dd981e4f281dd3d18775924010fc421e6c118b627d9b7","ptbr":"Entendido!"}
+{"id":"LocalText/drama_option712531","revision":"5fa17e18758ab4c816efbbbf2898ae0237771f7ec2dc7db6eecbfd2be31da62c","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option712631","revision":"e95e28e9645ffd01215462ad60554d61dcad1ceecbc23cd400ccc1a3dc9e5ec1","ptbr":"Atacar Bi Fang"}
+{"id":"LocalText/drama_option712632","revision":"4b85e95bfa0facc55e60c44422479a53238d2036c1eaded896d485ec710529b6","ptbr":"Partir por enquanto"}
+{"id":"LocalText/drama_option712651","revision":"0342ba652dbe52dd40b570a3390dcac30cbeb91408cc17f59fb0610eea642056","ptbr":"Lutar"}
+{"id":"LocalText/drama_option712711","revision":"36a1ba0e85bf8dca017a5ead0403750d04f7d92d3147366d44f5489bba136704","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option712811","revision":"f49286820ba8d8f0cdd2d97d128c951c3087d7e36b39e53ec75f94971a55e64a","ptbr":"Sobre a Vila da Dualidade..."}
+{"id":"LocalText/drama_option712812","revision":"2c27e1a53b6bab8bc151b7d0b9e8c2bd8fc5298d2745e97d7b0e3f0713f04330","ptbr":"Sobre o Xirang..."}
+{"id":"LocalText/drama_option712813","revision":"d20a7370588e11e5f93d4f945aa574a3d1873e3c87190b3f5dd623cc591ef70f","ptbr":"Partir por enquanto"}
+{"id":"LocalText/drama_option712951","revision":"a49f3692fee8d454533d2b25bf02b3a2f3aeaf05d854dea8069cb1aec5a6cb87","ptbr":"Pedir o Xirang"}
+{"id":"LocalText/drama_option712952","revision":"59e680015847314ab20e710d9766eebbc5a52d721fc0b3cfa20ad07ad82a78fb","ptbr":"Sobre o Senhor do Sangue..."}
+{"id":"LocalText/drama_option713041","revision":"6dde777a4bbc893741bb02fdcecff555f5ef65bd89e9f2ad1eff8cf529f12d87","ptbr":"Tomar o Xirang à força"}
+{"id":"LocalText/drama_option713042","revision":"b5f9c21a34ad8e8837fbf4acd2c6676f3d78423a7583d0d328ca1c87243c1d64","ptbr":"Sobre o Senhor do Sangue..."}
+{"id":"LocalText/drama_option713121","revision":"38266ed6f3b6def8b3cc2c2e37bfa0a6050bc2500b6e798e36c6d2abef79027b","ptbr":"Lutar"}
+{"id":"LocalText/drama_option713211","revision":"4eaa4279e0cb6bf7c964f1960f42d0499ea6f145e1dd280484a2a308bd91cbbf","ptbr":"Lutar"}
+{"id":"LocalText/drama_option713212","revision":"16d41357db61da77d6b664b597fbba5d5c3a8d3ac7d593f87ded33d0e22c8bbf","ptbr":"Fugir"}
+{"id":"LocalText/drama_option713311","revision":"c4ae9a86954d42cf60dfad81c68e1007ff81a002800bf06042c322349da6f0d1","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option713461","revision":"f97f796ba416f382a680968c79c0375d7b9f8be23ab069a96e070a11cb4a09c6","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option713581","revision":"76bacc9f3167ef5e84865c29801f1bb407de7dd6a62d2c691c5ae92f742c8b73","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option713721","revision":"478d7b65ccd460c5efe41aaf0d9ad5d4f18f6c636ee0b8dfc113e3b93c18399c","ptbr":"Tomar o Xirang à força"}
+{"id":"LocalText/drama_option713722","revision":"a5a95417f102845e3b69a085e58b8893c49ebb1265038eb843219415176ee19f","ptbr":"Sobre a Vila da Dualidade..."}
+{"id":"LocalText/drama_option713911","revision":"4dbed05002ab707f943ece28d114eb440bcb4f231d4f4029b992a127d5483b0d","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option714021","revision":"314e184c8fbe19ce8f07ce5b6275f1b42e58e377c93b6379f0b70ec5acbcc04b","ptbr":"Lutar"}
+{"id":"LocalText/drama_option714111","revision":"a1ed6c90c111a627ee83facc0790c68d9adda8e506b5438208d2323a2df743a3","ptbr":"Lutar"}
+{"id":"LocalText/drama_option714211","revision":"3e1f19afb9b0c54f8df22adf5ab130e724b8801de251d5b8481464a36414844f","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option714311","revision":"a7a4cfa67792111ae55edfbc1203ec6f4554b39950425fe8be94faea37c6941b","ptbr":"Entrar na caverna"}
+{"id":"LocalText/drama_option714312","revision":"6101b654db26ca3bd398cdfe7712a93d3191a93a32cfbfbbf431a77a83e0f908","ptbr":"Esperar"}
+{"id":"LocalText/drama_option714321","revision":"4007e0bc898766714dabd178a33a0e748ae352ce32f77b7b59b3ca64c8f42569","ptbr":"Entrar na vila"}
+{"id":"LocalText/drama_option714322","revision":"280a658717400cd81e9bcbbd20cc2cc519f42e6a259db3aea434b7ffaec9aae9","ptbr":"Esperar"}
+{"id":"LocalText/drama_option714331","revision":"48cd8cc234c9b25064e9805eb5de0ec21261efe05639ef49feb91137bfa2ecf5","ptbr":"Lutar"}
+{"id":"LocalText/drama_option714461","revision":"83ad99320bab46f1eb1e6fb8603af4e53c0fdf4380349b559ba5996ca64c1dd9","ptbr":"Partir"}
+{"id":"LocalText/drama_option714561","revision":"72f1baaef2fb2164032d57e4ea64e437accb49a6878fa3f1258ca5ee730dbded","ptbr":"Lutar"}
+{"id":"LocalText/drama_option714571","revision":"a8690eb176c482b70830f87fbf9498b051c361aa4623332087387edb864eb7b4","ptbr":"Conversar"}
+{"id":"LocalText/drama_option714572","revision":"a76d92533b30d83f2aa41809ee2a3dfe7984fd9a213aae715989ce2549b44c4d","ptbr":"Esperar"}
+{"id":"LocalText/drama_option714651","revision":"44debc064ded0ec9506705737cba7cd1f8482fac24d2608fad9ad73ad0628e63","ptbr":"Sacrificar sua essência de sangue (Perde 10% da Vitalidade máxima)"}
+{"id":"LocalText/drama_option714652","revision":"71fa666a4a3b5e40566b2911f2670008bb53f6fb45fce1ac9eb7e297dd9342b3","ptbr":"Sacrificar sua essência espiritual (Perde 10% da Energia máxima)"}
+{"id":"LocalText/drama_option714653","revision":"df5c7f9470303a2436371d890252804bbcf833c4472f37a12b10e0b1906e550d","ptbr":"Sacrificar seu foco mental (Perde 10% do Foco máximo)"}
+{"id":"LocalText/drama_option714654","revision":"1b43cf9c37caacfc270dbd124b87c331f8c3f92bd10837cb6c2e588b9c85f584","ptbr":"Entregar o Xirang à menina"}
+{"id":"LocalText/drama_option714731","revision":"4342e77dd9b47de4fdc7724a4ba66c2a259bcd77979ebf5c623f5c8d9ff16f81","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option714831","revision":"c85dcb7793b02134f07810978339a7750e0aaa11beb28a323076338acd420e15","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option714931","revision":"93afece340fcfa66bf518158a793ae0e8cebde06ba0b48d6cbecd3bd938c1d40","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option715031","revision":"886440a41852dcd9f532a7ac607e21d2cfdd4e1023529c1c282836124c5f971c","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option715211","revision":"251a97a554542df0b00fa25581eabd461d3f92a364554b7222e276362a7f81ea","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7200011","revision":"80d10a88d975a03b8c65fc54cafec3adfee53b5e54ff6ec5223826f6dcf25ff5","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7201011","revision":"3312be2b84de1edbfb7900b72c5ca2adac393fb7cb5df5c7ba08db97ad0c6fbb","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7201021","revision":"8598378a2ac2d2eb44ef586e4d2d0e5a00eb854810813e3207b6448f7f4cab66","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7201111","revision":"f0ec209c6ce4a56272e44f3eefca26c89ca3b4d94de0e782a4c3eeefc1ede855","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7201121","revision":"9f8320d0b08eed601ec032ca079804cd2678060e2fd1d7775a8c445b4e162d5c","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7201211","revision":"5df201397c3163be130f91b811682fcf7b32fefdb2c62ea4b83a3a51ca7c4aa4","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7201221","revision":"13c307edc6c7f3fd7d9fbbd90ccb482a816748892b798099713cee479de12fb1","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7201311","revision":"a311e81891f8d306107658cf231be708af1caeb8319ab56722fe1cc9a5109f30","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7201321","revision":"d4446e491d0b38c8a7406dbf0ddc699bd0f2fd54fdf5a91f9728aa5a6db00fc8","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7201331","revision":"8db57a812a11395731a117ec6349fce571d73e51bf12de9afadb8e250048cf20","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7201411","revision":"76ae8766bab55ca98c16fa7c21efc1e70d0193046d1b94909cedab37c869aecd","ptbr":"Atacá-lo"}
+{"id":"LocalText/drama_option7201412","revision":"27a3bb0a4dd33bada5d185025365d4bda64c64c67d1866ed289142bdd5a7a707","ptbr":"Partir"}
+{"id":"LocalText/drama_option7201511","revision":"f4379b1d121e14664e280c81c36968546ba78ec9b751f2525cfc1aa4f277d289","ptbr":"Atacá-lo"}
+{"id":"LocalText/drama_option7201512","revision":"bb29db441890d95e0e896612011fa8bcef8cd51e687e21dd28928a05e4c67021","ptbr":"Partir"}
+{"id":"LocalText/drama_option7201611","revision":"aed1d29dd64bddf3e8de42fbd1baf3989bd7d2a7e8cdafcc7d52ba05be1fc40c","ptbr":"Atacá-lo"}
+{"id":"LocalText/drama_option7201612","revision":"6fe34478dee1320e28842cca65ae2fd9f55620afda450240a8dbd61b17c91e3c","ptbr":"Partir"}
+{"id":"LocalText/drama_option7201711","revision":"4e5797647f58751f49243e3b64f4f6b28a021747f5a6e6e6649871e29d3c9372","ptbr":"Atacá-lo"}
+{"id":"LocalText/drama_option7201712","revision":"df4a8184c69853e4efcc3fa8394f7085befd0becd45e7a2ed93b9345ea4699d6","ptbr":"Partir"}
+{"id":"LocalText/drama_option7201811","revision":"55943f01461af9f870cb810203c4ef065037899286e51b260bea6f08c7673bd6","ptbr":"Atacá-lo"}
+{"id":"LocalText/drama_option7201812","revision":"05070d83da4eff7a8979cfc5ad818f1cf1750469ed52b8bf00058041bc06b731","ptbr":"Partir"}
+{"id":"LocalText/drama_option7202011","revision":"f856face16636b7a1baaa8f276f36237f68aa818c73d0403fb61ee2204c14e85","ptbr":"Atacar"}
+{"id":"LocalText/drama_option7202012","revision":"8ed263ffb40215de6204e98481545804c5cddce6bf9c2ad9adbe64d96111812b","ptbr":"Partir"}
+{"id":"LocalText/drama_option7202111","revision":"8461c0439aeb93896a8fb89adf951bbe02ec69f75650ce668a2c49e54633f4b3","ptbr":"Pegar e examinar"}
+{"id":"LocalText/drama_option7202211","revision":"b4cd3e93f1dae387abe0b9f93c750238ba8fc7c8b3aa952b0a1fe7a33389f4b9","ptbr":"Entrar no vale e explorar"}
+{"id":"LocalText/drama_option7202212","revision":"ab22b79d0fd0bf8ced770ab29dffcd1f08f651bf6dfb260eabb6fcdb70eff192","ptbr":"Partir"}
+{"id":"LocalText/drama_option7202311","revision":"d19d689081481e6a96224b2f8b6626d7e5f6cb2f6fdc9cb18c53aa400748a16f","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7203011","revision":"d8a4177da36c24b458a3256be2b2e3d5e9524ee89aa38ca27fbb340588690b66","ptbr":"Atacá-lo"}
+{"id":"LocalText/drama_option7203012","revision":"24633dfe6778db9ba070c7da4802720a2adb9f481716774bea6b0f2b3664d3d5","ptbr":"Partir"}
+{"id":"LocalText/drama_option7203111","revision":"1824a5aea6e6942974479977e6e723cd517080136411c868fb7b6efe086bd0fd","ptbr":"Atacá-lo"}
+{"id":"LocalText/drama_option7203112","revision":"ee1e34fe0137dfd56beabb8c8a0457316b74a6bcc68c27e28eed3e29c5081c1f","ptbr":"Partir"}
+{"id":"LocalText/drama_option7203211","revision":"aac27f22f341ba8e3bd6953307b05e9b57321baed03bb6a6e012190e42655b15","ptbr":"Atacá-lo"}
+{"id":"LocalText/drama_option7203212","revision":"e75707d07eb1035839877a6d9b624f82a684eb72736a9ff9fc2241aa8e3406eb","ptbr":"Partir"}
+{"id":"LocalText/drama_option7203311","revision":"02a830c30dc6fa76a1dcb6c44876becf430d76fa8367c1fd438c82d9f52788a2","ptbr":"Atacá-lo"}
+{"id":"LocalText/drama_option7203312","revision":"0796a7279b6d8451fa2af790e0200c31b8f1e326247b57ed7ffd175a46f601da","ptbr":"Partir"}
+{"id":"LocalText/drama_option7203411","revision":"c0ae6e46a247465afacc2e051b89513f98277990adad32457b7d5c9fa74ba246","ptbr":"Atacá-lo"}
+{"id":"LocalText/drama_option7203412","revision":"5dd05eb09c5d9260ee37e3a0f56464ac46dec6c9d7de2a5750a0428e56e49416","ptbr":"Partir"}
+{"id":"LocalText/drama_option7204011","revision":"3a5a995f4cecbbfba2bdd719971e1d224cf41b65f19f8731ed5033ebf3b07bae","ptbr":"Atacá-lo"}
+{"id":"LocalText/drama_option7204012","revision":"8de93d9cc9a0fe202ee4212263b12e0710770eb37ad2e96f941b44a021432449","ptbr":"Partir"}
+{"id":"LocalText/drama_option7204111","revision":"65292146b7b1084628f0db62d6f7c300fad82ac80d58cd45022d222239c26798","ptbr":"Atacá-lo"}
+{"id":"LocalText/drama_option7204112","revision":"d55134a7ad38c7e202fd4ff302679c8c802de7131e9a0ed12163485b6184959b","ptbr":"Partir"}
+{"id":"LocalText/drama_option7204211","revision":"6a5729501acdf9c652f093f176c4f2f94e1bef1482d28fc38281cc0a7dc23618","ptbr":"Atacá-lo"}
+{"id":"LocalText/drama_option7204212","revision":"bcd588b183003ed8407f8d26e30febe649184fe0c63dda04760d239febf0b2cb","ptbr":"Partir"}
+{"id":"LocalText/drama_option7204311","revision":"674262a8dc83cfecadc2fe6f67427ffc68d4263a2172e7c7c228b0d40a3824a1","ptbr":"Atacá-lo"}
+{"id":"LocalText/drama_option7204312","revision":"ee84c3be48e8094277b486eb1f0715f4071733388065c34ee11c82b7aba827da","ptbr":"Partir"}
+{"id":"LocalText/drama_option7204411","revision":"513dc2e07ce8d41f04155a8632ebe7ebef44c51ac6568350a6840a82f2ae7570","ptbr":"Atacá-lo"}
+{"id":"LocalText/drama_option7204412","revision":"4d386cec3df5729151eadfec14109a08de1128609f9789f3252ad35dc0b83d36","ptbr":"Partir"}
+{"id":"LocalText/drama_option7210011","revision":"41bf855d095b749e9bce1aec026abac0c04549606d0e0d0a3638694715b90273","ptbr":"Entrar no Reino do Dao"}
+{"id":"LocalText/drama_option7210012","revision":"a7514decf6f7cc4fb68d244baeaad71555b78d22961b0462a86bfcf9ccf5dce5","ptbr":"Partir"}
+{"id":"LocalText/drama_option730041","revision":"865798d0374febadff8296833716191b7f46118a1768309537b897120daa6dd6","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7300911","revision":"13fefd0c607c704d8150c5d0d2c1f5bd891f7969364354da8a2c1903c18dcd85","ptbr":"Render-se"}
+{"id":"LocalText/drama_option7300912","revision":"1ce79e5f969e224eb415a7e0f4774f13019ff7640e60fa526296ed16b6a94534","ptbr":"Não se render"}
+{"id":"LocalText/drama_option7301011","revision":"e8c0af55b37a2d992dbb35f2d4a7e02358b4d3fd7c5da61e2fbaf5a1b9c7fb08","ptbr":"Aceitar"}
+{"id":"LocalText/drama_option7301012","revision":"48453d05d70126a0ed5bb19f41eaa2bde899fc306751c1f0c4bfae0f572fa6da","ptbr":"Recusar"}
+{"id":"LocalText/drama_option730141","revision":"5dfdee60c9298a4b60490afac5a09b940b98489ed12d48b6fc73af030a944907","ptbr":"Ajudar o lado Justo"}
+{"id":"LocalText/drama_option730142","revision":"5833d584227c2d2c4c8134b460d365df928611ec11ca2b616de648ea1e002fa1","ptbr":"Ajudar o lado Demoníaco"}
+{"id":"LocalText/drama_option730143","revision":"f0abb2d6cff52dda81144de4530fedb7e1b1118f187986e6c842dc2a584f9c14","ptbr":"Ignorar ambos"}
+{"id":"LocalText/drama_option730231","revision":"079f5328ae0b2e875d66077e46f63eb8e06a27e8fd32a1d7d9197271e2ac80aa","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option730331","revision":"450117cc35c255494d9f6d6af52eb05b2e686215d1f32efbf7061d0c2a209a83","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option730421","revision":"0c05e1ea50de6d416d577fd862922b0ce5212335350a7ad1ed55d211dc907289","ptbr":"Dar 500 Pedras Espirituais a ele"}
+{"id":"LocalText/drama_option730422","revision":"cc64aa61288efdd5e1bcebfc14b16be0bd6f5c31ff1221c8e4c8afe29c929c5a","ptbr":"Não tenho interesse"}
+{"id":"LocalText/drama_option730521","revision":"ba355f85cce000bf31133ffa49e59bc5388c7bc350e1d7b2d451d8f9e27a080b","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option730731","revision":"3e8b8bbb0900393ebd3e84442aca46f3f0aa97682c2da2316884703592816dfe","ptbr":"Mandá-lo embora"}
+{"id":"LocalText/drama_option730732","revision":"c1d0062a147f51371d305be695a9d9659ad29c8d6d776224513cc748eed95c4c","ptbr":"Atacar"}
+{"id":"LocalText/drama_option730821","revision":"e7d473495134cdc3fdd6bf31ca621ba76b79258d01d4711e1178f980dce43b23","ptbr":"Indicar a ele a direção correta"}
+{"id":"LocalText/drama_option730822","revision":"44227fa46975cd42dd7dda5104c277cdfcb7a1892331cfdc8a56fc8ef673d673","ptbr":"Indicar a ele a direção errada"}
+{"id":"LocalText/drama_option730823","revision":"d2ae07c5a37dc9aa027823fcaa7168a34706d7c71039412c20be0b834c898dfa","ptbr":"Barrar o caminho deles"}
+{"id":"LocalText/drama_option730831","revision":"b0e3a11a5c0864021386f253118b2fb702848d83eeb4420de4f2d1dfebda38e1","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option730841","revision":"a125ca74e99641e1faf0d4c4640beac9db9aa401282a64fcb70ff01a20c9d634","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option730851","revision":"9e27e9cf53dbda1c07d8509d2aa55a29a1cbdb999592b63a6072ff4a66948d6f","ptbr":"Lutar"}
+{"id":"LocalText/drama_option730861","revision":"2138553a171ba1fb18fb3c107f548472d377cd656d702a741ff4a758ace15395","ptbr":"Lutar"}
+{"id":"LocalText/drama_option730881","revision":"0cca62a47d58bc69d5c5dbec53cbc74b0395128bfdb716828a1d7feeffa1019c","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option731051","revision":"e28e5a8915e96bd0192b0b4ed1e8776a2fbdb48dcac46935babe11bd45979d57","ptbr":"Impedir os Cultivadores Justos"}
+{"id":"LocalText/drama_option731052","revision":"49958fec026d609863b37bed26d33473774d24ed8f0477360bce9d57b8f9811b","ptbr":"Partir por enquanto"}
+{"id":"LocalText/drama_option731111","revision":"0fb56ba90c88da22725cbb7bc36231720805cf6e8b2b6e1f3a805dbd4298a9b7","ptbr":"Lutar"}
+{"id":"LocalText/drama_option731261","revision":"313d7073f50eb5e035721f04d87ad5c28a2428edbbf5a746a5ace53223e520da","ptbr":"Quem é você?"}
+{"id":"LocalText/drama_option731262","revision":"db4aa212a7defa50df2fc3aff386c6e905733ef6768e6d94ebc4b7cac9707f84","ptbr":"Sobre a tribo"}
+{"id":"LocalText/drama_option731263","revision":"384ec648ec73278199b0b2e238d74464c96c1a598da34402997801b8d0701f35","ptbr":"Onde você mora?"}
+{"id":"LocalText/drama_option731391","revision":"e1feddc63fa4a5dcb13ec1d1a5379822eced5d7c58a7cc32b980483c1798cb5b","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option731521","revision":"eab5034ebb87e2558e13d794c53c00aeaadf3c5e34e77f1144c0746ccd4b510f","ptbr":"Lutar"}
+{"id":"LocalText/drama_option731531","revision":"623dbb4962eb61e6d014324309d1686c34dce5f7cb447e813118ee7ba486ea9e","ptbr":"Lutar"}
+{"id":"LocalText/drama_option731831","revision":"3da391ae8089f58a92ea1fb99fa64f79a4103281b4f25710c85a5f69dbb14da8","ptbr":"Lutar"}
+{"id":"LocalText/drama_option731911","revision":"f0e63f3a21803190eef9fbccbfca6d3c33cd0b240f7eb23cc95e81ff92389aec","ptbr":"Lutar"}
+{"id":"LocalText/drama_option731921","revision":"07d63f5516b3f9dc884cf921f6ed82804c1ff9924d072144e7c21f8218fdac5c","ptbr":"Lutar"}
+{"id":"LocalText/drama_option732051","revision":"dbc07f369857df95f9dca39548883963fab3e0879a21deee8978220580c93110","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option732421","revision":"8cac38ea7bf344d0e70b7cc18913566cf69f078be4382c097eabe25444de1478","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option732541","revision":"fecbbeb6165828fe961242662354f74e8fab7a8dca7c9a5816e9e25979002b46","ptbr":"Partir"}
+{"id":"LocalText/drama_option732581","revision":"a2d800e0795a122befde8683762843fa184b4039b8c4fdd0c3335ca437d850fa","ptbr":"Entendido!"}
+{"id":"LocalText/drama_option732601","revision":"65d959da5ba06084ffe3271a397cca27a23547e617f23db7431c52e4d4934f91","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option732621","revision":"8138e97d289440db7d44af38347b3aa1278bfee7ec45c24296a183e2f5f0f985","ptbr":"Aproximar-se da árvore gigante"}
+{"id":"LocalText/drama_option732622","revision":"bfeccb60dd65b9001aca62e6ce18239248e0eaca06d10ebb8b5f62d9aec00bdd","ptbr":"Partir por enquanto"}
+{"id":"LocalText/drama_option732631","revision":"2e347e62f2e70a396c21a1a341bb354f9358b5e77dc5d9d3db295e2ab4b21ab6","ptbr":"Lutar"}
+{"id":"LocalText/drama_option732821","revision":"31330d2c3675a1c01f91b0760df6b93f22ec7eb71fe019e780f943af58571d5a","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option733011","revision":"6c181532adee13e04384016acd9427a15179342dc20f565bf5d5f2d1bca99116","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option733271","revision":"fd8836c593e87de0522728ec41a2d447a198829aa92d4778126dd1bf07e2df03","ptbr":"Eu voltarei."}
+{"id":"LocalText/drama_option733272","revision":"01c4c7833dad0fd63b5a0954d40695c4703512ea554e404cfab39b3f19022117","ptbr":"Eu... não sei."}
+{"id":"LocalText/drama_option733281","revision":"3ed5cda9c8109537e93ef40c7aeda4db9d643d74895dfae129b2953d8a091804","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option733291","revision":"7daa9e65ca20cdf83b1f0c9c010427c011b0451a959535bb92e88944c6d947f5","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7400011","revision":"c6a17d93e993b99b388dc8547da139bbb2ba018fc09752f3558e66896e70a391","ptbr":"Aceitar"}
+{"id":"LocalText/drama_option7400012","revision":"4e56e292037dae96a2cc1aa366781d146f236c6c41356c14fb70dfec9b516eff","ptbr":"Deixe-me pensar..."}
+{"id":"LocalText/drama_option7400321","revision":"c7d273261b1f8930e97a1bd375b1a8bafc381a0714ae59b7a1c1397879233466","ptbr":"Entrar para ver"}
+{"id":"LocalText/drama_option7400322","revision":"1c9b710d9c1cb4c564a479d2532ebfb388c0b8973b22ed327e2980d1541f497d","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7400611","revision":"72f5303f1f64e73736257e8e531113795d306a9f96d9cb253410124e4c5b69c1","ptbr":"Explicar suas intenções"}
+{"id":"LocalText/drama_option7400612","revision":"b345d2cc0a374a709f032aa58ee09fcf89b51b3090b7bee4884862bf025936a3","ptbr":"..."}
+{"id":"LocalText/drama_option7400791","revision":"e1785c4ac7e96cf86890928509d6afca6b7a57e0fc410a2498a0af6965f65f80","ptbr":"Por favor, deixe esta pessoa ir"}
+{"id":"LocalText/drama_option7400792","revision":"22fae38293ed8dcc71957763a9e2eaf6833efcf590899d7d24bb7d566be240c4","ptbr":"..."}
+{"id":"LocalText/drama_option7400821","revision":"cb2d3479ef141396ab16626be36fdb4b8191fd31c1cff13cd6eb70fd42f83a41","ptbr":"Por favor, deixe esta pessoa ir"}
+{"id":"LocalText/drama_option7400822","revision":"af30a5502ecd629f0114a667ea77abfb36e3059ae68fef7bebee4890df479560","ptbr":"..."}
+{"id":"LocalText/drama_option7400931","revision":"94aadc9188a232357d1d10e9dd787f1165ca94cdc5052db8beebf69661c697ff","ptbr":"Palavra dita não volta atrás"}
+{"id":"LocalText/drama_option7400932","revision":"5a50cca3bb241e2393810f3c79daeae9287bc1ca951a252970a7ceb995c6d983","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7401011","revision":"398365b6919adf51bebf28d3e5bbb9f5b3ff15c2e8baf8f04f3aed05b12c33ee","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7401111","revision":"8662271b3f75c0ec0abb2127cee35f323fdeb6c7ce76ad4ba8bade4694f03d8d","ptbr":"Partir"}
+{"id":"LocalText/drama_option740121","revision":"acd98c5196d6c62347da92f750f006d06dd71d3782174e87cf6b5a1477888093","ptbr":"Onde fica a Montanha Tian Yuan?"}
+{"id":"LocalText/drama_option740122","revision":"9fff26dc7acc069318261cb3d80138af086b403e94a465071edbbe1abba01ab4","ptbr":"O que é o Caminho?"}
+{"id":"LocalText/drama_option740123","revision":"6bab2b9aad8af18b73c0c8ab1bdc3de4cb42b36f5b614a2a93577190b7f4dd06","ptbr":"Eu não sei..."}
+{"id":"LocalText/drama_option7401231","revision":"94a8d0a9cc3761c6f77330d54f657798a8985256c9a2bc2d5d54b8bc71334efc","ptbr":"Palavra dita não volta atrás"}
+{"id":"LocalText/drama_option7401232","revision":"5a609148861fce884881aada6fe2e48a4ec724c614741c67c998b7991bade5cf","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7401321","revision":"e63dc88fde63fb5a67e8540ccba6f72dca01ca149783933ed18ee71da2cab03d","ptbr":"Partir"}
+{"id":"LocalText/drama_option7401411","revision":"84f8deabe510485fa374b29e8bbbb2dd847a0a5737e9f87ce4a9d05dc32bc49c","ptbr":"Começar"}
+{"id":"LocalText/drama_option7401412","revision":"5c2f12013e3f9e366196441192f9462bee3b82003c6b723319eba760dc3b4fbc","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7401511","revision":"7e2c2762d2953a882726f1b41eef3499d10f69efd208d0a70d15f18a3b43cc5b","ptbr":"Tudo pronto"}
+{"id":"LocalText/drama_option7401512","revision":"d3a978ef34adeab2826a58ecfbef5a1dbb2e7fef434719b0d209b73f6d287761","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7401681","revision":"0f13e5aa0f4727701824d259dac8f99ef77a5779a6af3d70749a628909277528","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7401821","revision":"248502ab3342f0a1b81e6ff09b87de5cab4d573be8ff404c2df8ce5ad5cebf7c","ptbr":"Procurar Tiangou primeiro"}
+{"id":"LocalText/drama_option7401822","revision":"60882cd4e56c6fdb1b297ab5309d0e20f5cf8eaf875520c443cf3cd1a29232eb","ptbr":"Levar Ji Hongfu de volta para {mapData108}"}
+{"id":"LocalText/drama_option7402131","revision":"b81ae9d9a6072d71481763d479bc11dfdbfe4d2ff6a5af26e7107a335876a35c","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7402211","revision":"0d6323d143b0080398c7ab77bfb20778ea256390a8e23dcfeddfb1797a8a94a5","ptbr":"Atacar Tiangou"}
+{"id":"LocalText/drama_option7402212","revision":"0b7949e79fb577228c6938c4c226f50e51f4b0b3023779f1e6c74a6b3bc6ecfc","ptbr":"Esperar"}
+{"id":"LocalText/drama_option740231","revision":"a61b2bd239e894969af837c6b91917cd406b159764c9e164f4a750399e5f447d","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7402311","revision":"52961f2e6cafa9ee3d720444d0fed7fdd3c806bce7ddc6ad6fae58741a3829fb","ptbr":"Lutar"}
+{"id":"LocalText/drama_option740241","revision":"6dd622a2fbf955e627ad67428a7e891c1f3e6c5d60fc5ba9cd03e4e6c5a0b1bf","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7402411","revision":"84047bfaedfccd46d3e23cf49a5fd5de542a41e5b146d9a7535e727eb4f99816","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7402511","revision":"9d48e38f0211b1f3b3e9a0b85313714b335096a21a94b34b7448ec6b03951e05","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7403011","revision":"e64e063f2745901342eb5da50fea4d365630c3008108fe54ac91552046a141bf","ptbr":"Exterminar Tiangou"}
+{"id":"LocalText/drama_option7403012","revision":"881142f8d02feae4935964e6ca4f34a222b9dd941b60b203ad236d70b11c3669","ptbr":"Isso não tem nada a ver comigo"}
+{"id":"LocalText/drama_option740421","revision":"0e0032012ddc39f45882bff8aa347bc4a4dd4e834ef9cee30c8224c19d056800","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option740511","revision":"225f68c89c7caffb7a333a0951c2e0431e32a2fd44a3dff4c1f8490105ee1385","ptbr":"O que houve?"}
+{"id":"LocalText/drama_option740512","revision":"79ce41e12d74307d66eb8b87a26807ba2c32f47c20ae0912d06ceed940c7f43d","ptbr":"Adeus"}
+{"id":"LocalText/drama_option740641","revision":"72a3b16b0aa1ec5d8cf43c53f710860e8a45fb669c7380529c3c7aabf97b7d19","ptbr":"Deixe isso comigo"}
+{"id":"LocalText/drama_option740642","revision":"c87e5d32bad0d14309cc762fdef27b0cb6d2684c8dd157c9f7f616f0134162a9","ptbr":"Partir"}
+{"id":"LocalText/drama_option740651","revision":"33b7f801ebda5c1f5a2c63c4aad71feaa1e70b95f8ad4fba192e9b03efe346e3","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option740911","revision":"1fb4b6c0e5339f2ef0b5c0d242a9b06e123c7bfab4a915365a3404aa44d93d27","ptbr":"Entrar na tumba"}
+{"id":"LocalText/drama_option740912","revision":"1c62aab4c60dff12de23980973d850464e19251e153a11a81e91dde8f3d15400","ptbr":"Esperar"}
+{"id":"LocalText/drama_option741111","revision":"dcfad290cda540dc1c665af608bc9719a5234a148194a92bd2ad13ea08062dc9","ptbr":"Exterminá-lo à força"}
+{"id":"LocalText/drama_option741112","revision":"8473b270042e0207802b31fb17ec59b00ecea7a3c831587502a3039770e2d992","ptbr":"Convencê-lo a partir"}
+{"id":"LocalText/drama_option741113","revision":"c0a764be1bf0061ccdd0d2e7e53eaccaf57faeaf8db189f647581d124813fb94","ptbr":"Fugir"}
+{"id":"LocalText/drama_option741211","revision":"e85acf55eaa91b3efd32f589babd15aaf39f082ed18340b59525f38306e2d9e2","ptbr":"Lutar"}
+{"id":"LocalText/drama_option741311","revision":"772d1b1cdb3eb343f7eae27ae7e8661474389a804fbba4f7d8ea1352db36706e","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option741451","revision":"e1c950094b3acb586f51c72b9b3d6fa4066b38c5e277a46283d3624e7d79f9c7","ptbr":"Concordar"}
+{"id":"LocalText/drama_option741452","revision":"373f47f908b34331347e673d9e60eb20433055c3652d044f0de563bae5d88cef","ptbr":"Exterminá-lo à força"}
+{"id":"LocalText/drama_option741531","revision":"a09449bdbaaf61e7fd60484480d23b60f6c65c03b4ffe032845640d33b7e6f78","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option741621","revision":"da80cba63bcd89a2dbf81f2fe6ecb16318a3a441bcd740c7f6a5939e1accc158","ptbr":"Partir"}
+{"id":"LocalText/drama_option741921","revision":"6a36ad6fb44246205a8001cf155aec6bcb3424ed265b3d3f6fa080663c9e1b83","ptbr":"Promessas devem ser cumpridas"}
+{"id":"LocalText/drama_option741922","revision":"47053f65556d0156207b81f999f5bcd15018b2efc2f2bfe772715186d199aa08","ptbr":"Exterminá-lo à força"}
+{"id":"LocalText/drama_option742011","revision":"e9c9dec9319620d6526cb070aab25dc024581d78d66fd3797d6d1474d6f9e8bd","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option742111","revision":"db951ec4da357f91e257daf7d3e69b80d181d08e8a2dc9f25cea08cbda7cb8d8","ptbr":"Lutar"}
+{"id":"LocalText/drama_option742311","revision":"631428017bfe94d21b466bd4e7538c22558604be87269946377db92a0b5b3a6d","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option742312","revision":"0bf638a059d816e66c74ff0d7e3a913153fd2bf2e5570e0efbdc2dc1c7e3c832","ptbr":"Atacá-lo"}
+{"id":"LocalText/drama_option742331","revision":"e1e6f8edb3df45fc2d53bec766ac7235c0b9fdd495c9783e90217a8647a27d27","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option742341","revision":"336ea511bbb16f22dbddc64d7470954fe75891ae5a3dabb7025dd3c1078d84d9","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option742431","revision":"91596798f7cf285435705f51f028592f5c031e3b1abcc24a9b049b096d90cb2d","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option742511","revision":"1e03ef2f2db247ecef4e318a663d5d84cc3178d4f3a3fa5179bbf6ceeadaf0ff","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option742611","revision":"183debb47e5be9825a74ddfa757704fa595e57992cd4ab7fc50f76deb5e1cf81","ptbr":"Precisa de ajuda?"}
+{"id":"LocalText/drama_option742612","revision":"7fdacaa5946dedc931e945c0f9bffd37a13a85db1c1a59ef5a092f1e14038ff7","ptbr":"Como você está?"}
+{"id":"LocalText/drama_option742613","revision":"3822016992b5e8a9c8e7bdb94c00dfbb3e48af617e412fd80fc03c6a7ce9ed0e","ptbr":"Nada"}
+{"id":"LocalText/drama_option742711","revision":"ecd80cf925efac84362500bdde4a99a8b1f5470847bd13478cc5d8aa5afb8a53","ptbr":"Tudo certo"}
+{"id":"LocalText/drama_option742712","revision":"11b935518b2b70ffff7fa3c4f2d5fb204fe4364c3126cfde1a1481a69d73e68d","ptbr":"Espere um pouco"}
+{"id":"LocalText/drama_option743011","revision":"cd17596e88b78237467360fb8290b407b8ed0a26940fa52debea78f2bc0f3951","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option743151","revision":"907ef1e4e4c76150d3f39a9340ded316be0847a23476a50d118fb6c85b9e5f23","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option743231","revision":"b6f22ec076561c0e5ac8288b5e561318ee55e761da32d6a483914ee661d2723e","ptbr":"Livrar-se dos Carpias"}
+{"id":"LocalText/drama_option743232","revision":"1a06644c80d2615836509b56d739e802f220292023e9ad16c77234c59544aaf6","ptbr":"Tentar persuadir Agar"}
+{"id":"LocalText/drama_option743233","revision":"996ee2e2d515e04e1fcf2c4bbf6d103eb17441ff08de65b3e15a3a535dce7da2","ptbr":"Deixe-me pensar"}
+{"id":"LocalText/drama_option743311","revision":"6b237863a5a8ca3c65287c373a58e24c9589400277042544bd9b627b6ea18d3e","ptbr":"Lutar"}
+{"id":"LocalText/drama_option743421","revision":"6ce44b03a1171ddf64c2efae2915a862dc45fd5c6d4462af6ff1dee6a49cedf5","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option743621","revision":"7a739f03d324c362de29ec621e5481302131671189135b3d1f4aca5245ff94d2","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7500021","revision":"9a333e48f7b8d57e470c545216555ef9bb9c357173e6a1253d1a46a3b02b6293","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7500022","revision":"879c3c3bd82fb90164fa3ea79f1a552f3341d63b6f0162584a92b390ecda6814","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7500121","revision":"25842f0a576a7099c63ed08373221d4a08455db3deee55067a4b3f1aac1dbcbf","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7500122","revision":"dd94931a846d733e636ae618c7e17ad4e1af88f4b08bda8e73de5df03f2092ee","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7500221","revision":"db8e791e652009f2f0dd022e14a5fc8d9b685aa0fa9e5fa9bbb05cb58f157309","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7500222","revision":"25216998f43af46d290e8ff003de1c2f7deff293af1965f4865e535497ee8774","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7500321","revision":"2fbe2fadf95cd4a011d10583100b24b1df1ded8b354f40eec2aed0c7b79cae8c","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7500322","revision":"5e2813577068dd953681e0862ea3d8bfef479c223e4297a4413d4cf64bff284a","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7500421","revision":"77c1964e0b376c96e13468c5885bf8fb4256cd2649b9f6dc3423a9514e986a0c","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7500422","revision":"bec700611b5bcbbd5ac6d3c8870010b1c81441c47719770dfb7ddc3e1e67ee09","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7501061","revision":"0baecf4991a424f575868849bd65bc8f9363adf4e590ddec51de0942cdb9e523","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7501111","revision":"6cfbf78ec3eed49a8a4a9eb09e732ab2a2b6aa4613bbd9be6b1ca5c843480f42","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7501112","revision":"d7e72116275cfa0f0b79497772bc2f5f574e0438526e151a7dc0f2a094c9edb3","ptbr":"Ainda não..."}
+{"id":"LocalText/drama_option7501321","revision":"b0d9ad9fb4d3a6f874f68f903c5c7ffe966cba1ef59ffaff2fe880eaf7e8fe70","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7501411","revision":"41cc67bf46701986dead58986dcd1b92b4b1d99abbe736ed6ef7144f9750f5e6","ptbr":"Entrar na Montanha Panlong"}
+{"id":"LocalText/drama_option7501412","revision":"b24f741e6940101d7ef055b954287edd1dc62b97c73bb86f922c49bec2e16881","ptbr":"Obter a Proteção do Yang novamente"}
+{"id":"LocalText/drama_option7501413","revision":"47e07457b01edfea4f814538036a5d5889b7587164fb93d333e43d1b7dbc98e0","ptbr":"Nada"}
+{"id":"LocalText/drama_option7501414","revision":"214e5b5fe52e596f4f952688e1f5a5c0c55a69c645bee12b63ebc879b7f1effc","ptbr":"Entrar na Montanha Panlong"}
+{"id":"LocalText/drama_option7502031","revision":"17ef38480b775f2654dc50deb0f40de00f786d6a954bcf19291788c8e9aa004f","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7502111","revision":"41c7cfbeb39e62b22ce8b0e8c831112d6b1e54c9cf3fd04911c0285a664d796b","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7502112","revision":"d492e929b37773ad17490245bb6ed3b48998ec09188a2298accd24e5a58d0ca7","ptbr":"Ainda não encontrei"}
+{"id":"LocalText/drama_option7502411","revision":"f33b12906b57c087df76e3d293513981916e1a043f844ffe47a338bdca1b4c5a","ptbr":"Iniciar a provação"}
+{"id":"LocalText/drama_option7502412","revision":"fe4e3521b00fbd40dde173adeeebe8630b929f8d49877d425aeb1beaf40bd9c3","ptbr":"Aguardar"}
+{"id":"LocalText/drama_option7503041","revision":"ee6d236decda5cf18d52fac2015f0cc4206397f9cd28ec16618fc3b9515b3f1c","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7503111","revision":"46557019586dd91c8e2c62bda46b6f2d2ff63a597928c9a041560aa15fa58f9a","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7503112","revision":"3147beaaae955c2c9911fcff3566145cac95f2fa2b4035c56fe756cc75477691","ptbr":"Partir"}
+{"id":"LocalText/drama_option7503311","revision":"645bdd0d2cf3a00d8faae70d1d8eacb090e1da3e76d3dc74384eddb52a0f066b","ptbr":"Iniciar a provação"}
+{"id":"LocalText/drama_option7503312","revision":"d92bca0987e25a875079988e3e8ecc8f5dc6b1b69cdabfdd9634d7cb99992436","ptbr":"Aguardar"}
+{"id":"LocalText/drama_option7504051","revision":"d619c9b51de763179622f11481cd1431e9e97708863d462c8c925ad5f9fc8660","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7504111","revision":"71abedc8460eebd3cf420e83034f38d6086bb87aa2aa85ffabcd2de48fc6f9c1","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7504112","revision":"fa5a8105f64719458d3c7ae727655a4c5573652f2f1fccb80db00b7c49feba72","ptbr":"Partir"}
+{"id":"LocalText/drama_option7504221","revision":"e54eaa95faaf9b459ae03a0b807369604f861577f746f0f4e5b4fd98d371d3d8","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7504311","revision":"7e2fc6e0d2cd59e405e51e69356b60188840bb237be34653796e5c41975864f3","ptbr":"Iniciar a provação"}
+{"id":"LocalText/drama_option7504312","revision":"a9785a12fca988fc2f04c37242b0ecaa14aba90d1423df196abc1fe2198c9aac","ptbr":"Aguardar"}
+{"id":"LocalText/drama_option7505041","revision":"74af475df2828e39d748b1e59a42f00696701134ba965e126ce9f573d0404495","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7505111","revision":"936f9e57cafd1a4a817f5f76cef98fc5c835d7ec41de340eee1e541362b4dde7","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7505112","revision":"96c80f9d7185828416acb246f847825fa176af53496904f0c2f24ea2e0849bcb","ptbr":"Partir"}
+{"id":"LocalText/drama_option7505221","revision":"7bedbfbd57e35ce1651e46f3de042b25032e9f44a99034b9c659f7564609af79","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7505311","revision":"bc27d9aa5a6002db52b46d5a64c57d0c36ec6340bec4122fff48bdb0c9d72f23","ptbr":"Iniciar a provação"}
+{"id":"LocalText/drama_option7505312","revision":"810c601ceae83ec33a1eb83e2d8470db45fab90538c5385129e1c0ce54b5a09d","ptbr":"Aguardar"}
+{"id":"LocalText/drama_option7506011","revision":"7836710b83f335dfebf85831ccf6fa5aaf30392de6d27ed7c3e85572c669c74c","ptbr":"Subir a escada"}
+{"id":"LocalText/drama_option7506012","revision":"4b4e3abb3b18ca529b84be75d6e4994b3622c1e5b997dc6e762128b980e6046d","ptbr":"Partir"}
+{"id":"LocalText/drama_option7506021","revision":"ee9ef6287f3c9b26d4aae350064da5040fe15a600e8bea03210139a21676cc8a","ptbr":"Partir"}
+{"id":"LocalText/drama_option7506031","revision":"192e2bb427734936d48499d9ebeca41f99a98369e3751e22a902b5fd649ba33e","ptbr":"Seguir em frente"}
+{"id":"LocalText/drama_option7506032","revision":"544fd60da491b76c99c9bc9e69ef90f3451f8fd5ab11943701a5ec858692e062","ptbr":"Partir"}
+{"id":"LocalText/drama_option7506041","revision":"ceb70f6d0d86c7778358d711a2046cf14a102d003622850458aad8b8d4ede9c0","ptbr":"Seguir em frente"}
+{"id":"LocalText/drama_option7506042","revision":"5bfecce86824eac1fe483539ce547514cc71b45ed7270c0e7e4d72eb723b0d1a","ptbr":"Partir"}
+{"id":"LocalText/drama_option7506051","revision":"2802fdaebc5d0f5fdd02809ac1fc5b77bc13cbc89e209bec42239b8a588178f3","ptbr":"Seguir em frente"}
+{"id":"LocalText/drama_option7506052","revision":"fa208ca3f6f696c9b0d5478065d13a4f7a36770e49522bebf12daf38cbc0765f","ptbr":"Partir"}
+{"id":"LocalText/drama_option7506061","revision":"5aa3c3f1c1efc37b86d4b6584d7f60834f5fd3ff987a438ccca3ecba5d91c97d","ptbr":"Seguir em frente"}
+{"id":"LocalText/drama_option7506062","revision":"37639909c3ad8ed271e3d549f8f2787e8bd40036bedf5a3233d3474ff44d8ad2","ptbr":"Partir"}
+{"id":"LocalText/drama_option7506071","revision":"920c367404cfb9598065ca90d1737def2a4c11b8050a92a15352e65a1478d67a","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7507011","revision":"8d52dfd8d97c6b8f0af6d5be17f3c8dddf186e7d55e05981ed112b18e4c854fa","ptbr":"Entrar"}
+{"id":"LocalText/drama_option7507012","revision":"2a29dae523e0c2e4dd89b1c6b31d067cfb9d814a5f7c312e2c9f2e2f5987ae26","ptbr":"Partir"}
+{"id":"LocalText/drama_option7507021","revision":"91dacd2b44f2f16e8202ef8bfb60ccf04ae78120c8b4656c381e11cabf8ef18c","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7507031","revision":"d79b3c54d84f53b4d8b5051b4b58d119119360e43a506bee73d0e993d4d8db81","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7507111","revision":"f2c9df732325890432164575ab00ebbd774d76fee46c4f214656a410d2b88a5f","ptbr":"Entrar"}
+{"id":"LocalText/drama_option7507112","revision":"4f86b1e32128dc52acafdb2752f70551b6b1b10b44e229f5f6bc8547194bdc77","ptbr":"Partir"}
+{"id":"LocalText/drama_option7507121","revision":"b2679f8ff3823b9c5fad5cdf353d123570fd42208b892d5eba08a220ca972e76","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7550011","revision":"412276a513c805b49161146fb96433c8673904eb8297c1abfa16fc158d80c4fd","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7550021","revision":"e4708eee28cce6705717b8a831d717080b36cf615a612a9d5408ec0daee3601a","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7550031","revision":"583e33cd4f1aeaeebf4efa5464fe6e1c342c50b70df15a115e3ae5ee43f1df1e","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7550041","revision":"7ef714551472632f8f70bb56a245614693210720b80195b63ab693023eecf4b1","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7550051","revision":"238cc7bfe130644be1f7f9246a8740b984c3c9c6067ea9ed656edf0618b54577","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7550061","revision":"eb29d7b988f1e3e99907a2fdd7b1b3dcaad992f319b2b6ef86c48ba9339030b8","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7550071","revision":"af41fc1307d061472ab2341d990746f116b5d879cb686b968536e490415382fd","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7550081","revision":"04b12446c598a746aa2efbc36055b5e5b051b294cce7c6ab495d728067e91a90","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7550091","revision":"d167abf933962d46c2a8bfe0f511172058da0e1951faf455bceef9e4dac94bce","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7550101","revision":"882421a5ca6638b4581872335d5a46cc561ec9c7f89ec188b51429caf52b2340","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7550111","revision":"e1c5ff959a81488b840a67228fea33f37bc1aa485cdf63923cb33f69ec6b2386","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7550121","revision":"06a556824dfae7dffaf2f4d85e5b87accc3b3ffd724cb09706c8782093937f50","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7550131","revision":"a5cbf282f4204b444ad87cc0ac4b7f1d590eb93a96e6f3193b97194ca3b66b9c","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7550141","revision":"22c2665b8fa21ab845d69ea9ae5e41c7c3c944fb4bcd92022f13f38be46dbff2","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7560011","revision":"b9246816c8bf76c48a1942bca8407368904169c91643661f3b5725feb5f0b530","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7600221","revision":"22735a6a6dc896bcf258ea11c8780117fcb0ba4c0c4da04eb4b9f8ee1b7ee2a2","ptbr":"Conversar com ele"}
+{"id":"LocalText/drama_option7600222","revision":"a52d09ed4dfac20556260593c5a9a351615e789f7feb291ea1bee67a0dd8de0a","ptbr":"Foi mesmo pisado?"}
+{"id":"LocalText/drama_option7600521","revision":"0785bd6ac7d8925e2f389d8e9c1cad7ab5766bdefbccc1d6de96d12c726ef0d5","ptbr":"É possível ir além do Reino Transcendente?"}
+{"id":"LocalText/drama_option7600522","revision":"d037b92051abb7070b862f0d7d0fd8f7e1f20eb6eb1c48e91d8a0fc134b949a6","ptbr":"Você precisa de um médico?"}
+{"id":"LocalText/drama_option7600523","revision":"2827a90effdd89840f7b0d243c09bd010b693a741dca8c3cb65f06498c978d60","ptbr":"O que é mais importante: a pergunta ou a resposta?"}
+{"id":"LocalText/drama_option7601151","revision":"88bc54943fe6ad17d6d655524b9f8a59ee8486f61713b0db96758e8c274c52ea","ptbr":"Vou ajudar você"}
+{"id":"LocalText/drama_option7601152","revision":"6a924ddbb9f1df1fa7dcfd157a1c7cfd902be5bb51a2bf78ddf54850c2b266a4","ptbr":"Estou só de passagem"}
+{"id":"LocalText/drama_option7601411","revision":"a86c901b1372c190103fa71fa53416268e86926839ee804351ae82fa5fd4e1c0","ptbr":"Investigar o interior"}
+{"id":"LocalText/drama_option7601412","revision":"7143d557a0d616f16e666bd0f81ccbbea8f8a73ba43dfa0bb51d3c07ab5d9808","ptbr":"Partir por enquanto"}
+{"id":"LocalText/drama_option7601621","revision":"dcd167444e576b5fd3bbcc3da8ebb89e8925435e95ed37e3ee7541ed176a4b6c","ptbr":"Atacá-lo"}
+{"id":"LocalText/drama_option7601622","revision":"892fb25b25bd92ae1bd83e94d9010d2659236992feed7bdf613be5b32393ea46","ptbr":"Convencê-lo a partir"}
+{"id":"LocalText/drama_option7601623","revision":"f2a510e8fadc355c3f1751e3f4886f28bcf855f903398a6028fca46efebb2d7c","ptbr":"Fugir por enquanto"}
+{"id":"LocalText/drama_option7601711","revision":"425148188a886183ee49858327c4b099a32a405098c16a09885fff2cf932c410","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7601951","revision":"5180853353624b37c101e7ef404d05f95c6331b72cb480b4153f6950dd14bdb9","ptbr":"Exterminá-lo à força"}
+{"id":"LocalText/drama_option7601952","revision":"5c139a3c862d0619ed486806175c3c5df58f3ecc4bddfe7fe4d365fb7c913b38","ptbr":"Aceitar o pedido"}
+{"id":"LocalText/drama_option7602041","revision":"3a7071ba41ae19fc36293d4a094dca1131fa53c630d17f019cbdc010c1f3ab62","ptbr":"Partir"}
+{"id":"LocalText/drama_option7602121","revision":"01ad2eb7b84b0d1e17a579e590ae031e5f7651e7fe8e14f7483244f66dd9de11","ptbr":"Promessas devem ser cumpridas"}
+{"id":"LocalText/drama_option7602122","revision":"86391acb29c3c7140aa46f563f570995815ae084a897409986b8a18ecdf42ba2","ptbr":"Exterminá-lo à força"}
+{"id":"LocalText/drama_option7602131","revision":"c2fb95e4ee6e7ee6acc99a790e8101b6f226fbc9c5cdb3fa4b6ed479b79472f9","ptbr":"Partir"}
+{"id":"LocalText/drama_option7602311","revision":"f0e4616cd97cbbd52d243de4f0659d5a4e373a15fc7df7be1f3960b8c144830d","ptbr":"Partir"}
+{"id":"LocalText/drama_option7602611","revision":"c2206f4daee2b92b4d492c7b730dd0af72849900ba1ef7de5bedf0c683385b61","ptbr":"Entregar Erva do Vento Sombrio"}
+{"id":"LocalText/drama_option7602631","revision":"a69f6376a78483d178afb3fdc6fdf43e04b441db559c6c84d768349c4a346c22","ptbr":"Aceitar o manual"}
+{"id":"LocalText/drama_option7602641","revision":"074ee6c23f8305790911cb23c5fc9768baa9c39c2bf80426c6f75ac46f456216","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7602911","revision":"b541254c60509d8a19c22d5243c8a314f6b401fb658361a79c48bf371dcc9b89","ptbr":"Há frutos espirituais por perto?"}
+{"id":"LocalText/drama_option7602912","revision":"909da7faf89a4a682b8a7e846139adb8fd150b5caf638053e437872e0ebde271","ptbr":"Há fontes de água por perto?"}
+{"id":"LocalText/drama_option7602913","revision":"9786085cdfe6660f6119f61b78999adad1f683865898965a0a1056d79f29db22","ptbr":"Como você está?"}
+{"id":"LocalText/drama_option7602914","revision":"c166ee3a81b8b836523e5e9605300ca1a75cb5a80e73bcea2b97eb45f377f980","ptbr":"Partir"}
+{"id":"LocalText/drama_option7603011","revision":"343ffb4866a8da82c5b9a85c6b7f9b81fc24f28f7264a8250d956d51ea05e13a","ptbr":"Aceitar"}
+{"id":"LocalText/drama_option7603012","revision":"9b08972853e0bd0f557fbc2aaeabbce6804aa10fdf6f3ada4cdf5e5587ac638a","ptbr":"Recusar"}
+{"id":"LocalText/drama_option7603031","revision":"40b92d531441340cfa3251d2bc7d3bb9325ce410f1a27d8fac9f4434fe447a24","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7603041","revision":"d570fa75541c97804c78503ffc28683f2ff13df04e295dab1bf7d79f0633df99","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7603111","revision":"b3c1f812a601694de4fdd3f76c7fb7a3629473f3ff7bce09d6e12a48f73559d8","ptbr":"Aceitar"}
+{"id":"LocalText/drama_option7603112","revision":"8f3d6d2a2e3f0a7ce81799be8e9a43f330d82fe1db2d9d139fe3c6adccf36e1e","ptbr":"Recusar"}
+{"id":"LocalText/drama_option7603121","revision":"2de89472f82e46baa0ec76b85fa0dd0d690f1c32b3e6d6a87ead76c68db5ec1d","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7603131","revision":"400237c56ae8223308e5c623689756b427bcff8cdd23f76d03e97ef6795e96be","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7603311","revision":"9d8faa63df5bd5eadad4b55008550910c5c28389155731d705b25ad97505f276","ptbr":"Aproximar-se da árvore frutífera"}
+{"id":"LocalText/drama_option7603312","revision":"a299efa042bcff64d816948aabd2108c18acc8db339765f3a28ed134f6f0fcfb","ptbr":"Partir por enquanto"}
+{"id":"LocalText/drama_option7603411","revision":"2dcacf76f1f2f68574332e3ca09cca6acd1194bee2e234802092b9f351b74fd7","ptbr":"Atacar a fera"}
+{"id":"LocalText/drama_option7603412","revision":"a1ee0a2d5d610f91757e3391c9f945c434ba8d7dd48f4c952af7e6b8e0eb9d7c","ptbr":"Partir por enquanto"}
+{"id":"LocalText/drama_option7603551","revision":"a645e22a492809bab821aa6106ea5bf21f809eb807823e0661d574924b2b8d63","ptbr":"Diplomacia!"}
+{"id":"LocalText/drama_option7603552","revision":"aaaef4ee2fe55fa657ff4e234d42207424221447132bb5ce8d95c12fe5d42c35","ptbr":"Livrar-se dos Carpias"}
+{"id":"LocalText/drama_option7603671","revision":"0f5f7e5b70634c50880b9f8424f75034d32d3360b1ac6e3ed81edfde8fe51365","ptbr":"Livrar-se dos Carpias"}
+{"id":"LocalText/drama_option7603672","revision":"3324779b0355abcebbe44a4b1e47b881d7c3615746b04276e1012d9d3675af68","ptbr":"Perguntar o motivo"}
+{"id":"LocalText/drama_option7603811","revision":"a4dc46c0e7121d7497f4efcd04ad7dee25b0574bfd0b644bdf8ceb9fdf3a04dd","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7604071","revision":"ea7eac57adc8f309d02d6cc497d6a61d8441f567cd50ff1fbc02f0b4dd9453a9","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7604311","revision":"05c6c9a3ebc4fa450aad969f6f9e1deae7960fdfda3c39f68500d6dd6ec529b6","ptbr":"Investigar o interior"}
+{"id":"LocalText/drama_option7604312","revision":"ecb55649480ed74350d21d72b5d23e47fbcbdf3086b656c21a09b74e79e8c3c8","ptbr":"Partir por enquanto"}
+{"id":"LocalText/drama_option7604411","revision":"466281568ca8ded0d508b2bc6fd62be0e5b17054a1a9fc27e2092c1bd02d56e9","ptbr":"Levá-lo de volta"}
+{"id":"LocalText/drama_option7604412","revision":"f08462096df4ba50ae864e8abe1843ef1536593f5a6bfb36ba61609d80192bbd","ptbr":"Esperar Jimeng voltar"}
+{"id":"LocalText/drama_option7604511","revision":"faa59862f3a624144eb30392a501a32dcf8719106312a583a368b9b04b580119","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7604521","revision":"8a39f34f3cdc8a9a528ac584b85364f371d2e0b768f9c9705b20af9dc4bc0b0f","ptbr":"Lutar"}
+{"id":"LocalText/drama_option7604611","revision":"5bb5ea487295effc7e491e999dbdade877739e7f14e6eb1e46f436a21499b3f8","ptbr":"Escapar"}
+{"id":"LocalText/drama_option7604711","revision":"40af515523a1ad107e72fbba8fd8c1a5ad27cbcda458c8e1ed24c9329743bc06","ptbr":"Desafiar Jimeng novamente"}
+{"id":"LocalText/drama_option7604712","revision":"a8284ea9554d12268511fa52c7caaa93045c4af839e045b5ffb556fa7fdb5cd0","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7604721","revision":"56d6f5e7673bbba4a0ad7e699275d51f3b41f67f58a81d2961eb2155b674a35e","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7604811","revision":"3ac651055d87b851184c653268970720c28083f86011724763d80cfda06d7350","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7604821","revision":"928dba10ff2c4dd1a9a466551cbfbab5af98b9fe47fedd77a86d81a14baffdeb","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7604831","revision":"44228430dad573d7e4e46fdca760e15842ac40700419f0baa3ba89a9b04177e2","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7604841","revision":"9ba87750084e1e49b3d484fee07dc68515b74c9aaad9ced46ad5f49581a204a1","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7605011","revision":"25e625a4513d744a5ca357223debaccad3de89b88fd486a2e9b441356a803692","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option7605012","revision":"58563507e35754b3d78db3d0def35c25b99921237b3cf903085b78144f8e50fe","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7605111","revision":"26f115e273cab0d5d837b533844595d92430af46fc51b3b97345d07c1b9a1afa","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7605211","revision":"934ca5afbb85650beb9dc00d60556243210dd0f21e8119ca2d3def8734ba13a6","ptbr":"Usar o Caldeirão do Dragão Aquático"}
+{"id":"LocalText/drama_option7605212","revision":"4f1afbbe136ce6e21e3d436fd94f10dd507c88c76fe37edcf1963e4e3e0bf91c","ptbr":"Esperar"}
+{"id":"LocalText/drama_option7605311","revision":"c3cd206209de6dcf35432873bb3cd1b043ca0ce34fa3f54dcd925dd8d219d36e","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7605521","revision":"69c93e3ed834833a8cd755dbfb26058799c1d093a56f56e1fdbb02af71b3a9bd","ptbr":"Sacrificar essência de sangue"}
+{"id":"LocalText/drama_option7605522","revision":"75114571d84a8f5e0efc2801aa0b1a65eeb1ccce93a83e3f172e644dc9a307ba","ptbr":"Recusar"}
+{"id":"LocalText/drama_option7605641","revision":"d5e070fbe2222a9719a78145d8a7b01b1d03be64b2c351bf34494ebc091cabd6","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7605721","revision":"84457a160f4460ad1717a2086c7da9ee4260805c4e1ca22d9589bdbb0f655061","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7605741","revision":"56236cf04a38e11cca5c0721b33933592e14e51ff9b949f7e4ab05319f4af8ad","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7605841","revision":"3c92dce42f64c5d0f712737fc2b6b10e4a144a871a2f937afa6aa5b26c2f3329","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7606101","revision":"27dd4f41e0824da00287d4cac2335a57ca91fca8cc52c5a1a67560bc47e0afe6","ptbr":"Então vamos fazer uma pausa"}
+{"id":"LocalText/drama_option7606102","revision":"b285bfe3bcb22ef6687c8657535a8e7623d9ce7752e3ade2fec71be720079699","ptbr":"Persevere!"}
+{"id":"LocalText/drama_option7606221","revision":"a802d8b3722cfe8589f0a4ce2cd619f81f5b72d028abf25c7aaa8ea2a7e03158","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7606511","revision":"23df068fb5b37caa74f36255ddfa4e15fd792e5ec2361501e71b4a63449c2a55","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7607001","revision":"d4730df305b9b5cae330ae7eac15a76a23aeb17994ddbc2cd52b4ef8ba45f8b7","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7607221","revision":"968eba2bcfbed11b8a11f26068d6d52b3de7dc7e59446216e2572ef20090b2ff","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7607231","revision":"cdb3ecc4b7724816ed9ed9e2f45163e467a6958309cdbd12577e1117a0731f2d","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7607241","revision":"a98e78453ad29c9b6a5f966e12fb1da92c79dd5abb4124c72d1b86ba134c72c3","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7607691","revision":"39aa750c57365db37dbcab4c7be4714012bab60e10422f50f03768f21df6ffcd","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7607821","revision":"9a9eb12c7a7ea07bb677581977a41933e7dffe1d6f94e5342681b44fcf99d002","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7610011","revision":"19a09a209827206c7b4fa702e55b43b929fb8183e16293208f898045fd936115","ptbr":"Infundir Energia para estimular o crescimento"}
+{"id":"LocalText/drama_option7610012","revision":"a0983613dff6418e72a09171e315e74b3223a2b29d8192e05ece1e6468cce30f","ptbr":"Olhar ao redor"}
+{"id":"LocalText/drama_option7610511","revision":"f1cbaa09ca955e1edccd23dcf41cb7fdb2fb21869fc00df4c0c8f33b74562719","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7610711","revision":"e83dfaabd1d10b1927963aa0a29f486bb62a2101d52db0d3a06981f17aa9d2c6","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7611211","revision":"6dba5ec0e642f7c54dd7e89674e19f9a043b2b2a3ea2053d181589779398eac5","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7611511","revision":"2dc4bb03a96d4d5eadca18611c5ff602f93f60c9a0d075bec6aa550bbd6f9e68","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7611521","revision":"b66a321ecc3492e429c63d54fde3acce73b03551d711ad3430ebda08dfefd4ab","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7611531","revision":"f80bad936aa96cf11c36ace8ddc548a07b72fc826389cbf2a6bcb95b1d522a16","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option7611541","revision":"184214d0667cccd7767aa0adf8e11cd15ae6baacf48b83353a54c57ce2a403e6","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option8600011","revision":"c4628b858329ee62f2f6adb1ba931b379616d6f53c02c312a851b11bbd1291b4","ptbr":"Lançar um"}
+{"id":"LocalText/drama_option8600012","revision":"3502ddfc2bbb776508071249aa102daa26a4c3cf335cc5ee2ec7701fea6ff747","ptbr":"Lançar cinco"}
+{"id":"LocalText/drama_option8600013","revision":"35521b23d6e450ed9aebff6715072b4d7c79bf0508f70b0f377d95d40eae7b5d","ptbr":"Lançar dez"}
+{"id":"LocalText/drama_option8600014","revision":"125017c72a2a31b566b62b15dd3a599ba6aa47a7fa6fb1bb1406f6ba854a7f0d","ptbr":"Lançar tudo"}
+{"id":"LocalText/drama_option8600015","revision":"218998d4d07427b073d0871120a8eea1c7b3b906dc8548d09d8a025cb5428b91","ptbr":"Deixe-me pensar"}
+{"id":"LocalText/drama_option8600111","revision":"ad73d1fdaeac87cb5815c71379040556d263f5ad51981545c89d708fe0a7a91b","ptbr":"Usar Energia"}
+{"id":"LocalText/drama_option8600112","revision":"8d1cf473f44a1246dbb04c9167bb699b21ae736503a30f6d0f387bd38769d527","ptbr":"Usar Foco"}
+{"id":"LocalText/drama_option8600411","revision":"5f15176ce1e6cc6ed9ba49997651fa9b0ae6b7f8e36f4bbbbd4a828c600c56bb","ptbr":"Usar Energia"}
+{"id":"LocalText/drama_option8600412","revision":"dcb43d7bdbe664992e2fa085e20b99a9c97fbb4b207083a2bad6e6ad351192ed","ptbr":"Usar Foco"}
+{"id":"LocalText/drama_option8600711","revision":"7ecf71384374262fc4fae805a74858f1ca5120bbe729a26a29ec3b715c25ddcd","ptbr":"Usar Energia"}
+{"id":"LocalText/drama_option8600712","revision":"074905880a52c11e11af536af5926f376ef4a273712f0887565381f3bd205e92","ptbr":"Usar Foco"}
+{"id":"LocalText/drama_option8601011","revision":"d7e9e620ef74dc7e7d670f581d28cc083448512248e2c93a04cab2779fe58dea","ptbr":"Usar Energia"}
+{"id":"LocalText/drama_option8601012","revision":"312347517ae3ba659820f66c515f5b01f6f487acb377fd6e92020e4fa143c6c4","ptbr":"Usar Foco"}
+{"id":"LocalText/drama_option8603011","revision":"c987e403f9dd19bb5ac47d7223314b0c60e7ad3159ade52351a8e64c2d93f849","ptbr":"Retirar os Sopros do Submundo."}
+{"id":"LocalText/drama_option8603012","revision":"406d9cc002af6e28489fc11388e3ab4a5ea7198d706172721bcba5a34a5a0168","ptbr":"Contê-lo"}
+{"id":"LocalText/school_dipan","revision":"f8cde81713f928b5ffd8ac338d6168a713dc2a2806960fe02f4b1db83da42a96","ptbr":"Território da Seita: {0} Espaços"}
+{"id":"LocalText/school_task_get21","revision":"c2db7fa6a4c91239264ef930ac25a29f4407a933361628a35f09318255510d7c","ptbr":"{0} aceitou a missão: {1}"}
+{"id":"LocalText/school_zhixu","revision":"b2c93c359d079d650fa807e65c1d936c88c0444e672db884082baaba977ec162","ptbr":"Estabilidade:"}
+{"id":"LocalText/task_desc610061","revision":"a6b8357f358753e05e5faed8597466ad2816c65a64e1f6a816a51cbe5ff7bd8e","ptbr":"Ajude a alma agonizante, {0}, a localizar a fera que a feriu. Mate a fera e leve o orbe dela de volta à alma agonizante, e você receberá uma recompensa. Dizem que a fera pode ser encontrada perto de {1}."}
+{"id":"LocalText/task_name610061","revision":"c0120e17762ee428069019406f4a155faa2022864ab8f6d5d6126d7fc4dc1354","ptbr":"Vingança da Alma"}
+{"id":"LocalText/ui_promptwarning_PLM","revision":"5f4b67ce97463b06c3f791681c5bc79a21ecd6af98df4377925e6163c62326b3","ptbr":"Você não possui <r>{#role_feature_postnatal_name76211}</r> e não conseguirá resistir ao frio ao entrar em {#fortuitous_event_name4601}. Deseja entrar mesmo assim?"}

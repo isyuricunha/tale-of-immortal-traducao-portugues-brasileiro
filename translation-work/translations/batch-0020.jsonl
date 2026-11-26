@@ -1,0 +1,500 @@
+{"id":"LocalText/drama_dialogue20101","revision":"87054307d98873bca313a94c901e57741906962bc3eb089f9749061a760f6d7e","ptbr":"Um transeunte tenta furtar {0} de você, mas você o flagra a tempo."}
+{"id":"LocalText/drama_dialogue20104","revision":"c7f1e60ed7a8fdbd550c15e6963f79e527b0edec0fbf168fcaffe09a5ab9b9ac","ptbr":"Você sente uma leve brisa... Pressentindo algo errado, confere seus pertences e descobre que {0} desapareceu."}
+{"id":"LocalText/drama_dialogue20301","revision":"ab65c98eb9c2901e681338fbe5cc0c01a95358ec856c97e215a91ced82d7880e","ptbr":"Este oponente é forte demais. A vitória parece improvável. Melhor dar o fora daqui e viver para lutar outro dia."}
+{"id":"LocalText/drama_dialogue20302","revision":"cc3f8527a1349439b92a99cd4f6270a669585ca6e9d54c7537f364e82ef12e31","ptbr":"Ah, não! (Você planejava fugir, mas seu oponente bloqueia sua passagem.) Pois bem, vamos lutar!"}
+{"id":"LocalText/drama_dialogue20303","revision":"cbe4f853c36db46909564ee79019eab91ff7d1ff27e38afd34f990d188a9d96c","ptbr":"HAHA!!! Estou dando o fora! Até a próxima! (Você desaparece num piscar de olhos.)"}
+{"id":"LocalText/drama_dialogue20411","revision":"950841d4238b399119f338a09c3196229a82e445238c96404e017eef0bc44def","ptbr":"Suma daqui! Nunca mais mostre essa sua cara feia por aqui! (brada seu oponente com ferocidade.)"}
+{"id":"LocalText/drama_dialogue20501","revision":"352f8b010863a6557262044044ccb6914bc2da2b49f0f96fe39aa0190cc00d54","ptbr":"(Vou esperar o oponente se distrair e vasculhar sorrateiramente. Vamos ver o que consigo encontrar.)"}
+{"id":"LocalText/drama_dialogue20502","revision":"c6abf9df2bd0c695456957a56206a740a2776bc471b766997d9d61243556d2ee","ptbr":"(Ainda bem que não me viu. Melhor sair daqui logo.)"}
+{"id":"LocalText/drama_dialogue20504","revision":"3a7d63d1f55172558a0ec0a447192955e6362b32a1f39cd222aa8db14855375d","ptbr":"(Escondeu tudo muito bem... Não consigo encontrar nada.)"}
+{"id":"LocalText/drama_dialogue20505","revision":"e03bbf4452e84544641778d8492edda99278f8504f5672c277d8b61a76b20abc","ptbr":"(Ofegante)... Posso não conseguir vencer você, mas talvez consiga correr mais rápido."}
+{"id":"LocalText/drama_dialogue20601","revision":"2e74581977da7fcf5ab8d92f52bc587dda47d0563df3ba55bd56ab484b284451","ptbr":"EI!!! Aonde pensa que vai, coelho fujão? E NÃO VOLTE MAIS!!! (Seu oponente espera você baixar a guarda e dispara em fuga. Você tenta persegui-lo, mas é tarde demais.)"}
+{"id":"LocalText/drama_dialogue20701","revision":"9d5a49e97750ded942f11782a322d200b4fa7ba6812cd0db30c1fbd002beff93","ptbr":"CRAC!!! BUM!!! Enormes relâmpagos castigam violentamente o solo ao seu redor. Suas defesas não resistem à investida avassaladora... Argh! (Tossindo) Você se firma para suportar os raios, mas ainda sofre graves ferimentos internos e sente o gosto de sangue fresco na boca. Não me diga que é assim que tudo termina... NÃO!!! Sou eu quem decide o meu destino!"}
+{"id":"LocalText/drama_dialogue20801","revision":"6af561c93fff16f3200ef7159dd71f71fa888c5ccc20ce818b297c1a2b809098","ptbr":"BUM!!! Com o último raio, a névoa começa a se dissipar, revelando o solo tomado por crateras. No centro, uma figura sentada murmura: “Acabou? Será que acabou?” (Dito isso, a figura desaba no chão.)"}
+{"id":"LocalText/drama_dialogue20901","revision":"c5d3012254af539e58a470d3056917b062b42606ef7a9c074af1f4813c11497d","ptbr":"CABUM!!! Os relâmpagos continuam por uma aparente eternidade. Por fim, sem forças para resistir, você desaba."}
+{"id":"LocalText/drama_dialogue21101","revision":"141c98c5f83e878ca34788fcb9453637a4744830d306845c27fa8945e317f14e","ptbr":"Posso ficar com {0}? Preciso muito disso. Agradeço muito."}
+{"id":"LocalText/drama_dialogue22101","revision":"5fbb00eb82507e9a3638328f896f086dadfdeca06f2b7e3c80949621e4b3e06d","ptbr":"Vou esperar por você em {0} por 3 meses. Lembre-se de vir me visitar nesse período."}
+{"id":"LocalText/drama_dialogue22201","revision":"a474957012368b425684f55d482dd2dac5e9b8a99b21ac95cc3d212af4ef3aa9","ptbr":"É o seu grande dia! A cidade inteira veio celebrar! Amigos e familiares, montados em palanquins magníficos, reúnem-se para assistir à sua cerimônia de casamento!"}
+{"id":"LocalText/drama_dialogue22202","revision":"c1d0f3c4e48ede5d0e38ad1f8b83640df7f0c8e0356a43f43d4d2abe95bb5a74","ptbr":"Sob o olhar admirado de amigos e familiares, vocês fazem seus votos solenes e oficializam a união!"}
+{"id":"LocalText/drama_dialogue22301","revision":"d28852ac0dc939f0205c8d9df64f67d64b1e938e7d898709a23dfaee25d9564a","ptbr":"Após incontáveis provações, você finalmente entrega a caravana em seu destino!"}
+{"id":"LocalText/drama_dialogue22401","revision":"91b77cd84dbd791f739822f3a0a56cc03108e73ae104a2f76523657591880329","ptbr":"PARE!!! Deve haver itens valiosos aí. Deixe tudo aqui e eu poupo a sua vida."}
+{"id":"LocalText/drama_dialogue22402","revision":"eed46c0021b2711665f61c1ea6cf29a8be84a4251b54c36d43b56c9407fd8ffc","ptbr":"(Droga. Se eu fugir, vou ter que abandonar toda essa carga aqui.)"}
+{"id":"LocalText/drama_dialogue22501","revision":"effefe3ddb219469e00943b9e11246c26f990624a960893d541c594f89ec6078","ptbr":"BUM!!! A fornalha explode, espalhando fumaça negra por toda parte."}
+{"id":"LocalText/drama_dialogue22901","revision":"de821a037eeafe2e435f5a530124e810c49271f00769202126f83fef3f06bbd3","ptbr":"Boas-vindas a {0}. Entre para que possamos conversar com mais detalhes."}
+{"id":"LocalText/drama_dialogue22902","revision":"460b917deffda445f6e51c40690e28d1cd27ab7e572f5966b5f52e6fd587a4df","ptbr":"Há assuntos mal resolvidos entre você e nossa seita. Sua presença não é bem-vinda aqui. Suma daqui!"}
+{"id":"LocalText/drama_dialogue22903","revision":"3b15f5e1e9b310cebb7bf0890de36c3fd78f251c31780636be17d66343eba416","ptbr":"Trilhamos caminhos diferentes. Sua presença não é bem-vinda aqui. Suma daqui!"}
+{"id":"LocalText/drama_dialogue23001","revision":"181b8a1119c1329412d9d63c1bea10f677403a5292246fd13c3ef3464790061f","ptbr":"Você precisa passar por um período de autorreflexão. Só poderá sair após {0} meses. Enquanto estiver em reclusão, reflita sobre os seus erros."}
+{"id":"LocalText/drama_dialogue23101","revision":"a8ded3e5d9f9a95e1ecc288bebc3ff3fdc07d39a55c2a5ec4a21e12408e895cb","ptbr":"Eu já esperava por você. Olhe tudo o que andou fazendo! Essas são atitudes dignas de um membro da seita? Volte à seita e receba a sua punição!"}
+{"id":"LocalText/drama_dialogue23102","revision":"dee98e0a860e78fbe758309eb8c12d0e47645515a1d1691c918110a48763647a","ptbr":"Venha comigo e abandone essas atitudes insensatas."}
+{"id":"LocalText/drama_dialogue23103","revision":"e82d15fa96f2c7ade6abf245375d27be52b1f8d951d27c93b9d116867434982f","ptbr":"Você quer mesmo partir? A seita virá atrás de você."}
+{"id":"LocalText/drama_dialogue23104","revision":"891f36060d24db6f6f6ce68a6af0a8c100dc751fa724d830aa8ce4c613175dd1","ptbr":"Aí está você. A seita pretendia punir você, mas parece que se livrou dessa. (Diz após sondar sua consciência com o sentido espiritual.)"}
+{"id":"LocalText/drama_dialogue23201","revision":"3dc7992aff970a4cd7c70b98262960b698f84d7d6c74715df6c6a9f9a3b9a524","ptbr":"(... No centro do tabuleiro, estão entalhadas as palavras “Montanha Tian Yuan”.)"}
+{"id":"LocalText/drama_dialogue23202","revision":"1c2419281aef00a7922c37a6f1cc29a60bca3e24d534ffc92141bb5ae269667c","ptbr":"Há uma intenção assassina no ar."}
+{"id":"LocalText/drama_dialogue23203","revision":"f0c3d38a3c4450dc12f93dfc5ad0f911c615356e05404c598985fe21cc155a22","ptbr":"Mau sinal. É melhor eu agir com cautela."}
+{"id":"LocalText/drama_dialogue23204","revision":"c2c26f13a035d7388329fa4c37b1202b270fe2c07f9d980c98a7e51214bd00ab","ptbr":"Que energia impressionante! E há mais de um... Quem são eles?!"}
+{"id":"LocalText/drama_dialogue23205","revision":"39016d4a1b41737de07553139fff8e1e169a40c7eeeeec2aa6cc99dd9a4e1112","ptbr":"O bem e o mal jamais podem coexistir. Como {1} de {0}, hoje tomarei a sua vida!"}
+{"id":"LocalText/drama_dialogue23206","revision":"751c3b3e06d6ef6f0acee27d1251876ff0653973ab5e6f15d254295b4a5341c4","ptbr":"Do Caminho Justo? Bobagem! Você não passa de um tolo hipócrita! Se é luta que quer, então vamos lutar!"}
+{"id":"LocalText/drama_dialogue23207","revision":"8bffb54ff277840a16c9c6530b67e5d908e8ce13260fb2155e1f67efa80ecb7c","ptbr":"Esta pessoa está gravemente ferida. Sem dúvida foi obra daquele Dragão dos Relâmpagos. O que fazer?"}
+{"id":"LocalText/drama_dialogue23208","revision":"d08f4092811528c4b3f4556f8761bf61eb7179cf04f39e92c43fc22924dbc87a","ptbr":"Ele parece ser do Caminho Justo."}
+{"id":"LocalText/drama_dialogue23209","revision":"ee4306b557704aab7d64d6362abb4db4e6211e51e0551ebc9027f465843ff9fc","ptbr":"Ele parece ser do Caminho Demoníaco."}
+{"id":"LocalText/drama_dialogue23210","revision":"46779ec6e81d9678ff0de3e0cbb686fabfb5728a149420748fc46e02761d2a76","ptbr":"Agradeço muito por me ajudar, Cultivador. Sou {2}, {1} de {0}. Trago comigo uma Carta de Recomendação. Você parece ser um Cultivador Errante. Se não tiver outro destino, pode usar esta Carta de Recomendação para se juntar a mim em {0}. Até nos encontrarmos novamente!"}
+{"id":"LocalText/drama_dialogue23211","revision":"5af533b09331e67a4f7ebbab5f3016753d3179f344a82fee06936144480cf3be","ptbr":"Agradeço por ter me salvado... Sou {2}, {1} de {0}. Minha seita me enviou para procurar novos discípulos talentosos, mas acabei topando com bandidos... Tenho uma Carta de Recomendação aqui. Se não tiver outro destino, venha me procurar em {0}! Até nos encontrarmos novamente!"}
+{"id":"LocalText/drama_dialogue23301","revision":"956017239b1ffa0a70a38181999902932ba18dbf9b3de2cfa867b5758c4387ee","ptbr":"Como fazer o rompimento para Fundação?"}
+{"id":"LocalText/drama_dialogue23302","revision":"49e10f2cfb536b2e53141966599105b36192d388844d74dc8b292c000c79a003","ptbr":"Onde fica a Montanha Tian Yuan?"}
+{"id":"LocalText/drama_dialogue23303","revision":"29853113b3462aabcc49a3e5f3e0f9545661c62daf1501994f582dc34f58d11c","ptbr":"Como ganhar Pedras Espirituais?"}
+{"id":"LocalText/drama_dialogue23304","revision":"0152d5880c52795b88fdf986ac27cf12bd4a41855d630aa302c195bc3e24ebaf","ptbr":"Como ganhar Pedras Espirituais?"}
+{"id":"LocalText/drama_dialogue23305","revision":"af9d1f95049f9d30b082603be95e0928643a582599750eb4c4d70df9b243d8cd","ptbr":"Como fazer o rompimento para Fundação?"}
+{"id":"LocalText/drama_dialogue23306","revision":"92006eb3810c5515f9a4dfde031ca7a7fc19c806443360ac78f78ee307536fa1","ptbr":"Como fazer o rompimento para Condensação de Qi?"}
+{"id":"LocalText/drama_dialogue23307","revision":"fdb84240cb42c7a886abe22f901fdd9591c14db9f056b975507913acb493668f","ptbr":"Como obter os 6 tipos de Qi?"}
+{"id":"LocalText/drama_dialogue23308","revision":"076ec5e8a19d32e0c59fced019690d9b2da3341255848ad5e3e2c4c96bd06b97","ptbr":"Como ganhar Pedras Espirituais?"}
+{"id":"LocalText/drama_dialogue23309","revision":"b1035c81384e4db2f8d8ea9fb59364a4c53943e8cec3442bfa36f538435f5a98","ptbr":"Como fazer o rompimento para Condensação de Qi?"}
+{"id":"LocalText/drama_dialogue23310","revision":"baf8fa92f473fa006b200c1e981f770d02a976c52ab615e6db1d626f3f1dc95c","ptbr":"Como fazer o rompimento para Núcleo Dourado?"}
+{"id":"LocalText/drama_dialogue23311","revision":"8aab883da94b7b822884f8771a00d8a25271fc2646cf90794ac9c77f2fb921d4","ptbr":"Como fazer o rompimento para Espírito de Origem?"}
+{"id":"LocalText/drama_dialogue23312","revision":"64d0a6a585253a657643aee955d79b6b46ac684e619aea021684883f6af8ad99","ptbr":"Como obter os 6 Orbes de Qi?"}
+{"id":"LocalText/drama_dialogue23313","revision":"6e76d23260937b73ecf810647a0464dd07bc253024638d87d5078a471c8dd583","ptbr":"Como ganhar Pedras Espirituais?"}
+{"id":"LocalText/drama_dialogue23314","revision":"c1d278840b81375a2282538625e29dba8acbf9a484bb8aec5d012d6f25963782","ptbr":"Como fazer o rompimento para Espírito de Origem?"}
+{"id":"LocalText/drama_dialogue23315","revision":"6028289368986448f3daba960a53737f4c2936a309f8df290a29216422e8f69b","ptbr":"Como fazer o rompimento para Alma Nascente?"}
+{"id":"LocalText/drama_dialogue23316","revision":"063a56a393f6e69518f8c8525dcd78f5e56b167173e2a1d52be97fd08a870225","ptbr":"Como fazer o rompimento para Formação da Alma?"}
+{"id":"LocalText/drama_dialogue23317","revision":"97e270e9710e83e7a83c9bb02202d9103653c2e5f9c224129dbac4538d623c87","ptbr":"Como obter Aura Celestial e Aura Terrestre?"}
+{"id":"LocalText/drama_dialogue23318","revision":"6b7e3ac790bee3c1cca232de5d10f2cdbfc5810a3e6796a45eca2b068e441b4a","ptbr":"Como ganhar Pedras Espirituais?"}
+{"id":"LocalText/drama_dialogue23319","revision":"fbc7d218f7336f25cd2a3aaa04631efcef9bdf73a3bb82e0a2c2680e52788c7f","ptbr":"Como fazer o rompimento para Formação da Alma?"}
+{"id":"LocalText/drama_dialogue23320","revision":"5b4ee1ca8ea2e38faa2ad6e8cd5dfdd37a564fafc71442dd7707c75aff2658ce","ptbr":"Como fazer o rompimento para Iluminação?"}
+{"id":"LocalText/drama_dialogue23321","revision":"fb1210fa9a5fbebaf4873b942be0d88c90b94a3c110c7863a80c63b416bea711","ptbr":"Como fazer o rompimento para Renascimento?"}
+{"id":"LocalText/drama_dialogue23322","revision":"82c83e2d8e82c0e08ec9ef0658458a1b61d56259f4d5b7c4b49b371e2fdee0ec","ptbr":"Como obter os 6 tipos de Qi Condensado?"}
+{"id":"LocalText/drama_dialogue23323","revision":"bb76c72d92a877e9c37c07b4be59eb82c01cd15c8ffb9ad2e977e6e915c1f98c","ptbr":"Como ganhar Pedras Espirituais?"}
+{"id":"LocalText/drama_dialogue23324","revision":"37bcd07bba3138935076f0a32e353fcf36ba45b94de36591c11f123a80b7375b","ptbr":"Como fazer o rompimento para Renascimento?"}
+{"id":"LocalText/drama_dialogue23325","revision":"7b667e97b9646111ad77cc5d3bdb8fecf9b3f985e315cdfc925a1e62dc0d7a24","ptbr":"Como fazer o rompimento para Transcendente?"}
+{"id":"LocalText/drama_dialogue23326","revision":"4536ba29ad779c3e10365a3f1d729230b42226bf0bbcbbc6793d4416403852a4","ptbr":"Como obter os 6 Orbes de Qi Condensado?"}
+{"id":"LocalText/drama_dialogue23327","revision":"a8aa0cc9859b290ec34bf71f3264022d01796cbe863276847857fd2cb63fd1b5","ptbr":"Como obter Elixires de Fundação (Mortal)?"}
+{"id":"LocalText/drama_dialogue23328","revision":"9a629622b6d450198470bbff765b7d3c5966649e75ef6acf5e67f5662ca198c4","ptbr":"Como obter Ervas?"}
+{"id":"LocalText/drama_dialogue23329","revision":"26c6098a4b44849dc2f1d512a6b9af8f3d4458c8aa1cfeffc233685acdcfbdd9","ptbr":"Onde fica a Terra dos Espíritos?"}
+{"id":"LocalText/drama_dialogue23330","revision":"2c0e0f3885118071b69b447d13f5d0d1702f8a3cbd9394a98d592ba5fe6fb876","ptbr":"Onde fica a Terra do Arcano?"}
+{"id":"LocalText/drama_dialogue23331","revision":"37552e9f830ed4abfcdc9535dc0a1fa6de8ec0a932db765f0e1e228ecd7e1a8b","ptbr":"Onde fica o Círculo Tranca-Espíritos?"}
+{"id":"LocalText/drama_dialogue23332","revision":"0304eb7e0cc11f31d7b30b9baef56b5f9ad7fe311db353d077bb08bf46d2165d","ptbr":"Onde fica o Círculo Selador de Demônios?"}
+{"id":"LocalText/drama_dialogue23333","revision":"031a2b6420311f95261faa6d01ce7e358c843c1242518f70dd092693032d0bd9","ptbr":"Como obter Artefatos?"}
+{"id":"LocalText/drama_dialogue23334","revision":"8f07545d29846ecbfba5f3197d504db96de00dd6c4d9a68be00b93f9391c951a","ptbr":"Como obter Espíritos de Artefato?"}
+{"id":"LocalText/drama_dialogue23335","revision":"5d20949301ef55364c85495033b97fc1db080e57581e67d348020875f088233e","ptbr":"Para que serve um Santuário Imortal?"}
+{"id":"LocalText/drama_dialogue23336","revision":"8970b698924e026910b15b241cd858fd79312679cba9d95fc711d6a930c5c828","ptbr":"Como remodelar a Pena do Submundo?"}
+{"id":"LocalText/drama_dialogue23401","revision":"65b52711491a3c40c6f7c2944a84ebd990b762e4f1c2fbb798f15635b91f9438","ptbr":"Você encontra um monstro."}
+{"id":"LocalText/drama_dialogue24231","revision":"ca8f4c5e49e2781a8f60e0f1b916e6d51c12795970fa27475bfb85eb6ac3e3e4","ptbr":"Muitos Cultivadores almejam lutar no Torneio Imortal. Os vencedores do Torneio Imortal não apenas fazem fama, mas também podem conquistar raros <g>Frutos do Dao</g>. Deseja que eu lhe explique as regras do Torneio Imortal?"}
+{"id":"LocalText/drama_dialogue24232","revision":"a23f134bea2d11b958db2b042ace8901e7c7198ecf69a4f595578fddc95170d6","ptbr":"O Torneio Imortal é realizado pelo <g>Pavilhão da Mente do Dao</g>. O <g>Pavilhão da Mente do Dao</g> é uma organização muito misteriosa que só se reúne uma vez a cada três anos para convocar o Torneio Imortal."}
+{"id":"LocalText/drama_dialogue24233","revision":"5157f01a87b21996718cec57cd0fdf890c8ee104be57ecd4a0883079e173e987","ptbr":"Dizem que o fundador do <g>Pavilhão da Mente do Dao</g> descobriu uma <g>Árvore Divina do Dao</g> milenar. Ao comer seus frutos, obteve poderes que lhe permitiram fundar o <g>Pavilhão da Mente do Dao</g>."}
+{"id":"LocalText/drama_dialogue24234","revision":"bfe135f8d2fa6e8ba592ef393b26a3f75aaccade86a24004cd0c5e0732e2856d","ptbr":"Inúmeras seitas lutaram pela posse da árvore do <g>Pavilhão da Mente do Dao</g>, perdendo muitos de seus melhores combatentes no processo. Por fim, uma trégua foi declarada e chegou-se a um acordo."}
+{"id":"LocalText/drama_dialogue24235","revision":"e946211beaaa40279fa8a785bd8a68b3b7e4fc8eb2046ad1b4bc47cd84a75af8","ptbr":"O <g>Pavilhão da Mente do Dao</g> continua guardando a <g>Árvore Divina do Dao</g>, mas, a cada 3 anos, parte da colheita de <g>Frutos do Dao</g> é compartilhada com as outras seitas. Durante o Torneio Imortal, as grandes seitas disputam os <g>Frutos do Dao</g>, que são distribuídos conforme a classificação. Quanto mais forte você for, mais <g>Frutos do Dao</g> conquistará! Tudo depende de você!"}
+{"id":"LocalText/drama_dialogue26001","revision":"b20fede12bf401f2610114986b3e442ef44a2640751d231a0509cc1b4750d12a","ptbr":"{#building10005Name_162101} é um lugar lendário em {#areaName2}. Dizem que {#building10005Name_162101} abriga Tesouros do Céu e da Terra incrivelmente valiosos, que concedem a Cultivadores de Refino de Qi poderes ainda maiores ao realizarem o rompimento para Fundação."}
+{"id":"LocalText/drama_dialogue26002","revision":"fedf75e79fac824e00d8f0caee5ced7b01d927aa146267fa976d357b803dd84f","ptbr":"Se quiser encontrar {#building10005Name_162101}, procure perto de <b>{mapData111}</b>, <b>{mapData112}</b> ou <b>{mapData113}</b>."}
+{"id":"LocalText/drama_dialogue26011","revision":"661cbc704a64dd9c9a01789fae377a401dfb2e2ad2b360e0c2ffec1303ddf985","ptbr":"{#building10005Name_162104} é um lugar lendário em {#areaName2}. Dizem que {#building10005Name_162104} abriga Tesouros do Céu e da Terra incrivelmente valiosos, que concedem a Cultivadores de Fundação poderes ainda maiores ao realizarem o rompimento para Condensação de Qi."}
+{"id":"LocalText/drama_dialogue26012","revision":"30e6d4cd45a3a59f143a99b56ed5ab9c2559dc468a4231994448687ca6de5226","ptbr":"Se quiser encontrar {#building10005Name_162104}, procure perto de <b>{mapData114}</b> ou <b>{mapData115}</b>. Além desses dois lugares, dizem que também é possível encontrar {#building10005Name_162104} em {#areaName3}, mas {#areaName3} é uma região muito perigosa. Só vá até lá se tiver confiança de que consegue sobreviver."}
+{"id":"LocalText/drama_dialogue26021","revision":"850b8fda5e7514de1b7b0a5a3d6ad113e9a65af24f1b79267e0f8e75d83da292","ptbr":"{#building10005Name_162107} é um local antigo famoso por abrigar muitos tesouros. Supõe-se que {#building10005Name_162107} fique em algum lugar de {#areaName4}, embora seja notoriamente difícil conseguir acesso."}
+{"id":"LocalText/drama_dialogue26022","revision":"cbea5e301e09a517f85340313d0b29d5334840c387d46e7702d619c039b2d997","ptbr":"Se quiser tentar, procure perto de <b>{mapData117}</b>, <b>{mapData118}</b>, <b>{mapData119}</b> ou <b>{mapData120}</b>."}
+{"id":"LocalText/drama_dialogue26031","revision":"a54f5770c4e0810e5c45df8b886a81a3398a87366ab3c5f0991bd3e14fbfd182","ptbr":"{#building10005Name_162111} fica nas profundezas de {#areaName5}, embora sua localização exata seja desconhecida. A região de {#areaName5} é muito perigosa. Só vá até lá se tiver confiança de que consegue sobreviver."}
+{"id":"LocalText/drama_dialogue26041","revision":"60112b76bbff9f92a23f74c44c6d2120e9497ae4e753f74f6b7f53ce11e6ff4e","ptbr":"Não é difícil forjar Artefatos, pois as <r>oficinas</r> das cidades já contam com uma forja. A parte difícil está em obter os materiais principais, que só podem ser encontrados em <r>feras míticas especiais</r>, muito poderosas e perigosas."}
+{"id":"LocalText/drama_dialogue26042","revision":"76b05a87b865df0344c8f6b858b91c065de0c5e4c43e38f3106465574fef9ae1","ptbr":"Assim que você tiver os materiais principais, não será tão difícil conseguir o restante."}
+{"id":"LocalText/drama_dialogue26043","revision":"ed70dfed3e05f8386fd258d1a407688c383a5770ffbbb1e2070b7887b5e39227","ptbr":"Materiais principais diferentes produzem Artefatos com aparências e funções distintas, portanto você deve experimentar e descobri-los por conta própria. Dito isso, espero que obtenha seus Artefatos em breve."}
+{"id":"LocalText/drama_dialogue26051","revision":"2e31cd00261aad7bd7f16e7b1618aa41ef6e4dc9b3f54fc7c1ee003ef949be40","ptbr":"Há um lugar perto das Montanhas do Submundo chamado <r>Vale Caído</r>. Ele está repleto de criaturas corrompidas pelo mal e é muito perigoso."}
+{"id":"LocalText/drama_dialogue26052","revision":"814b3fa268da3a7b13bcc1f925b36b862fbc4b2fc57e1bf23f87c74dcbf6c0c2","ptbr":"Um cristal misterioso está oculto lá dentro. Após ficar imerso em energia sombria, ele se tornou uma ponte para as almas do Submundo."}
+{"id":"LocalText/drama_dialogue26053","revision":"d5d7a1b9ee7460d9d3eb43665d5039bc4ec844df9540dc1ff6aa11fe63130e06","ptbr":"Se você conseguir despertar o poder das estrelas no cristal, poderá invocar um Espírito de Artefato."}
+{"id":"LocalText/drama_dialogue26054","revision":"453ce6cb8644a6be4e053c37a77300aa174acab17b3b75792559a68a07f32f0b","ptbr":"Faça oferendas a um Santuário Imortal, e o Imortal retribuirá sua devoção assim que suas oferendas forem suficientes. Santuários Imortais podem ser encontrados por todo o mundo, cada um com suas próprias bênçãos. Você pode prestar reverência sempre que encontrar um. Dizem que os grandes cultivadores do reino Transcendente conseguem se comunicar com os imortais e, uma vez reconhecidos por eles, podem receber poderosas <b>Artes Celestiais</b>."}
+{"id":"LocalText/drama_dialogue26055","revision":"a7542b814ff68d53b7e536304df070d3bad8c09f6ccab767cb387f84274c6f45","ptbr":"Ouvi dizer que, ao alcançar o reino Transcendente, o cultivador pode encontrar o <b>Santuário das Peças Cintilantes</b> e tentar condensar novamente sua Pena do Submundo lá, mas precisa primeiro conquistar o reconhecimento daquele Imortal... Veja só, tudo está interligado como peças num tabuleiro de Go..."}
+{"id":"LocalText/drama_dialogue30301","revision":"1c738c85c7789ccf3e80bf70c071b1cb51512033d23db074628ee6ac738d3322","ptbr":"Tenho um mapa aqui. Ele mostrará a localização de um Cultivador em Desvio de Qi. Ele é muito perigoso — você precisará ter cautela."}
+{"id":"LocalText/drama_dialogue30401","revision":"5ffd1ea0b8b1b7a6ed18ba438f3153e53b3ca8ec9365cb8c4b42cc8d45f48a50","ptbr":"Eu sou {0}. Teste"}
+{"id":"LocalText/drama_dialogue30501","revision":"717e166a063ce8963b5c4c7d4b06c7d9a918e97ad5e01289c0e0b6dd14b2c235","ptbr":"Agradeço por matar {0} por mim. Teste"}
+{"id":"LocalText/drama_dialogue30601","revision":"e2fb4ef75f03950d56b36764abbdff3f627c4cdf44093741039a035b9dfc8022","ptbr":"Agradeço por me ajudar com {0}{1} e matar {2}. Teste"}
+{"id":"LocalText/drama_dialogue70692","revision":"f1f3867b099fa4e9fc46bef6031a96ca33115883145c738cb41b23c1ff445820","ptbr":"Por conta própria, você não é páreo para mim."}
+{"id":"LocalText/drama_dialogue70693","revision":"0832bb8c7e7351e36b0c2d02b6eb0b12843faf6e29286e924bb667e89cb937e4","ptbr":"Volte para o seu lugar... e não retorne mais aqui!"}
+{"id":"LocalText/drama_dialogue70694","revision":"cf8b79dfb8929957abc3f87e084399dcd1147a59dc3c6f1ded22e0aa1d36e6ea","ptbr":"..."}
+{"id":"LocalText/drama_dialogue70695","revision":"915c75ff72a41040fca6dbb254e14f290f95bd7c5ba738717cd8c8965449dc39","ptbr":"O <r>Corvo de Três Pernas</r> voa para longe sem olhar para trás."}
+{"id":"LocalText/drama_dialogue70701","revision":"c18e77978d0c62bf523a012cd92737d06fccffd37cfca75ab57b94859c588d52","ptbr":"Não muito depois, uma nova lenda passou a circular por aquelas terras. A história falava de dez sóis que ardiam com tamanho calor que abrasavam a terra e deixavam apenas morte em seu rastro."}
+{"id":"LocalText/drama_dialogue70702","revision":"4d9bc19e8e9bf4d6cffccc01727819e70d2dfab035cfe704be796c04920a6479","ptbr":"Naquela época, um herói chamado Hou Yi se ergueu, determinado a abater nove dos sóis do céu. Destemido, empunhou seu arco vermelho e escalou o cume de uma grande montanha. Disparou suas flechas de penas brancas, uma após a outra, contra os sóis, derrubando nove deles dos céus."}
+{"id":"LocalText/drama_dialogue70703","revision":"563e43d70c1c27b79f4fb802ca49a16794701c09dc04f038ff426440f13917a1","ptbr":"O clima se estabilizou e a vida voltou a florescer. A lenda de Hou Yi passou a ser transmitida de geração em geração..."}
+{"id":"LocalText/drama_dialogue71001","revision":"8727aabf8479212fe9d5698e4e3198244cc2d534312deb626fe79a9452af622f","ptbr":"A cada dez anos, as feras do Mar do Leste entram em fúria. Quem mora há muito tempo em Hua Feng já se acostumou..."}
+{"id":"LocalText/drama_dialogue71002","revision":"894ecd33777e9dc21af3f5ae39f1ba8fdb3ac0c2e1b5d8a630ff04e9095fbc19","ptbr":"Mas a situação parece estar piorando... O rugido das feras marinhas pode ser ouvido a centenas de léguas de distância!"}
+{"id":"LocalText/drama_dialogue71003","revision":"696d2b0621736e48b5d2bf16aa53146219a1610eb5b12d76e85ca1aa231e6d47","ptbr":"Por falar nisso, da última vez em que passei pela costa, vi uma figura misteriosa sobre uma rocha..."}
+{"id":"LocalText/drama_dialogue71011","revision":"dc68456c4b4b13701da62ad6b651eab065444d7a99ba86ade425d61d417add47","ptbr":"Argh... Aquele Leviatã está ficando cada vez pior!"}
+{"id":"LocalText/drama_dialogue71012","revision":"2b392f4a2d65da7da21611267ebb545446c0a11875afc515762a4c6edbadb5ff","ptbr":"Ainda bem que ele não consegue sair do oceano. Se conseguisse, não tenho certeza se todos os Cultivadores de Hua Feng conseguiriam enfrentá-lo!"}
+{"id":"LocalText/drama_dialogue71021","revision":"19a6ab7330a6c398715f9003a0820b6666d7f1abf8acbebf5ed29ed33c603ccf","ptbr":"Ei, Cultivador, você esteve no Mar do Leste ultimamente?"}
+{"id":"LocalText/drama_dialogue71022","revision":"7268d3e058f0a867585057a89c874bfd6e7eaa01f6e0a58c5e491fd676bc18b1","ptbr":"Corre o boato de que há uma garota que fica de pé sobre uma rocha à beira-mar... Ninguém sabe o que ela está fazendo, mas é mesmo muito estranho!"}
+{"id":"LocalText/drama_dialogue71023","revision":"669b4a40a72a42e603567069f1c6aa0c93607458243747ed8efadd44ad46a915","ptbr":"(As feras marinhas estão fora de controle! Melhor voltar para Hua Feng e encontrar outra forma de atravessar esta área!)"}
+{"id":"LocalText/drama_dialogue71024","revision":"e54706ec363eb83fe2a0fb9a49fe0e1e2186a066b3c78a1723217daecc93a0bb","ptbr":"(As feras marinhas estão fora de controle! Melhor voltar para Hua Feng e encontrar outra forma de atravessar esta área!)"}
+{"id":"LocalText/drama_dialogue71031","revision":"9ad8c7f3600ec64cdd4181875a56cc66d35e2ac3f885ee12000894b8b145c498","ptbr":"Moça..."}
+{"id":"LocalText/drama_dialogue71032","revision":"ce2e5db5b6411a13157c6f70ec45d3ea54f60cd7c188e79dc21b69fcf6f471a5","ptbr":"..."}
+{"id":"LocalText/drama_dialogue71033","revision":"25991626e3aac046bfa6d6e7c4152bc90bca1510fc37c9f9dddd5506fafadcf1","ptbr":"Você está parada aí há algum tempo. Há algo que a preocupa?"}
+{"id":"LocalText/drama_dialogue71034","revision":"aeb4fb4229d776a7a1b9a85bf638b5db016ac2f26d6da292509b27786e4de6f4","ptbr":"... Quero aterrar o mar."}
+{"id":"LocalText/drama_dialogue71035","revision":"f3aeb25c7c8f2017b9688636052c17e8c72e21584377ee3814eddeb459b588ae","ptbr":"O quê?!"}
+{"id":"LocalText/drama_dialogue71036","revision":"9a026ab5767d2cc18fd1ba90eddb2ba70eb7bf29d550acc758ed5eaa54559ac0","ptbr":"É melhor você ir embora... Ele está voltando."}
+{"id":"LocalText/drama_dialogue71037","revision":"7481b21ce467708d2f9ee315f58e4969f76f0dfb78fa17d1ab3d4c34e70a94e7","ptbr":"O quê... o que está voltando?"}
+{"id":"LocalText/drama_dialogue71038","revision":"71d0944f9e6b7aacb46eeb40edf0a9251861ddddeedac2e44dfe490fb06b77ea","ptbr":"GRROOAR!!!"}
+{"id":"LocalText/drama_dialogue71041","revision":"184205cc741b256ac24d46a7b48c0557e5d655f089d1da62feb94070105ee8ef","ptbr":"Aquilo era..."}
+{"id":"LocalText/drama_dialogue71042","revision":"f01d62e099de7aaeb46f4aaca3babd2c0798a491fc58d710f5e778447f24f8ed","ptbr":"O Leviatã, Senhor do Mar do Leste."}
+{"id":"LocalText/drama_dialogue71043","revision":"c8666b9e235cf2bf78c3abf99e00b9b687ab04e8d012e9fb88f2fb898c66f7bb","ptbr":"... Há mil anos, o Leviatã atingiu um poder imenso e entrou em fúria, devorando muitos de seus rivais. Hoje, temo que não haja criatura no mundo capaz de fazer frente a ele..."}
+{"id":"LocalText/drama_dialogue71044","revision":"2815258f9844cd78654343a8ace6c5ae5a74b090125aef140f399da4a2bd4952","ptbr":"Isso significa que Yun Mo estará para sempre fora de alcance?"}
+{"id":"LocalText/drama_dialogue71045","revision":"1646672f582f501bfd77b1849a314b9c9ad7e2fba349f62a0c0c09f965ea904b","ptbr":"Bem, não é completamente impossível..."}
+{"id":"LocalText/drama_dialogue71046","revision":"1042526631a93bcda899f83b6369076ef997877dc31c378fe1601e1732af9a0f","ptbr":"Se eu conseguir a Xirang, poderei aterrar o Mar do Leste."}
+{"id":"LocalText/drama_dialogue71047","revision":"972c54623168df9a8eae91c6b99f5859540b28f6d898bdd860a4787028a185b2","ptbr":"Xirang? O que é isso?"}
+{"id":"LocalText/drama_dialogue71048","revision":"1131c0a16cc0d96f94c2565451eea01af57f2bf958c0ff313436965df4ada285","ptbr":"É uma Pedra Divina usada por Yu, o Grande, para conter as enchentes. Ao se concentrar e canalizar sua energia nela, a pedra faz com que a terra ao redor se expanda."}
+{"id":"LocalText/drama_dialogue71049","revision":"2d01d246f6d90a947e3a511cfc5c2740499378ca309a098de78cfca76ff35cab","ptbr":"Mas isso foi há muito tempo... Enviei muitos pássaros para procurá-la, mas nenhum a encontrou."}
+{"id":"LocalText/drama_dialogue71050","revision":"9768b20fcbff3bf9d821cf12fdba83919ea6fb459a02b08a4159814d5394b07d","ptbr":"O mundo é tão vasto. É como procurar uma agulha no palheiro."}
+{"id":"LocalText/drama_dialogue71051","revision":"927f4240b346cb883fd7a64dd950d16c3ad03a20646426782696bc98c51843f2","ptbr":"... Não é bem assim. Há mais de dez anos, senti a pedra em algum lugar a noroeste."}
+{"id":"LocalText/drama_dialogue71052","revision":"38b108b54172f479426bad807b98b9128eb6f3ee99ba7a6be6051d8817b148f9","ptbr":"O único problema é que aquele lugar está envolto em energia sombria. Quem não tiver resistência contra ela morrerá na hora..."}
+{"id":"LocalText/drama_dialogue71053","revision":"ff4913374efdf6b7a77b4625e18139238c5cf306b4a85d626b53da6d8290c332","ptbr":"O Leviatã voltará em breve. É melhor você sair daqui..."}
+{"id":"LocalText/drama_dialogue71054","revision":"b64d86ab9833c01e99a38cfbdf1cb17845248ce73e77c3cd282a6d0fbb20d1cf","ptbr":"..."}
+{"id":"LocalText/drama_dialogue71061","revision":"7e2f9e65dccc8e3bc6b12023dc57c347d2ee106cee4376712a6abd8f40123660","ptbr":"O Leviatã voltará em breve. É melhor você sair daqui..."}
+{"id":"LocalText/drama_dialogue71071","revision":"69e7eedb9b0c52c8b4cf86fa3a4c3a344a4f4fd31fb9c4ac753a867b01ad72c2","ptbr":"Olá?! Tem alguém aí? Socorro! SOCORRO!!!"}
+{"id":"LocalText/drama_dialogue71072","revision":"8b5ae988cee04b77636ac94ded8911edc28a1ce996bf8969971abb021eed3cb5","ptbr":"(Alguém está pedindo socorro. Ir dar uma olhada?)"}
+{"id":"LocalText/drama_dialogue71073","revision":"127bc46058153d40707065f66b5269126915c0483595c2922b6296611d42fd10","ptbr":"(Parece haver muitas feras. Deseja entrar e salvar essa pessoa?)"}
+{"id":"LocalText/drama_dialogue71081","revision":"83cfff56d4a518d10c4034e0bc59811e61e0ca452b8d3530887b843422d8f1c6","ptbr":"(Essas... parecem feras bem comuns. Quem estava pedindo socorro não deve ter treinamento algum.)"}
+{"id":"LocalText/drama_dialogue71082","revision":"d68d6db3780925cf26d13e0dc47190972b7c0b7dfb291c231f82b27ab85ccc01","ptbr":"(Melhor lidar com a situação agora...)"}
+{"id":"LocalText/drama_dialogue71091","revision":"86fad81eb3a8dd7c441c7ad017dcc0e19cb9e0f4bf2f58d700237c858457c289","ptbr":"Muito obrigado por me salvar!"}
+{"id":"LocalText/drama_dialogue71092","revision":"952ab16e72b068ac552ae70e2d61de24b399c79b35d2778f85530ec24a7be268","ptbr":"Você não tem muito jeito de explorador. O que está fazendo aqui na floresta completamente sozinho?"}
+{"id":"LocalText/drama_dialogue71093","revision":"d7e7703d7775e1a00eb6c28a5ed1ca2d4180835fcb6ce8540ae86b262250dfa3","ptbr":"É uma longa história..."}
+{"id":"LocalText/drama_dialogue71101","revision":"84c95f5f1ff0726059a939c5e1c0f3e1494f1c9a51af108e837da4933827b86c","ptbr":"Há um lugar não muito longe daqui chamado Vila da Dualidade. Minha família é de lá, e nunca tivemos motivo para sair."}
+{"id":"LocalText/drama_dialogue71102","revision":"35d22b59ff675fed34faa01331dc384013f0814cf6a0e049ba753ee3a80d4fbc","ptbr":"Dizem que, há cerca de dez anos, uma fera chegou à vila! Ela possuía algum tipo de feitiçaria que prendeu todos lá dentro!"}
+{"id":"LocalText/drama_dialogue71103","revision":"341ee289ec2511c3059c05b5075bc185a38e7e0a4edebdfde470feb423f1ef01","ptbr":"Parece formidável. O que será que ela quer?"}
+{"id":"LocalText/drama_dialogue71104","revision":"a64d17c2729e81c6620a80f2b8feac792e2c7e580944511a8227ab754d8b9df9","ptbr":"Isso... eu não sei dizer."}
+{"id":"LocalText/drama_dialogue71105","revision":"422b5ef92a12ac923ae620d3688ca84d980c45f8f083b124972eecf4d0bdd85c","ptbr":"Ela já feriu alguém?"}
+{"id":"LocalText/drama_dialogue71106","revision":"33c330bd11714b348b025325fd95d123c51baf5c769d15acece3d96a6a899b94","ptbr":"Acho... que não."}
+{"id":"LocalText/drama_dialogue71107","revision":"afea5342d888027b337d77d7fe8d166727de92f00030c3d0dcad762e7c47a61c","ptbr":"Ó, Imortal! Eu imploro, por favor, ajude a Vila da Dualidade! Os aldeões estão presos lá há gerações, como pássaros numa gaiola! Não sabemos nada sobre cultivo e não podemos enfrentar a fera sozinhos!"}
+{"id":"LocalText/drama_dialogue71108","revision":"9b28321662de2b3e2ca06c2c883464371c926b544295ff000b1307a1828d1c87","ptbr":"Bem... vim até aqui em busca de um objeto importante."}
+{"id":"LocalText/drama_dialogue71109","revision":"cf3ad3b851567768214d73d6dc0e7bd83b239dbfb18a32d6b926ccd613b5dac6","ptbr":"Que sorte! O chefe da vila sabe muito sobre criaturas e tesouros. Se houver um tesouro por perto, ele saberá a respeito!"}
+{"id":"LocalText/drama_dialogue71110","revision":"e3f3b453acbbdce472ac37085a6f586336d695e084a06355df810f3156fdbe1a","ptbr":"Nesse caso, vamos dar uma olhada na Vila da Dualidade."}
+{"id":"LocalText/drama_dialogue71111","revision":"239e2470a7eac4d138efd1b4359e95b4249447e8b04f7e6c2fa6943214fca3fd","ptbr":"Certo! A Vila da Dualidade não fica longe daqui. Deixe-me mostrar o caminho!"}
+{"id":"LocalText/drama_dialogue71121","revision":"63ffbcec269f1c9b147da133e00763881b85ba4f1881f6e3ed13577eb36a693c","ptbr":"(Os aldeões... parecem muito desconfiados de mim.)"}
+{"id":"LocalText/drama_dialogue71122","revision":"b91416fd2b3e8eb2847d63bdef59eae3559d39653a9fc3a7128bd6d7b2574cca","ptbr":"(Vamos ver se eles conseguem me dizer algo útil.)"}
+{"id":"LocalText/drama_dialogue71131","revision":"726686500ed0ef43adbcb83d94f2af5c896e730fb25868c618e4318e378ecf44","ptbr":"... Você não é daqui. Não sei o que quer, mas sugiro que vá embora imediatamente."}
+{"id":"LocalText/drama_dialogue71141","revision":"3e44686ebadf6f7038349f43584db2b80f359a704dd3659d3d8d03ead23cf0f3","ptbr":"Por acaso veio nos orientar, Mestre? Receio que a Vila da Dualidade não tenha nada que possa interessar a um imortal como você..."}
+{"id":"LocalText/drama_dialogue71151","revision":"5a97ba64c136487bd5ea06b7c908cf14acee46e2d44ec3654af471690814b957","ptbr":"Desculpe incomodar, mas estou procurando uma Pedra Divina chamada Xirang. Gostaria de saber..."}
+{"id":"LocalText/drama_dialogue71152","revision":"ed4685c6b5449cc7c6950358bac2156442e5b47d4c30fcd21dca4f6c7849a6b6","ptbr":"Xirang?! Nunca ouvi falar disso!!! Vá embora!"}
+{"id":"LocalText/drama_dialogue71161","revision":"4cb21a34c954ef8d941c71d5df87a089fdcc5066988e315c4fe878ed36ada96b","ptbr":"Imortal, veio à Vila da Dualidade para nos orientar?"}
+{"id":"LocalText/drama_dialogue71162","revision":"eb4beb136f6e7281d2e0c0e78bb40f055947d4f644785a528cca8bfecc896fc6","ptbr":"Estou procurando uma Pedra Divina chamada Xirang. Já ouviu falar dela?"}
+{"id":"LocalText/drama_dialogue71163","revision":"b99b68644e0772b8440d71c14b3793c6c27d4b511dd7c9b338dcae7710e41e05","ptbr":"Desculpe... Nunca ouvi falar dela."}
+{"id":"LocalText/drama_dialogue71164","revision":"2654b1100e1cb69178ba57621326ca54f659c95e57876cf15bf65ac43bcd2036","ptbr":"Se não tiver outro assunto, Mestre, sugiro que parta... Os aldeões não gostam muito de forasteiros."}
+{"id":"LocalText/drama_dialogue71171","revision":"ea5bd2ae48d70ee7dad3fc7d0d16b990da199aa0b444d3f41045b0d3b2456094","ptbr":"(Parece que não sabem mesmo de nada útil... Melhor ir procurar em outro lugar.)"}
+{"id":"LocalText/drama_dialogue71172","revision":"810e1652b754c7c6b21f1b169b624b1b1b38065bac8b5d04e0999cf446b99930","ptbr":"Espere, Mestre!"}
+{"id":"LocalText/drama_dialogue71173","revision":"6e050a3fa793121e29d5c85026bcbd24a55a1c2caeb85941a0a2c6eb8c0e11b9","ptbr":"... O que foi?"}
+{"id":"LocalText/drama_dialogue71174","revision":"d6be1814d95a67e48bfbffcbf804cbe4380a01a520376cd2780d50e03e404983","ptbr":"É verdade que está procurando uma Pedra Divina chamada Xirang?"}
+{"id":"LocalText/drama_dialogue71175","revision":"bd56157a75e8ae8b4b167097f7175f4c7e0d8861cbac2c60b6664be722ab5a79","ptbr":"Sim... Você sabe alguma coisa sobre ela?"}
+{"id":"LocalText/drama_dialogue71176","revision":"e806c2452d2b25266f6a68adb6b3397955763b97f0f49ab1cac6a8c91a5eb648","ptbr":"Hahaha, se não me engano, a Xirang está nas mãos do Bi Fang!"}
+{"id":"LocalText/drama_dialogue71177","revision":"990c1063b59344c516531ea7eef0b3b57d22e0d8dff0a80bde3eb9c1d5430b3b","ptbr":"Bi Fang?"}
+{"id":"LocalText/drama_dialogue71178","revision":"bbe1f7e81e68ef300152b88df507629c1696b8a94f34f7dc1f84d49f091ff564","ptbr":"Sim! Encontrei uma tumba durante minhas viagens."}
+{"id":"LocalText/drama_dialogue71179","revision":"47a7e692895dc12cc6cb6b5e670db993e7dbf55e148b587e1b3aa50c5d480637","ptbr":"A tumba devia pertencer a alguém importante — os objetos funerários eram tão suntuosos!"}
+{"id":"LocalText/drama_dialogue71180","revision":"bf63efeae8b56facb91f508058013adca6b28be3f0ffcc73bf1692ca9af48593","ptbr":"Nesse exato momento, o Bi Fang apareceu e me arrastou para fora do túmulo. Ele tirou uma pedra, murmurou algumas palavras... e então blocos gigantescos de terra se ergueram e cobriram a tumba, selando-a por completo!"}
+{"id":"LocalText/drama_dialogue71181","revision":"86c4ded7dbb4473092ee38ffef22d23642708d16ffbd6ef38b665783a47338f7","ptbr":"(Suspiro)... Depois de selar a tumba, ele enxotou a mim e aos outros aldeões de volta para a vila. Ninguém saiu da vila desde aquele dia. Talvez eu o tenha ofendido de alguma forma..."}
+{"id":"LocalText/drama_dialogue71182","revision":"7dcd48a8932dfbd5b31887bc7929ea164e4c82b13d11366af028444333cd3ad2","ptbr":"Foi isso o que aconteceu. Se não me engano, a pedra que o Bi Fang usou para selar a tumba é o objeto que você procura."}
+{"id":"LocalText/drama_dialogue71183","revision":"ffb972668aa6eaad5b38e23d12764a2f7a65df0407177742089add714d631200","ptbr":"É... Onde está o Bi Fang agora?"}
+{"id":"LocalText/drama_dialogue71184","revision":"19785eb0a172302816f2113b9f64cbc644dcdf1ee9460f74465f70825abac637","ptbr":"Isso não é algo que nós, mortais, possamos saber... mas ele com certeza está em algum lugar perto da vila. A Xirang dele é muito preciosa. Duvido que a entregue facilmente."}
+{"id":"LocalText/drama_dialogue71185","revision":"d203dee93fea1eb9656416e5d0bde27c59fa5bc35ee72f253c6533bdb4a7df10","ptbr":"Se você conseguir a Xirang, talvez possa ajudar a quebrar o domínio do Bi Fang sobre a vila?"}
+{"id":"LocalText/drama_dialogue71186","revision":"ffe139d93bf90e8572f078e4be1afe89f39ae243a81278ad3476ce95bdbd08d8","ptbr":"O povo da Vila da Dualidade está retido aqui contra a própria vontade há tempo demais... Quem sabe quantos já morreram presos aqui dentro?"}
+{"id":"LocalText/drama_dialogue71187","revision":"39d4829a1a51bc88f56cfb35cfa390331a606afdd3f5c655e7b14d35aa5d8525","ptbr":"Tudo bem! Tentarei quebrar o feitiço se tiver a oportunidade."}
+{"id":"LocalText/drama_dialogue71188","revision":"bc8bccfb49481e6d8a02838e1c977cc974f60aed12971a63b76b299a49b4cc6a","ptbr":"Obrigado, bondoso Mestre!"}
+{"id":"LocalText/drama_dialogue71191","revision":"796a8c737a634fb20ff9e54b56c29cbecb532f2941eae64c3aa2b3f0f3726ea3","ptbr":"Wang Cheng?! O que faz de volta tão cedo? O Bi Fang não pegou você, pegou?"}
+{"id":"LocalText/drama_dialogue71192","revision":"e72ca69980d7085791c1eaf641ce501f899a4815362a7c39423e3a8b55fd73b5","ptbr":"Não se preocupe. Encontrei alguém para lidar com o Bi Fang!"}
+{"id":"LocalText/drama_dialogue71193","revision":"487f3f23c6a81aae38a00fdde69fbf3d88d7cd9010bb5ef5817230eca6182a92","ptbr":"Bi Fang?"}
+{"id":"LocalText/drama_dialogue71194","revision":"8c729048a7ad498078e06a322109dcd6457a236f78cb550ab039c10625065faa","ptbr":"Bi Fang, a fera que amaldiçoou a Vila da Dualidade."}
+{"id":"LocalText/drama_dialogue71195","revision":"83a212a9cea3466c66638cc62f5d2d601e74353934f29e0101389e215c1c064d","ptbr":"O chefe da vila está aqui? Queremos perguntar uma coisa a ele."}
+{"id":"LocalText/drama_dialogue71196","revision":"dcf96fa79156376b9d28b6387ee31cd8de81c83f5fba4b0137198f9cbc28d7de","ptbr":"Ele saiu bem cedo hoje de manhã. Deve voltar em breve."}
+{"id":"LocalText/drama_dialogue71197","revision":"e0d76f89b7d814af826b4927400c65607adf3216c612742938a548b47d056704","ptbr":"Ah, então acho que teremos de esperar. Por que não dá uma olhada pela vila, Mestre?"}
+{"id":"LocalText/drama_dialogue71198","revision":"82330c7c82d6195add9f98bdc30210a06376292c97afd80468c797b2329dad5c","ptbr":"..."}
+{"id":"LocalText/drama_dialogue71199","revision":"00b362a6fc1caa2b4aa2eb9a7b43f2d6d7dbbab7347dc9ef9cd2e230235439aa","ptbr":"Fique à vontade... Se tiver alguma dúvida, basta perguntar a algum aldeão."}
+{"id":"LocalText/drama_dialogue71201","revision":"626f0a6ab72a66dc3ca89986d3c5c84d275066c85dd81237f5178292e91c5a36","ptbr":"Ah... Você deve ser o imortal que salvou Wang Cheng!"}
+{"id":"LocalText/drama_dialogue71202","revision":"57c8dcba7882b27d60e62e01cc0ce12836ac72bcf6633acabc997cda53ca07fe","ptbr":"Mestre! Você precisa derrotar o Bi Fang! É a nossa única esperança!"}
+{"id":"LocalText/drama_dialogue71211","revision":"c2b8bc6103f9bf5dc62f0db2e25868d69664625a8d8178bdf88c46741b5c3ac6","ptbr":"Mestre, não dê ouvidos a eles... O Bi Fang é a única razão pela qual o povo da Vila da Dualidade ainda está vivo."}
+{"id":"LocalText/drama_dialogue71212","revision":"2b8b1d59d6bcceb2c63bdda5697da27dded24d33722a5c620ad0edf4d1711e06","ptbr":"O que quer dizer com isso?"}
+{"id":"LocalText/drama_dialogue71213","revision":"056c6d121bf34d0a9241c97d80fe9bb031870933240373cfe4f1b5ba68fa863d","ptbr":"Bem... Há vários anos, um jovem descuidado perturbou espíritos nefastos, fazendo energia maligna jorrar da terra. O Qi Sombrio tomou conta do céu, e as pessoas fugiram para salvar a própria vida!"}
+{"id":"LocalText/drama_dialogue71214","revision":"26aee46099f530d159e3999fe1c66c956ebf3b918e902c846855f2f4da6c2ae3","ptbr":"Se o Bi Fang não tivesse intervindo, a Vila da Dualidade teria sido varrida da face da terra naquele dia."}
+{"id":"LocalText/drama_dialogue71215","revision":"00e7a4daeb0400f18a837710e2cb6b850e03fe7bcb5fa3501c968598470ad5fb","ptbr":"Não sei por que o Bi Fang não nos deixa sair da vila, mas acredito que seja por um bom motivo."}
+{"id":"LocalText/drama_dialogue71221","revision":"1ec0e7cec45b34db32f56fb36fbe34dae60a636a3dcf922c93de0e866f770247","ptbr":"Wang Cheng me contou o que você fez. Agradeço por ter salvado a vida dele!"}
+{"id":"LocalText/drama_dialogue71222","revision":"3d88b5a7e8cc6a8ebac85045dc68ad59aa3c7de3afbe5ee7ee9cb12a18691976","ptbr":"Não foi incômodo algum."}
+{"id":"LocalText/drama_dialogue71223","revision":"a878ffef45fb28d27fbb4517f7f7d0fa630c574a80edd4179270bc012368a988","ptbr":"Ouvi dizer que está procurando algo. Posso perguntar o que procura?"}
+{"id":"LocalText/drama_dialogue71224","revision":"d43cbfd17ef3a0e78dcd7ea246aed5b3b07492b78762d90a547dc4da5de59867","ptbr":"Uma Pedra Divina chamada Xirang, um tesouro mágico capaz de expandir a terra."}
+{"id":"LocalText/drama_dialogue71225","revision":"17641e88681ab14ca4cc55bbe01b8752ac5871b0804f54ee050fc2891d1aa778","ptbr":"Nunca ouvi o nome Xirang antes, mas esse poder especial... parece o artefato que o Bi Fang usou naquele dia."}
+{"id":"LocalText/drama_dialogue71226","revision":"2d7e31d692f3f2ce75dba2726faa71885cdffbb4847830c1339a8076e6802062","ptbr":"O chefe da vila é quem mais sabe sobre o Bi Fang. Você deveria ir perguntar a ele."}
+{"id":"LocalText/drama_dialogue71231","revision":"71b4ce4849825935682b26bbff2b27f284a7f169fe34c77fb55539fc0a5b58e0","ptbr":"Siga-me, Mestre! O chefe da vila voltou!"}
+{"id":"LocalText/drama_dialogue71241","revision":"1061650da7a20c0cf03449b41db4a4fc9f59d09d88ce2f7116008c5b7327040c","ptbr":"Ah... Você deve ser o imortal que salvou Wang Cheng! Obrigado por ajudar a Vila da Dualidade!"}
+{"id":"LocalText/drama_dialogue71242","revision":"ffc9d5954c7e0bc338039ac79faad56e8c732a78aac1d49966a4a91f5e185396","ptbr":"Você veio até aqui em busca de um tesouro, estou certo?"}
+{"id":"LocalText/drama_dialogue71243","revision":"ad5257ad8517db660231ffc453bf56276f428ac6f23a426fd02271ca087a71c0","ptbr":"Sim! Estou procurando uma Pedra Divina chamada Xirang. Dizem que ela tem o poder de expandir a terra."}
+{"id":"LocalText/drama_dialogue71244","revision":"53548a995a838eac47562f4553edf2f058221e45a8dbc3bc2f10713313b983a4","ptbr":"Xirang? A Pedra Divina usada por Yu, o Grande, para conter as enchentes?"}
+{"id":"LocalText/drama_dialogue71245","revision":"536780fb68473d7cb007f1f3cb4d30a194f579ca4d18e4dfe3686516e242f1bc","ptbr":"Essa mesma."}
+{"id":"LocalText/drama_dialogue71246","revision":"e3501db6e25fb33588831cce3529c877a85b3f7668423d598f7f93274e7c7438","ptbr":"Hm... A Xirang com certeza está perto da Vila da Dualidade. Está com o Bi Fang, se não me engano."}
+{"id":"LocalText/drama_dialogue71247","revision":"b306f51420a73ddaf472e6e7f34f3bfeae72c6fcab9600e709c369c404100a08","ptbr":"De onde vem esse Bi Fang, e o que ele quer?"}
+{"id":"LocalText/drama_dialogue71248","revision":"6b94ed0b6a7f3d5eb2b98ac6f42120738147124394575104582b636a93c0a5f8","ptbr":"Ninguém sabe de onde ele veio nem o que quer..."}
+{"id":"LocalText/drama_dialogue71249","revision":"367554d2ea0c192b7b5e384f561ae0023e8a1b3e6e54971d17bd86d4f262c953","ptbr":"Como faço para encontrá-lo?"}
+{"id":"LocalText/drama_dialogue71250","revision":"3f3677cade9b081108f61ce38337880502dc49c21fb3ff25ec73528dbe6aea72","ptbr":"Ele aparece de vez em quando não muito longe da Vila da Dualidade. Seu guincho sobrenatural faz todos correrem para se abrigar."}
+{"id":"LocalText/drama_dialogue71251","revision":"999c8c5a4ae8d69bd169b2a629b48cc85b3b0a97fb7231bb40e8a997cb7f3ebc","ptbr":"Ah... Tenho um favor a lhe pedir, Imortal."}
+{"id":"LocalText/drama_dialogue71252","revision":"c5b0d2c768ef3f5c0044ec284c60f1b3836722bf5b04497f6ec61663b83afcf8","ptbr":"Acho que os aldeões já devem ter lhe contado bastante sobre a nossa situação... Se encontrar o Bi Fang, poderia matá-lo, por favor? Nós, mortais, somos fracos demais."}
+{"id":"LocalText/drama_dialogue71253","revision":"55c658602c372a4a68dd608dfa7e851ed9f77fc4bd44b162b81f27d6d0828229","ptbr":"... Não posso prometer nada. Decidirei quando encontrar o Bi Fang."}
+{"id":"LocalText/drama_dialogue71261","revision":"c8f178aa08bb09328397384edf08f26f7a28c55495ecaccceac8a7a112f0da2e","ptbr":"Quem é você? Por que me procura?"}
+{"id":"LocalText/drama_dialogue71262","revision":"9b778a51ed887dbf7cd99ebdb0d9620c34b7618eebe48a60b34ef8850588c3c3","ptbr":"Procuro uma Pedra Divina chamada Xirang, um tesouro mágico capaz de expandir a terra. Se não me engano, a Xirang está em suas mãos, não está?"}
+{"id":"LocalText/drama_dialogue71263","revision":"a093dd7eab0f1dec1b116fe5aa537ef3e1593a5d2af7ff5256539db228ac1c78","ptbr":"Está! Mas não vou entregá-la a qualquer um."}
+{"id":"LocalText/drama_dialogue71264","revision":"18d8ca6b7ae59fd3fa978f6e568693d0100d8baa331c2ad083cd3e80c0ed9f82","ptbr":"Entregue-a logo, se sabe o que é melhor para você!"}
+{"id":"LocalText/drama_dialogue71265","revision":"c46cdd1f4adc3c7360381ea9dad893b1a160c8544e2feb5f2b219085d1bd7e7a","ptbr":"Fala grosso, hein? Vamos ver do que você é capaz, então."}
+{"id":"LocalText/drama_dialogue71271","revision":"bb681069687bded1087f305ba0edd9b93ebf94c36d48ad5298582f60ec00039e","ptbr":"Então esta é a Xirang. Extraordinária..."}
+{"id":"LocalText/drama_dialogue71281","revision":"710821d72560f459d91cd8c1f0a91b1826ae05e2e018bde4d655be617096f88a","ptbr":"Quem é você? Por que me procura?"}
+{"id":"LocalText/drama_dialogue71291","revision":"caa1e2466d8e9fee31746e7b4f1569a57cea0f7b57343456e7b0ed75d5e173cc","ptbr":"Oh? Que curioso! Em mil anos, você é o primeiro Cultivador que encontro a se importar com mortais! Bem, não custa lhe contar..."}
+{"id":"LocalText/drama_dialogue71292","revision":"2de63b88bd185062efc7a44b5e69227fe976b2c2a91eb76ad51e480c52972c58","ptbr":"Há muito tempo, havia um Cultivador Desviado que aterrorizava as terras de Hua Feng. Sua forma peculiar de artes marciais envolvia absorver a essência sanguínea de outras criaturas. Por essa razão, ele ficou amplamente conhecido como o Senhor de Sangue."}
+{"id":"LocalText/drama_dialogue71293","revision":"1d707840dfe056202e2b68a3408c22b148d8678c9a17a22abcb61735e00eaf98","ptbr":"Por fim, Cultivadores do Caminho Justo de todos os cantos do mundo se reuniram aqui e puseram fim ao seu reinado de terror... Eles conseguiram destruir sua alma, mas sua carne e sua energia maligna tiveram de ser seladas dentro de uma tumba."}
+{"id":"LocalText/drama_dialogue71294","revision":"e3aa1b7cde3277ad462f89389fc143dc05d88c5126e485c085c02ab8a2a29a82","ptbr":"Muitos anos depois, um aldeão local quebrou o selo sem querer. Naquele instante, a energia maligna irrompeu com força, distorcendo os veios da terra e fazendo com que o Qi Sombrio escapasse pelas fendas das Montanhas do Submundo."}
+{"id":"LocalText/drama_dialogue71295","revision":"df7375a21b0665045eba1eb620ea1df82f204afcdf9184f246f838b4a9ae8d15","ptbr":"Usei o poder da Xirang para conter o Senhor de Sangue e confinar os moradores na Vila da Dualidade, para que não fossem contaminados pelo Qi Sombrio que jorra do solo."}
+{"id":"LocalText/drama_dialogue71301","revision":"5333437c96430e4036b65cca0552fa5c887a5e6b9fb3893bc371b81c65221f18","ptbr":"Ah... Se a Xirang cair em mãos erradas, uma grande calamidade poderá se abater sobre o mundo! Por que eu simplesmente a entregaria a você?"}
+{"id":"LocalText/drama_dialogue71302","revision":"42823a8e5dc5b6550524c53a5359210d96722cac9fceafeb1800fcae3a8928ca","ptbr":"Mas eu preciso da Xirang para derrotar o Leviatã..."}
+{"id":"LocalText/drama_dialogue71303","revision":"8fbdaa60422fa7cbe1659d94099b72ed9bc38ea170b58561752f5bfe4c475221","ptbr":"Você quer usá-la contra o Leviatã do Mar do Leste? Interessante! Se realmente pretende matá-lo, talvez eu considere emprestá-la a você."}
+{"id":"LocalText/drama_dialogue71304","revision":"18920586ff8a9d8ca61443295872846ab37a6047baf72bda9141ad1b74c58c76","ptbr":"A questão é que... a Xirang é necessária para conter o Senhor de Sangue. Não há como entregá-la a você, a menos que o Senhor de Sangue seja eliminado primeiro."}
+{"id":"LocalText/drama_dialogue71311","revision":"49ff123617c0b3288c2a793730386d98e966942e7086e63a25e036679230e4b8","ptbr":"Entregue-a logo, se sabe o que é melhor para você!"}
+{"id":"LocalText/drama_dialogue71312","revision":"3897ecbb78ad8a081eab087e5a7ecc9395c6275b41a7f704d2a1b152174e11fa","ptbr":"Bah! Fala grosso, hein? Vamos ver do que você é capaz, então."}
+{"id":"LocalText/drama_dialogue71321","revision":"b87dbc667ddaf1504e33f6ab1953937d84cabf6a3e0785a37b1f5e9f69960184","ptbr":"Humano imprudente. Você deve desejar a morte! Pois bem, deixe-me atender ao seu desejo!"}
+{"id":"LocalText/drama_dialogue71331","revision":"6c3c1e9af636ffcd4e91455d86f97b6e29710367752a689e6a315869a69ed27d","ptbr":"Então esta é a Xirang. Extraordinária..."}
+{"id":"LocalText/drama_dialogue71341","revision":"492a8c4d379486afe23a954169495c9779c6bc3f9d48728201f1292100c1cfee","ptbr":"Não há mesmo nenhuma forma de deter o Senhor de Sangue?"}
+{"id":"LocalText/drama_dialogue71342","revision":"98f0c2ef8fed498c17534b9ef6d0e3f693529d071d396a9648b1646ab129ecad","ptbr":"A alma foi extinta. Tudo o que resta são sua carne e sua malícia... Mas ele esteve selado por tanto tempo... Deve ser apenas uma sombra do que já foi."}
+{"id":"LocalText/drama_dialogue71343","revision":"b40253073f03b073f0c47fd8f8f9e1a3de3e5b95194fb393c365a0c6d26f7d16","ptbr":"Se você possuir a força do Núcleo Dourado, vá enfrentá-lo."}
+{"id":"LocalText/drama_dialogue71344","revision":"462fcafc78efc4eb54b81c825c30b7b7d64508c8ecb5a141288b2051fa3b0c4c","ptbr":"Ótimo! Se eu matá-lo, você me dará a Xirang?"}
+{"id":"LocalText/drama_dialogue71345","revision":"9fcfc1afcd2f68c13d96dae5586c5eb9dce331b4fee8fe317cc8ee94fc9fe209","ptbr":"Se você realmente conseguir matá-lo, que motivo eu teria para recusar?"}
+{"id":"LocalText/drama_dialogue71346","revision":"d668fcb98ebf920163948ad6f504dd901bae41ba487fb89bd3b09bee0b4890e0","ptbr":"Excelente!"}
+{"id":"LocalText/drama_dialogue71351","revision":"c9701a5330431a581bd7a29dcffdd7a38b5a7b28db20ff6e78720570b0bbac8c","ptbr":"Não há mesmo nenhuma forma de deter o Senhor de Sangue?"}
+{"id":"LocalText/drama_dialogue71352","revision":"7b8e633df53ba3be1265482c2f5410935c216b324865b9060fc35d83853d9a9d","ptbr":"A alma foi extinta. Tudo o que resta são sua carne e sua malícia... Mas ele esteve selado por tanto tempo... Deve ser apenas uma sombra do que já foi."}
+{"id":"LocalText/drama_dialogue71353","revision":"45130c28fbc64ef1627e804aa06d27c64137b6f69e39081eb1d660e5c277198c","ptbr":"Se você possuir a força do Núcleo Dourado, vá enfrentá-lo."}
+{"id":"LocalText/drama_dialogue71354","revision":"ecc2419e98db3ea2980f406b1a4dcb871b7132cdee1a2355ba411026686ac218","ptbr":"Se eu matar o Senhor de Sangue, você me dará a Xirang?"}
+{"id":"LocalText/drama_dialogue71355","revision":"1ad9ef6f214c92f8ea4ddc54fc35c0c352ad559680863f924bcb7f39d849f330","ptbr":"Se a Xirang cair em mãos erradas, uma grande calamidade poderá se abater sobre o mundo... Afinal, por que você quer a Xirang?"}
+{"id":"LocalText/drama_dialogue71356","revision":"81ee316c8a95250c1b8be5d5cf274a4ad1d5af572a13cf1d9b2fabf1e1cda2f1","ptbr":"Mas eu preciso da Xirang para derrotar o Leviatã..."}
+{"id":"LocalText/drama_dialogue71357","revision":"c24970ba198e82a1e676c9c42a64ec90f59e1941177233730c57c32227e59e8e","ptbr":"Você quer usá-la contra o Leviatã do Mar do Leste? Interessante! Pode ficar com ela se matar o Senhor de Sangue."}
+{"id":"LocalText/drama_dialogue71358","revision":"878089f8eafa2466702e5b26c2b5d1184df980397a1c9ccae2542584cda8be9d","ptbr":"Excelente!"}
+{"id":"LocalText/drama_dialogue71361","revision":"07214758b248b023785b718a3f642eaf1130888e2342341bd2911bff41d65663","ptbr":"Se você realmente conseguir matá-lo, que motivo eu teria para recusar?"}
+{"id":"LocalText/drama_dialogue71371","revision":"58ec2e0a630f5427d589e5cc0cccdb100004f2fff4c53d5591c69c38ad705c2f","ptbr":"Procuro uma Pedra Divina chamada Xirang, um tesouro mágico capaz de expandir a terra. Se não me engano, a Xirang está em suas mãos, não está?"}
+{"id":"LocalText/drama_dialogue71372","revision":"c7c7113b1faf4737623de364aea6cf5732c819273d32196b00d6fcbea5de1165","ptbr":"Está! Mas não vou entregá-la a qualquer um."}
+{"id":"LocalText/drama_dialogue71381","revision":"4d82ad8d1cdd436c3bf7775cd5f4615f12f5db7f7d28476c6c64fc8f2c7268db","ptbr":"Oh? Que curioso! Em mil anos, você é o primeiro Cultivador que encontro a se importar com mortais! Bem, não custa lhe contar..."}
+{"id":"LocalText/drama_dialogue71382","revision":"222723803656879129c319f737986fcb69d312170ac537395fb7572f7276a939","ptbr":"Há muito tempo, havia um Cultivador Desviado que aterrorizava as terras de Hua Feng. Sua forma peculiar de artes marciais envolvia absorver a essência sanguínea de outras criaturas. Por essa razão, ele ficou amplamente conhecido como o Senhor de Sangue."}
+{"id":"LocalText/drama_dialogue71383","revision":"088db3dac542af0f33d9ba89143ce58e137ad14569be30b36aa05d4971717db3","ptbr":"Por fim, Cultivadores do Caminho Justo de todos os cantos do mundo se reuniram aqui e puseram fim ao seu reinado de terror... Eles conseguiram destruir sua alma, mas sua carne e sua energia maligna tiveram de ser seladas dentro de uma tumba."}
+{"id":"LocalText/drama_dialogue71384","revision":"148eeb1aef4ca9f317333a720221c63c2b0939c9bc611d032faf1923a1c6e474","ptbr":"Muitos anos depois, um aldeão local quebrou o selo sem querer. Naquele instante, a energia maligna irrompeu com força, distorcendo os veios da terra e fazendo com que o Qi Sombrio escapasse pelas fendas das Montanhas do Submundo."}
+{"id":"LocalText/drama_dialogue71385","revision":"a578291d03fa288fd0f5b1a29b77ce9b919f2e806ad3505afba31cc526f0e7d0","ptbr":"Usei o poder da Xirang para conter o Senhor de Sangue e confinar os moradores na Vila da Dualidade, para que não fossem contaminados pelo Qi Sombrio que jorra do solo."}
+{"id":"LocalText/drama_dialogue71386","revision":"242b8a5c20b7fb8abc1ad49eb70b91baae9f98a469257ee01e78bc46fbc13caa","ptbr":"Não há mesmo nenhuma forma de deter o Senhor de Sangue?"}
+{"id":"LocalText/drama_dialogue71387","revision":"a5093550b54e87d5c3ef6755b47579db0cd0067c3b7371212992526d19cf6ed7","ptbr":"A alma foi extinta. Tudo o que resta são sua carne e sua malícia... Mas ele esteve selado por tanto tempo... Deve ser apenas uma sombra do que já foi."}
+{"id":"LocalText/drama_dialogue71388","revision":"93bfed2e0eb40fd12b195613d291fd0077df1a933d71e1bc94c570b96ca189d3","ptbr":"Se você possuir a força do Núcleo Dourado, vá enfrentá-lo."}
+{"id":"LocalText/drama_dialogue71389","revision":"17d90c88f8d6f28f7e6417d00df9ad49a60b71f8405d209b6aec198aff352662","ptbr":"Ótimo! Se eu matá-lo, você me dará a Xirang?"}
+{"id":"LocalText/drama_dialogue71390","revision":"aa3725755b7b5927256f0c627a0314b379fab2787b7260968316e17f996c9c1f","ptbr":"Se você realmente conseguir matá-lo, que motivo eu teria para recusar?"}
+{"id":"LocalText/drama_dialogue71391","revision":"aef7a0d2bf07e4344903e4808a37c806e66b4ca7e2acfea7a293fd69ea8ae0a3","ptbr":"Excelente!"}
+{"id":"LocalText/drama_dialogue71401","revision":"49aea5a268efd929f910c0e9cc26dd50129573e5551d6c2d51c9dc265a3dd45c","ptbr":"Entregue-a logo, se sabe o que é melhor para você!"}
+{"id":"LocalText/drama_dialogue71402","revision":"76b6f588d3fb1f5e3ed925666ceb8c1cc4eedf9b0df45e34751b95c276b4c18a","ptbr":"Fala grosso, hein? Vamos ver do que você é capaz, então."}
+{"id":"LocalText/drama_dialogue71411","revision":"57818000de65934a0162407e2404941ce95cfb3cd0844aeeaf3331e5b617db0d","ptbr":"Humano imprudente. Você deve desejar a morte! Pois bem, deixe-me atender ao seu desejo!"}
+{"id":"LocalText/drama_dialogue71421","revision":"89907e54fea1dc7d557decc0ec0db600fb15b26979eb8c56ff8090f8c7832cf5","ptbr":"Então esta é a Xirang. Extraordinária..."}
+{"id":"LocalText/drama_dialogue71431","revision":"a59d2c732801b0b74f822f596ccedbb68c74dbbf616f16c8837e8fda541ea242","ptbr":"Uma malícia gélida impregna o ar dentro da caverna. O Senhor de Sangue deve estar aqui..."}
+{"id":"LocalText/drama_dialogue71432","revision":"b5a63087828b912950223c94bd8880e693e8d406a0ff0bc337324eb7fd6461cb","ptbr":"Ao se aproximar da vila, você detecta uma intensa aura maligna vinda de dentro! Deseja continuar avançando...?"}
+{"id":"LocalText/drama_dialogue71433","revision":"bcb324860542aba760767c299c89652232c4fca5e8a629cac1380796001da1f7","ptbr":"Ao entrar na vila, um monstro de aparência feroz avança direto contra você!"}
+{"id":"LocalText/drama_dialogue71441","revision":"697b1aa6a1eb064034e6ff77db6d3a97b31150eed23c85cfa9c3eaf97f0e6e96","ptbr":"Incrível! Não acredito que você o matou!"}
+{"id":"LocalText/drama_dialogue71442","revision":"707ceb7735de441e2ba352e971bae8653023874ea1589fbca9646bf8731ead44","ptbr":"Não foi grande coisa. Enfim, tínhamos um acordo..."}
+{"id":"LocalText/drama_dialogue71443","revision":"3223e533fc81f72753697cecffa96e644cae995c80b91df2bf0559b4ae87ead1","ptbr":"Tínhamos... e vou cumpri-lo. Nunca quebro minha palavra."}
+{"id":"LocalText/drama_dialogue71444","revision":"4a884d62e60e45582ec676f782064536ce12e98f1bf91bfb84bb82825caac043","ptbr":"Já que você matou o Senhor de Sangue, não há mais motivo para eu continuar por aqui..."}
+{"id":"LocalText/drama_dialogue71445","revision":"f1aa5e9ce790ca640868c5770fbfc22390a57010016377ea0a3a5a1366d502a5","ptbr":"Para onde você pretende ir agora?"}
+{"id":"LocalText/drama_dialogue71446","revision":"ef15789a0a0d6f373779d68528ec02e733d0471b26439fe3eece29cb27d1c20a","ptbr":"Irei para onde precisarem de mim... Que voltemos a nos encontrar."}
+{"id":"LocalText/drama_dialogue71451","revision":"c99d4768e3a37fa6e557ca4551d3eacdd1794b45b3dd4aec7f227dd202eb5ca7","ptbr":"... É você."}
+{"id":"LocalText/drama_dialogue71452","revision":"0dae0197709fd4e453d23729e2b7e3bca6f77690b778ee026f5a50c6726039c5","ptbr":"Você viu do que o Leviatã é capaz. Por que viria ao Mar do Leste?"}
+{"id":"LocalText/drama_dialogue71453","revision":"409fc2730b3f8d92da6554c8fa9e3c6c1b82a46a8dd60c68dacca65cca535001","ptbr":"Consegui a Xirang... Ela pode mesmo aterrar o mar?"}
+{"id":"LocalText/drama_dialogue71454","revision":"ccb82bc0815920ee761ca5e4454576fe065b689eb7fe302ce4bbfcfdfe107a1d","ptbr":"... Não sei, mas é a única coisa em que consigo pensar."}
+{"id":"LocalText/drama_dialogue71455","revision":"ac1d9182b523d0762c7f9fd737524ef76c1c7d742f7ed1bbd54e69ce0ebc9a1d","ptbr":"!!! ELE... VOLTOU!!! CUIDADO!!!"}
+{"id":"LocalText/drama_dialogue71456","revision":"75b3486b9851b0465d89115ba9b6814fc1d88600914ceb135a42a35818331b42","ptbr":"Ondas monstruosas avançam em sua direção no rastro do Leviatã!"}
+{"id":"LocalText/drama_dialogue71457","revision":"bcb3a7d7deb039fcd63cf35fdd94b03bdda88cbd89b69d4901606f5bb948eb53","ptbr":"(A garota está sozinha à beira-mar. Deseja ir até ela?)"}
+{"id":"LocalText/drama_dialogue71461","revision":"cb3738fc9b87eac927bb559324c13fd712df3477b1a701bcbbf44cb8c149fd57","ptbr":"Ugh..."}
+{"id":"LocalText/drama_dialogue71462","revision":"e481de235cdf5558611bc83d37e86ba314c139cc20bbff9b7f77adb2da5b6277","ptbr":"Você está ferida?"}
+{"id":"LocalText/drama_dialogue71463","revision":"c5a06991ab112bdf19b13895daf50e89676b10ec6ccc13a7f5fdd456d780f3fa","ptbr":"Eu... estou bem..."}
+{"id":"LocalText/drama_dialogue71464","revision":"bee87bb86fc1ae06526fe54ebad8fb24536781ba9a52f5cc5e096e835c7d6d16","ptbr":"Entregue-me... a Xirang. Não temos muito tempo... antes que o Leviatã volte..."}
+{"id":"LocalText/drama_dialogue71465","revision":"38984d53c7f9be2d6f42c7412cfcb4d0399ee265c7f1719b6c44be41f497b313","ptbr":"(A energia e o poder espiritual dela estão gravemente esgotados. Deseja tentar ajudá-la...?)"}
+{"id":"LocalText/drama_dialogue71471","revision":"7cf7538271dd8eb4ab16ed27c10cb0afd2db788b58a9cb3d3ed23e4823c3d41c","ptbr":"A garota se ergue lentamente no ar. Pulsando com essência de sangue, o Xirang emana um poder descomunal! Ao percebê-la, o Leviatã arreganha as presas."}
+{"id":"LocalText/drama_dialogue71472","revision":"ea6fef03d745c9cb52fd80d177b053b666830c36fcbba70423e3096562c756aa","ptbr":"Instantes depois, imensas massas de rocha irrompem do mar. Enormes rochedos esmagam o corpo colossal do Leviatã..."}
+{"id":"LocalText/drama_dialogue71473","revision":"6248ada97680599b9e010349295feee6a124e1b3162dc4208681cdec479506ca","ptbr":"O Mar do Leste, que por tanto tempo separou Hua Feng e Yun Mo, desaparece, e o voraz Leviatã deixa de existir..."}
+{"id":"LocalText/drama_dialogue71481","revision":"b6cf272ffed24f4a04d6f187c8515170937a811a742aefe34082e597e14e5552","ptbr":"A garota se ergue lentamente no ar. Pulsando com energia, o Xirang emana um poder descomunal! Ao percebê-la, o Leviatã arreganha as presas."}
+{"id":"LocalText/drama_dialogue71482","revision":"140d17c72460ca9b2095a76faa7046d533a26439bc4bb35fcea185c86f570845","ptbr":"Instantes depois, imensas massas de rocha irrompem do mar. Enormes rochedos esmagam o corpo colossal do Leviatã..."}
+{"id":"LocalText/drama_dialogue71483","revision":"940fed0d7857a33f2f894d3db224d5750a341055c48f623881faa149a437ed3f","ptbr":"O Mar do Leste, que por tanto tempo separou Hua Feng e Yun Mo, desaparece, e o voraz Leviatã deixa de existir..."}
+{"id":"LocalText/drama_dialogue71491","revision":"1221cdbc0b61e968bbb48f937927b17a87e978fb0e2c0e0cd3235a4858be5ad6","ptbr":"A garota se ergue lentamente no ar. Pulsando com foco divino, o Xirang emana um poder descomunal! Ao percebê-la, o Leviatã arreganha as presas."}
+{"id":"LocalText/drama_dialogue71492","revision":"5642854c6064f2f65149c0a147dc3191a9d3fcb6efedfae60a4c69061b124156","ptbr":"Instantes depois, imensas massas de rocha irrompem do mar. Enormes rochedos esmagam o corpo colossal do Leviatã..."}
+{"id":"LocalText/drama_dialogue71493","revision":"953ac689be641559dad962f834acfa84060ef6d3a8363adfb2f8c7c3e8f0eb8f","ptbr":"O Mar do Leste, que por tanto tempo separou Hua Feng e Yun Mo, desaparece, e o voraz Leviatã deixa de existir..."}
+{"id":"LocalText/drama_dialogue71501","revision":"bf7fc63304e319bf16f3b14952986ec9d7be14d3f39ed18a5369111da073d884","ptbr":"A garota se ergue lentamente no ar, despejando toda a sua energia e poder espiritual no Xirang! Seu corpo começa a desvanecer... Ao percebê-la, o Leviatã arreganha as presas."}
+{"id":"LocalText/drama_dialogue71502","revision":"5bbcff18dc19c7e51573ae04050d77c4bb24058bc7bede4fb1f9babfe8307567","ptbr":"Instantes depois, a garota esgota o último vestígio de seu poder espiritual e sua alma se dissipa. Imensas massas de rocha irrompem do mar. Enormes rochedos esmagam o corpo colossal do Leviatã..."}
+{"id":"LocalText/drama_dialogue71503","revision":"34440b03cde958866b15f2dab9c4960469c01840834251bf6fb9b7981ae1133b","ptbr":"O Mar do Leste, que por tanto tempo separou Hua Feng e Yun Mo, desaparece, e o voraz Leviatã deixa de existir..."}
+{"id":"LocalText/drama_dialogue71511","revision":"f1d62ca051066962fe66d09a36d4b2819eed3a98efdac994bf32ac61e183fa4f","ptbr":"..."}
+{"id":"LocalText/drama_dialogue71512","revision":"fbe82f66eb39a287548c0bf2c63c801c935c79d8db0b7bf8b6b8ff096611f159","ptbr":"Você está bem? Está ferida?"}
+{"id":"LocalText/drama_dialogue71513","revision":"a0d2e4cab0396cf427af30d509fc9be5deb563fb69fd69dc22a4796037e0b513","ptbr":"..."}
+{"id":"LocalText/drama_dialogue71514","revision":"3dbca5b6a9ecf09c290e2f03904214e1aba34c7f12f00666a807ee63e65481a1","ptbr":"A garota não responde, apenas observa em silêncio a nova terra que surgiu diante dela... Depois de algum tempo, ela volta a si..."}
+{"id":"LocalText/drama_dialogue71515","revision":"f97dd838aa48e533418d34d2ddf73a444d060c35126796d0c7693e4cb3b4099a","ptbr":"Estou bem, graças a você. Como poderei lhe agradecer?"}
+{"id":"LocalText/drama_dialogue71516","revision":"74467b2e78d6c9693111abf98100a6fdf2c49c4c5934f8a756b48132bfcb4fc1","ptbr":"É que... há tanto tempo eu desejava aterrar o mar. Agora que consegui, não sei mais que rumo tomar..."}
+{"id":"LocalText/drama_dialogue71517","revision":"36f70a1e3bfa353533b43a884f1c3deb28033d193231dc02b19adf7af2843fb4","ptbr":"Onde você mora?"}
+{"id":"LocalText/drama_dialogue71518","revision":"489d6a849965cb1d2d5610e70f41677744b61de6aab2d3ecdc01e1530dea6979","ptbr":"Eu... eu não me lembro."}
+{"id":"LocalText/drama_dialogue71519","revision":"adc9aeac54bbdb57fa7ae36807ed8978ebd92e927fd989c87a55a2e08064ff4f","ptbr":"Tenho um tesouro chamado Árvore-Cofre. Há todo um outro mundo em seu interior. Você pode ficar lá, se quiser."}
+{"id":"LocalText/drama_dialogue71520","revision":"0d80bed188c0f690416f0eb0a50d2a4dfe69fd5c2f334f05f0d2d2ec4f2a6be9","ptbr":"..."}
+{"id":"LocalText/drama_dialogue71521","revision":"01db93f81a29d3b4e7cbc0330c57ce346af3a05f85d090ab20d3a2cbcc60e145","ptbr":"Por que não vem comigo?"}
+{"id":"LocalText/drama_dialogue71531","revision":"4bd2c9a1109d4f29edde8b04a29939b0c6fd9e3ed41583a3422651a7fa8e1127","ptbr":"Esta é a Árvore-Cofre. Sinta-se em casa."}
+{"id":"LocalText/drama_dialogue71532","revision":"d1d942e42ccea63941c5e0f075e6d5ae1be75d017a08db0f06e920dabc634aac","ptbr":"..."}
+{"id":"LocalText/drama_dialogue71533","revision":"247d6fb1c82061580ffd1c7466a54244ca1f9f11021ea352954a2eb1c9d24e2b","ptbr":"O que houve?"}
+{"id":"LocalText/drama_dialogue71534","revision":"0d9cb2e88e9cc29039366580b6348e8047e1accbdb6de36b6e19acc6a0c7af1a","ptbr":"Você... você vai voltar, não vai?"}
+{"id":"LocalText/drama_dialogue71535","revision":"37d6cfe6cae8d5a645ae09c528e0ba47eed7ce6a358f0bec8f92c7ff99fcf4ee","ptbr":"Claro. Assim que tiver um tempo livre, virei visitar você."}
+{"id":"LocalText/drama_dialogue71536","revision":"0417f7b3caa0648abd0604ecd119546186a010b002e7e20754636f03713d4da2","ptbr":"Está bem."}
+{"id":"LocalText/drama_option219011","revision":"54f379a479e8cb28024fdf1c800a27b386b22c4d5aa873a1061363077d7b4cb5","ptbr":"Certo, eu concordo"}
+{"id":"LocalText/drama_option219012","revision":"194e46136169a0e5abb84a9bf19d0a1a15753f45bf5f648efc092585c29dd8ac","ptbr":"Não"}
+{"id":"LocalText/drama_option226071","revision":"ec3cb63d55a515de90c7fb673e44c961372dd4a5672818ec989847746980dd1c","ptbr":"Concordar"}
+{"id":"LocalText/drama_option226072","revision":"99a6cfb3dd04f466b685e263023ab03e6373ef555f2778bdbfca3e74fbf2a494","ptbr":"Discordar"}
+{"id":"LocalText/drama_option226101","revision":"75ce5866bb40b0b7d1e55dec4ea5b38041b79e33be5ffedad6df95fc680c1c6f","ptbr":"Concordar"}
+{"id":"LocalText/drama_option226102","revision":"47694a8eea7645399f2e8fc769543fe73e48c6f6cc2c158d1edee24677761e6e","ptbr":"Discordar"}
+{"id":"LocalText/drama_option226131","revision":"abb5efbb222720b92e715b4d72ec1841fe33fb4451fd68e87c65c072a87699ce","ptbr":"Concordar"}
+{"id":"LocalText/drama_option226132","revision":"586a06041c07d5aff21fea0efc5639a275bdde81bfc90cb37b7a2d66db1fcd3b","ptbr":"Discordar"}
+{"id":"LocalText/drama_option226161","revision":"ee94ad7c732295fa5b651c5afc30621c02936ed670b468a83eb98b2ddf356156","ptbr":"Concordar"}
+{"id":"LocalText/drama_option226162","revision":"23c23ca888c99bcf4da1b42229b28ec04344b06039c8f28508c3c7d5b7fa3348","ptbr":"Discordar"}
+{"id":"LocalText/drama_option226191","revision":"caef5ad8d9bb6c202efc041a23da4bf5c7e6203bd2120d04c9f8f565ba0444fc","ptbr":"Concordar"}
+{"id":"LocalText/drama_option226192","revision":"9cb1999ccc0089be61202e24619ebf56c27d24eab70ea3a363c3877dad8e1fdc","ptbr":"Discordar"}
+{"id":"LocalText/drama_option226221","revision":"bc207f122183783656920da86fb526c2fca89087885abfae1588f67a724af9ec","ptbr":"Concordar"}
+{"id":"LocalText/drama_option226222","revision":"69f4b8cc89529d747d767ddce58caafd215eb4772140f13e4611360d280e9464","ptbr":"Discordar"}
+{"id":"LocalText/drama_option226251","revision":"bf28654cece18e696c0e9b325f4cca53a85223530b393a50f27406b0dc66308b","ptbr":"Concordar"}
+{"id":"LocalText/drama_option226252","revision":"15f6325f0ea066651352e137a3c46b4f044b287751f5a0c6598ad6b505fa8e60","ptbr":"Discordar"}
+{"id":"LocalText/drama_option226281","revision":"dbb73c7644961493fefa5bb6ffc8d1876f6bdf2bfe3bf0ba5ad919f60f3f9d10","ptbr":"Concordar"}
+{"id":"LocalText/drama_option226282","revision":"563f66d8727c724410bf93bb8a957c9d235bd12a1b5533549306e66525f58dc0","ptbr":"Discordar"}
+{"id":"LocalText/drama_option226311","revision":"3446bbb1cbd2cfee6fff218f9f86d52487d9f2dcfadadb6f284f9974579cadb1","ptbr":"Concordar"}
+{"id":"LocalText/drama_option226312","revision":"9fef111b3d24b80fe8f5bf1fa3d9cc236c25ca64884c3b98f5440af027ea1797","ptbr":"Discordar"}
+{"id":"LocalText/drama_option226341","revision":"b6602542c9791f54ba91a02f7369195c0e7dedec9690179bbba0fd3a5336b90e","ptbr":"Concordar"}
+{"id":"LocalText/drama_option226342","revision":"a64f0f44aa11c34f63eb087661e77d1b21d3118f530c969f6ad2d61c3e237a47","ptbr":"Discordar"}
+{"id":"LocalText/drama_option226401","revision":"675e1c3349609cccd78bd6bddd25a76a7cc575642d5c6eed7670a82784da2588","ptbr":"Concordar"}
+{"id":"LocalText/drama_option226402","revision":"1c691cea47ba9ccc81b579ecdf381fcf48a412e9e6072cd5d3397b40a72a97f1","ptbr":"Discordar"}
+{"id":"LocalText/drama_option226431","revision":"8451ebdbf235f8b0a2f7ad32c46c40518c67663781c12bea52f865d957b8ba39","ptbr":"Ajudar a pessoa"}
+{"id":"LocalText/drama_option226432","revision":"82946635222bbc9f08e8b5dc9cb8b11a60775a2ab24d53f48900ce4323770451","ptbr":"Ignorar"}
+{"id":"LocalText/drama_option226451","revision":"05a32e93f712964cbf0bf2e7afd799e421332b8ec740cf721ddb06a8555f5d33","ptbr":"Atribuir agora"}
+{"id":"LocalText/drama_option226452","revision":"493d328db243b06793b5b270c63c9f451e32111af770ef6729bd907a85c2c36a","ptbr":"Pensar melhor"}
+{"id":"LocalText/drama_option226461","revision":"4384cb50b226a32d3413998571148508929c594d655a3bdf68251b5488670efc","ptbr":"Atribuir agora"}
+{"id":"LocalText/drama_option226462","revision":"cfd80b3a825a6ab751a01851f6a543938e76cf55b998b4f1095b913aca42b3a1","ptbr":"Pensar melhor"}
+{"id":"LocalText/drama_option226471","revision":"79cc936c481a287dcf28a366be95e8d130a95fc94fe9164bc5dc9dabf50c4794","ptbr":"Atribuir agora"}
+{"id":"LocalText/drama_option228011","revision":"d70b7eda8eb7c04b999861d35378ee7eaac98c5102dae387df7528378acf2c3c","ptbr":"Não"}
+{"id":"LocalText/drama_option228012","revision":"614aa5151c7ec8d8631993b4ed0a8dd83a86134ffdf52a761bc1a57a7ee3fafd","ptbr":"Cultivo Dual"}
+{"id":"LocalText/drama_option228211","revision":"c02eb9373bbcdd335e6ecc0933aef181364a89f9d94eefc8e1a1755cd56e4381","ptbr":"Debater juntos"}
+{"id":"LocalText/drama_option228212","revision":"97e0e1d985141d62dbfbc3413957dbb57a88e255d7700bd1818fdc9058e35fba","ptbr":"Não tenho interesse"}
+{"id":"LocalText/drama_option228311","revision":"d907aa8d59fc28b30b0f06fdac35b9f620a430fbaf3765350470bb49e0991148","ptbr":"Salvar a seita"}
+{"id":"LocalText/drama_option228312","revision":"f2d0dbb84f9d47338a6e17f49e55bf900cba7dbc8ac119fbbb2336503fbc60b4","ptbr":"Salvar a própria pele"}
+{"id":"LocalText/drama_option228321","revision":"ce86fd4adc66d134d3ace05e548518f33b7c3960121398a3e666ba096b332229","ptbr":"Suportar e aguardar a oportunidade"}
+{"id":"LocalText/drama_option228322","revision":"21dd7d5a6013c355b3d61d5ddfad228c4125951778329df2ea305fabffe23cf3","ptbr":"Impossível, minha força é inigualável"}
+{"id":"LocalText/drama_option228331","revision":"0b096e7964bcba686f752ea090b277780ceed43d8ff2df4ff436fc531bd82631","ptbr":"Perdoar e esquecer"}
+{"id":"LocalText/drama_option228332","revision":"21e83476b576e21375323f40ed65d15b383dcec14502a173d628a4f244608a1b","ptbr":"Tirar-lhe a vida"}
+{"id":"LocalText/drama_option228341","revision":"d6b0d9263f4d56d0de9f4d436156933d6ee9586c1f017e3671e69014a785faf6","ptbr":"Ter um pouco de decência"}
+{"id":"LocalText/drama_option228342","revision":"fe2e409e89c32afe425943924616e1146c198f1ef20e637c68e7f10df53a6dc1","ptbr":"Seguir seus desejos e espiar"}
+{"id":"LocalText/drama_option228343","revision":"1e01abbe5e6a5fdaca815a7cdf9760bc056d55369910973727ecdd924bcc8b0f","ptbr":"Transcender seus desejos e se aproximar"}
+{"id":"LocalText/drama_option228351","revision":"06b67239ebbaff8a2817644027cd24541bbc4279a04fba70641f4faf7f22124f","ptbr":"Aceitar"}
+{"id":"LocalText/drama_option228352","revision":"f9322250f0ea075f927e5d2e45ee68c10e87b9976ba7270dc5d99ec8bf2b37ca","ptbr":"Recusar"}
+{"id":"LocalText/drama_option228361","revision":"0ef2cddd4bf930a235d99b1bd6cba55264b04bb10e90961a094f0292a48e95ff","ptbr":"Perseverar"}
+{"id":"LocalText/drama_option228362","revision":"4e51806590f81b06d1cc74fc1cd74821f67b3051b0e9a182f538cc8c62201809","ptbr":"Aproveitar a vida"}
+{"id":"LocalText/drama_option228371","revision":"a1ee45aee3babc6cd234959ec8df3cc40e73a21b2ecc12055a20387118158392","ptbr":"Aceitar"}
+{"id":"LocalText/drama_option228372","revision":"7072faaeb4a76700864a12f934bcb4df0f4dcd7c49eb8d4ee50d2b74b74f2bf4","ptbr":"Recusar"}
+{"id":"LocalText/drama_option228381","revision":"4722d746cd0282008cc400f690414bda35ccd64d5141c1b1a29faa6f78e30fcc","ptbr":"Uma única técnica"}
+{"id":"LocalText/drama_option228382","revision":"8959dfe5bf59ec149c928a9bca2bc5d3b57b4b408eadcd40f52309cb1845a980","ptbr":"Muitas técnicas"}
+{"id":"LocalText/drama_option228391","revision":"10351089d6b5c0a2534a2a7cfa5efa63078e887099e490fcdfc74a114ee6a6ad","ptbr":"Cumprir seu dever para com o mundo e tentar derrotá-lo"}
+{"id":"LocalText/drama_option228392","revision":"cbb6acbae19125d21d1e4d264559782c0b59a95e12d2b5425f5471b8ea6365eb","ptbr":"Ficar ao lado dele por lealdade"}
+{"id":"LocalText/drama_option228393","revision":"7978be3dd5815564152c1d463af1944f224b1ef53573d6151d178a15e86514b0","ptbr":"Tornar-se eremita e afastar-se do dilema"}
+{"id":"LocalText/drama_option228394","revision":"aeb6c1827f942bc937590824c5ba8a27b910e4e40b50a12cd5eed598a05fae3a","ptbr":"Derrotá-lo e depois tirar a própria vida por faltar ao seu dever de lealdade"}
+{"id":"LocalText/drama_option228401","revision":"408a9e77bd5d352a1b0accb303faf08dbbb16f4cc23fdc341cf94086cd1d0bfd","ptbr":"Salvar sua família"}
+{"id":"LocalText/drama_option228402","revision":"4c24aad035e715cc8abca5ac5d7522c7a6a1706515f085dc283e3729f462f3f9","ptbr":"Salvar seu amor"}
+{"id":"LocalText/drama_option228403","revision":"b7f48832b2da2901239b4b6e8012b51164d1ac7bf9171837bdfb26c72a1d9a78","ptbr":"Salvar ambos"}
+{"id":"LocalText/drama_option228404","revision":"792fc82b59c9bf39ac100fa67e547c16b967a65fd5d94a21442bb5f54734f24b","ptbr":"Abandonar ambos e não se arriscar"}
+{"id":"LocalText/drama_option228411","revision":"ccdc5a99f7fe68f6af8c4d8cfa2e2ece1490a9d4fd4b08cd6da88436e29cae2b","ptbr":"Continuar cultivando"}
+{"id":"LocalText/drama_option228412","revision":"8d834487d81f0f5dc5f7650474da80ebde61e087f706b254441870363a27722f","ptbr":"Desistir do cultivo"}
+{"id":"LocalText/drama_option228421","revision":"ac01547b0d657ccc00352daf7800cadd932e2eabfc4a7fef8b60f85e697870c9","ptbr":"Primeiro a galinha"}
+{"id":"LocalText/drama_option228422","revision":"e3b2c91694995576c0e73be7c232e0b253be3e9d46cd03e6e41c862b0fd92349","ptbr":"Primeiro o ovo"}
+{"id":"LocalText/drama_option228423","revision":"268e433455d0908c6e7b95f4ed297a5e4f15f0c8de0b7cf806afd803bd4ddf4e","ptbr":"Como é que é?"}
+{"id":"LocalText/drama_option228431","revision":"da3c4e009481e81d2a786a3670fb12a116a8c4a7c5f48c15f1199653e752a144","ptbr":"Ajudar a pessoa"}
+{"id":"LocalText/drama_option228432","revision":"363c788f20871ee1279decd088790d5831e8bbbee3956b48089bbd2bfd422bba","ptbr":"Observar primeiro para ver se realmente precisa de ajuda"}
+{"id":"LocalText/drama_option228433","revision":"68650b276e7fc3f25af014c2405499b743b5887c8b62f657405e31b6186176c7","ptbr":"Ignorar"}
+{"id":"LocalText/drama_option228441","revision":"2c2c01f0a4ec38d59cb2ff968f1f97f58fb10eea1fe81fc839da7d9d1f533dcb","ptbr":"Força individual"}
+{"id":"LocalText/drama_option228442","revision":"dffbbc07953b07f8bfdcc2113b94ecaceffa5c4d53666c32bdc8d52759fc8a2c","ptbr":"Fazer amizades"}
+{"id":"LocalText/drama_option228451","revision":"278da77729b80d9fce211ac700cffa31c6525ae72ad90b9aaceb382cb448d49d","ptbr":"Decidido no nascimento"}
+{"id":"LocalText/drama_option228452","revision":"1f9e48e917f26355c27f8dd7623780638d82094012f43eb56c5cf61c6668bcdc","ptbr":"A perseverança prevalecerá"}
+{"id":"LocalText/drama_option228461","revision":"cfd1c49d30763bf3ff49058c70f14492ad1a1a47766ce1d3758902f820a3bd92","ptbr":"Enterrar o cadáver"}
+{"id":"LocalText/drama_option228462","revision":"ee270b4278f32bfc39e0f05fa78999f4a10477d2fadcf20c2f33bee13f998bee","ptbr":"Ignorar o cadáver"}
+{"id":"LocalText/drama_option228463","revision":"5b3f21711bf1025603090651ada9637c9720a16095972003fb63eb384d033a14","ptbr":"Enterrar o cadáver e levar o que houver de valor"}
+{"id":"LocalText/drama_option228471","revision":"b99d2754ce6e1c9d37d84ef124cf9a3d37ebde93bde15ecdfd4ee73ee13151c2","ptbr":"Concordar em ajudar"}
+{"id":"LocalText/drama_option228472","revision":"4af611c1ed35110bc9a2024a55549482253f008dc8da7f2b6f1eddb26a0bef0e","ptbr":"Tomar a caixa para si"}
+{"id":"LocalText/drama_option228473","revision":"9f1cb63487c4a5ba18c84e93d3e73a550bbb04ebe457db784f61614c2dcb2917","ptbr":"Ignorar"}
+{"id":"LocalText/drama_option228481","revision":"7d079655c5270ac14499fe241a4a87471b68781b4bf49f4d1fe61ced720b50db","ptbr":"O que são algumas mortes de civis diante de um rompimento?"}
+{"id":"LocalText/drama_option228482","revision":"38ab02809ec261c67a8591db9b02a29093685883be5f14442f39d8b10a2f2669","ptbr":"Dissipar a provação à força liberando o Qi que você cultivou"}
+{"id":"LocalText/drama_option228483","revision":"7d59004ba9a53f5a027f58fbae14ddf76bc5b3e35f8f1f2b796dd2e879ee561a","ptbr":"Tentar salvar quantas pessoas puder durante a provação"}
+{"id":"LocalText/drama_option231011","revision":"8c32f9ed811835ec238adc95518845365be7eff7f351f6b3dde86b183df62199","ptbr":"Aceitar a punição (Perder {0}% das suas Pedras Espirituais e refletir por {1} meses)"}
+{"id":"LocalText/drama_option231012","revision":"757023cd4cdfa1cb2420efc9306a2768647a3c6287d9dc6af601dcde28aa71d8","ptbr":"Deixar a seita (Tornar-se traidor; o ódio da seita por você aumentará e ela enviará pessoas atrás de você)"}
+{"id":"LocalText/drama_option231031","revision":"b3c8df7ea66f7c1b1377f17838851ccd0041d594cf1cc7cb63e7446f1530e6a5","ptbr":"Deixe-me pensar a respeito"}
+{"id":"LocalText/drama_option231032","revision":"33aea459f2d6004ff3c0312ca2322f965b3e618a648662258f7a67ab0e8967c7","ptbr":"Minha decisão está tomada"}
+{"id":"LocalText/drama_option232071","revision":"9fcc5dd3852a54397333bb3227ba7710cd3b94e461f861c5b089575477f75789","ptbr":"Ajudar"}
+{"id":"LocalText/drama_option232072","revision":"58793684ea40c3db1b259270ae0e3a0821b007763df6fa4f207d058f20991a35","ptbr":"Matar"}
+{"id":"LocalText/drama_option232073","revision":"066ce5c65834f5874e772629e35259dcc8de8b6bd08c5250eab6a96be6e79a09","ptbr":"Observar"}
+{"id":"LocalText/drama_option232074","revision":"242ccecdc1ad4b34586367a41b72794ed8f6f75436d79082cc5bd65ac7ef133e","ptbr":"Deixe-me pensar"}
+{"id":"LocalText/drama_option234011","revision":"0f65e1890c5135b6dcbac72a500b2e038c0edf588c4f29e35764a243182503a2","ptbr":"Lutar"}
+{"id":"LocalText/drama_option234012","revision":"c534b601b640b6a293e048e0b000a9d2bf39258073d7323805cb02f8bd0172db","ptbr":"Partir"}
+{"id":"LocalText/drama_option236011","revision":"d85dae0b4f20896dd654ceaffdb2f6e4c07ecbbc5b92b8f7413f3d83205c3a97","ptbr":"Partir"}
+{"id":"LocalText/drama_option237031","revision":"83162775f04205f86e833052720765d95cbd96e96f6a5847ae116b4b9c9c535b","ptbr":"Onde são leiloados os itens de outros reinos?"}
+{"id":"LocalText/drama_option237032","revision":"fd22e42e51a1ce5c37a9977ae11b2ab5f16ab6620f5a028b9ffa98b3e61682ba","ptbr":"Nada mais"}
+{"id":"LocalText/drama_option239061","revision":"64b3471bbb7998441baaec97370ebea7d6be4b66197b911381d9a4d0206cd563","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option239091","revision":"ac89e4a3defca53ad7269b477e41bbf28dc56569534eeef7ae5eaf5853315c5d","ptbr":"Lutar até a morte"}
+{"id":"LocalText/drama_option239092","revision":"1361b0a8d526c50afc3f12be3ea105f59b47dd02207dd71cfd549f1e52877949","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option239093","revision":"00972505c0b7f1e0d4a6a874af72d7cecbbd24cd2ff04664216d29bc15bed918","ptbr":"Fugir"}
+{"id":"LocalText/drama_option239101","revision":"1de3ccb4368ddd50f4327fb6b274cb28d6dfa3cca34866630febe5ef47abdfb3","ptbr":"Lutar"}
+{"id":"LocalText/drama_option239121","revision":"fd7cda79682424d83f010d3e6ac73dcb01513ce2c8fe3a388495d2e75f9c4033","ptbr":"Aceitar"}
+{"id":"LocalText/drama_option239122","revision":"dce699702252f365c712fc7c931915ed4320cd4f351e38042f40f19e9303c6ef","ptbr":"Atacar"}
+{"id":"LocalText/drama_option239123","revision":"9a15bf146b1e4283f1dd86f0fa9f03f726068ada8705ce3f2ab44ee397d9bd0c","ptbr":"Ver se há algo que valha a pena"}
+{"id":"LocalText/drama_option239141","revision":"ca386b8734a8a519f6efa477a33708218fadff7330df07cdcdadd61e06d630f4","ptbr":"Lutar"}
+{"id":"LocalText/drama_option239151","revision":"a46cf5010515537dfccfea1937d988feaca8c046ff2cb1990c21cad30bdc0774","ptbr":"Lutar"}
+{"id":"LocalText/drama_option240081","revision":"488a79976531e4e48a672e49c2ab87efd4cea7cef221556bab072db5178637b1","ptbr":"Lutar até a morte"}
+{"id":"LocalText/drama_option240082","revision":"2e53540c12757938f8ff63aa37511c6e42ccfc30582e296031b192a25572e24a","ptbr":"Entregar item"}
+{"id":"LocalText/drama_option240083","revision":"381dc1bacb57d0d13f950c235f1998113273aa92dee1195fb022021436f5f8dc","ptbr":"Fugir"}
+{"id":"LocalText/drama_option240091","revision":"8e36230721d5bad143817ecc65bb15f556895ebc23a33570e94bc12b5bc97a1f","ptbr":"Lutar"}
+{"id":"LocalText/drama_option240111","revision":"86879418ceaf93f809b5e409c3ab9dd35a01848eb5b0e08a6f73294452963482","ptbr":"Aceitar"}
+{"id":"LocalText/drama_option240112","revision":"d47cafceff3f7694d038aa8445c521d39d23318d7f722bf74d351a278469ce05","ptbr":"Atacar"}
+{"id":"LocalText/drama_option240113","revision":"6517090add20d1aebfa566538c80e9ac5c228d42ab4c89d1780a4e80e555cd7e","ptbr":"Ver se há algo que valha a pena"}
+{"id":"LocalText/drama_option240131","revision":"53f3e6ae8ce5fa43d4c33f663d99121f853eb690c0a61514ee5c079ef8372971","ptbr":"Lutar"}
+{"id":"LocalText/drama_option242311","revision":"a769cadab973546d1e10ae2b4fcebb81a10d45294cf153eb37fe1c4ef611ac47","ptbr":"Ouvir"}
+{"id":"LocalText/drama_option242312","revision":"6890c7d1ac0a2c01772b278797e6707d750a90d112da79f0725364f98f35588d","ptbr":"Recusar"}
+{"id":"LocalText/drama_option244451","revision":"b6e014f620d485e4910c3f2532bffed4fcae29c934c4cfb6472c0c578a8f61e0","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option302041","revision":"d380c14435b9c6914abb88a757296bab491dd3ba58a49444bdc4263be7069c1f","ptbr":"Aceitar"}
+{"id":"LocalText/drama_option302042","revision":"643ced20bec19edb8b60c75d16c04b2fc32309c168eab4bdf6f8f1fb3772b63a","ptbr":"Recusar"}
+{"id":"LocalText/drama_option302061","revision":"531317699592d9a88868e1d655253a008b951a178f88c86b2b898c0358aa6079","ptbr":"Lutar"}
+{"id":"LocalText/drama_option302071","revision":"b2d81848c478e581b55d0c07e9b3b3ab9d51874aa3cddb11c04af2e03cf93694","ptbr":"Lutar"}
+{"id":"LocalText/drama_option302081","revision":"252e18c1ed1a47fedce2fc9ec2eb6dc7a4a675c8d45aa0b97da2e5647b1650cd","ptbr":"Ir conversar"}
+{"id":"LocalText/drama_option302082","revision":"b04bf0f3abfa0bdbb5673d135231d7fbcc01e5b89de00dda0a09de848d96cad3","ptbr":"Esperar"}
+{"id":"LocalText/drama_option302091","revision":"26f0d15097c0f86196c20774f085baeb0a6521ecfb99877cfef0e280dc5105f3","ptbr":"Entregar itens"}
+{"id":"LocalText/drama_option302092","revision":"da32be20cb04bd7a250848962c3fe45975e55f435121797495288044276f8c52","ptbr":"Nada"}
+{"id":"LocalText/drama_option302111","revision":"24eefe52837ada80ee3f97dfc3e62e888f4fa47c75b23c49834b1298e9ae4734","ptbr":"Lutar"}
+{"id":"LocalText/drama_option302151","revision":"3008043bf37088a9493897243d1f0f6e1a9c956baea0923b425a4a49475c97e5","ptbr":"Aceitar"}
+{"id":"LocalText/drama_option302152","revision":"6aee8f957c1259f9d7a83f107ee22ef2b818637774978b56d26d01121d221ef6","ptbr":"Recusar"}
+{"id":"LocalText/drama_option302191","revision":"379b7a31e8e301a71e7bd3f319caca5d23681cd3b6edbc7b915712e0c93eacb3","ptbr":"Lutar"}
+{"id":"LocalText/drama_option302210","revision":"e348257238749ea5f9aadfaeea66862452e4307f6a5a261f7efac388e2652571","ptbr":"Ir ver"}
+{"id":"LocalText/drama_option302211","revision":"69113a5d7e20cda82e678a800b5e36a50d0128ceb01668c0b47b93c20f34a13a","ptbr":"Ir ver"}
+{"id":"LocalText/drama_option302212","revision":"295115c9cade49ee88ca78ca35eac330ed193f9b31900cf65f5320845eeb41fc","ptbr":"Ir ver"}
+{"id":"LocalText/drama_option302213","revision":"fc9f614a06e90dfc9d765638560ec6150d0ee8a69dca045acc14a5069e479d6b","ptbr":"Ir ver"}
+{"id":"LocalText/drama_option302214","revision":"739ff1d4335d3bf07a6c7d98ec1bc8849de1802476bed9d52885bb6a686de193","ptbr":"Ir ver"}
+{"id":"LocalText/drama_option302215","revision":"c6f19e2adce20736c4b58758d76027921d1aaef5ca4cd7db69c8dd65c99dae58","ptbr":"Ir ver"}
+{"id":"LocalText/drama_option302216","revision":"63b4aa6400640f0b5fb24a4bd6e43abf79bac6e89a7d1e43e96c6f761b0795bd","ptbr":"Ir ver"}
+{"id":"LocalText/drama_option302217","revision":"875c067ce3ce4758302ea3b1b7cb5d7d57cc83f348d2117bc597260205636cb7","ptbr":"Ir ver"}
+{"id":"LocalText/drama_option302218","revision":"3f7731fd81193c0fe2e5599c32baa5adc3730c96601592e72040b518c92a8e93","ptbr":"Ir ver"}
+{"id":"LocalText/drama_option302219","revision":"6b69b863863c66a95a745597a166d01791dfcb9b9858c61208ae820ee8a760b7","ptbr":"Ir ver"}
+{"id":"LocalText/drama_option302220","revision":"12eff0db24a8e8d94a8e01f7ed2784bf3a6d980ec5e2612522c975b8003fdee4","ptbr":"Partir"}
+{"id":"LocalText/drama_option302511","revision":"6159df268925f670e1bffe9a2550d75690047436c691e9f3fa785a6c66d3fd71","ptbr":"Ir ver"}
+{"id":"LocalText/drama_option302512","revision":"bfb1fab9548a9487205d4d2a27ca3c749c8128be31c48e144dd2ff2d20b31864","ptbr":"Partir"}
+{"id":"LocalText/drama_option302641","revision":"cdab4ad6c5bf7ac01aa6d57ee869d730123d4a38c86be2f970d6a9f6b33c6e83","ptbr":"Está bem, eu ajudo você"}
+{"id":"LocalText/drama_option3026410","revision":"f6528dc80dbb2aa0a8e95179c1fe98e8caef1ead5cafaacd2149b4670da004f0","ptbr":"Está bem, eu ajudo você"}
+{"id":"LocalText/drama_option3026411","revision":"0056f4b68af4906ef45331c397855e2f8f07dab4d6d8216c47456b4b3807bd9d","ptbr":"O que é esse seu mascote espiritual?"}
+{"id":"LocalText/drama_option3026412","revision":"33726a40110ff584fd5a276ce1fcff1563958de3448eeb59ccd325ba8567294a","ptbr":"Tenho outros assuntos"}
+{"id":"LocalText/drama_option302642","revision":"3f418cabbb80ca3fecbdeecd7475e11f2a9bab6ccc2ff4755f6f555482f5d685","ptbr":"Está bem, eu ajudo você"}
+{"id":"LocalText/drama_option302643","revision":"a09e6421e80476449a803348ed682f01aa8481067874f58e25ebdc341f2e4a91","ptbr":"Está bem, eu ajudo você"}
+{"id":"LocalText/drama_option302644","revision":"f17bf10c36ae8f5fc8f725e2d8faa3c97cd080e6f2193c739ab014c99d3985c1","ptbr":"Está bem, eu ajudo você"}
+{"id":"LocalText/drama_option302645","revision":"b81286a4fc528c4d613bf0df1b74da774fccdc5d2be442e27e3c74ad25d17fa5","ptbr":"Está bem, eu ajudo você"}
+{"id":"LocalText/drama_option302646","revision":"b293d8a326e104e2001b95ecc71ff2c5761227b98cf7c2983595608e6f82cb9d","ptbr":"Está bem, eu ajudo você"}
+{"id":"LocalText/drama_option302647","revision":"c9ccb38952619c952dd3b90eb476496f8e28f324fdf25dacf39930241039f7b4","ptbr":"Está bem, eu ajudo você"}
+{"id":"LocalText/drama_option302648","revision":"8ab0bbad5507a61a11ba8223345e14b7216fa26bef46b2a88927d9d521ed62a7","ptbr":"Está bem, eu ajudo você"}
+{"id":"LocalText/drama_option302649","revision":"dce1f20285e3615044f0bdf2169ca5f8c2ae1ea64a27463e524698800a2ab994","ptbr":"Está bem, eu ajudo você"}
+{"id":"LocalText/drama_option302681","revision":"4ff0af8faccb2ee7f809d70406027a65d33cca9a2ecdab479a42c432482ed64f","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option302701","revision":"fce6b225c23f58e2fd6701f3d3579954b709aa87cd108e77cd9a7555dfcd975d","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option3027010","revision":"6489f59bc846091c504e32f2d1dde762d0f72e37ef628e690f5e9aeb8ee688c8","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option302702","revision":"52d8205cb9bacd336dcc201496f1520f8774e265f7c0be5212a9bc280462e693","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option302703","revision":"adca776699da17313a88f0b5ecca061429aa460ace03d3d9cd37aa4822f873d3","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option302704","revision":"673232a787214f01fd6338c43661e11d7a2bf4fe0d749a070f44bff597168993","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option302705","revision":"29fd0f73c9130e159482b54828a614c31ba1bd97d882b559bdd9560c5992fbb0","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option302706","revision":"21f88da1d82adc2cd619bc943f8e488df64dd9ff37c49ab9d4080e61b60f6a7f","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option302707","revision":"b0bb54f206b25f29eda8b98cfb0607c6ea6b1c9d87bbeff22d4d60afe6dda5f7","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option302708","revision":"57aa9f148d0855fc5386b6277c2e50710c8725650372f3b5547aef937e108e1e","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option302709","revision":"ab6b8b304a41fc4bc6abaa3964f08b80bd69be1c97dcefdb71c26d073a352838","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option302721","revision":"e632dae5ab4e01d3681a800afc90a74f33ae004171b4a592cc02417dd8c77994","ptbr":"Atacar"}
+{"id":"LocalText/drama_option302722","revision":"8f3fe0520e249509fd523b24c3c9768ed2e3542c2222b5276e1a503c6cff1b57","ptbr":"Deixar para lá"}
+{"id":"LocalText/drama_option302731","revision":"658f4d522035f748d5651893a68b201de40c1bc0621e21901ad32fae16f653e1","ptbr":"Devolver {0}"}
+{"id":"LocalText/drama_option302732","revision":"6d7e2880848a3d228ab6cbefa4270a86541414a652669d94e3d28aa9662734d4","ptbr":"Esperar"}
+{"id":"LocalText/drama_option302831","revision":"9567ce3681f661d211a2b9a4d0faff6d0277a090ef8c2c48962c1cbfa2e18e4d","ptbr":"Eu compro"}
+{"id":"LocalText/drama_option302832","revision":"f28641ebb5cb38179e89a97482bd58d3c3151f10df4022b0ab60f0ebb551dd6d","ptbr":"Deixar para lá"}
+{"id":"LocalText/drama_option302841","revision":"2f0da9768f9ce35ea47ff44161cb854d50df6741e229ee51063863bd589a8eca","ptbr":"Confirmar"}
+{"id":"LocalText/drama_option303011","revision":"d571e38b412bdfd7eedf5725f3291a2b8f083fef431ed3b3cd29d185921976de","ptbr":"Entendido!"}
+{"id":"LocalText/drama_option304011","revision":"7cd549801bc8e0a5475ae1cb7880ce95685bf4f2aa0a1b43a8b6d32221cc3e0e","ptbr":"Entendido!"}
+{"id":"LocalText/drama_option304111","revision":"ac898d835470f20247efdef7aca2e2ffce4b64234724f16fffdad953e87f32b3","ptbr":"Aceitar o pedido e ajudar a pessoa"}
+{"id":"LocalText/drama_option304112","revision":"9abb6bb2f1c24f4f38ae536dab2189c06e0dda518c314246f1e3120fbbc578d3","ptbr":"Ignorar"}

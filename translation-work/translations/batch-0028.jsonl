@@ -1,0 +1,500 @@
+{"id":"LocalText/itemLevelDesc1","revision":"4b18197858e0a330ff189269e26952305890582204ee8e23c43e2b76d365af1f","ptbr":"G6"}
+{"id":"LocalText/itemLevelDesc2","revision":"de315e4b01099dcb491f2542bfc1ad8e5363a72641bc771bb89a92febd03a561","ptbr":"G5"}
+{"id":"LocalText/itemLevelDesc3","revision":"f05fe4342c84e98352a9846008776969b10b8ff613bdc8a71779838870c0f597","ptbr":"G4"}
+{"id":"LocalText/itemLevelDesc4","revision":"456d717120551aa69c7e4e12c16030f4e39ebedd233f6074228422c9fb9ab02d","ptbr":"G3"}
+{"id":"LocalText/itemLevelDesc5","revision":"7e112d3d45ed19964a3643de4d9a35eb9d16db4276e756eb8bcbbef5e951a540","ptbr":"G2"}
+{"id":"LocalText/itemLevelDesc6","revision":"89075887ebfc3b34126906cf3fb494b886fd107fd0d32dc9b90bad37185192ab","ptbr":"G1"}
+{"id":"LocalText/item_desc230021","revision":"5fd124f151d712389ea9844a1a172691cf8dbbad8a73259cdc959d41de8770cb","ptbr":"Material de alquimia fornecido pela sua seita. Você precisa usá-lo para preparar um Elixir e entregá-lo."}
+{"id":"LocalText/item_name230021","revision":"cf294344445d58b8ccb5ae7b8bb8c528b4c9c5550115e01a124bc1fa66b8155b","ptbr":"Mistura de Ervas (G6)"}
+{"id":"LocalText/item_name230022","revision":"c06860529ff807fd8bed74cef0f51b59a650d77c0044f57baa6d9d6320ae2d6f","ptbr":"Mistura de Ervas (G5)"}
+{"id":"LocalText/item_name230023","revision":"e5ab5471845981142fa4c01ddef3909a867615edb8dc55e52ca453519a46b40d","ptbr":"Mistura de Ervas (G4)"}
+{"id":"LocalText/item_name230024","revision":"f85cf32ad930bc165ca4651e1bcb2162e6b59618439b332b9b8593ae5202f080","ptbr":"Mistura de Ervas (G3)"}
+{"id":"LocalText/item_name230025","revision":"27fb0eedaf5dfb8db60066a42ede8def2546ef01671b873a98e283f171ba8526","ptbr":"Mistura de Ervas (G2)"}
+{"id":"LocalText/item_name230026","revision":"096e04b5d497ea561b0e107251ac77ef094f0149f815d696e0ddbff6362f67d1","ptbr":"Mistura de Ervas (G1)"}
+{"id":"LocalText/schoolLogMain101","revision":"064c18322181c1096d3020ca74d5c93eae16a2a7770a34a46855b354acbb07f8","ptbr":"<color=#257400>Novos</color> Discípulos neste mês: <color=#745000>{0}</color>"}
+{"id":"LocalText/schoolLogMain102","revision":"a81bc874fb6daf3d586e0dbdf3b894fd3837e9c38723f619812a719b2f753a84","ptbr":"<color=#257400>Materiais de Alquimia</color> coletados neste mês: <color=#745000>{0}</color>"}
+{"id":"LocalText/schoolLogMain103","revision":"5978f0f66db87fae9700392f695447c6b2dfec7c90d7fdd5b2f47b182b164503","ptbr":"Elixires <color=#257400>preparados com sucesso</color> neste mês: <color=#745000>{0}</color>"}
+{"id":"LocalText/schoolLogMain104","revision":"9811f56c26b56567f46ffb02d3aca6c4b9d5217f9a1ffb98caeca9f6804a7d46","ptbr":"<color=#745000>{0}</color> <color=#6F0000>monstros</color> foram <color=#257400>eliminados</color> do território da seita neste mês."}
+{"id":"LocalText/schoolLogMain105","revision":"dce1189b068514c75a9901fda5ceec14f784374b33f7a2e2c92e1b6e435daf07","ptbr":"Missões de Guarnição de Território concluídas neste mês: <color=#745000>{0}</color>"}
+{"id":"LocalText/schoolLogMain106","revision":"50a1878394dd6256e0d8686407212237ce3e113ec80fb58b9768ecda2829e0ba","ptbr":"<color=#745000>{0}</color> <color=#6F0000>rebeliões</color> foram <color=#257400>pacificadas</color> no território da seita neste mês."}
+{"id":"LocalText/schoolLogMain107","revision":"547fef74fb77eaf7f97d2b487a89fb71404379cd4d421f1b17065af8dc0ab95f","ptbr":"<color=#745000>{0}</color> lotes de Elixires foram <color=#257400>entregues com sucesso</color> neste mês. Nossa seita obteve <color=#745000>{1}</color> <color=#257400>Pedras Espirituais</color>."}
+{"id":"LocalText/schoolLogMain108","revision":"3e5e5a3accba153afd2d121d647f003cfb7af929a83a9fbb1aad44c7d52a84f7","ptbr":"Nossa seita <color=#257400>expandiu</color> seu território em <color=#745000>{0}</color> espaços."}
+{"id":"LocalText/schoolLogMain109","revision":"80c726387faa0579d3451068e9b688db94fa5d5d9a8ad641773240e748b410ef","ptbr":"Os Discípulos da nossa seita <color=#257400>eliminaram</color> <color=#745000>{0}</color> <color=#6F0000>Discípulos de seitas inimigas</color> neste mês. <color=#257400>Prestígio da Seita</color> +<color=#745000>{1}</color>."}
+{"id":"LocalText/schoolLogMain110","revision":"2325590bb9ba6c181ddad60db464b6176d5b81f35227e7b6ffff83d274720532","ptbr":"<color=#257400>Materiais de Alquimia</color> colhidos no Jardim de Ervas neste mês: <color=#745000>{0}</color>"}
+{"id":"LocalText/schoolLogMain111","revision":"4f2ff1508499a5f12a3b475d1e535cfbf8aed1d225e7ae8f4ceff3a75ce79001","ptbr":"<color=#76EF77>Minérios</color> coletados neste mês: <color=#E5AF24>{0}</color>"}
+{"id":"LocalText/schoolLogMain112","revision":"798c10a7b24b1220e7d05911b56393c36c283bc7ac7830aa218da8daca04a2c5","ptbr":"<color=#E5AF24>{0}</color> <color=#6F0000>monstros</color> foram <color=#76EF77>subjugados</color> no território da seita neste mês."}
+{"id":"LocalText/schoolLogMain199","revision":"1bca589505db2bce96cb6b8088a098f5d065bcd5af095e2f36cd8f2410c1fa86","ptbr":"Missões publicadas neste mês: Recrutamento ({0}), Coleta de Ervas ({1}), Preparo de Elixires ({2}), Expurgo de Monstros ({3}), Guarnição de Território ({4}), Pacificação de Rebeliões ({5}), Entrega de Elixires ({6}), Expansão de Território ({7}), Eliminação de Inimigos ({8}), Cuidado do Jardim de Ervas ({9})"}
+{"id":"LocalText/schoolLogMain201","revision":"e578d8b8d6cc19de90535f5989bd204b71fe94c6f4e92a039706d98d075d2cb0","ptbr":"<color=#257400>{0}-{1}</color> sofreu uma derrota para <color=#6F0000>{2}-{3}</color>. O <color=#6F0000>Prestígio da Seita</color> diminuiu em <color=#745000>{4}</color>."}
+{"id":"LocalText/schoolLogMain202","revision":"852f1e396d4c875d8044651e94206099fcff006c9b832e040c5550b8e23e9b30","ptbr":"<color=#745000>{0}</color> membros <color=#6F0000>morreram</color> neste mês. <color=#745000>{1}</color> membros <color=#6F0000>deixaram a seita</color>."}
+{"id":"LocalText/schoolLogMain203","revision":"8e4eafbe23e7cb5add74062a6b58ddeb6bf1a07bfa21d452a115f75a6b4ebee7","ptbr":"<color=#257400>{0}</color> subiu para o nível <color=#745000>{1}</color>."}
+{"id":"LocalText/schoolLogMain204","revision":"bc2432f66b04265a5273e5c03f7786d109cb1e0fd12bd9f2b326d565ee12a674","ptbr":"O território da seita <color=#745000>{0}</color> foi ocupado por <color=#6F0000>{1}</color>."}
+{"id":"LocalText/schoolLogMain205","revision":"8cb5e7c936d201bb7297e8d89e069ff4de53fafc7c0bef18eb967d118772a909","ptbr":"Nossa seita sediou <color=#257400>{0}</color> na Cidade de Tianlong e atraiu muitos espectadores. O <color=#745000>Prestígio da Seita</color> aumentou em <color=#745000>{1}</color>."}
+{"id":"LocalText/schoolLogMain206","revision":"0eb1d7c36196dfedb96bc9ab4f1101c345adae8d9195f7eaf8c0963e8dbd62a9","ptbr":"Impostos arrecadados neste mês: <color=#745000>{0}</color> <color=#257400>Pedras Espirituais</color>. Tamanho total do <color=#257400>território</color>: <color=#745000>{1}</color>. <color=#6F0000>Estabilidade</color> do território -<color=#745000>{2}</color>."}
+{"id":"LocalText/schoolLogMain207","revision":"f5784fe0dc7182a44ea65c756c1d7174a5a1e72ae9a6077320df9a3eb162b736","ptbr":"Salários pagos neste mês: <color=#745000>{0}</color> <color=#257400>Pedras Espirituais</color>. Total de membros da seita: <color=#745000>{1}</color>"}
+{"id":"LocalText/schoolLogMain301","revision":"2c604de5789e0daac73c03e909c62b25db7ebb2dc17f224488d8ae0a59410faa","ptbr":"<color=#745000>{0}</color> Discípulos Externos aceitaram a Missão de Recrutamento de Nv. <color=#745000>{1}</color> e recrutaram <color=#745000>{2}</color> membros para a seita."}
+{"id":"LocalText/schoolLogMain302","revision":"50ec592cc61b9d35153317952db0e08e0ad77d3c7b6256a4e1d8d0a8be198ce1","ptbr":"<color=#745000>{0}</color> Discípulos Externos aceitaram a Missão de Coleta de Ervas de Nv. <color=#745000>{1}</color> e coletaram um total de <color=#745000>{2}</color> Ervas. <color=#745000>{3}</color> Discípulos Externos morreram durante a missão."}
+{"id":"LocalText/schoolLogMain303","revision":"f57b479e79e8bb47e0ee50e7c90a339c9b29fab44cc1817dcab03384e79dca8b","ptbr":"<color=#745000>{0}</color> Discípulos Externos aceitaram a Missão de Preparo de Elixires de Nv. <color=#745000>{1}</color> e prepararam <color=#745000>{2}</color> Elixires."}
+{"id":"LocalText/schoolLogMain304","revision":"6f5c5e2149700765499ed456a092ea5cac348df84b23b51afb8761729dfe75b4","ptbr":"<color=#745000>{0}</color> Discípulos Externos aceitaram a Missão de Expurgo de Monstros de Nv. <color=#745000>{1}</color> e eliminaram um total de <color=#745000>{2}</color> monstros. <color=#745000>{3}</color> Discípulos Externos morreram durante a missão."}
+{"id":"LocalText/schoolLogMain305","revision":"88c8c2d66768b3c17080a66b61b24ade8391e3152014edf75d7a1fe3c9b20836","ptbr":"<color=#745000>{0}</color> Discípulos Externos aceitaram a Missão de Guarnição de Território de Nv. <color=#745000>{1}</color> e aumentaram a Estabilidade em <color=#745000>{2}</color>. <color=#745000>{3}</color> Discípulos Externos morreram durante a missão."}
+{"id":"LocalText/schoolLogMain306","revision":"de37d655bfc19013af88f14dc3b7a17af2672f75dc25a21c3227cfe810c02b2d","ptbr":"<color=#745000>{0}</color> Discípulos Externos aceitaram a Missão de Pacificação de Rebeliões de Nv. <color=#745000>{1}</color> e pacificaram um total de <color=#745000>{2}</color> rebeliões. <color=#745000>{3}</color> Discípulos Externos morreram durante a missão."}
+{"id":"LocalText/schoolLogMain307","revision":"a1bfac05c3402c9e3040ee83bcae6072dd812d959ac6b0a69799e7e9f32ea027","ptbr":"<color=#745000>{0}</color> Discípulos Externos aceitaram a Missão de Entrega de Elixires de Nv. <color=#745000>{1}</color>. Eles entregaram <color=#745000>{2}</color> lotes de Elixires e renderam <color=#745000>{3}</color> Pedras Espirituais para nossa seita. <color=#745000>{4}</color> Discípulos Externos morreram durante a missão."}
+{"id":"LocalText/schoolLogMain308","revision":"4bf9bad7f7c2ea979faec20a67d6f8caab87e753bdd5b4669f8363b7bfde967c","ptbr":"<color=#745000>{0}</color> Discípulos Externos aceitaram a Missão de Expansão de Território de Nv. <color=#745000>{1}</color> e expandiram o território da seita em <color=#745000>{2}</color> espaços. <color=#745000>{3}</color> Discípulos Externos morreram durante a missão."}
+{"id":"LocalText/schoolLogMain309","revision":"5f2186fce7ae3c3d47affc321923071bc26f63a54883c8d2a013d275c551082b","ptbr":"<color=#745000>{0}</color> Discípulos Externos aceitaram a Missão de Eliminação de Inimigos de Nv. <color=#745000>{1}</color> e eliminaram <color=#745000>{2}</color> membros de seitas inimigas. <color=#745000>{3}</color> Discípulos Externos morreram durante a missão."}
+{"id":"LocalText/schoolLogMain310","revision":"5e9bf97d14ea0eef9d6c0d81e66616734f2cc1b34f78627f236d2a7068a1fcd2","ptbr":"<color=#745000>{0}</color> Discípulos Externos aceitaram a Missão de Cuidado do Jardim de Ervas de Nv. <color=#745000>{1}</color>. Um total de <color=#745000>{2}</color> Ervas foi produzido."}
+{"id":"LocalText/schoolLogSub102","revision":"8379fa6a370a849c1a85b1736b5ce6abd6c880838d8839fe4895f230f12f9fcc","ptbr":"<color=#745000>{1}</color> Discípulos Externos <color=#6F0000>morreram</color> em acidentes durante Missões da Seita."}
+{"id":"LocalText/schoolLogSub104","revision":"e3fd8172609304302e3b2df22bbd9837d845d41106c8cf9aa2492f7ee65b6bf0","ptbr":"<color=#745000>{1}</color> Discípulos Externos foram <color=#6F0000>mortos</color> por monstros durante Missões da Seita."}
+{"id":"LocalText/schoolLogSub105","revision":"590fe3a5ec81058bdaf35c685b1dcc113bd22db0caed905e23be006a3634a187","ptbr":"<color=#745000>{1}</color> Discípulos Externos <color=#6F0000>morreram</color> em acidentes durante Missões da Seita."}
+{"id":"LocalText/schoolLogSub106","revision":"ccd734611f460e3440d35416a26a2224813fcd1987865a1076dd01b94319db59","ptbr":"<color=#745000>{1}</color> Discípulos Externos foram <color=#6F0000>mortos</color> por rebeldes durante Missões da Seita."}
+{"id":"LocalText/schoolLogSub107","revision":"be3af9bdfb5db616ed20b1501e127169e3f9da2c241ff6ced37e5b754eb20fe3","ptbr":"<color=#745000>{2}</color> Discípulos Externos foram <color=#6F0000>mortos</color> por bandidos durante a entrega de itens."}
+{"id":"LocalText/schoolLogSub108","revision":"b40b8a043d00fdb5b7790eec91424e9c685636f23ce1694bb18610756834a9ed","ptbr":"<color=#745000>{1}</color> Discípulos Externos foram <color=#6F0000>mortos</color> por monstros enquanto guarneciam o território da seita."}
+{"id":"LocalText/schoolLogSub109","revision":"ed9fefa70668b7b55eb3099baea7e9295b0f1065aa289997625cf3423f2223e0","ptbr":"<color=#745000>{2}</color> Discípulos Externos foram <color=#6F0000>mortos</color> por inimigos durante Missões da Seita."}
+{"id":"LocalText/schoolLogSub111","revision":"a0a64e78af71503e19d90b1c7485b1a2ec932c09e351e363ac9ea08906f0b9dd","ptbr":"<color=#E5AF24>{1}</color> Discípulos Externos <color=#6F0000>morreram</color> em acidentes durante Missões da Seita."}
+{"id":"LocalText/schoolLogSub112","revision":"cbf8b3a6c93b508478d7b0be1e09207f57910d68eeb7e3c015a7bd7249a7c330","ptbr":"<color=#E5AF24>{1}</color> Discípulos Externos foram <color=#6F0000>mortos</color> por monstros durante Missões da Seita."}
+{"id":"LocalText/taskDesc101001","revision":"756732acf5b620c03262737df4e402b183d754e9a856b840d40f0bf102314640","ptbr":"Colete {item} x{number}"}
+{"id":"LocalText/taskDesc101002","revision":"21c9acde5cd894bc72e16bae3226f9362bb46b972b332934acbd68fd5687c3aa","ptbr":"Colete {item} x{number}"}
+{"id":"LocalText/taskDesc101011","revision":"3e72110da5259453c8db7c323bf96acf580b3a4ae8315a7d808febb8e31c8410","ptbr":"Colete {item} x{number}"}
+{"id":"LocalText/taskDesc101012","revision":"155ffa70e1f51b799ba57a6b135fd2042ca1086579ba6eaf188277e54688cd9c","ptbr":"Colete {item} x{number}"}
+{"id":"LocalText/taskDesc101013","revision":"55f15d71d64b6f7ced17369c5daab74245ed5801b4f85f90938153499d07a26d","ptbr":"Colete {item} x{number}"}
+{"id":"LocalText/taskDesc101014","revision":"4d02c7665be2c6f81cdc834adc20f837061968bec2b624d6dd5405f0a120322f","ptbr":"Colete {item} x{number}"}
+{"id":"LocalText/taskDesc101015","revision":"a778681e7417076ccb08a5276ba4348fdd2caa98ffa8d4bf54ccca6a5fc52d03","ptbr":"Colete {item} x{number}"}
+{"id":"LocalText/taskDesc101016","revision":"d3891f9e8ca075aecdef6e19217df233e451c1ed36807629aebd39e6e206014d","ptbr":"Colete {item} x{number}"}
+{"id":"LocalText/taskDesc101021","revision":"7ae2978acdb773e0b1a309203f5e1b970037f8588b66eedb58110d8d97e01cff","ptbr":"Colete {item} x{number}"}
+{"id":"LocalText/taskDesc101022","revision":"02232257c0318557fd7c37778b6510ed22b2ec3fb59c51d61c66c2ad211991d7","ptbr":"Colete {item} x{number}"}
+{"id":"LocalText/taskDesc101023","revision":"65e51d5b101c11ca633b7cbec4778cd8d3af34ee5e4a5b2e4c7bcaa3367e4455","ptbr":"Colete {item} x{number}"}
+{"id":"LocalText/taskDesc101031","revision":"9c5b44ab9c30c791c3d220d534354089add14d50601cd34a9ff0d9b3b5313fab","ptbr":"Colete {item} x{number}"}
+{"id":"LocalText/taskDesc101032","revision":"164d0df315bc6cc81f15015cf83f4202fb50e968b199988083469ed1dcc574f8","ptbr":"Colete {item} x{number}"}
+{"id":"LocalText/taskDesc101033","revision":"85a0559879566eab766f8534fe1f89617f535a53c49299077805770f50074e9e","ptbr":"Colete {item} x{number}"}
+{"id":"LocalText/taskDesc101034","revision":"8511e40c80146190018073c6d1b3d2097260b139eea0d3232c4eefb2cfdf0d46","ptbr":"Colete {item} x{number}"}
+{"id":"LocalText/taskDesc101041","revision":"bdae19dfc63ed7aefab80b77d59a8e56501fb7c3e4b6ac31333f1adf6eb5f43f","ptbr":"Colete {item} x{number}"}
+{"id":"LocalText/taskDesc101042","revision":"4998039aeb3414ce168bf7883a068152b71607a645a87a4b0fc61614d91d8220","ptbr":"Colete {item} x{number}"}
+{"id":"LocalText/taskDesc101043","revision":"a13d2b8ecdc2a1b04131ec4b70007f8d55eda32c8b2e03699ef8f1dfa755bd0b","ptbr":"Colete {item} x{number}"}
+{"id":"LocalText/taskDesc101044","revision":"b995a685d663748547d56987ce4d2bcb27d76dfd85614c53049f898aef83eb2d","ptbr":"Colete {item} x{number}"}
+{"id":"LocalText/taskDesc101051","revision":"9e436feeddaa52e7a7026d9a4a20c05c02a66e6e05e23e2fe386c544cfcff732","ptbr":"Colete {item} x{number}"}
+{"id":"LocalText/taskDesc101052","revision":"c4c388530e5b2ca93c6a64cc079279de6410770824af5d592c40747fae42f784","ptbr":"Colete {item} x{number}"}
+{"id":"LocalText/taskDesc101053","revision":"8a7a9ff74d0b645e45f66807646b69e411d7eb6ec3eb9123c2b2e76540f4792d","ptbr":"Colete {item} x{number}"}
+{"id":"LocalText/taskDesc102001","revision":"1a72b96fbd991f6e70d188e496cb7c29846e989783762769558c16ef1718bcb2","ptbr":"Use o material ({costItem}) fornecido pela sua seita para refinar Elixires e entregue-os à sua seita. Se o refino falhar, esta missão falhará."}
+{"id":"LocalText/taskDesc103001","revision":"73278c658d9af9ec092cca31a22b3babd0ca85ad0cf92507bf7bce0625e106dd","ptbr":"Elimine monstros no território da seita."}
+{"id":"LocalText/taskDesc103002","revision":"428e09537480517292ca571faeac16bf2a5bf654f5c907123efd49da79dcf9d7","ptbr":"Pacifique uma rebelião em um quadrante dentro do território da seita."}
+{"id":"LocalText/taskDesc103101","revision":"566892c5f19996c13d5d797977f15f4ed2060e1a1a98509b2f5becbdb44918b0","ptbr":"Mate um monstro a até 8 quadrantes de {dungeonCenter}."}
+{"id":"LocalText/taskDesc103102","revision":"9fd8be1ae3239c1498cc869c2ce8a07b8097906524aff09b35e1de9c28f428e6","ptbr":"Mate um monstro a até 8 quadrantes de {dungeonCenter}."}
+{"id":"LocalText/taskDesc103103","revision":"fcb054aaf1c1963e59f20cd37413c498496bd330df3cf368f963b28b27eeefd8","ptbr":"Mate um monstro a até 8 quadrantes de {dungeonCenter}."}
+{"id":"LocalText/taskDesc103104","revision":"715c1ae32bf31d706e7689b8cc049c7d71cd87dc20b6f16cae7610a9f31ca0a5","ptbr":"Mate um monstro a até 8 quadrantes de {dungeonCenter}."}
+{"id":"LocalText/taskDesc103105","revision":"7c85cd5f0847a4638ef63a05d79889577d1f6c6c21fe03e9a24327ee1138276c","ptbr":"Mate um monstro a até 8 quadrantes de {dungeonCenter}."}
+{"id":"LocalText/taskDesc104001","revision":"f72ede9a4153468b1211ebf057ba1205da6df2516d425da36c26e73524ef5e23","ptbr":"Guarneça o território da seita e aumente a Estabilidade em {requireNumber}."}
+{"id":"LocalText/taskDesc105001","revision":"191dbb476f7bf2a9e655465a4f37453e7def9e19db3edd593c4864ac13e2507b","ptbr":"Entregue {item} em {destination}. O teletransporte ficará desativado durante esta missão."}
+{"id":"LocalText/taskDesc106001","revision":"d9f46a7c341cbf04efac337e59963aaffbeccbb6edc45c071c03f3087a848d87","ptbr":"Expanda o território da sua seita em 1 quadrante. O novo quadrante deve ser adjacente ao território atual da seita e estar dentro dos limites máximos de território. Os monstros nesse quadrante irão reagir. Prepare-se!"}
+{"id":"LocalText/taskDesc107001","revision":"e77980e27ddc21c5624a638708488c181f4301abbe0415b9e3a94d71362be959","ptbr":"Encontre um Cultivador de uma seita inimiga que esteja no mesmo Reino ou em um Reino superior ao seu. Derrote esse Cultivador para aumentar o Prestígio da sua seita."}
+{"id":"LocalText/taskDesc108001","revision":"6391f48f3337035fcae9e1ce5fc4bc49477f3fb5d0aa31e78fe7c5b62afa7cab","ptbr":"Uma Fera Mítica apareceu perto da sua seita. Mate a Fera Mítica para evitar que ela fira inocentes."}
+{"id":"LocalText/taskDesc108002","revision":"22ce876c0da7aa4dd67349dceefef7d54c51f95a81b5ba616955ba657050e6ab","ptbr":"Um monstro rebelde apareceu perto da sua seita. Mate-o para evitar que fira os membros da sua seita."}
+{"id":"LocalText/taskDesc108101","revision":"600af866f13021281ed0e94c358e3c37591a76f797fe2c27a3a850884636b417","ptbr":"Uma Fera Mítica apareceu perto de {dungeonPos}. Mate a Fera Mítica para evitar que ela fira inocentes."}
+{"id":"LocalText/taskDesc108102","revision":"b1873fb09b71db10d7b926c02aae8e52dc97279b99c6e6541428b59058250826","ptbr":"Uma Fera Mítica apareceu perto de {dungeonPos}. Mate a Fera Mítica para evitar que ela fira inocentes."}
+{"id":"LocalText/taskDesc108103","revision":"97fba1d34ff3a3d3abe503cbbace943c17faf6cfa44e3359a6bb71898d511480","ptbr":"Uma Fera Mítica apareceu perto de {dungeonPos}. Mate a Fera Mítica para evitar que ela fira inocentes."}
+{"id":"LocalText/taskDesc108104","revision":"8ee5485b4b56e1e5aa8f16e5cf9659157afc34b3c50bd32ca04c090a9253e4d3","ptbr":"Uma Fera Mítica apareceu perto de {dungeonPos}. Mate a Fera Mítica para evitar que ela fira inocentes."}
+{"id":"LocalText/taskDesc108105","revision":"5500276f436ba3de3b818f1bd0c50d0e8b3cdd50f65e03d0775811e6b3832379","ptbr":"Uma Fera Mítica apareceu perto de {dungeonPos}. Mate a Fera Mítica para evitar que ela fira inocentes."}
+{"id":"LocalText/taskDesc108106","revision":"3e28adeed6a37a86df4a79d46b5480e645a434e15a873c6c3ce384eb4a0f2e89","ptbr":"Uma Fera Mítica apareceu perto de {dungeonPos}. Mate a Fera Mítica para evitar que ela fira inocentes."}
+{"id":"LocalText/taskDesc108107","revision":"5e6a6621c71bf072956edcbc20066dc10db46214aa84623d0432706bf444fef4","ptbr":"Uma Fera Mítica apareceu perto de {dungeonPos}. Mate a Fera Mítica para evitar que ela fira inocentes."}
+{"id":"LocalText/taskDesc108108","revision":"f04b0250abf5e8bd459ddb320788902982b655a0c06078a1a854b6de658a3b51","ptbr":"Uma Fera Mítica apareceu perto de {dungeonPos}. Mate a Fera Mítica para evitar que ela fira inocentes."}
+{"id":"LocalText/taskDesc108109","revision":"44888df12cbf2d0c4a9926706e48992ee54c7b285832c11bd94cde9edfa82da8","ptbr":"Uma Fera Mítica apareceu perto de {dungeonPos}. Mate a Fera Mítica para evitar que ela fira inocentes."}
+{"id":"LocalText/taskDesc108110","revision":"2579df37051107af95faaa5a7e2ba430af0123bfdee5096d2575c31c9f50be8a","ptbr":"Uma Fera Mítica apareceu perto de {dungeonPos}. Mate a Fera Mítica para evitar que ela fira inocentes."}
+{"id":"LocalText/taskDesc108111","revision":"05c0f27650702f676d8da487dc3a058669a91d86890671c4205adb4cf96be7c8","ptbr":"Uma Fera Mítica apareceu perto de {dungeonPos}. Mate a Fera Mítica para evitar que ela fira inocentes."}
+{"id":"LocalText/taskDesc108112","revision":"6589382eb3760919f58eb7bd26dc2954dff580d986774bbd1d7d34e9d1e22226","ptbr":"Uma Fera Mítica apareceu perto de {dungeonPos}. Mate a Fera Mítica para evitar que ela fira inocentes."}
+{"id":"LocalText/taskDesc108113","revision":"293b5ff208987defa86bf6143def3f410e29f0eb238e7e44207521478cf2ca38","ptbr":"Uma Fera Mítica apareceu perto de {dungeonPos}. Mate a Fera Mítica para evitar que ela fira inocentes."}
+{"id":"LocalText/taskDesc108114","revision":"8e283d9a3fc8dc6778fe2301412762d86a34367e7dea3d92195c9a399bf032f6","ptbr":"Uma Fera Mítica apareceu perto de {dungeonPos}. Mate a Fera Mítica para evitar que ela fira inocentes."}
+{"id":"LocalText/taskDesc108115","revision":"c1c9361a767f739786fdc5e7ed81eff25e9e91545b0584373f385b57dc7a2801","ptbr":"Uma Fera Mítica apareceu perto de {dungeonPos}. Mate a Fera Mítica para evitar que ela fira inocentes."}
+{"id":"LocalText/taskDesc108201","revision":"83c6d7f3d4d196c6eb4f79824781d795e8fe637b3d36f2234083bc89148bfae7","ptbr":"Há um Cultivador em Desvio de Qi perto de {dungeonPos}. Mate esse Cultivador para proteger os outros."}
+{"id":"LocalText/taskDesc108202","revision":"dbb6a838b5bce9bb6bd2c82e4989d3b8609a7b666b2d15f4257590c38d8fb9da","ptbr":"Há um Cultivador em Desvio de Qi perto de {dungeonPos}. Mate esse Cultivador para proteger os outros."}
+{"id":"LocalText/taskDesc108203","revision":"b49fb28c1b84dfcb90a946c3f063aa770b159d5f8aa86aa8faeb815e5a4515d3","ptbr":"Há um Cultivador em Desvio de Qi perto de {dungeonPos}. Mate esse Cultivador para proteger os outros."}
+{"id":"LocalText/taskDesc108204","revision":"34ec1e3f5ac9e64941b815cbbb37a6aa16771a20747856facc2a96fc0453b6c8","ptbr":"Há um Cultivador em Desvio de Qi perto de {dungeonPos}. Mate esse Cultivador para proteger os outros."}
+{"id":"LocalText/taskDesc108205","revision":"7639796c075ad62144a9a843681028e9a1711b942323fac3552b30b0b20995eb","ptbr":"Há um Cultivador em Desvio de Qi perto de {dungeonPos}. Mate esse Cultivador para proteger os outros."}
+{"id":"LocalText/taskDesc1101003","revision":"d41eb408a6d95215be258c5bd7f24c76808566fa1848967f57b6e9612f6926b3","ptbr":"Encontre {item}, depois vá às Montanhas Taihang para entregar a Jagu."}
+{"id":"LocalText/taskDesc1108116","revision":"7abbc4395f86d1fce8c55086a194a91ce254c8953b2bfa5667a98bdf6eb2b9e3","ptbr":"Vá até {dungeonID}. Mate {dungeonBoss} para obter seu Orbe da Alma."}
+{"id":"LocalText/taskDesc1109001","revision":"783df43fa619ef9d671cba09eb9acdfbec9a891be922654a774d3ecf171977c1","ptbr":"Vá ao Forte Qingtian e encontre a Dama Cai."}
+{"id":"LocalText/taskDesc1110001","revision":"0a77f6ff2278d4ad8da080ba7e2bf48ba7308fea9ff6ba5cd766b47df02cc959","ptbr":"Vá à Taverna em {destination} e busque informações."}
+{"id":"LocalText/taskDesc1110002","revision":"0289b94ec7233f6d4e17e24a8a2ec5563cc00c3c61056c6379e9dc2c3d82897c","ptbr":"Vá até {destination}. Encontre uma maneira de viajar para o mundo exterior."}
+{"id":"LocalText/taskDesc1110003","revision":"88d857d183c970fbe6217de254f465df848d90502c6977fb60ff58824873584e","ptbr":"Pergunte aos aldeões sobre a situação na Vila Yukong."}
+{"id":"LocalText/taskDesc1110004","revision":"eb5ac0384ee6f9e506356f80a09f6608140b587db70df8f92991f15ed9ef5ce7","ptbr":"Vá às Montanhas Taihang e investigue o monstro mencionado pelos aldeões."}
+{"id":"LocalText/taskDesc1110005","revision":"08dcbaf2249ed593c3db48080533247f9443c130d163c93350122f6765f55c26","ptbr":"Volte às Montanhas Taihang e desafie Jagu."}
+{"id":"LocalText/taskDesc1110006","revision":"b631bd5fbf25cb2ab38c99489b93585a15c3df2921b5758446c519d3863b5bb9","ptbr":"0"}
+{"id":"LocalText/taskDesc1110007","revision":"9c17860613c54040a057f7f59e047adaeaa96638c9c308808d04828e276982d5","ptbr":"Obtenha o Orbe da Alma de Sempre-Verde, depois vá às Montanhas Taihang e entregue-o a Jagu."}
+{"id":"LocalText/taskDesc1110008","revision":"aaa9a9de1b27845f19fbdcf321094f3fb96c7b9ff0a4c69e9a74dc0b6b9f9c17","ptbr":"Pergunte ao dono da Taverna sobre a Montanha Tian Yuan."}
+{"id":"LocalText/taskDesc1110009","revision":"c28631ebda0b1196fbfb1746f0e4cd4ffe42547f002ae040e8c0ad8fc91c07b6","ptbr":"Vá até {destination} e encontre a mãe do Subchefe dos Bandidos."}
+{"id":"LocalText/taskDesc111001","revision":"c89814ea1770a0ab449bb1465dc9b55e0f86740accbc06f30be7913e02c548ed","ptbr":"Vá ao local marcado no mapa e use a Geomancia para localizar o esconderijo do Cultivador com Desvio de Qi. Elimine o Cultivador com Desvio de Qi."}
+{"id":"LocalText/taskDesc1110010","revision":"209fb7683cb930e17d2cb7f9c357775fdd4587be690c562893660973af93e1fd","ptbr":"Vá até {destination} e encontre a Dama Cai."}
+{"id":"LocalText/taskDesc1110011","revision":"a66c84454c655c09c84bb8368de469e9b5d9ab90bfb7ec3f09a4202f2e6cc9d1","ptbr":"Reporte-se ao Velho Misterioso em {destination}."}
+{"id":"LocalText/taskDesc1110012","revision":"fa23ee4545aa7d54ad69143f180de1cfcd18644735838af11e18340cbd842743","ptbr":"Vá até {destination} e encontre os Corvos de Três Patas."}
+{"id":"LocalText/taskDesc1110013","revision":"881a4b8ef7280ec1c747ca9ee0a9da50022ba2d98c66002b75212d4bfcb03185","ptbr":"Vá até {destination} e fale com Hou Yi."}
+{"id":"LocalText/taskDesc1110014","revision":"a737cbf90210bb60e3d86734ea6e1e227e99bf73aa784843567eef009a2f04bd","ptbr":"Vá até {destination} e encontre a lendária Amoreira Divina. Os Cem Mil Montes são um lugar perigoso, então certifique-se de alcançar a Condensação de Qi antes de ir."}
+{"id":"LocalText/taskDesc1110015","revision":"de3cd46f580b106f916ea673721fb34c401f229badc2d00c659a94e175c6a2da","ptbr":"Vá até {destination} e encontre a lendária Lagoa Kunlun."}
+{"id":"LocalText/taskDesc1110016","revision":"b5a021d5571da378a4e2d2d26414ba79f3a524a1c9e9a643d6af93504cc3979f","ptbr":"Reporte-se ao Guardião em {destination}."}
+{"id":"LocalText/taskDesc1110017","revision":"d1400c372347e07e313df1d12cb7c6387b85b5f7066094fd818de0a4a94d0673","ptbr":"Vá até {destination} e encontre o Senhor das Harpias."}
+{"id":"LocalText/taskDesc1110018","revision":"e0e920b30cfbdf6f6c69ca1ee1b3a9e5f8f56f431e9da4cf7132193840b2a0b8","ptbr":"Reencontre Hou Yi em {destination}."}
+{"id":"LocalText/taskDesc1110019","revision":"99d607d02d0f4a1f2479bb0da55e118a29b471107c735ec919b7a22343177320","ptbr":"Vá até {destination} e expulse os Corvos de Três Patas restantes."}
+{"id":"LocalText/taskDesc1110020","revision":"359227a2694cf62913dea119fb952f1ff6764a83200d204302fc07ccf57de445","ptbr":"Vá até {destination} e obtenha o Galho da Amoreira do Guardião."}
+{"id":"LocalText/taskDesc1110021","revision":"e74e0fb164db1bf871755317929a349f8b5a07700a41557a49175be2e12c9a0a","ptbr":"Reencontre Hou Yi em {destination}."}
+{"id":"LocalText/taskDesc1110022","revision":"f65931349729055b1471db8ab528626e0251c424ecdaba895cf62e3623cf1c9f","ptbr":"Vá até {destination} e encontre o Senhor das Harpias."}
+{"id":"LocalText/taskDesc1110023","revision":"5cb1d6b6dac0a9a0006bee94bddbe25608359b239ec0b24d115b9c03104162c5","ptbr":"Volte a {destination} e entregue a Pena Dourada a Hou Yi."}
+{"id":"LocalText/taskDesc1110024","revision":"832ea1470491e58e591e5e54cea8317209b08a9de1d6221ed2e417a05e93939f","ptbr":"Vá até {destination} e expulse os Corvos de Três Patas restantes."}
+{"id":"LocalText/taskDesc1110031","revision":"aa026df5f02dbb46f994427dbe852b5e31f33c4ca5e0ce23f727312c33109a1f","ptbr":"Vá até {destination} e encontre os Corvos de Três Patas."}
+{"id":"LocalText/taskDesc1110032","revision":"614ca5460532a97307aa69fd06667c01b5d7e29380596bedde4958f8002d0772","ptbr":"Vá até {destination} e fale com Hou Yi."}
+{"id":"LocalText/taskDesc1110033","revision":"33e05642833a8f3766912889b0acfeedcae4d664b000e2b357d1de42c10ed1f3","ptbr":"Vá até {destination} e encontre o Senhor das Harpias."}
+{"id":"LocalText/taskDesc1110034","revision":"72191e1baa64a9a561b0a7201759a642f20e00e8c033eabaacb44afe7d8ecb9c","ptbr":"Vá até {destination} e encontre a lendária Amoreira Divina. Os Cem Mil Montes são um lugar perigoso, então certifique-se de alcançar a Condensação de Qi antes de ir."}
+{"id":"LocalText/taskDesc1110035","revision":"13b8580bd749e8804f936f300e2c98105f6ad4b606d327744f56533a0d62e8a8","ptbr":"Vá até {destination} e encontre a lendária Lagoa Kunlun."}
+{"id":"LocalText/taskDesc1110036","revision":"fb4bfc745081d55b976f60705e8fb3e12c3e03eb2e7b0b56300cf9d41a3ddc21","ptbr":"Reporte-se ao Guardião em {destination}."}
+{"id":"LocalText/taskDesc1110037","revision":"f3e4e8cc0340582d3368cc4e3607f37e061783b946b67e0d422bc82e0088fb28","ptbr":"Vá até {destination} e obtenha o Galho da Amoreira do Guardião."}
+{"id":"LocalText/taskDesc1110038","revision":"dd044277df6f931552d6303a66362aef9427b379aea25484b0de75a177110e6f","ptbr":"Reencontre Hou Yi em {destination}."}
+{"id":"LocalText/taskDesc1110039","revision":"2256fd0150a7b3ae8672c47e8209a86f82234ea3a3874626f3497dd353ac028a","ptbr":"Vá até {destination} e expulse os Corvos de Três Patas restantes."}
+{"id":"LocalText/taskDesc1110040","revision":"47b43af7000ebef37b85e6a05f0dbc7ad230cb7df508ae0db9ed7b9c36cbbdb5","ptbr":"Reencontre Hou Yi em {destination}."}
+{"id":"LocalText/taskDesc1110041","revision":"fb71ca96c807a9c36a182f7dfb9c2ead836a22a8e9228b36a47bac0a71bd73a2","ptbr":"Volte a {destination} e detenha o estranho."}
+{"id":"LocalText/taskDesc1110042","revision":"0b1d49766587a5235b4647fa7c98a06604bd9fe3d20db5a4f4cdf8af5f219a98","ptbr":"Volte a {centerName} e descubra o que está acontecendo."}
+{"id":"LocalText/taskDesc1110043","revision":"814f626984388fb7a564f72dfbe802cf3a82d4ed059358e21315c982cdbff7bb","ptbr":"Volte ao Cofre da Árvore em {centerName} e descubra o que está acontecendo."}
+{"id":"LocalText/taskDesc1110044","revision":"7d0f4d7f936414c2b86c696a1bed73b69ffbc06149aa619eab62b453137ee3cf","ptbr":"Vá ao Mar Silencioso e encontre a sombra misteriosa."}
+{"id":"LocalText/taskDesc1110045","revision":"f54a9b1c82f5e943f1ca724f749ec8f0898b7f52250fb8ed471ce3e7c023d22f","ptbr":"Busque informações sobre Xirang em Hua Feng."}
+{"id":"LocalText/taskDesc1110046","revision":"9e781d97c6c89fdadb91a53517081a6a3c1f97e11694826731257de4d85e9f01","ptbr":"Pergunte aos aldeões da Vila da Dualidade sobre Xirang."}
+{"id":"LocalText/taskDesc1110047","revision":"5454c20e4f00ad4e995d8a0fb8c7800a61606f97ee73f1869d29ec8124976827","ptbr":"Fale com Bi Fang perto da Vila da Dualidade."}
+{"id":"LocalText/taskDesc1110048","revision":"9c506ba64a89001b33444104ef4d9eb50d056092333eaf6f1bf079946e9338ea","ptbr":"Reporte-se a Bi Fang após matar o Senhor do Sangue."}
+{"id":"LocalText/taskDesc1110049","revision":"f14a364604c7d327e6de77276c3d468cdb3a8f2e96e478c8954b3eeb7d940f90","ptbr":"Bi Fang se recusa a lhe entregar Xirang. Tome Xirang dele!"}
+{"id":"LocalText/taskDesc1110050","revision":"6cc6a5378c7058757878bf3dbabb7d840ead8d5088d8d3a87dc08e7c5f2b9b21","ptbr":"Você finalmente obteve Xirang. A garota disse que poderia aterrar o Mar Silencioso com Xirang. Volte até ela."}
+{"id":"LocalText/taskDesc1110051","revision":"3a71af2c2d9a9867623d95dd9cec4fe8791d3f238fdf85b74ee5df9997c05607","ptbr":"O Leviatã enfurecido ataca. Impeça-o de ferir a garota."}
+{"id":"LocalText/taskDesc1110052","revision":"053c8291baf8bd4ffc8e0cdeec6f52182d82eae7285776b41d1d9030641d8c82","ptbr":"Entre na caverna e encontre a origem da aura demoníaca."}
+{"id":"LocalText/taskDesc1110053","revision":"7873ac656833ad88e6019e4917d8848000b7435973b16e737a3909f5be8f95f2","ptbr":"Siga o aldeão até a Vila da Dualidade."}
+{"id":"LocalText/taskDesc1110061","revision":"732d44f164ca6c7f374bfab6aec41ddc39850312dad21aabbadff33b5dbbaf07","ptbr":"Resgate a garota dos Cultivadores do Caminho Justo."}
+{"id":"LocalText/taskDesc1110062","revision":"91f7b6c94fec11392893b07d3bb25922b2a4d87f31ddb5ff42e20137c8b104d1","ptbr":"Escolte a garota de volta ao sudoeste de Yun Mo."}
+{"id":"LocalText/taskDesc1110063","revision":"228d3180ee3fae278faa4af8e89b86917210eb9f8eaa305b12f54851f0387183","ptbr":"Vá ao Gelo Eterno e encontre Feng Yunchuo."}
+{"id":"LocalText/taskDesc1110064","revision":"4d7b78b62a77baf38528f9dd203264383c5a3ec86909fdfce6c984d8a916c7cc","ptbr":"Leve a semente da Chama Sagrada à tribo junto com Feng Yunchuo."}
+{"id":"LocalText/taskDesc1110065","revision":"f0e7ca52a5fc011000eec75fa75020a831da29763999b76a7acf9541f8e196f5","ptbr":"Deixe a tribo."}
+{"id":"LocalText/taskDesc1110066","revision":"252aedde389be2229f733290dbfe23869c5543385ca812c63c5797c7050aaef6","ptbr":"Para alcançar um Reino superior, vá a Mu Xian o quanto antes."}
+{"id":"LocalText/taskDesc1110067","revision":"432f9477a6fec6287be2ec71496e4f5042a897cc85f49961df8203ed163aff72","ptbr":"Encontre o gigante que quer perseguir o sol e veja se ele precisa de ajuda."}
+{"id":"LocalText/taskDesc1110068","revision":"c88073eb9a846315301b8ae543de706cfde7630b634fc8631d4b6580d19cd79f","ptbr":"Agar perde uma grande quantidade de Vitalidade todo mês. Ajude-o.\\nConverse com Agar para ajudá-lo a coletar Frutos Espirituais. Entregue Frutos Espirituais a Agar para que ele recupere seu estado.\\nConverse com Agar para verificar o estado atual dele."}
+{"id":"LocalText/taskDesc1110069","revision":"c60e266e9d49ff3693ec16f16b5053c84af0c6043323413b9f833fd2a2411667","ptbr":"Agar está discutindo com alguém. Vá ver como ele está."}
+{"id":"LocalText/taskDesc1110070","revision":"48d1bb6b778acc535bbc244ab2d38273f6c6c82ebee7eb22377739fe91ce14d8","ptbr":"Encontre Agar e veja do que ele precisa."}
+{"id":"LocalText/taskDesc1110071","revision":"15b275ecf2c8b62aa7dbeb47b2f3626a0b1f6dc935a71ef9c11159e24b5f2094","ptbr":"Expulse o Demônio da Seca desta área."}
+{"id":"LocalText/taskDesc1110072","revision":"027cbfd66395ba6a792e8a649c302501f75e2cd5103443ebbbff589f9b1dd1e1","ptbr":"Consiga Erva do Vento Sombrio para o Demônio da Seca.\\nA Erva do Vento Sombrio é leiloada em {#areaName8}.\\nO leilão de lá acontece a cada 2 anos."}
+{"id":"LocalText/taskDesc1111001","revision":"1d3c0972591350a1bf85a962683bcad03326ae091cd2bb01ffd1077a27649c7c","ptbr":"Volte à Estalagem em {destination} e recupere seu estado."}
+{"id":"LocalText/taskDesc1111002","revision":"6f9de3935dabfb684a6909db40eb34191491048fefaebbae1c18f74a8a166854","ptbr":"Encontre um local com Qi Abundante no mapa-múndi. Cultive lá para aumentar seu Cultivo e romper seu Reino atual.\\nUse <g>Pílulas de Refino de Qi I</g> para o Rompimento. As <g>Pílulas de Refino de Qi I</g> podem ser compradas no Mercado em várias cidades."}
+{"id":"LocalText/taskDesc1111003","revision":"e611d3da145f1a5ef8eb8b4754c070c281b98f7de6e4a03b6a9d28fae43fe871","ptbr":"Vá à Taverna em {destination} e busque informações."}
+{"id":"LocalText/taskDesc1111004","revision":"873009afc3c2021382cdc272f357b9723153833a45dc34182b05ac4a794e764a","ptbr":"Vá à Taverna em {destination} e busque informações."}
+{"id":"LocalText/taskDesc1111005","revision":"01c93fdda3402969efd17e7abeb780f211cf0e6b26b767ff291548442f6a9823","ptbr":"Eleve seu Reino para <g>Fundação</g>.\\nTrês formas de alcançar a Fundação:\\n<g>●</g>Fundação - Celestial:\\nMateriais necessários: {itemLink5031726}, {itemLink5031736}, {itemLink5031746}, {itemLink5031756}, {itemLink5031766}, {itemLink5031776} e <g>3</g> tipos de <g>Tesouro do Céu e da Terra</g>.\\n<g>●</g>Fundação - Terrestre:\\nMateriais necessários: quaisquer 3 dentre {itemLink5031726}, {itemLink5031736}, {itemLink5031746}, {itemLink5031756}, {itemLink5031766} e {itemLink5031776}, além de <g>2</g> tipos de <g>Tesouro do Céu e da Terra</g>.\\n<g>●</g>Fundação - Mortal:\\nMateriais necessários: {itemLink1011461} ou um Elixir de Fundação (Mortal) de raridade superior, além de <g>1</g> tipo de <g>Tesouro do Céu e da Terra</g>.\\n\\n<g>Tesouros do Céu e da Terra</g> <y>aumentam muito</y> seus atributos após um Rompimento. Os <g>Tesouros do Céu e da Terra</g> disponíveis para o Reino da Fundação são:\\n<g>●</g>{itemLink5081015}\\n<g>●</g>{itemLink5081025}\\n<g>●</g>{itemLink5081035}\\n<g>●</g>{itemLink5081045}\\n<g>●</g>{itemLink5081055}\\n<g>●</g>{itemLink5081065}\\n\\nPara mais detalhes sobre o Rompimento, consulte a interface [Reescrita de Destino]."}
+{"id":"LocalText/taskDesc1111006","revision":"72441e4894d53bc0109984f13a33801b426bda9dc93b54e97289e58c2d112370","ptbr":"Eleve seu Reino para <g>Condensação de Qi</g>.\\n<g>●</g>Condensação de Qi:\\nMateriais necessários: {itemLink1011471} ou um Elixir de Condensação de Qi de raridade superior, além de <g>4</g> tipos de <g>Tesouro do Céu e da Terra</g>.\\n\\n<g>Tesouros do Céu e da Terra</g> <y>aumentam muito</y> seus atributos após um Rompimento. Os <g>Tesouros do Céu e da Terra</g> disponíveis para o Reino da Condensação de Qi são:\\n<g>●</g>{itemLink5081075}\\n<g>●</g>{itemLink5081085}\\n<g>●</g>{itemLink5081095}\\n<g>●</g>{itemLink5081105}\\n<g>●</g>{itemLink5081115}\\n<g>●</g>{itemLink5081125}\\n<g>●</g>{itemLink5081135}\\n<g>●</g>{itemLink5081145}\\n\\nPara mais detalhes sobre o Rompimento, consulte a interface [Reescrita de Destino]."}
+{"id":"LocalText/taskDesc1111007","revision":"9ae21c0fe12dcd04a98ff7b56ff65cd3e8c8ad2986d8075324d5bb730071b33a","ptbr":"Eleve seu Reino para <g>Núcleo Dourado</g>.\\nCinco formas de alcançar o Núcleo Dourado:\\n<g>●</g>Núcleo Dourado de 1.º Grau:\\nMateriais necessários: {itemLink5031786}, {itemLink5031796}, {itemLink5031806}, {itemLink5031816}, {itemLink5031826}, {itemLink5031836} e <g>5</g> tipos de <g>Tesouro do Céu e da Terra</g>.\\n<g>●</g>Núcleo Dourado de 2.º Grau:\\nMateriais necessários: quaisquer 3 entre {itemLink5031786}, {itemLink5031796}, {itemLink5031806}, {itemLink5031816}, {itemLink5031826} e {itemLink5031836}, além de <g>4</g> tipos de <g>Tesouro do Céu e da Terra</g>.\\n<g>●</g>Núcleo Dourado de 3.º Grau:\\nMateriais necessários: qualquer 1 entre {itemLink5031786}, {itemLink5031796}, {itemLink5031806}, {itemLink5031816}, {itemLink5031826} e {itemLink5031836}, além de <g>3</g> tipos de <g>Tesouro do Céu e da Terra</g>.\\n<g>●</g>Núcleo Dourado de 4.º Grau:\\nMateriais necessários: {itemLink1011531} ou um Elixir das Nuvens de raridade superior, além de <g>2</g> tipos de <g>Tesouro do Céu e da Terra</g>.\\n<g>●</g>Núcleo Dourado de 5.º Grau:\\nMateriais necessários: {itemLink1011531} ou um Elixir das Três Flores de raridade superior, além de <g>1</g> tipo de <g>Tesouro do Céu e da Terra</g>.\\n\\n<g>Tesouros do Céu e da Terra</g> <y>aumentam muito</y> seus atributos após um Rompimento. Os <g>Tesouros do Céu e da Terra</g> disponíveis para o Reino do Núcleo Dourado:\\n<g>●</g>{itemLink5081155}\\n<g>●</g>{itemLink5081165}\\n<g>●</g>{itemLink5081175}\\n<g>●</g>{itemLink5081185}\\n<g>●</g>{itemLink5081195}\\n<g>●</g>{itemLink5081205}\\n<g>●</g>{itemLink5081215}\\n<g>●</g>{itemLink5081225}\\n<g>●</g>{itemLink5081235}\\n<g>●</g>{itemLink5081245}\\n\\nPara mais detalhes sobre o Rompimento, consulte a interface [Reescrita de Destino]."}
+{"id":"LocalText/taskDesc1111008","revision":"28022a4b882cdfb9e7d9298eb6ae2ec066358be7e9a879d522a1dba6b9222f37","ptbr":"Eleve seu Reino para <g>Espírito de Origem</g>.\\n<g>●</g>Espírito de Origem:\\nMateriais necessários: {itemLink1011551} ou um Elixir de Transformação Espiritual de raridade superior, além de <g>4</g> tipos de <g>Tesouro do Céu e da Terra</g>.\\n\\n<g>Tesouros do Céu e da Terra</g> <y>aumentam muito</y> seus atributos após um Rompimento. Os <g>Tesouros do Céu e da Terra</g> disponíveis para o Reino do Espírito de Origem:\\n<g>●</g>{itemLink5081255}\\n<g>●</g>{itemLink5081265}\\n<g>●</g>{itemLink5081275}\\n<g>●</g>{itemLink5081285}\\n<g>●</g>{itemLink5081295}\\n<g>●</g>{itemLink5081305}\\n<g>●</g>{itemLink5081315}\\n<g>●</g>{itemLink5081325}\\n\\nPara mais detalhes sobre o Rompimento, consulte a interface [Reescrita de Destino]."}
+{"id":"LocalText/taskDesc1111009","revision":"9adcdddccfd936b702b5513063a5dccd8fdb4e0ce706af90f69415059562905e","ptbr":"Eleve seu Reino para <g>Alma Nascente</g>.\\nTrês formas de alcançar a Alma Nascente:\\n<g>●</g>Alma Nascente - Dao Celestial:\\nMateriais necessários: {itemLink5031966} e <g>6</g> tipos de <g>Tesouro do Céu e da Terra</g>.\\n<g>●</g>Alma Nascente - Dao Terrestre:\\nMateriais necessários: {itemLink5031976} e <g>4</g> tipos de <g>Tesouro do Céu e da Terra</g>.\\n<g>●</g>Alma Nascente - Dao Mortal:\\nMateriais necessários: {itemLink1011581} ou um Elixir de Alma Nascente (Mortal) de raridade superior, além de <g>2</g> tipos de <g>Tesouro do Céu e da Terra</g>.\\n\\n<g>Tesouros do Céu e da Terra</g> <y>aumentam muito</y> seus atributos após um Rompimento. Os <g>Tesouros do Céu e da Terra</g> disponíveis para o Reino da Alma Nascente:\\n<g>●</g>{itemLink5081335}\\n<g>●</g>{itemLink5081345}\\n<g>●</g>{itemLink5081355}\\n<g>●</g>{itemLink5081365}\\n<g>●</g>{itemLink5081375}\\n<g>●</g>{itemLink5081385}\\n<g>●</g>{itemLink5081395}\\n<g>●</g>{itemLink5081405}\\n<g>●</g>{itemLink5081415}\\n<g>●</g>{itemLink5081425}\\n<g>●</g>{itemLink5081435}\\n<g>●</g>{itemLink5081445}\\n\\nPara mais detalhes sobre o Rompimento, consulte a interface [Reescrita de Destino]."}
+{"id":"LocalText/taskDesc1111010","revision":"a9508f9d55a3a34180fac1c4cab62cd169714f3f0c9293821310765104b777bf","ptbr":"Eleve seu Reino para <g>Formação da Alma</g>.\\n<g>●</g>Formação da Alma:\\nApós ativar <g>todas as Almas Divinas das 5 criaturas seladas</g>, use <g>{itemLink5081996}</g> para alcançar a Formação da Alma.\\n\\nAs 5 <g>Almas Divinas</g> são:\\n{itemLink5082016}\\n{itemLink5082026}\\n{itemLink5082036}\\n{itemLink5082046}\\n{itemLink5082056}\\n\\nPara mais detalhes sobre o Rompimento, consulte a interface [Reescrita de Destino]."}
+{"id":"LocalText/taskDesc1111011","revision":"5e33bc42c7a0a5fdf2f979555602e47e13f94094bae4e80e660bfe2c2c48af94","ptbr":"Eleve seu Reino para <g>Iluminação</g>.\\nMateriais necessários: 3 unidades combináveis de <g>{itemLink5082066}</g>, além de <g>{itemLink1011601}</g> ou um Elixir da Iluminação de raridade superior.\\n\\nApós alcançar a Iluminação, você receberá diferentes <g>Técnicas de Domínio</g> de acordo com os atributos das Almas do Dao.\\n\\nPara mais detalhes sobre o Rompimento, consulte a interface [Reescrita de Destino]."}
+{"id":"LocalText/taskDesc1111012","revision":"9f5eeea6dff239a52f3ed6dacb40ecef188f6cadec40d6b90bf5b77ea0c9625e","ptbr":"Eleve seu Reino para <g>Renascimento</g>.\\n<g>●</g>Renascimento:\\nApós coletar 5 <g>Sementes do Submundo</g> de tipos diferentes, clique em Condensar Formação de Reunião das Penas do Submundo na interface de Rompimento e entre em ressonância com as Penas do Submundo para realizar o Rompimento.\\n\\nAs 5 <g>Sementes do Submundo</g> necessárias são:\\n{itemLink5350001}\\n{itemLink5350002}\\n{itemLink5350003}\\n{itemLink5350004}\\n{itemLink5350005}\\n\\nPara mais detalhes sobre o Rompimento, consulte a interface [Reescrita de Destino]."}
+{"id":"LocalText/taskDesc1111013","revision":"b201feba8ffaa35b6b79370942a346baf7025bc97c83a261332ade61afca2723","ptbr":"Eleve seu Reino para <g>Transcendente</g>.\\n<g>●</g>Transcendente:\\nSuporte a Provação Celestial e obtenha <g>{itemLink5082205}</g> para realizar o Rompimento.\\n\\nAntes disso, no estágio <b>Renascimento Avançado</b>, siga as pistas e colete <g>Sopros Primordiais</g> para compreender e condensar o Poder Celestial.\\nOs <g>Sopros Primordiais</g> disponíveis para esse fim são:\\n{itemLink5082235}\\n{itemLink5082245}\\n{itemLink5082255}\\nDepois de coletá-los, você precisará encontrar o tesouro {itemLink7000066} por meio da Geomancia para resistir à Provação Celestial.\\n\\nPara mais detalhes sobre o Rompimento, consulte a interface [Reescrita de Destino]."}
+{"id":"LocalText/taskDesc1111014","revision":"c25cdafdc8064561eac4355045aeff97a507190bccf16ea8b7879bd4aebad1ac","ptbr":"Elimine o Senhor do Sangue perto da Vila da Dualidade."}
+{"id":"LocalText/taskDesc1111015","revision":"5a9e5321ecb352168ca280fa222741e9c341aab54b7d231a205772f00bb0b7c0","ptbr":"Vá até uma cidade e compre uma Técnica Especial."}
+{"id":"LocalText/taskDesc1111016","revision":"c98741ec4a4c2771a5169ce5961b5068b6f1ff8e7bd52070b8a64d3ddd2b4852","ptbr":"Encontre uma Técnica Especial adequada no Pavilhão dos Pergaminhos."}
+{"id":"LocalText/taskDesc1111017","revision":"ebbbdea66d495f1d91a9a6ad8f8081b86e4f79bf6fe3b36642c877167accdac5","ptbr":"Compre uma Técnica Especial adequada no segundo andar do Pavilhão dos Pergaminhos."}
+{"id":"LocalText/taskDesc1111018","revision":"3943151b7f70e1220db2e88615f50614e74740343985d73a01fc75c75e3217f9","ptbr":"Abra seu Inventário e aprenda a Técnica Especial que você acabou de comprar no Pavilhão dos Pergaminhos."}
+{"id":"LocalText/taskDesc1111019","revision":"e836b42ec8b9ec28f4926d126586cf93b5b898ebe4ecfe20fc863d69aee47701","ptbr":"Abra a interface de Técnica Especial e equipe a Técnica Especial que você acabou de aprender."}
+{"id":"LocalText/taskDesc1111020","revision":"fd4fe4bdb7b74ee240d41fd220b668842d3ba3b8cd200a96d3938badf96b3110","ptbr":"Abra seu Inventário e leia {itemLink6351016} que Jo lhe deu."}
+{"id":"LocalText/taskDesc1119001","revision":"7e6bcb03f41c3e2046220b74cc066e07c9f8d92161613a5a301a975ba7ba770c","ptbr":"Compre uma Técnica Marcial e uma Técnica Especial no Pavilhão dos Pergaminhos, depois aprenda e equipe ambas.\\n\\nEquipar Técnica Marcial {triggerCondition1}\\nEquipar Técnica Especial {triggerCondition2}"}
+{"id":"LocalText/taskDesc1119002","revision":"8de232a9241520f237f92ad46688632f92d0c46838b894d95fcd0d7b40c71132","ptbr":"Vá para {1} e encontre-se com {2} perto de {0}."}
+{"id":"LocalText/taskDesc1120001","revision":"2f12ace6f3e4b026f948985159863844e42e1b3a6b709a46b11b0b490970aa7c","ptbr":"Vá à Taverna em {destination} e busque informações."}
+{"id":"LocalText/taskDesc1120002","revision":"09dde7d5ec7b2ee7a29c7674357d99cee9cb9b96f254b8872540b84dd8050f4b","ptbr":"Vá até uma cidade e compre uma Técnica Especial."}
+{"id":"LocalText/taskDesc112001","revision":"2becea00f2ea8062e4598c92f6a2d64ac7cee5b827bc7a036b19639f71c4f26f","ptbr":"Ajude {ownerUnitName} a recuperar seu Anel Espacial perdido."}
+{"id":"LocalText/taskDesc112002","revision":"fa74c2703e1e289b85af4b22d71f39d269511b3d367b6bf6cd2e4d2b6874f274","ptbr":"Ajude {ownerUnitName} a recuperar seu Anel Espacial perdido."}
+{"id":"LocalText/taskDesc112003","revision":"a79f4aecdcfba169cbe3cb85c7916b8cac8ed8bdeb21b4a1ae187d512b90ee48","ptbr":"Ajude {ownerUnitName} a recuperar seu Anel Espacial perdido."}
+{"id":"LocalText/taskDesc112004","revision":"210c7ac70173a6ebf4ba1649695b2ad80a33ef775c716bc4caa2309decc23243","ptbr":"Ajude {ownerUnitName} a recuperar seu Anel Espacial perdido."}
+{"id":"LocalText/taskDesc112005","revision":"b5251fb63a8671318e7bfb7372bab4b0c6630ee0a2e2917a7f6864b2a421b662","ptbr":"Ajude {ownerUnitName} a recuperar seu Anel Espacial perdido."}
+{"id":"LocalText/taskDesc112006","revision":"41fab9195796726d1d7d8aba312ec2dfa9b3cd1d7c0bce1516439ed404b38ddd","ptbr":"Ajude {ownerUnitName} a recuperar sua Técnica Secreta da Seita perdida."}
+{"id":"LocalText/taskDesc112007","revision":"ed2331ee8e1a9238b793d9e272a1004af1c3e3b6dba33bd6d073dfe406cd43bf","ptbr":"Ajude {ownerUnitName} a recuperar sua Técnica Secreta da Seita perdida."}
+{"id":"LocalText/taskDesc112008","revision":"a3bd0986d6e3c4d58528d3a406897ac98573ceca6168b54c99ab966464e657d8","ptbr":"Ajude {ownerUnitName} a recuperar sua Técnica Secreta da Seita perdida."}
+{"id":"LocalText/taskDesc112009","revision":"dff4a9c6db4c4a8296fe79b60fbcba4af961c4031e60c1b9ced7d533b326e963","ptbr":"Ajude {ownerUnitName} a recuperar sua Técnica Secreta da Seita perdida."}
+{"id":"LocalText/taskDesc112010","revision":"1abc6567b2319358f5c7a815ca8b5d75fa97097fee1ed427286911f78a5c1372","ptbr":"Ajude {ownerUnitName} a recuperar sua Técnica Secreta da Seita perdida."}
+{"id":"LocalText/taskDesc113001","revision":"c5115440bb9bbf9bc4a71dcd4e52b552ee30821ed9dffbe539c20b7cb6e6c174","ptbr":"Vá para {releasePointName} e ajude {releaseUnitName} a localizar o Covil de Feras. Use a Geomancia perto do covil para determinar sua localização exata."}
+{"id":"LocalText/taskDesc113002","revision":"59f9afc323b508c1c524eaec3e71693d77841dd5bc4e11e8a9db2422d45515f8","ptbr":"Vá para {releasePointName} e ajude {releaseUnitName} a localizar o Covil de Feras. Use a Geomancia perto do covil para determinar sua localização exata."}
+{"id":"LocalText/taskDesc113003","revision":"bd375fe7b1080487a525bb2e7afa841462710d19eac81bc5e1a52ad7cde3b819","ptbr":"Vá para {releasePointName} e ajude {releaseUnitName} a localizar o Covil de Feras. Use a Geomancia perto do covil para determinar sua localização exata."}
+{"id":"LocalText/taskDesc113004","revision":"b3944e76f6fb64ee13ea01854c585cb5b65cd7e28bac4d67fa24a5fc3403be93","ptbr":"Vá para {releasePointName} e ajude {releaseUnitName} a localizar o Covil de Feras. Use a Geomancia perto do covil para determinar sua localização exata."}
+{"id":"LocalText/taskDesc113005","revision":"087ce9b741244ea16127883facc514b8c65d8578175559b3e202c954299b2576","ptbr":"Vá para {releasePointName} e ajude {releaseUnitName} a localizar o Covil de Feras. Use a Geomancia perto do covil para determinar sua localização exata."}
+{"id":"LocalText/taskDesc113006","revision":"7cc27752f18523a338b53c0ad779bda6e575c9cbaa7d9a5e1923bc5657b39758","ptbr":"Vá para {releasePointName} e ajude {releaseUnitName} a localizar o Covil de Feras. Use a Geomancia perto do covil para determinar sua localização exata."}
+{"id":"LocalText/taskDesc113007","revision":"bb6cf98136c4f3d8e967d3c8405344c53a2ba0661e77943fcd68dd049e01465f","ptbr":"Vá para {releasePointName} e ajude {releaseUnitName} a localizar o Covil de Feras. Use a Geomancia perto do covil para determinar sua localização exata."}
+{"id":"LocalText/taskDesc113008","revision":"109a79278e94ed1e9c74fcf7b6dcf1acb42a3b3acbe678ed2d97071c928bd075","ptbr":"Vá para {releasePointName} e ajude {releaseUnitName} a localizar o Covil de Feras. Use a Geomancia perto do covil para determinar sua localização exata."}
+{"id":"LocalText/taskDesc113009","revision":"0561ab9e74e26448cfaa4070526d7d5cc3a995b3bb588783dc9e8ca1a631192b","ptbr":"Vá para {releasePointName} e ajude {releaseUnitName} a localizar o Covil de Feras. Use a Geomancia perto do covil para determinar sua localização exata."}
+{"id":"LocalText/taskDesc113010","revision":"f3344e14ba6cf7fa9ce7a23fb581e7b358c4ad7839388611943de4575d018459","ptbr":"Vá para {releasePointName} e ajude {releaseUnitName} a localizar o Covil de Feras. Use a Geomancia perto do covil para determinar sua localização exata."}
+{"id":"LocalText/taskDesc114001","revision":"98d7ea4a7b2d73a1718c1618e32be804425f71c20bce28df833a34e7820a7ff9","ptbr":"Vá para {eventName} e ajude {releaseUnitName} a localizar o Covil de Feras."}
+{"id":"LocalText/taskDesc114002","revision":"b7b2c1d536d6fa93db8378569578e0f857ffd5b6dd1a63de461c0f20a14a01e1","ptbr":"Vá para {eventName} e ajude {releaseUnitName} a localizar o Covil de Feras."}
+{"id":"LocalText/taskDesc114003","revision":"03d65e3b1a74de6f328fb9110600f125dd212bbbaed347da7c18abd602121f8d","ptbr":"Vá para {eventName} e ajude {releaseUnitName} a localizar o Covil de Feras."}
+{"id":"LocalText/taskDesc114004","revision":"494fd07a1523826f2979c8f4ccd79a5cc7605b5c3ef95eb112cdfe5c83a74aaa","ptbr":"Vá para {eventName} e ajude {releaseUnitName} a localizar o Covil de Feras."}
+{"id":"LocalText/taskDesc114005","revision":"84f30e237e1118bc60ce96901773bd6705fdc5c878f15c2e24c44a9df339c87d","ptbr":"Vá para {eventName} e ajude {releaseUnitName} a localizar o Covil de Feras."}
+{"id":"LocalText/taskDesc114006","revision":"b8af706d124f43e74c26e837c4e9159226d4c664ca6c720d4cc66172f21b6f29","ptbr":"Vá para {eventName} e ajude {releaseUnitName} a localizar o Covil de Feras."}
+{"id":"LocalText/taskDesc114007","revision":"a841f10fcff9d2cbdca6072100cdc5b36a5e8199fa4231293833f5b8813a8150","ptbr":"Vá para {eventName} e ajude {releaseUnitName} a localizar o Covil de Feras."}
+{"id":"LocalText/taskDesc114008","revision":"e31ea224728fb21ed289e7adb932e966ebc28a354a68a4a48dfdf9ca93ea91ab","ptbr":"Vá para {eventName} e ajude {releaseUnitName} a localizar o Covil de Feras."}
+{"id":"LocalText/taskDesc114009","revision":"000275223fa02d74a2872533008966f75e89cfa3c2d68ca32b4611c0579aec9c","ptbr":"Vá para {eventName} e ajude {releaseUnitName} a localizar o Covil de Feras."}
+{"id":"LocalText/taskDesc114010","revision":"1dec88197938d24141342b7ed7b1054f95cb3af3b41fdbbefb1fdfd911dde1d0","ptbr":"Vá para {eventName} e ajude {releaseUnitName} a localizar o Covil de Feras."}
+{"id":"LocalText/taskDesc115001","revision":"e1836df7fc0ccb5ecaea684aac6c2e9169146868f2398e5a36f9b03e38e1f7dd","ptbr":"Vá para {eventName} e ajude {releaseUnitName} a resgatar {salvationUnitName} do Covil de Feras."}
+{"id":"LocalText/taskDesc115002","revision":"d248e7f59c582997c93e7b2df9319c0d184df962aef998c88ce93b69bce7f520","ptbr":"Vá para {eventName} e ajude {releaseUnitName} a resgatar {salvationUnitName} do Covil de Feras."}
+{"id":"LocalText/taskDesc115003","revision":"b741c0c95653f70ebe5f5cbf664b620810ac4a252c15fb7086dc14d2fdf21e67","ptbr":"Vá para {eventName} e ajude {releaseUnitName} a resgatar {salvationUnitName} do Covil de Feras."}
+{"id":"LocalText/taskDesc115004","revision":"5fa749fff21dd3d2d15a3f4cccac3acf98639b47503d82b740503cf481aaefce","ptbr":"Vá para {eventName} e ajude {releaseUnitName} a resgatar {salvationUnitName} do Covil de Feras."}
+{"id":"LocalText/taskDesc115005","revision":"d961ce29846100c296dfac75d426fe6edf23a73363cf1495777b6aa603b3560a","ptbr":"Vá para {eventName} e ajude {releaseUnitName} a resgatar {salvationUnitName} do Covil de Feras."}
+{"id":"LocalText/taskDesc115006","revision":"56f0f9eeefbb767d05296d6bf773102e3be1553d611725562d15757510357c72","ptbr":"Vá para {eventName} e ajude {releaseUnitName} a resgatar {salvationUnitName} do Covil de Feras."}
+{"id":"LocalText/taskDesc115007","revision":"a73de5320f75e51926f9ebc8509ae2b656b98735e9f61f58951a4a661cb093a1","ptbr":"Vá para {eventName} e ajude {releaseUnitName} a resgatar {salvationUnitName} do Covil de Feras."}
+{"id":"LocalText/taskDesc115008","revision":"d709e97efa19deb3ca6bb997ea2004dde1f42ceb73ae3e3c5e7e63320c4218f6","ptbr":"Vá para {eventName} e ajude {releaseUnitName} a resgatar {salvationUnitName} do Covil de Feras."}
+{"id":"LocalText/taskDesc115009","revision":"03a16587c2bdb8715dc0e65e20f978b956629ad927948fc7b65bb71dff5f77b8","ptbr":"Vá para {eventName} e ajude {releaseUnitName} a resgatar {salvationUnitName} do Covil de Feras."}
+{"id":"LocalText/taskDesc115010","revision":"a6e8d60df0c6a354868cc2af0f57d3871d03f3f1f5f0b2c696cbbb51e733adb1","ptbr":"Vá para {eventName} e ajude {releaseUnitName} a resgatar {salvationUnitName} do Covil de Feras."}
+{"id":"LocalText/taskDesc116001","revision":"2a3df396d50177f77f4b7a63728ef20835026bd225b439b7e22562714798398b","ptbr":"Elimine o inimigo de {releaseUnitName}: {killUnitName}."}
+{"id":"LocalText/taskDesc116002","revision":"4109c6e795048fdeef0062c3ff4d8766d653034e606dad0b02220fb0790fecd4","ptbr":"Elimine o inimigo de {releaseUnitName}: {killUnitName}."}
+{"id":"LocalText/taskDesc116003","revision":"4c2c8af5f135c7ba8ba2e5a6c99a904f50cd4d2fffd08bf03cf8590377696f6d","ptbr":"Elimine o inimigo de {releaseUnitName}: {killUnitName}."}
+{"id":"LocalText/taskDesc116004","revision":"577e56b5c91317797dbd4129167ca43ccbe063760a7847e3fb8aad02cf985530","ptbr":"Elimine o inimigo de {releaseUnitName}: {killUnitName}."}
+{"id":"LocalText/taskDesc116005","revision":"758145f879807c3dd93d3cde7cbbb4bec9afb9512bc34aea4d2056e439aaed45","ptbr":"Elimine o inimigo de {releaseUnitName}: {killUnitName}."}
+{"id":"LocalText/taskDesc116006","revision":"fd8149132b736899647ec4d6fa0136f27ef5c6b19a7afaa34efdffab21cd4d25","ptbr":"Elimine o inimigo de {releaseUnitName}: {killUnitName}."}
+{"id":"LocalText/taskDesc116007","revision":"7f80431bc1e138d0b59cdb9ce01ef1db3aeb08ecf5ddf9081ced8be929fdae91","ptbr":"Elimine o inimigo de {releaseUnitName}: {killUnitName}."}
+{"id":"LocalText/taskDesc116008","revision":"96087008067c111afe426af200bce1a3dd31c126898a5dea16370416f59d66f0","ptbr":"Elimine o inimigo de {releaseUnitName}: {killUnitName}."}
+{"id":"LocalText/taskDesc116009","revision":"95e6ea01d447f431c7ffa94aa07c20b93181d69aed5e815779e144dcd4aab993","ptbr":"Elimine o inimigo de {releaseUnitName}: {killUnitName}."}
+{"id":"LocalText/taskDesc116010","revision":"b3532ec0fea050b8db50b96398e04cc45c7728cfd5704bfdb599a96a2620d9f4","ptbr":"Elimine o inimigo de {releaseUnitName}: {killUnitName}."}
+{"id":"LocalText/taskDesc116101","revision":"7dc225c473ef42e144a9dcc050afe8cbd35bcad554a10e1a8ad6b7be1d8ecdb0","ptbr":"Elimine o inimigo de {releaseUnitName}: {killUnitName}."}
+{"id":"LocalText/taskDesc116102","revision":"4d7e37bb8a48514bbc09af14c15e4c5230688ae5f1d15d130eb95a7b756b30ef","ptbr":"Elimine o inimigo de {releaseUnitName}: {killUnitName}."}
+{"id":"LocalText/taskDesc116103","revision":"d05ac007caee49786d1c21a275abda0f46d90798af77e970c843067a55b1fd46","ptbr":"Elimine o inimigo de {releaseUnitName}: {killUnitName}."}
+{"id":"LocalText/taskDesc116104","revision":"3d4cc078d62a771f2870edaf0900c603ac6884cf6e06370b826c18bf7cad22c3","ptbr":"Elimine o inimigo de {releaseUnitName}: {killUnitName}."}
+{"id":"LocalText/taskDesc116105","revision":"d39635e7bc22849eb39156ad28bd7abc82a3833a603d467bcfc8f4adf5870e41","ptbr":"Elimine o inimigo de {releaseUnitName}: {killUnitName}."}
+{"id":"LocalText/taskDesc117001","revision":"fe863e5803d77c19e5e7d18edfed1b0a96916d9367a8ce85830fb15d147becfa","ptbr":"Cumpra o último desejo de {dieName} entregando o pertence de {dieName} a {targetName}! Algo ruim acontecerá se você não fizer isso dentro de {taskTime}."}
+{"id":"LocalText/taskDesc117002","revision":"67f8d3ab6e50163528754899425ba61d710b12bbf2bb2b269042b68a6ad6cbb3","ptbr":"Cumpra o último desejo de {dieName} entregando o pertence de {dieName} a {targetName}! Algo ruim acontecerá se você não fizer isso dentro de {taskTime}."}
+{"id":"LocalText/taskDesc117003","revision":"9be02122817425aeea3d4c96d1b9715773feefd9fded4db6e503649dfc1b5ee4","ptbr":"Cumpra o último desejo de {dieName} entregando o pertence de {dieName} a {targetName}! Algo ruim acontecerá se você não fizer isso dentro de {taskTime}."}
+{"id":"LocalText/taskDesc117004","revision":"af98f1da48a2b410b78948325467db096a27b3c2777bae4e072c29d3a204c4c6","ptbr":"Cumpra o último desejo de {dieName} entregando o pertence de {dieName} a {targetName}! Algo ruim acontecerá se você não fizer isso dentro de {taskTime}."}
+{"id":"LocalText/taskDesc117005","revision":"7b82abb219841417bc5cbd2e4502d8ad4d72c2b15f5c4b834f0ac5521e2b0ad2","ptbr":"Cumpra o último desejo de {dieName} entregando o pertence de {dieName} a {targetName}! Algo ruim acontecerá se você não fizer isso dentro de {taskTime}."}
+{"id":"LocalText/taskDesc129001","revision":"24188ecb98e3beb0b79bb650501c413e7353175dd46556440019c690a1ab754a","ptbr":"Saqueie {eventName} junto com {npcName}."}
+{"id":"LocalText/taskDesc130001","revision":"c6602a90ffa477d44a4efd377a13c46d117678ab8bef93eb9f7fed8be16d36f3","ptbr":"Ataque {attackName} - {eventName}"}
+{"id":"LocalText/taskDesc130002","revision":"d512f708be23ee6bb4c8a62520571c498e8521ba0034a40085dc7785f147e7d0","ptbr":"Ataque {attackName} - {eventName}"}
+{"id":"LocalText/taskDesc130003","revision":"0d7ccd7a1ca08d9c7bc60d9177a72374e110badde189af669d6990fe9e4dd560","ptbr":"Ataque {attackName} - {eventName}"}
+{"id":"LocalText/taskDesc130004","revision":"8786008f3b48a616e329eb33955500a251596c0d21ba6607e8115371be6f7ac9","ptbr":"Defenda {eventName} contra o ataque de {defendName}"}
+{"id":"LocalText/taskDesc130005","revision":"e9efed2125e89feb861d7a73f7946e5dcb41019697e9700080166f454d2c6d04","ptbr":"Defenda {eventName} contra o ataque de {defendName}"}
+{"id":"LocalText/taskDesc130006","revision":"34d113ce6ef38966de01330c07104dccf8e5323cb296edc6a15cda03e43689e7","ptbr":"Defenda {eventName} contra o ataque de {defendName}"}
+{"id":"LocalText/taskDesc2110001","revision":"55ccf69bafb53cfd1433188894db71e7d738006cbdb0d0d4e583811f58e83128","ptbr":"Vá ao local marcado no mapa e encontre o desaparecido Jovem Mestre Ji."}
+{"id":"LocalText/taskDesc2110002","revision":"838719b639d8c1261907c53fb8db4fab06b0a896b09cdab1f2ae41c5662c3fe5","ptbr":"Derrote o Mestre da Espada e resgate o Jovem Mestre Ji."}
+{"id":"LocalText/taskDesc2110003","revision":"2a9fc996a9d9724e425d9f01d2736a27bd0f15ef6484234740e33a2df31d9867","ptbr":"Escolte o Jovem Mestre Ji de volta a {mapData108}."}
+{"id":"LocalText/taskDesc2110004","revision":"812722a6ce07e0e800d00e38bedcb3dd3bf8750e3d85975d6520fabe5bdcf73f","ptbr":"Mate Tiangou, que está causando destruição em {mapData108}."}
+{"id":"LocalText/taskDesc2110005","revision":"a2b3e85757979b88c7bda487c34877884449d92f65efb0423a4af77b71a71337","ptbr":"Mate Tiangou, que está causando destruição em {mapData108}."}
+{"id":"LocalText/taskDesc2110006","revision":"706bb5367f5e06eb4736b153fa7f7f16b8ce479a22495eb341cc0d03afc75e5c","ptbr":"Encontre {itemLink5081455} para obter o legado de Jiaolong."}
+{"id":"LocalText/taskDesc2110007","revision":"cc44a2563c81c579e27944358f9341b6c61d8a4a5d1a7fdc3e30cc4a0f3ba9a9","ptbr":"Para ajudar Xuangui a reconstruir seu corpo, você deve entregar ao Sacerdote 3 dos seguintes Tesouros do Céu e da Terra: {itemLink5081465}, {itemLink5081475}, {itemLink5081485}, {itemLink5081495}, {itemLink5081505}, {itemLink5081515} e {itemLink5081525}."}
+{"id":"LocalText/taskDesc2110008","revision":"5735f245564b336c9ca5870cd3fd7f0c97dd9560c6d98dbb5992a905c5db46c6","ptbr":"Obtenha um Elixir de Reconstrução da Alma e entregue-o ao Sacerdote de Gouchen."}
+{"id":"LocalText/taskDesc2110009","revision":"15f15c37d1d6e14bd3512d0fc3ec8a410b9c4e22b6f2304a8ed848bbc82c9783","ptbr":"Obtenha {itemLink6121036} e entregue ao Sacerdote de Chongming."}
+{"id":"LocalText/taskDesc2110010","revision":"5ea2a7f721ab3824f6d3430a8729230aace824c8d796be0d58fab12962cfe3bb","ptbr":"Obtenha {itemLink6121046} e entregue ao Sacerdote de Luwu."}
+{"id":"LocalText/taskDesc2110011","revision":"dd6610cc80cba8d5c5b3315143d9772b4979a1deb162a7b362d9b7c577455866","ptbr":"Siga a orientação da Pedra do Vento Mágico para recuperar a lembrança que Chongming deu ao seu Sacerdote.\\nUse Geomancia perto do local indicado para determinar a posição exata."}
+{"id":"LocalText/taskDesc2110012","revision":"5eea1dc92a0e037b3336578c20353648b1873200dbeb530ed62f37bf47f1b712","ptbr":"Obtenha {itemLink6121046} em Yun Mo."}
+{"id":"LocalText/taskDesc2110101","revision":"cb3bc4abde01dcce2bc3989bbf6202cb11da806ce798d1c4c49a6f961c20a40f","ptbr":"Converse com o gigante estranho no Gelo Eterno."}
+{"id":"LocalText/taskDesc2110102","revision":"f5164bccf11c8811e4e6742d55c52b468a4439a5d9aef4e2e4e14db39da2c70f","ptbr":"Agar parece estar em apuros. Descubra o que está acontecendo."}
+{"id":"LocalText/taskDesc2110103","revision":"8c35c00bdc99039efdc695725463f0da8471e2c993424b6fe214b626798ea098","ptbr":"Descubra a origem do calor insuportável."}
+{"id":"LocalText/taskDesc2110104","revision":"52b95053edd16b4cd3056bfb73bdd1ffa684e295a8ff35705413484d3f97b2a3","ptbr":"Expulse o Demônio da Seca para que Agar possa passar."}
+{"id":"LocalText/taskDesc2110105","revision":"70353b44f854e162908427f51914bba7faff499ba19cdec9ae23a015263618ba","ptbr":"Consiga Erva do Vento Sombrio para o Demônio da Seca, de modo que deixe esta área.\\nA Erva do Vento Sombrio é leiloada em {#areaName8}.\\nO leilão de lá acontece a cada 2 anos."}
+{"id":"LocalText/taskDesc2110106","revision":"229c85b1a51dbbd1875106272753e88162d2a4cd90926bb82de14b9ab3dd2b23","ptbr":"Agar está morrendo. Ajude-o a se recuperar!\\nEntregue {itemLink6361026} a Agar para que ele recupere Vitalidade. Entregue {itemLink6361016} a Agar para que ele recupere Vigor e Saúde."}
+{"id":"LocalText/taskDesc2110107","revision":"643ca9c2e1d266a746bda54419eca3d604ce2f230aab7ec93489456e9602936f","ptbr":"Encontre o fruto que ajuda Agar a recuperar seu estado."}
+{"id":"LocalText/taskDesc2110108","revision":"f7ac42fef8379de7916709d402ea3ad0c7f3fcc570221bcd9cb312ad35be1a74","ptbr":"Encontre a água de nascente que ajuda Agar a recuperar seu estado."}
+{"id":"LocalText/taskDesc2110109","revision":"7a64254226d8f688f1105279c886081e4d92890622b1c97dc8c697b52dda3841","ptbr":"Para melhorar as condições do Rio Wei, você precisa conseguir o Trípode do Dragão da Água com Jimeng.\\nUse Geomancia perto do local indicado para determinar a localização exata da caverna de Jimeng."}
+{"id":"LocalText/taskDesc2110110","revision":"c6ff953a15dcea1ffe69bd1148c97234638a96b76370d6f32d60c24532b17917","ptbr":"Derrote Jimeng e obtenha o Trípode do Dragão da Água."}
+{"id":"LocalText/taskDesc2110111","revision":"858a05f03434932f0cbf5fdb17d83cb2dcfe47f8aa97a24c905e1bb6db011d36","ptbr":"Consiga o que Jimeng deseja para que ele lhe empreste o Trípode do Dragão da Água.\\nColete 3 <r>Peças de Jade</r> quaisquer para Jimeng."}
+{"id":"LocalText/taskDesc2110112","revision":"7a23c2904fa5fbb2bf0cdc6a5cfb62b156b086df815f9ad9cefc81501fb3fa21","ptbr":"Volte ao Rio Wei e use o Trípode do Dragão da Água para invocar chuva."}
+{"id":"LocalText/taskDesc2110113","revision":"d3c17e8facfc4dc42a0a56f3e8d123f37586afbfe5d1b081c8b00115a87cc898","ptbr":"Agar está discutindo com uma criatura do rio. Faça a mediação entre os dois."}
+{"id":"LocalText/taskDesc2110114","revision":"1d7af776d8c1060aead309044a1cf5c6fbbfaaeb9b51209e5f8377ef9d9a8483","ptbr":"Agar perseguiu o sol até os limites das Montanhas do Submundo. Encontre-o."}
+{"id":"LocalText/taskDesc2110115","revision":"10265227bcf12c2366dbc1b22d528bf6db2cf2f117efc14931905e1e33a8b56a","ptbr":"Expulse Carpia desta área para que Agar possa beber quanta água quiser."}
+{"id":"LocalText/taskDesc2110116","revision":"3f65ee12c7a3cf3e98b6ae7568c008d68b04cc8e16876dafc550703e1bb6b6d7","ptbr":"Está QUASE tudo pronto. O último passo — invadir as Montanhas do Submundo!"}
+{"id":"LocalText/taskDesc2110117","revision":"b963d0278d3ec7ab52c7b16bae6e4d89d72a726b195e10bd548a571095fa556d","ptbr":"Sunny revela a você o método para abrir caminho pelas Montanhas do Submundo. É arriscado, mas vale a pena tentar."}
+{"id":"LocalText/taskDesc2110118","revision":"37c409acc8ec93670b585fe5cb766a52eed90a79b03971bff56f6c877c9e6bfd","ptbr":"Agar caiu. Afinal, o sol que ele perseguia era Sunny. Converse com ela."}
+{"id":"LocalText/taskDesc2110119","revision":"0b65aa0917583fe1ebf122310820487d2d64486c0f526a86a72f343fb9d13c9d","ptbr":"Agar caiu. Afinal, o sol que ele perseguia era Sunny. Converse com ela."}
+{"id":"LocalText/taskDesc2110201","revision":"1546b6319630c7a029b7c9d1b49f04f3b5929bffea5d820e5659463df6845daf","ptbr":"Volte à Vila Yukong e participe do sepultamento celeste do Velho Tolo."}
+{"id":"LocalText/taskDesc2110202","revision":"b0420aae86b497b9b7c96c0ebc07c270dbe8077301a5e059ad839a1e0a6a0a5b","ptbr":"Siga na direção indicada pelo Fragmento de Ferro até chegar à caverna onde Jagu costumava viver."}
+{"id":"LocalText/taskDesc2110203","revision":"cf060146af1dbe0bdbfa9998432a6bed06282bf12ed7b0481569f760b020b020","ptbr":"Encontre {itemLink6131026} que sirva para lavar a sujeira da parede da caverna."}
+{"id":"LocalText/taskDesc2110204","revision":"34d123c7c10886a8291f46783f5b04c3b0d70322805d0114337d5625ec07006f","ptbr":"Volte à caverna e continue inspecionando as pinturas na parede da caverna."}
+{"id":"LocalText/taskDesc2110205","revision":"9cab988965a727ad6bcce444689e5f32cd10dc6f5c5d6aec206125938d2eec65","ptbr":"Use Geomancia nos locais indicados ao longo da trajetória do Fragmento de Ferro e localize o objeto enterrado."}
+{"id":"LocalText/taskDesc2110206","revision":"20652eb875578042753c1c0437335e12118b992b15ad6f7763ad3281b033bcd9","ptbr":"Colete {itemLink6131036} do Espírito de Bambu-Espada."}
+{"id":"LocalText/taskDesc2110207","revision":"09d444a2cb54421a49e67be3ab6b4ff91faa276452559d84f1c391fc3dd2f382","ptbr":"Volte à Tira de Bambu e remova seu selo."}
+{"id":"LocalText/taskDesc2110301","revision":"27b826d438a36d466b20bc64b574e0131718f14c85e32330f380f5a72beac12b","ptbr":"Volte à Vila da Dualidade e derrote o Senhor do Sangue que se instalou ali."}
+{"id":"LocalText/taskDesc2110302","revision":"c68aed9d5719969bc011f2773312605b0e68173fa4ffc88ed81b0e289589299b","ptbr":"Siga na direção indicada pelo Fragmento de Ferro até chegar aos arredores da Vila da Dualidade."}
+{"id":"LocalText/taskDesc2110303","revision":"64e6976c7c5a97e4731573838fe53d9da4a0c139f1a6c96434daa93f55f73b37","ptbr":"Colete um {itemLink1011722}, {itemLink1011723} ou {itemLink1011724} e resgate Xi. Os Elixires podem ser refinados usando Receitas de Elixir vendidas nas Oficinas das Cidades de certas regiões."}
+{"id":"LocalText/taskDesc2110304","revision":"dcdd5a3e8abdb2e42d38cd91c09a0d12e7ba8c2dedb02c6a2e6c4fe3a8381bcc","ptbr":"Colete {itemLink5031966}, volte até Xi e quebre o selo da pena da cauda de Bi Fang."}
+{"id":"LocalText/taskDesc2110305","revision":"a8fcc5ed6ad8bbaa98554947a3500a4610f8803674654d74aa39af7130745e21","ptbr":"Derrote a emboscada do Mestre da Espada."}
+{"id":"LocalText/taskDesc2110401","revision":"1ab7ca19edce1ed4d3df18d8d3220b5848a74b5aab2813768306c788ed9a533d","ptbr":"Vá à cidade principal de Yun Mo e encontre-se com Xi."}
+{"id":"LocalText/taskDesc2110402","revision":"dfd74e06da1adf0fc2540d7f0437254efb64acd4bf9e81d3da88b73e96990b5f","ptbr":"Colete um Elixir que permita a Xi entrar no Gelo Eterno — 1 {itemLink1011606} (G3) ou superior. Assim que obtê-lo, vá encontrar Xi nos limites do Gelo Eterno."}
+{"id":"LocalText/taskDesc2110403","revision":"ef7a171470721617165cba1576a77757c0cb734a2d7ec3a1fe3d2da320f61b2f","ptbr":"Colete um Tesouro que permita a Xi entrar no Gelo Eterno — 1 {itemLink6371026}. Assim que obtê-lo, vá encontrar Xi nos limites do Gelo Eterno. Você pode encontrar {itemLink6371026} em leilões em Yun Mo."}
+{"id":"LocalText/taskDesc2110404","revision":"7ff0c733a08921ed2efd698a8beef01423f7cb3d65a31233765a8109d0f95b1d","ptbr":"Siga na direção indicada pelo Fragmento de Ferro rumo a um local na tundra."}
+{"id":"LocalText/taskDesc2110405","revision":"04365292bcf610aae06846132b8e25a965685481ceca84f8ad409010169a7b7a","ptbr":"Leve presentes de homenagem a Tushan Yao para entrar em Tushan.\\n\\nAs raposas se interessam por tesouros que atendam às suas necessidades de cultivo, bem como por materiais de monstros. Elas também gostam de artigos rituais humanos e obras de arte."}
+{"id":"LocalText/taskDesc2110406","revision":"7bef4262f546ca3d6c342a3bafac7973ea2e08dfb88f4dbb617ed05ef33a30c9","ptbr":"Converse com o Ancião das Raposas de Nove Caudas e descubra por que o Fragmento de Ferro apontou para esta direção."}
+{"id":"LocalText/taskDesc2110407","revision":"b2acfec33aef336cb458fadfb6b2a088842280298de4c07dce79411723de956d","ptbr":"Colete {itemLink6371036} e entregue a Tushan Ru."}
+{"id":"LocalText/taskDesc2110408","revision":"7ecbdfe8f34ac360a2dbc3f1ad922e0be06eb07d02eb35d36fe1b204e3569e06","ptbr":"Obtenha {itemLink6371046} no Nexo do Dao e entregue a Tushan Ru."}
+{"id":"LocalText/taskDesc2110409","revision":"8b35dc67d79872e4533529ce12d53e85feb9b61033774e8a3eccb4ab7b95ea6a","ptbr":"Derrote a Águia Demoníaca e salve Tushan Yao."}
+{"id":"LocalText/taskDesc2110410","revision":"3e82f4b3263afd3d7d8ea85e53c1191bf2b8887216fe2cf3d00ecf0d475e5d47","ptbr":"Derrote a Águia Demoníaca e salve Tushan Yao."}
+{"id":"LocalText/taskDesc2110411","revision":"edcbf63a0242b4015a2418ade7003754d9f328b910aa95b93534ba58b6c61f07","ptbr":"Volte a Tushan com Tushan Yao."}
+{"id":"LocalText/taskDesc2110412","revision":"5e845cec4abfae66821e14c924b151a66992623145b881a7765e17f0fc1a2a49","ptbr":"Leve {itemLink6371036} de volta a Tushan."}
+{"id":"LocalText/taskDesc2110413","revision":"c04b0ed403a00e0d70f1048964f61e2e3803997ed6061b5f16185e2280c55838","ptbr":"Leve {itemLink6371046} de volta a Tushan."}
+{"id":"LocalText/taskName111001","revision":"180ef6305543ec5229dfd38b83ed8f926577c41a51ee10f76f63bffee579191b","ptbr":"Matar o Cultivador em Desvio de Qi"}
+{"id":"LocalText/taskName1111016","revision":"b8c4ed2897b92003b649c83c53800e53560d187652ca6add39cf5386a14bf797","ptbr":"Destino: Pavilhão dos Pergaminhos"}
+{"id":"LocalText/taskName1111017","revision":"f91626ae853e5372a57b698705eff59e3e8080fa6b323b71647d3e60eace78a7","ptbr":"Comprar uma Técnica Especial no 2.º andar do Pavilhão dos Pergaminhos"}
+{"id":"LocalText/taskName1111018","revision":"c37fb31b0bec9666e28bb8e4aadb983395c1a5cfb7d75b88ee2e75f33b0dc4b7","ptbr":"Aprender Técnica Especial"}
+{"id":"LocalText/taskName1111019","revision":"1bfb46fb7c0fdfc8b84e51694385ef0c94f6ece60c76c6fb60bf381c3418dcd6","ptbr":"Equipar Técnica Especial"}
+{"id":"LocalText/taskName1111020","revision":"daa755234a3d667b50971b3db89f6742f8f9b061a5340682a42d375e4b1f4fca","ptbr":"Ler o Manual Secreto do Vale Fantasma"}
+{"id":"LocalText/taskName1119001","revision":"249b9346d7736d442f2016fb2783b30ba63b5bff9616f4fa04358b33d24565cb","ptbr":"Comprar Manuais no Pavilhão dos Pergaminhos e aprendê-los"}
+{"id":"LocalText/taskName1119002","revision":"c168e4adab3a8511c666224e43bbc57ee7071742623f7d8e728fbda8555cf997","ptbr":"Ir até {0}"}
+{"id":"LocalText/taskName1120001","revision":"db94f96687589347c613e37ed2ed6ea773dca93ec9f07d33c3345629e3afd10f","ptbr":"Destino: Cidade"}
+{"id":"LocalText/taskName1120002","revision":"1f98c8a7d30938b62b457a24269ab223f469c6c4086e4fbd6f7ab4478fe4a261","ptbr":"Destino: Cidade"}
+{"id":"LocalText/taskName112001","revision":"ee4835f4dc79736aeaddb25e6455388918087b48a61fbf2916b318b73df56813","ptbr":"Recuperar {item}"}
+{"id":"LocalText/taskName112002","revision":"3ef64379131af261234b5c3735642515dc4dbb6ccca50a8a4404cad613d2f0a0","ptbr":"Recuperar {item}"}
+{"id":"LocalText/taskName112003","revision":"715f90e6390e8606c09b5331ae3bc852e15e3ae7703f70f8dbd68a41da94b727","ptbr":"Recuperar {item}"}
+{"id":"LocalText/taskName112004","revision":"b65b596258e7ac2eb0b0dd8c026ce590ea363288b04a6198261b1bcc7d364b9c","ptbr":"Recuperar {item}"}
+{"id":"LocalText/taskName112005","revision":"80a9f9e19c3f5af19eb44446a1e33b782e1d7f0191908139d245318d4a795901","ptbr":"Recuperar {item}"}
+{"id":"LocalText/taskName112006","revision":"cb4475c5082b93bcb6183fcae1f911f34e9d5013a41bfed180d46df571cb5072","ptbr":"Recuperar {item}"}
+{"id":"LocalText/taskName112007","revision":"77b2ac5cf581ef082865475548a23629c01dbad5bf6439fae7468c61dd05abce","ptbr":"Recuperar {item}"}
+{"id":"LocalText/taskName112008","revision":"e4f663ea2364d11b955dd315368421cef0b08857de67f99def0687acdf83a55b","ptbr":"Recuperar {item}"}
+{"id":"LocalText/taskName112009","revision":"f0c1f36199c66fa478f19f8aad88bdfe2d764a04a6018d0bb05432a711f6f909","ptbr":"Recuperar {item}"}
+{"id":"LocalText/taskName112010","revision":"04d644f6df43f3d2b0f5c916f3a0d10cbda47da072a0374886e6eccd88976cbd","ptbr":"Recuperar {item}"}
+{"id":"LocalText/taskName113001","revision":"d24309ed5767cfe52ca17aa2f2a3cc8bc12fad21a482751df70f1cff96e9e7e2","ptbr":"Ajudar {releaseUnitName} a localizar o Covil de Feras"}
+{"id":"LocalText/taskName113002","revision":"561aaa83b61c288083bdf25471be9adeb4281cd2550b874315c7c86fb09cd3e5","ptbr":"Ajudar {releaseUnitName} a localizar o Covil de Feras"}
+{"id":"LocalText/taskName113003","revision":"7a509b43e1f9172da346c651482b7612d0be475e484331c45a3be34ee6b44da0","ptbr":"Ajudar {releaseUnitName} a localizar o Covil de Feras"}
+{"id":"LocalText/taskName113004","revision":"c52390b1e2dca6793be1ee8aa09892996842d801991fd6d83e3a5131c600ce50","ptbr":"Ajudar {releaseUnitName} a localizar o Covil de Feras"}
+{"id":"LocalText/taskName113005","revision":"934f35649931aa3f0ad8860028ac96142f74571204a8fd5bb93d6ef785fb6aaf","ptbr":"Ajudar {releaseUnitName} a localizar o Covil de Feras"}
+{"id":"LocalText/taskName113006","revision":"5e1e2545da0683a34200cc575608da9e08d7ea9faf9a10d33e2077f1ab0a1765","ptbr":"Ajudar {releaseUnitName} a localizar o Covil de Feras"}
+{"id":"LocalText/taskName113007","revision":"19e48b531798fca4ec94db97989d3833a7f6a7b2666fc60474a3d71bfeb4c58e","ptbr":"Ajudar {releaseUnitName} a localizar o Covil de Feras"}
+{"id":"LocalText/taskName113008","revision":"5bb28335a1e8fef54d4fbd066e70cea69aad2debf3aca9dffc8676bd2b444711","ptbr":"Ajudar {releaseUnitName} a localizar o Covil de Feras"}
+{"id":"LocalText/taskName113009","revision":"1a8ac451e2675034e2f277850662f8a72e360f7a2fe8b53a9270304c7dca12e4","ptbr":"Ajudar {releaseUnitName} a localizar o Covil de Feras"}
+{"id":"LocalText/taskName113010","revision":"5e8a65d56d75d2609a9e909cbe7337e740ff654d2bdf9f51b525e63fdb3af91d","ptbr":"Ajudar {releaseUnitName} a localizar o Covil de Feras"}
+{"id":"LocalText/taskName114001","revision":"066d004eee59b253e12243de263d67ed5699b5b5cc29cb277eb9bfa20a0a76be","ptbr":"Ajudar {releaseUnitName} a localizar o Covil de Feras"}
+{"id":"LocalText/taskName114002","revision":"a4e2e4055a9e3b447c4d3befad90c65ae1ef64268b52182b3aef75fff636033a","ptbr":"Ajudar {releaseUnitName} a localizar o Covil de Feras"}
+{"id":"LocalText/taskName114003","revision":"299ea292f2bb3a6e26502dec31e881367b18262d9e29a10638fe800e1f6ce4e6","ptbr":"Ajudar {releaseUnitName} a localizar o Covil de Feras"}
+{"id":"LocalText/taskName114004","revision":"b6f199de677c8946659fa60ad44cb7ea75747b897f8e0f43240e1a24f0910874","ptbr":"Ajudar {releaseUnitName} a localizar o Covil de Feras"}
+{"id":"LocalText/taskName114005","revision":"069982c45c044d8d3ebc2c777f4e0616338d09b398751fdb78b8195dde3326ff","ptbr":"Ajudar {releaseUnitName} a localizar o Covil de Feras"}
+{"id":"LocalText/taskName114006","revision":"55b02bb72e82639b27c20bdf1ae012d661d2da7cfc7775df3a5f48a56af3101d","ptbr":"Ajudar {releaseUnitName} a localizar o Covil de Feras"}
+{"id":"LocalText/taskName114007","revision":"571875f73b2e5b39b03df13e9bc4383e7babef89201fde795044fbf083a4e16f","ptbr":"Ajudar {releaseUnitName} a localizar o Covil de Feras"}
+{"id":"LocalText/taskName114008","revision":"f5bdc91f54b13f3546d672eed8e50749db0374fe4eb52f573c031fd41eaed9c5","ptbr":"Ajudar {releaseUnitName} a localizar o Covil de Feras"}
+{"id":"LocalText/taskName114009","revision":"8c10b4d9fca3c56f38f2228e7921de7ce432bf3987e79ff35adf7fd5decff35f","ptbr":"Ajudar {releaseUnitName} a localizar o Covil de Feras"}
+{"id":"LocalText/taskName114010","revision":"9d7f2418bfba9a456eee826ef9ca2cf6e73bdfdcd9c63a5bbbffda59a640f528","ptbr":"Ajudar {releaseUnitName} a localizar o Covil de Feras"}
+{"id":"LocalText/taskName115001","revision":"103258f39f38d2e6b3d892d035986090c4c3dc30116d4cfcd768d67e7f840488","ptbr":"Resgatar {salvationUnitName}"}
+{"id":"LocalText/taskName115002","revision":"e4d3ba9af34b4c03f5c8b298f18d63c6e9deae38cc5d98e2690b70d935d25500","ptbr":"Resgatar {salvationUnitName}"}
+{"id":"LocalText/taskName115003","revision":"60cdf3e115404cdaf689564fd96039fcec5c6241c04c59d51c0f30ca9415740e","ptbr":"Resgatar {salvationUnitName}"}
+{"id":"LocalText/taskName115004","revision":"3459b17be195e4cb6756fecef84a2f66afe3e54edbd593967fa8c9dd54876a4d","ptbr":"Resgatar {salvationUnitName}"}
+{"id":"LocalText/taskName115005","revision":"3593acba64cb6ad74fbd26ede9a9cefd0cb4ab3bee089f1957f8bdb1ba056a22","ptbr":"Resgatar {salvationUnitName}"}
+{"id":"LocalText/taskName115006","revision":"d0886ae0690ff493cf3e4af310e2c246f83cfeb8e94065770757c8af89677b26","ptbr":"Resgatar {salvationUnitName}"}
+{"id":"LocalText/taskName115007","revision":"056d0db3612e9af7e52a9fc67fc6ba4863d6d985f1eb218ffff0409c04264516","ptbr":"Resgatar {salvationUnitName}"}
+{"id":"LocalText/taskName115008","revision":"df040fedae03e57af1ad22a39f3542923d8ce0572b5cc37cd7e825450c46505e","ptbr":"Resgatar {salvationUnitName}"}
+{"id":"LocalText/taskName115009","revision":"d49c8dbc3aa331e92adcdd0e2babb63a690b2aad3ce6c264600f2413bc67f943","ptbr":"Resgatar {salvationUnitName}"}
+{"id":"LocalText/taskName115010","revision":"4f4b4697c7cbbfa671e4afaff8deb8393673a1a28cf2a6bf8b9f1d81b8d4953e","ptbr":"Resgatar {salvationUnitName}"}
+{"id":"LocalText/taskName116001","revision":"ab3d472f1db3a96268c18d66a7e3b3e7cc9b409f43385dc1f22c07d7669c920c","ptbr":"Matar {killUnitName}"}
+{"id":"LocalText/taskName116002","revision":"6cc5422014c7a4fa1b0c556caa580c186e9063451bedeb8d079a5e0bb24027fa","ptbr":"Matar {killUnitName}"}
+{"id":"LocalText/taskName116003","revision":"91909255a89b9f0c1d3fedb88d7482110c49ea311c8637f9ca1530a1d6dc4645","ptbr":"Matar {killUnitName}"}
+{"id":"LocalText/taskName116004","revision":"6473bf014e62d39d5eab254e4ae52bd7689753bc2909640282fd816f54d388d7","ptbr":"Matar {killUnitName}"}
+{"id":"LocalText/taskName116005","revision":"2b2e9ab229d4abbd4f53bca49ef8b24fec4247d60981a47a930da3f584dcdc24","ptbr":"Matar {killUnitName}"}
+{"id":"LocalText/taskName116006","revision":"1f820734a9c784ba19c43457b258403942b66c9cfe4ca72d85df8b02259396f1","ptbr":"Matar {killUnitName}"}
+{"id":"LocalText/taskName116007","revision":"5a0a46f1fd9b291fa9ca524337f447bf4e872adea77532b9f7bb5322ca1e87e8","ptbr":"Matar {killUnitName}"}
+{"id":"LocalText/taskName116008","revision":"98baf87d5140508e0319ab58085e2ae229cd3b8ba5c8d789331e2c12551cd6f8","ptbr":"Matar {killUnitName}"}
+{"id":"LocalText/taskName116009","revision":"02875e510cead9d7eef5b5e12725c331efcc15e775587e412888c0b2b6b82772","ptbr":"Matar {killUnitName}"}
+{"id":"LocalText/taskName116010","revision":"a75173947ac94b90ae3cd2c8d2cc8943b264b4273ae4899afa802f9379bb2f6d","ptbr":"Matar {killUnitName}"}
+{"id":"LocalText/taskName116101","revision":"8d3e8701dbeda6e6ea968d6513bd3f269256a81efa60986437ddd37118e2ea11","ptbr":"Matar {killUnitName}"}
+{"id":"LocalText/taskName116102","revision":"0fc665a0825d82b8a615299ddb9d2dd7dce939f045accee69d8e1c303d72c892","ptbr":"Matar {killUnitName}"}
+{"id":"LocalText/taskName116103","revision":"3e0fd822774ea8cf46dc72e46d25bac78c1f569fe5e8f2cffff0c1bb53602f5c","ptbr":"Matar {killUnitName}"}
+{"id":"LocalText/taskName116104","revision":"cee013b936ac5b25cfbaec6f0f89cf35ad7ae53e2053157625617ea8d2eb4ed6","ptbr":"Matar {killUnitName}"}
+{"id":"LocalText/taskName116105","revision":"2bb8b8c67851fd97c40f67c1bad599a180224d2834fc53367e6d042d5117ab87","ptbr":"Matar {killUnitName}"}
+{"id":"LocalText/taskName117001","revision":"0b7f1784db70b6f4bd4899080388c6a8df50a6199c7275cae56516714cd0e3f2","ptbr":"Entregar o pertence de {dieName} a {targetName}"}
+{"id":"LocalText/taskName117002","revision":"6420ebe78bd7153750fd2a691232410b286568716c7dd8e21f35ce98691f21b0","ptbr":"Entregar o pertence de {dieName} a {targetName}"}
+{"id":"LocalText/taskName117003","revision":"6235be74b4939269f6baa5ea4860488fd5a023a0a4b06c56f2f91cbdbcab28ad","ptbr":"Entregar o pertence de {dieName} a {targetName}"}
+{"id":"LocalText/taskName117004","revision":"ee408b4f77aabb7c3c8d43c6c33b467f2a72b38aabbad6a9ef32713f493e51b9","ptbr":"Entregar o pertence de {dieName} a {targetName}"}
+{"id":"LocalText/taskName117005","revision":"52673cc633456c6a4ba18501011f24d47a3f30100df27d68efc32f366f6c31bb","ptbr":"Entregar o pertence de {dieName} a {targetName}"}
+{"id":"LocalText/taskName129001","revision":"2fc2625b05362688f0ff23bed974c50c74567bb68044e65dab4ece47e48a3bb0","ptbr":"Saquear {eventName}"}
+{"id":"LocalText/taskName130001","revision":"695d0910753ff2025a189f593f4f060a4325656bd7e2dea7b59e77b177e32617","ptbr":"Atacar {eventName} ({defendName})"}
+{"id":"LocalText/taskName130002","revision":"7261a8ac8b9cb83eab8e59e083b0aa9668498cc669851432bee101a2effdbc32","ptbr":"Atacar {eventName} ({defendName})"}
+{"id":"LocalText/taskName130003","revision":"0de8c2886df902fd836188adb8b8ddb1fd99208fe9ed0095c07bbcff51285912","ptbr":"Atacar {eventName} ({defendName})"}
+{"id":"LocalText/taskName130004","revision":"452479c1f25d98704c47d30e515c77476536d77befc53178f60b2d7db05cddd5","ptbr":"Defender {eventName} contra o ataque de {attackName}"}
+{"id":"LocalText/taskName130005","revision":"d7c96f80ab3aab3f979b61773dabf9d597cd269e2dbf782f53ac86ebbe57787a","ptbr":"Defender {eventName} contra o ataque de {attackName}"}
+{"id":"LocalText/taskName130006","revision":"18fe685b70861220d6b765f9466adad1e91936c5b09037fb933befd6d65d7366","ptbr":"Defender {eventName} contra o ataque de {attackName}"}
+{"id":"LocalText/townBuildingName2001","revision":"fb97cf24a193c893fe3affcbe542704a2cf8bc2902b95a44806a7785c6ecf18a","ptbr":"Mercado"}
+{"id":"LocalText/townBuildingName2002","revision":"c2a8c3e3b0e7327ba2a1c6b9f2d3d2cc0e71de04ce00a8f98c9189a3edec0bd8","ptbr":"Casa de Leilões"}
+{"id":"LocalText/townBuildingName2003","revision":"26165120d7c4b840c933a3653972f58788dc96a38de27948a6fd3ce6d7e3383a","ptbr":"Portal"}
+{"id":"LocalText/townBuildingName2004","revision":"f1a08c37ae1edf6b2df361fb22961ffe796d274ec79d86276bdd4bcfa23bf185","ptbr":"Estalagem"}
+{"id":"LocalText/townBuildingName2005","revision":"d1fca318c615bbc71abe9314c5ab15899bb14d0c635bba77a7ae8fb1e928e735","ptbr":"Mercado Negro"}
+{"id":"LocalText/townBuildingName2006","revision":"a6f96bab2a144f90daae2c71aa7ea68868751a8f471d0f727845a3ec5210fa7b","ptbr":"Mural de Recompensas"}
+{"id":"LocalText/townBuildingName2007","revision":"2650b3f66409ba93b8f5cef0dc54edf89c1ec0b5c68df5c4cd025aa7940452b7","ptbr":"Reino Místico"}
+{"id":"LocalText/townBuildingName2008","revision":"7d4655d6dd994d124fced2cb9b5bd5127fc417e71c6711db6cd14ba5d2185e76","ptbr":"Oficina"}
+{"id":"LocalText/townBuildingName2009","revision":"212b20a778e26c25c948e6006dca498d43d4ffaeb55a0a2223f53dafe51a91ac","ptbr":"Taverna"}
+{"id":"LocalText/townBuildingName2010","revision":"b0550994a24f8a359586f46e0d86aa3e1ce9eb87ab7c2be2d79efd012c3ef2e0","ptbr":"Pavilhão dos Pergaminhos"}
+{"id":"LocalText/townBuildingName2011","revision":"7654ba38f0d0ed33efa808e3b01945b225bbeb82d17f48235cb8e2412ec34335","ptbr":"Cofre da Árvore"}
+{"id":"LocalText/townBuildingName2012","revision":"af766fc2c3bf7b972b7cba526ec102b351951ca5c9b96744489898a899e8cb18","ptbr":"Arena Imortal"}
+{"id":"LocalText/townName1","revision":"3a12ae390fea8add1469e2caf49a5c50d5e03a2d2ffc50e558db8b306a8a62f2","ptbr":"Long"}
+{"id":"LocalText/townName10","revision":"784270cf6b4dec653b4900a28c0618792702076bea35e387962a46018f8148bb","ptbr":"Gao"}
+{"id":"LocalText/townName101","revision":"ca15ca446ba57abc8fc2b7bb4ddd2a266954fe7f47ab6678525cf233234aa4bb","ptbr":"Ding"}
+{"id":"LocalText/townName102","revision":"612d66807b8f37bdc099e60b636ca8b80a15f1d0e673a5a6d226d8584cf57b6e","ptbr":"Xin"}
+{"id":"LocalText/townName103","revision":"490359ffcf162854e681ca38e4a849cd187a5bb170be5a94665fc399663412ca","ptbr":"Zhou"}
+{"id":"LocalText/townName104","revision":"19cf09607baf2253fecd0072840998d9bf222ea82af5bb9d57b457f69dd9d38e","ptbr":"Lian"}
+{"id":"LocalText/townName105","revision":"8bc8d4c2ad2b3d867f28972fa97458b3cc652414f57b22c2ee1eb9c3d0d733df","ptbr":"Jia"}
+{"id":"LocalText/townName106","revision":"2637ae77b162aeb1db33e576d2869b95adc80fea3fb057245e06e2bf129d1f71","ptbr":"Zhi"}
+{"id":"LocalText/townName107","revision":"b8bf514270b0e537a6b2ac5de401afef073d2f4fc69e428281ed29f1e7634da4","ptbr":"Yuan"}
+{"id":"LocalText/townName108","revision":"8c9ab2552b1e41f87b3d4ec5641d7b950f09e663ba8ff3965c80078b4d77b1e8","ptbr":"Xiao"}
+{"id":"LocalText/townName109","revision":"875ec34daa36b217deb04d779f2a9950b6e5b2bec0cf74c4d4add11c21e09a69","ptbr":"Shang"}
+{"id":"LocalText/townName11","revision":"cabfda9b9c71c52e30df476f85987afb5fc62467c73e7be0441b3f4c11039854","ptbr":"Qing"}
+{"id":"LocalText/townName110","revision":"c30a46bc2706f6fb2b73d8e67d84b8f828bf776c459e599e64ef565bc0a33cd0","ptbr":"Bao"}
+{"id":"LocalText/townName111","revision":"7287309971ea0ae693135628d53333a2a88ea8afa6a54e6f35b8b10e7daa7400","ptbr":"Zheng"}
+{"id":"LocalText/townName112","revision":"7446710f1ddd80e4847d16ad620f541ced5cb739d863b24bc9916d2f460e86d8","ptbr":"Tong"}
+{"id":"LocalText/townName113","revision":"543940b813bf8348cc2556dda4bd72f9b6fa32383b720c710b92f0dc0e6bd8cf","ptbr":"Yan"}
+{"id":"LocalText/townName114","revision":"049b474353eb118df4ae284fbb75a460703b0d761f021a2cba5f34a18d5367b5","ptbr":"Ze"}
+{"id":"LocalText/townName115","revision":"d7581100f68ef9184c227f5d4486e436de7a0f3cd2508ec4683771988cbdfacf","ptbr":"Lin"}
+{"id":"LocalText/townName116","revision":"51461781facbbf1c5e9039e96dfa97470e1a4283e0bc105fac2ac0fca71e8355","ptbr":"Zhi"}
+{"id":"LocalText/townName117","revision":"fd43ca36a897a7fb867980d6e4004189d0382e7fc9638726191fbe214a323d7d","ptbr":"Ying"}
+{"id":"LocalText/townName118","revision":"51a4532a085dd4674e9b6e4ccfd0bf1453ad836e9177ac8b0e9613b0a1a3e235","ptbr":"Xian"}
+{"id":"LocalText/townName119","revision":"b14e6f4b6f6b1e2db38673600711e906080bbf76679e91cc14848768223421fd","ptbr":"Jing"}
+{"id":"LocalText/townName12","revision":"1b13a1c6b28c19ce4e385af0559193670078e174d23f8bb54d1e32fdfb2e79a0","ptbr":"Hu"}
+{"id":"LocalText/townName120","revision":"d97bec8c6377202d8395a7f3cb4bae5ba48e6ca97841fe5ed54343195a75ba26","ptbr":"Wei"}
+{"id":"LocalText/townName121","revision":"c0aaf938d2dc2b701dec43fb4f9597fa121ad1f358be38266791c7243d9f05d1","ptbr":"Xing"}
+{"id":"LocalText/townName122","revision":"f11a31e9822f720f2aaff9ca212ac8223ddf3b60361cd9f34fda927a3234c7fa","ptbr":"Qian"}
+{"id":"LocalText/townName123","revision":"986790e37b6d7a38471fe4db5870c36c1e1406082ed39ce3ef774fe503ebd514","ptbr":"Bian"}
+{"id":"LocalText/townName124","revision":"f0854c30ab82d823513453a99cc06a84c564ae4246bd578d434b021c46d722dd","ptbr":"Kou"}
+{"id":"LocalText/townName125","revision":"202b042b42929c2ca887de5ad110fad57e6e550bf6de36484bb790851fe7ca25","ptbr":"Shun"}
+{"id":"LocalText/townName126","revision":"a34faa93fd20012f92adbbeb6bb86275e34e9b25e2a665632d6ef347d9a224fa","ptbr":"Ji"}
+{"id":"LocalText/townName127","revision":"b67765da5e7f06ac610e1dbbe05bb081783366f33b4b86f59610d781c8b048fd","ptbr":"Xiu"}
+{"id":"LocalText/townName128","revision":"0274d76ec4214ec39138507fde645e2487e9df0d3058d0f83a642f9f192af0f6","ptbr":"Qu"}
+{"id":"LocalText/townName129","revision":"081c4f6be13fb4b43fa27ca009f54b98a0f266404845be6d4bf0fba1866eae75","ptbr":"Yu"}
+{"id":"LocalText/townName13","revision":"c0c453b148f29136ba669ab1c6ed829ba66aa8e2f6cd1cb7a42a38e6bbb1c993","ptbr":"Zi"}
+{"id":"LocalText/townName130","revision":"c535d9c5874db0f3f16a3185565c3251196399afc156d67f0470a5e56d0ab7a2","ptbr":"Yu"}
+{"id":"LocalText/townName131","revision":"af27ae310992d701644bcf660ba71af9fdd3d75c0b3dee6bab0ad2426823d135","ptbr":"Tao"}
+{"id":"LocalText/townName132","revision":"c9fc7f4a076d187c80a12050f8307a68757546700de78cf883298327ff34b36e","ptbr":"Liang"}
+{"id":"LocalText/townName133","revision":"100dcaeb47a17175107a32244bd10d93bedb45869d8d842c330f9a1bfb20e149","ptbr":"Rong"}
+{"id":"LocalText/townName134","revision":"f5a67e04788783b4698bc6c4251802397f424a55b213d18c2bf66a025d7990c1","ptbr":"Feng"}
+{"id":"LocalText/townName135","revision":"16fa647f0a703eaeb6d7dd503e49e47fbf61a20cfd6e9acbef02537e88bbb0c3","ptbr":"Qiu"}
+{"id":"LocalText/townName136","revision":"32699b75fb7f334de5d827b536a29f7aec766cc7f6ba1c6eceadba1de5611e0f","ptbr":"Dong"}
+{"id":"LocalText/townName137","revision":"2f143b8a3b7a40460ccddaea8ea827c8f9369a0c016902d2e719458bb1b9703b","ptbr":"Feng"}
+{"id":"LocalText/townName138","revision":"42941aa65a982e81f9b3b1536ba75ae9be1a3aef4e4b9ac98bb41e962ce1f9ce","ptbr":"Ming"}
+{"id":"LocalText/townName139","revision":"fa5222da90b2ad02c112b90441fa3166e9883dc5c3c72359ac605c32a4bf84fa","ptbr":"Kai"}
+{"id":"LocalText/townName14","revision":"551dcc684b7ea2ae2e9a826d6ea84b146995ecbe0dce70018703aeb614f8a343","ptbr":"Qi"}
+{"id":"LocalText/townName140","revision":"8c7262bdc9183d380ecc824bacf851ff9aaaf918732beb52183f8bc0490bc365","ptbr":"Guang"}
+{"id":"LocalText/townName141","revision":"4a649f8db520525959221eb5e3d408b492e16a399c204698f2dc49a495d6e254","ptbr":"Da"}
+{"id":"LocalText/townName142","revision":"5cffa87f02b23db77edc26421f52aec840c91cc1baa8bd46852a7417b0a92be3","ptbr":"Wang"}
+{"id":"LocalText/townName143","revision":"b00418c271e319817a9b0688cdba680f14ffe5d09ecbc50c88dd73cf6d01a8a7","ptbr":"Xiang"}
+{"id":"LocalText/townName15","revision":"6a9a7e88bf7f48284db6d2b678a6c1608353efa103c719ba02f019e660790056","ptbr":"Jing"}
+{"id":"LocalText/townName16","revision":"022d6a778a84aa14f3356795646cfd2336460032a25902fbed3b16eb87909356","ptbr":"Xing"}
+{"id":"LocalText/townName17","revision":"5a5e293ca76b054d69378711d54c2f528ad500f8e7d5426353f89c080aeffe89","ptbr":"Heng"}
+{"id":"LocalText/townName18","revision":"a20dfbb6ef630553ed99137b9e276a042df2d5cc150239bee518c1405ccf6af6","ptbr":"Qi"}
+{"id":"LocalText/townName19","revision":"60866526eb9fe1ab2f230bde514cadd64cc22de699faedfcce99454d65575641","ptbr":"Ning"}
+{"id":"LocalText/townName2","revision":"1d13b8af50aae00e62549c2e36f79ce98a947d810d18fe858b85462c79342eea","ptbr":"Tian"}
+{"id":"LocalText/townName20","revision":"d6a61df2f51f9b35600113f8ab551a33eac2f9afc6d3c21528ccc17e4580544a","ptbr":"Ping"}
+{"id":"LocalText/townName21","revision":"39d8bcb6ccc1d4a1f4a4fbdf84b3dfcc11435fc7c572a1f7e33f37b8b4938384","ptbr":"Qing"}
+{"id":"LocalText/townName22","revision":"417512d9d54617f37b57a15a6cf9464bebba523f79937ec2570c3cd97805d764","ptbr":"Feng"}
+{"id":"LocalText/townName23","revision":"6585a8e3c35abcc81c025976b40cd0e8243225b4455d054d7e0a87b2c8673a8c","ptbr":"Wu"}
+{"id":"LocalText/townName24","revision":"24fae0ce7e9ad7a4ac39419ff07f2e53b1fd1fb2beceb36732e7dc6755ffb0d9","ptbr":"Yong"}
+{"id":"LocalText/townName25","revision":"a39a3375712298dd939338d1ca8b0b85b703fbaf472e896c8d95b7664df8a277","ptbr":"Shui"}
+{"id":"LocalText/townName26","revision":"d31177d3540252c65f756b6ed8e4e81d0050cd8ae2ab2ffa512812e434fd96a0","ptbr":"Feng"}
+{"id":"LocalText/townName27","revision":"f16ea7ea15fb4a8d9548786ae789718ec14f6086bba00ecc79c3bc9e975c0535","ptbr":"Jiang"}
+{"id":"LocalText/townName28","revision":"35f020c39d99a8b09ded43d3ee9f1223301c3a05029f80ce5afe91fd235b342c","ptbr":"Hang"}
+{"id":"LocalText/townName29","revision":"9899e52fa7f63aae31a45eb7a19a27886c0d6ef551fc3ac61b8706820575d62a","ptbr":"Chao"}
+{"id":"LocalText/townName3","revision":"0c1985603b395383cd0a557fc3d5f63d2c77e534001b650b9084262d737202bd","ptbr":"Jin"}
+{"id":"LocalText/townName30","revision":"675aa1e1bb31ecbe76b2bed096ea4a4a76f1fa12bfa509da5f5a364e3459b990","ptbr":"Ling"}
+{"id":"LocalText/townName31","revision":"17311ca33feb0f34553dd2ca4b83344cfe9de2e3f76fc8d835fe0288fc3dcdec","ptbr":"Hua"}
+{"id":"LocalText/townName32","revision":"c5f9f65626af3b1ad5b202202ab55b38c3a9773de44a6a8a26cef25f1cd70672","ptbr":"Dou"}
+{"id":"LocalText/townName33","revision":"02ae49dd1591f4cfdd1f5c60d6660048b5e71193b1cd8af9171557dd0c843cc9","ptbr":"Chun"}
+{"id":"LocalText/townName34","revision":"0f75e923b24dc661545c6664cdbb40d1e008a0775671fde6d49176328d4c2004","ptbr":"Xia"}
+{"id":"LocalText/townName35","revision":"ef4dfdc9f6c87017d748ed13554c26354bf387aa8433f781fa924fcdcc82746f","ptbr":"Wu"}
+{"id":"LocalText/townName36","revision":"0caad0c0ddf3c2f7da61719a8d79dced38707f365a8890ca35a16a7433fb53fe","ptbr":"Wen"}
+{"id":"LocalText/townName37","revision":"d9c6078d1b234adbf976f31a81b665ce9fc88324098d58e09c134597649ce9b5","ptbr":"Jin"}
+{"id":"LocalText/townName38","revision":"ef5baf7b959719e8f03706edfae82171474824cd5e6014bb71a51624e2053db1","ptbr":"Yuan"}
+{"id":"LocalText/townName39","revision":"eeb9a5461242e5e734da97f728191e10ef64978fc5d0e534e88d0ed840e129f5","ptbr":"Bai"}
+{"id":"LocalText/townName4","revision":"816425296f8c06161a42403908b7c3d280f92865103c47b34b2d23fa90e7aea9","ptbr":"Jiu"}
+{"id":"LocalText/townName40","revision":"6bef75b9809fb21890c841136fcb3f952af52c161d15ac62413366868a984b56","ptbr":"Cang"}
+{"id":"LocalText/townName41","revision":"844623b4807b7c08cc55e5a28ffbd973aea0348f788d86e4b1b37bac1012e548","ptbr":"Yu"}
+{"id":"LocalText/townName42","revision":"f77ddc24798da95a5c9ecf149eca483065d01009b73c6861b40eaf191ca1afe8","ptbr":"Xi"}
+{"id":"LocalText/townName43","revision":"3e18278d219395e35383f7cce35f0a72c16028bbda879bc798ae51c73bada36d","ptbr":"Guan"}
+{"id":"LocalText/townName44","revision":"2a933751ff77068a48ae8dfce7103e10349d037f0651ab177f49491ae17f169c","ptbr":"Quan"}
+{"id":"LocalText/townName45","revision":"b033ce79175d644d1fb28aee7f3cf071ec927d93fe1abd405e2886637bbf2b61","ptbr":"Yuan"}
+{"id":"LocalText/townName46","revision":"cee5514a85d38af1a2f0415e1add9c2ba722b86a934f4b6041a5c0d9ffd19c31","ptbr":"Shi"}
+{"id":"LocalText/townName47","revision":"0bcfee70e9dd89c46e1c59257c64d741a334910c91f321cc62141eb899decf83","ptbr":"Ling"}
+{"id":"LocalText/townName48","revision":"7b42297b793ed84c4fa91d7479fdfade46bad5947023f636350a6c24c953cbc0","ptbr":"Yang"}
+{"id":"LocalText/townName49","revision":"7c2dbed6fd4483b812fda2ace6e55396a8f7df530e98a0bb8b64dd6724e1cc69","ptbr":"Hua"}
+{"id":"LocalText/townName5","revision":"603bf5f1ed25d8e561f0f872f9a063c1e689a45f5583a046f6f6ca99e03d165c","ptbr":"Zhen"}
+{"id":"LocalText/townName50","revision":"8603d76d6f5ed329d10e9f2d8f9701f4ff4325c70be57c070a40395971135bb7","ptbr":"Xin"}
+{"id":"LocalText/townName6","revision":"624ae9f1d9073dced1d620b70740ef5145b942bd1e0f8b9d3ae43f1a6329b974","ptbr":"An"}
+{"id":"LocalText/townName7","revision":"bef11dc2bd2ba634fd52699309feeb1811d980f74e9cb71f36968aa7b7615d54","ptbr":"Tai"}
+{"id":"LocalText/townName8","revision":"335ce66ce432fc294e0aa36344576b6d31292374114fe196e10387ce5c7d16d0","ptbr":"Yang"}
+{"id":"LocalText/townName9","revision":"6836e8612f1cc3b3aae689409e1e0c9f2c5dda1dd02c8148ecaf4d1998639038","ptbr":"Sheng"}

@@ -243,3 +243,33 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | Spirit Melting Elixir / Soul Gathering Elixir / Soul Basis Elixir / Soul Refining Elixir | 融灵丹 / 聚灵丹 / 蕴魂丹 / 炼魂丹 | Elixir de Fusão Espiritual / Elixir de Convergência Espiritual / Elixir do Alicerce da Alma / Elixir de Refino da Alma | Distingue `灵` (Espiritual) de `魂` (Alma) |
 | Mitos do *Shan Hai Jing* (Destinos 2416–2421) | 愚公移山 / 后羿射日 / 精卫填海 / 钻木取火 / 夸父追日 / 刑天舞干戚 | O Velho Tolo Move as Montanhas / Hou Yi Abate os Sóis / Jingwei Aterra o Mar / Suiren Acende a Primeira Chama / Kuafu Persegue o Sol / Xingtian Empunha Escudo e Machado | Manter nomes próprios mitológicos (Hou Yi, Jingwei, Suiren, Kuafu, Xingtian, Acalanatha) |
 
+### Lotes 0004–0011 (Itens, Materiais, Alquimia, Bestas Míticas e Seitas)
+
+| Inglês (EN) | Chinês (CH) | Português Brasileiro (PT-BR) | Notas |
+| --- | --- | --- | --- |
+| Pavilion of Scrolls | 琅琊阁 | Pavilhão dos Pergaminhos | — |
+| Mayor's Decree | 城主令 | Decreto do Senhor da Cidade | — |
+| Bounty Missions | 悬赏榜任务 | Missões de Recompensa | — |
+| Mirage Pot | 幻灵锅 | Caldeirão da Miragem | — |
+| Tavern | 酒馆 | Taverna | — |
+| Cultivator Alliance | 仙盟 | Aliança dos Cultivadores | — |
+| Netherworld / Nether Feather | 冥界 / 冥羽 | Submundo / Pena do Submundo | Alinhado a *Montanhas do Submundo* |
+| Divine Soul / Divine Soul Skill | 神魂 / 修炼神魂 | Alma Divina / Técnica da Alma Divina | — |
+| Mythical Beast / Beast Lord / Spirit Beast | 大妖兽 / 妖兽之王 / 灵兽 | Fera Mítica / Senhor das Feras / Fera Espiritual | — |
+| Monster Lair | 妖兽巢穴 | Covil de Feras | — |
+| Spiritlock Circle / Demonseal Circle | 残破锁灵阵 / 残破封魔阵 | Círculo Tranca-Espíritos / Círculo Selador de Demônios | — |
+| Land of Beyond / Mythical Beast Map | 无极之境 / 五岳真形图 | Terra do Infinito / Mapa da Fera Mítica | — |
+| Killer Vibe | 煞气 | Aura Assassina | — |
+| Soul of Chaos / Breath of Chaos / Body of Chaos | 混沌之灵 / 混沌之息 / 混沌之躯 | Alma do Caos / Sopro do Caos / Corpo do Caos | — |
+| Condensed Qi Orb | 灵斗珠 | Orbe de Qi Condensado | — |
+| Soul Stone / Soul Crystal / Soul Jade / Soul Breath / Sacred Soul Breath | 魂石 / 魂晶 / 魂玉 / 精魄之息 / 圣灵之息 | Pedra da Alma / Cristal da Alma / Jade da Alma / Sopro da Alma / Sopro da Alma Sagrada | Usar sufixo `(G1)`–`(G3)` quando graduado; *Jade* no masculino |
+| Tempering Resin / Forge Quartz / Sandalwood Scent / Spiritual Liquor | 淬凝胶 / 锻尘魄 / 尘檀水 / 灵酒 | Resina de Têmpera / Quartzo de Forja / Fragrância de Sândalo / Licor Espiritual | — |
+| Vine | 萝 / 藤 | Trepadeira | Evitar o falso cognato *videira* |
+| Edifícios de Seita (Manual Library / Council Hall / Mission Hall / Martial Arts Hall / Spirit Pavilion / Portal) | 藏经阁 / 议事大堂 / 任务厅 / 演武堂 / 灵阁 / 传送阵 | Biblioteca de Manuais / Salão do Conselho / Salão de Missões / Salão de Artes Marciais / Pavilhão Espiritual / Portal | — |
+| Righteous Sect / Demonic Sect | 正道宗门 / 魔道宗门 | Seita Justa / Seita Demoníaca | — |
+| Heavenly Ranking / Earthly Ranking | 天灵榜 / 地灵榜 | Classificação Celestial / Classificação Terrestre | — |
+| Topônimos adicionais (Youxiong Village / Yukong Cave / Pond of Lightning / East Sea) | 有熊氏村 / 愚山山洞 / 雷霆池 / 东海 | Vila Youxiong / Caverna Yukong / Lagoa dos Relâmpagos / Mar do Leste | — |
+| Criaturas/chefes notáveis (Evergreen / Nine Tails / Harpy / Mushroom Man / Bambuki / Zouyu / Hatuibwari / Lydra) | 树妖 / 九尾狐 / 人面鸮 / 药灵 / 竹妖 / 驺吾 / 雷神 / 开明兽 | Sempre-Verde / Raposa de Nove Caudas / Harpia / Homem-Cogumelo / Espírito de Bambu / Zouyu / Hatuibwari / Lydra | Preservar nomes próprios do EN/Shan Hai Jing |
+| Receitas alquímicas não-elixir (`... Pill/Incense/Orb/Balm/Powder Elixir Recipe`) | 丹方 | `Receita de <Item>` (sem repetir *Elixir*) | Corrige redundância mecânica do EN |
+
+

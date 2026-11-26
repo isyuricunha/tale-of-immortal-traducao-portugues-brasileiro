@@ -1,0 +1,500 @@
+{"id":"LocalText/item_name1011521","revision":"820fa1b8650a921f81f6bc3aa5df1cf3f4a59599a4aed9cc7ad788d27411bbdf","ptbr":"Elixir da Sutileza (G6)"}
+{"id":"LocalText/item_name1011522","revision":"d6ea712be6e1cd89ba4aa51a16c3e45cd4d9d098a8c61c904bef846f7e262c22","ptbr":"Elixir da Sutileza (G5)"}
+{"id":"LocalText/item_name1011523","revision":"7f75b387824b1db64eb32986a32e57b410f2171099492a3ae77238d54ee86b32","ptbr":"Elixir da Sutileza (G4)"}
+{"id":"LocalText/item_name1011524","revision":"ce5d961055a5efb95567c68b6173bea712a61da2e3ea8e276fd9d45634ec0ae1","ptbr":"Elixir da Sutileza (G3)"}
+{"id":"LocalText/item_name1011525","revision":"a3df5db916b1b06240dfc1f9227fd335c06acd66b96520767451b4c91272021f","ptbr":"Elixir da Sutileza (G2)"}
+{"id":"LocalText/item_name1011526","revision":"ccf0652f4bab1e03fdac9e3acdd96b2fe90ae305a63744658602073cbd883c07","ptbr":"Elixir da Sutileza (G1)"}
+{"id":"LocalText/item_name1011531","revision":"2f1ca521a566dbb9f390677ce880edf7ac3410e9ac66039e23bd338d765f53ce","ptbr":"Elixir das Nuvens (G6)"}
+{"id":"LocalText/item_name1011532","revision":"2bbd36388ceabba496235963e3bf6e06f31641ebf9b3a61b8bcf9d948e6c09b3","ptbr":"Elixir das Nuvens (G5)"}
+{"id":"LocalText/item_name1011533","revision":"05d9c9c0a63d41e1ca649d3333df7b36a4a76311d344d331c0580e1cb2701482","ptbr":"Elixir das Nuvens (G4)"}
+{"id":"LocalText/item_name1011534","revision":"cc6b38b5dff7dbb4cc15984f3b58ff240d3114d9eded6ac54294daba2631dda9","ptbr":"Elixir das Nuvens (G3)"}
+{"id":"LocalText/item_name1011535","revision":"2b5f6ec9fcbdf51038b5e9352579627b74e824f72e743e6a22c434b13ef085ab","ptbr":"Elixir das Nuvens (G2)"}
+{"id":"LocalText/item_name1011536","revision":"462ea303a21ea7229f8a3b3c256b0f585198c26b194bc8fb2b7954d3ffdb29e3","ptbr":"Elixir das Nuvens (G1)"}
+{"id":"LocalText/item_name1011541","revision":"c96fcd4767aba048771b9bc6346cbbd5017ac63b32502c9afe9f272283182c79","ptbr":"Elixir das Três Flores (G6)"}
+{"id":"LocalText/item_name1011542","revision":"2c78c3303d0c19298443dd4e769ffbd1f4fc2d59da2d603dd927835a92141b43","ptbr":"Elixir das Três Flores (G5)"}
+{"id":"LocalText/item_name1011543","revision":"3ecdc285b4e04a83ad04dd418bd172652c8c02963f9b40bb207d7dc2f64aa507","ptbr":"Elixir das Três Flores (G4)"}
+{"id":"LocalText/item_name1011544","revision":"033710d43f69b2e92a035f7e5d40057b30452f86df51cf6d58fd3013c748dfbe","ptbr":"Elixir das Três Flores (G3)"}
+{"id":"LocalText/item_name1011545","revision":"6bfaff99a753052fe2a73054ab8046991735bfdc33661aec8bc3e167190084e7","ptbr":"Elixir das Três Flores (G2)"}
+{"id":"LocalText/item_name1011546","revision":"c0ebea92cbdd7927115c9aeb269b0ccd5fa287b7084458e3ec1d4b269a031024","ptbr":"Elixir das Três Flores (G1)"}
+{"id":"LocalText/item_name1011551","revision":"50b5ef73beb33ac55a4c5e9daccbcbfe37e799d69b5ddc0be1b96d8c5aceeda6","ptbr":"Elixir de Transformação Espiritual (G6)"}
+{"id":"LocalText/item_name1011552","revision":"d18879f1978df083d34ddc2c774441b247eb76e125310fbad76e64928837eabf","ptbr":"Elixir de Transformação Espiritual (G5)"}
+{"id":"LocalText/item_name1011553","revision":"84f062a58256e4437a4692b1f27925db5669d85bb071432c6969d3c2d0ab2a7b","ptbr":"Elixir de Transformação Espiritual (G4)"}
+{"id":"LocalText/item_name1011554","revision":"f714c9d0d91e38afc97454c01675f39665c9648db73bbca4b0499c398e0602bc","ptbr":"Elixir de Transformação Espiritual (G3)"}
+{"id":"LocalText/item_name1011555","revision":"04dc67863fb52d5fc528e5d1f84e117e1655faf54e6e53463bafc16eb5ada496","ptbr":"Elixir de Transformação Espiritual (G2)"}
+{"id":"LocalText/item_name1011556","revision":"56e056bf7779be53e77c746c1ccc92239b54992226dc18c9f20ea08c63ba0d95","ptbr":"Elixir de Transformação Espiritual (G1)"}
+{"id":"LocalText/item_name1011561","revision":"8cddec9c7a8c19ecfeacd4ea61d3401133fd5c40c05ebdc2dfcaa02eaba35ad1","ptbr":"Elixir das Seis Aberturas (G6)"}
+{"id":"LocalText/item_name1011562","revision":"e30fb6265e4285c59ed319eacb900da0c331f4e1214cd19f7f200df8c9d0e44b","ptbr":"Elixir das Seis Aberturas (G5)"}
+{"id":"LocalText/item_name1011563","revision":"38c5f80ea1676e7c2445cc4718093bed9a325b1bfb201ed38e3c7784aef7e96d","ptbr":"Elixir das Seis Aberturas (G4)"}
+{"id":"LocalText/item_name1011564","revision":"5ea94c7fce7e323d4d6a1c3f81a2f3e75cf759f94b4320ecaf2d1874dbe5c49a","ptbr":"Elixir das Seis Aberturas (G3)"}
+{"id":"LocalText/item_name1011565","revision":"05f720aa75daad3977057963587d513ad797b296bc8466c8f0cd48b9949e8e82","ptbr":"Elixir das Seis Aberturas (G2)"}
+{"id":"LocalText/item_name1011566","revision":"9b4bce248d56b937a036383545a4779204f45b256d6fe0098a95edaba0395ffb","ptbr":"Elixir das Seis Aberturas (G1)"}
+{"id":"LocalText/item_name1011571","revision":"3ad5914dacbb2f37c6a33c1dfc9d6dc44268e7748d104557da5be118e144433c","ptbr":"Elixir de Ruptura do Casulo (G6)"}
+{"id":"LocalText/item_name1011572","revision":"7bea5c764518d70caa0d19172891afce2d933dda8fbc9819a6f0dd97c3e49774","ptbr":"Elixir de Ruptura do Casulo (G5)"}
+{"id":"LocalText/item_name1011573","revision":"e942a4f951c1a02ef126d3c7356cdf89719c5a97cc01d3d332240995d4881e89","ptbr":"Elixir de Ruptura do Casulo (G4)"}
+{"id":"LocalText/item_name1011574","revision":"9855ba13bda17399a0ee416c9e4b0770d95cce0861547ec84fd266c2cfb442fd","ptbr":"Elixir de Ruptura do Casulo (G3)"}
+{"id":"LocalText/item_name1011575","revision":"b9aac9d16f5ca9ec74d1e4c25ffaf09236bb2c95557b668f05202a0cd4eaad79","ptbr":"Elixir de Ruptura do Casulo (G2)"}
+{"id":"LocalText/item_name1011576","revision":"475907f6183363ab45e4d2806a7320b471819b0a977bcd428eb5d9b9795b2137","ptbr":"Elixir de Ruptura do Casulo (G1)"}
+{"id":"LocalText/item_name1011581","revision":"4b71389060dcef0b6ef6bde9cc8207ac9b50a719f56a1c6d35f9c921dea5eaf9","ptbr":"Elixir de Alma Nascente - Mortal (G6)"}
+{"id":"LocalText/item_name1011582","revision":"d0844f9645b03614fc5295315d13cb28c0d2260a4a383eed33b23b412c305000","ptbr":"Elixir de Alma Nascente - Mortal (G5)"}
+{"id":"LocalText/item_name1011583","revision":"7dd37853bf07dd5185fe03fff490a4007e1ae8fc21dde93a9e70003e4286866d","ptbr":"Elixir de Alma Nascente - Mortal (G4)"}
+{"id":"LocalText/item_name1011584","revision":"ed88372915d710e4328fbf3057d4f30baa712692381155ebcd7b85b7d248dab3","ptbr":"Elixir de Alma Nascente - Mortal (G3)"}
+{"id":"LocalText/item_name1011585","revision":"ece385d941a899cf3bf4cdec771573255113baad319d6f46f95be2181e058038","ptbr":"Elixir de Alma Nascente - Mortal (G2)"}
+{"id":"LocalText/item_name1011586","revision":"ed84efa1e389adc2d1a7607e28dbc157677176777dd2f67a649f08222a8444ad","ptbr":"Elixir de Alma Nascente - Mortal (G1)"}
+{"id":"LocalText/item_name1011591","revision":"6de01e4eabd01425bb291ec5f639e626fee5eb68da512735a933698912b4de6f","ptbr":"Elixir de Formação da Alma (G6)"}
+{"id":"LocalText/item_name1011592","revision":"062e185aaeb83adad735218b49b284b4b5d466c96d762e17e76931b7a284c3bd","ptbr":"Elixir de Formação da Alma (G5)"}
+{"id":"LocalText/item_name1011593","revision":"74139e5be3f44829b151ea605efaf5032af50ffd1f620f3593f7b93253c1c096","ptbr":"Elixir de Formação da Alma (G4)"}
+{"id":"LocalText/item_name1011594","revision":"37808f2d8640404e6dde7ef9776727e7ed875be6f8842eef16fb57876699b9fb","ptbr":"Elixir de Formação da Alma (G3)"}
+{"id":"LocalText/item_name1011595","revision":"7d9928e81185f1566c040d86b2f14e156a7c962ade426a846ffa674341859d5c","ptbr":"Elixir de Formação da Alma (G2)"}
+{"id":"LocalText/item_name1011596","revision":"4a6acd7d4434f32a36ae8fa68f2e91261cb3932e556fbe4e88b15ab0ceb5a807","ptbr":"Elixir de Formação da Alma (G1)"}
+{"id":"LocalText/item_name1011601","revision":"4d58d7f6656a3a873816d0b9cc3aa1217c01bd99a0bbddaaa3a2a2dfada064eb","ptbr":"Elixir de Iluminação (G6)"}
+{"id":"LocalText/item_name1011602","revision":"0d85ad3bdd2d9bf2a8f1fd22f8b7f666ee6cca0682e055ebb9f0a5c5a16537d8","ptbr":"Elixir de Iluminação (G5)"}
+{"id":"LocalText/item_name1011603","revision":"fbf4e0539202bb8658d4ec7873d6af30bbc052d60f52f01e595fc4614cbe91ce","ptbr":"Elixir de Iluminação (G4)"}
+{"id":"LocalText/item_name1011604","revision":"2683a9988cf195c897973d36768b7b164684b2825fd498eccd991ba7fed0067d","ptbr":"Elixir de Iluminação (G3)"}
+{"id":"LocalText/item_name1011605","revision":"ae281fca3db7eff58bed455ed5c3ebdd6d0db496f296dba3833666f3408a6529","ptbr":"Elixir de Iluminação (G2)"}
+{"id":"LocalText/item_name1011606","revision":"8e76b4a4235e15d4108d4f8154d9774449266bc59ec62ef92cbe398a7d0d85a3","ptbr":"Elixir de Iluminação (G1)"}
+{"id":"LocalText/item_name1011611","revision":"eab75a8d236540d4b5ede745dc56caf098ec2d50e9ed4483ff13cef67d73abe6","ptbr":"Elixir de Iluminação dos Três Reinos (G6)"}
+{"id":"LocalText/item_name1011612","revision":"24960ab8485d67fc2c2e159a5fe9aa0e15c7bbeffcab28c03f2acb6f9c5f5c17","ptbr":"Elixir de Iluminação dos Três Reinos (G5)"}
+{"id":"LocalText/item_name1011613","revision":"d2dd278d3374f8b0aac9193d6cc2218a29df0cffe1e7f74dc23c9002eda3b9d0","ptbr":"Elixir de Iluminação dos Três Reinos (G4)"}
+{"id":"LocalText/item_name1011614","revision":"4164384b45fb733146cf02dc407f231bb6a11fd5b11195650a945aaf303868a1","ptbr":"Elixir de Iluminação dos Três Reinos (G3)"}
+{"id":"LocalText/item_name1011615","revision":"7d7563909ab275d01c9be2e4198072ea5a6048dccd610087abf3dbe3daec8f24","ptbr":"Elixir de Iluminação dos Três Reinos (G2)"}
+{"id":"LocalText/item_name1011616","revision":"f5fbaa3391d645e4015eb08888aa8c882a93bfd134fc3e119023008671251fdc","ptbr":"Elixir de Iluminação dos Três Reinos (G1)"}
+{"id":"LocalText/item_name1011621","revision":"535e978e86a1581d871c601c01c24661085e7d758cf4b7f742656c14def5d814","ptbr":"Elixir de Renascimento (G6)"}
+{"id":"LocalText/item_name1011622","revision":"45309a651da49810242a7782c34f76a44f30cfe5f5ebd80d01061aa27c1029f8","ptbr":"Elixir de Renascimento (G5)"}
+{"id":"LocalText/item_name1011623","revision":"a56fb000c45fc8349429273d04e59f49104126ba8e2930ca3bdd21cf60f153e8","ptbr":"Elixir de Renascimento (G4)"}
+{"id":"LocalText/item_name1011624","revision":"639b43d157fa2d2b379b8ce0cd6ef730e4ac8c38d7aea90b57655e827e201095","ptbr":"Elixir de Renascimento (G3)"}
+{"id":"LocalText/item_name1011625","revision":"3125e5797f0a7f6c1b0cf4afd5081e63f40a20b08edaa873e8aa40bc32c0daa0","ptbr":"Elixir de Renascimento (G2)"}
+{"id":"LocalText/item_name1011626","revision":"9409a77368040625c16a5fd47aa5fa87ee9a97e57201fc266e9e99684699ed52","ptbr":"Elixir de Renascimento (G1)"}
+{"id":"LocalText/item_name1011631","revision":"49183a9508c14077e6733b97917254ef0ffac6a2feb1d94e20def44c52cd81b1","ptbr":"Elixir Transcendente - Amarelo (G6)"}
+{"id":"LocalText/item_name1011632","revision":"ccc6964f710d5f787c5baa582e92d286d8e4e76876c45748b44bded23bafd089","ptbr":"Elixir Transcendente - Amarelo (G5)"}
+{"id":"LocalText/item_name1011633","revision":"55ede1b58f67554b97d67d6e307e372f2011ceb0c1a6b8c7d80b996d345ac8fb","ptbr":"Elixir Transcendente - Amarelo (G4)"}
+{"id":"LocalText/item_name1011634","revision":"57dcfb738b3bc48fb12d1a0c3511f2b36280c183fee0c27b7c723c7b8629d050","ptbr":"Elixir Transcendente - Amarelo (G3)"}
+{"id":"LocalText/item_name1011635","revision":"dbf5567daa23a7884e10a3a8433b208e67bdeebd7cd8b0503f019706a86b5e0a","ptbr":"Elixir Transcendente - Amarelo (G2)"}
+{"id":"LocalText/item_name1011636","revision":"8c69d38801d6731d2f93c006a12801735dc7c56497228458c7088e6a1f552e6d","ptbr":"Elixir Transcendente - Amarelo (G1)"}
+{"id":"LocalText/item_name1011641","revision":"3ac3f85a5e26b1b9fef9dc9bd69636b9552a2437ac123888c2a7cdce688eab60","ptbr":"Elixir Transcendente dos Três Caminhos (G6)"}
+{"id":"LocalText/item_name1011642","revision":"2280df55d463235e3196cba60db81788ba977c0b327c56f96b6dc0739cf4e368","ptbr":"Elixir Transcendente dos Três Caminhos (G5)"}
+{"id":"LocalText/item_name1011643","revision":"5fa14909c12096328b4924438037e3800302bfb030f19f43955f85f6adebc470","ptbr":"Elixir Transcendente dos Três Caminhos (G4)"}
+{"id":"LocalText/item_name1011644","revision":"90ef822f63ae3863186fc5fda2a0326e526809dc31f020d50f14a35e1c5b8b8a","ptbr":"Elixir Transcendente dos Três Caminhos (G3)"}
+{"id":"LocalText/item_name1011645","revision":"5b21ed0a49357c24400ae68f661c79c0ed8772481f102f1f7aab072f0bae2345","ptbr":"Elixir Transcendente dos Três Caminhos (G2)"}
+{"id":"LocalText/item_name1011646","revision":"453ef1c6e01a777b9217073c8576c08937d83ff87318578a40f1fdd7706568fa","ptbr":"Elixir Transcendente dos Três Caminhos (G1)"}
+{"id":"LocalText/item_name1011651","revision":"6148acdc4464c21a250d75d4ad7b40ef38b5862d6cc8b627b6335fc36896264f","ptbr":"Elixir do Dragão Majestoso (G6)"}
+{"id":"LocalText/item_name1011652","revision":"2c9f5eb1f166c5b79e4e605773a0b67d8ea94e596430e729aaa2806409ebd631","ptbr":"Elixir do Dragão Majestoso (G5)"}
+{"id":"LocalText/item_name1011653","revision":"796d9e9ee399a9a6d6ce1f06105562ed0653ebc74afbf549ec83b19e7482c011","ptbr":"Elixir do Dragão Majestoso (G4)"}
+{"id":"LocalText/item_name1011654","revision":"79fd478802a3d5a589c87ac72f3a1dd35754ace3090d255e5d2d7b800a771854","ptbr":"Elixir do Dragão Majestoso (G3)"}
+{"id":"LocalText/item_name1011655","revision":"52c670c47d28616b52b8644f9601940910f2d881cc1fe41a4c24b93edd776712","ptbr":"Elixir do Dragão Majestoso (G2)"}
+{"id":"LocalText/item_name1011656","revision":"276872047714363f3dec17a9916862f5ac43559806595636f06f8fa46e9b2f33","ptbr":"Elixir do Dragão Majestoso (G1)"}
+{"id":"LocalText/item_name1011661","revision":"0954c5a8b65081784beb326d299c374e0c2b8a86af5441dc229cb02060975643","ptbr":"Elixir do Coração de Gelo (G6)"}
+{"id":"LocalText/item_name1011662","revision":"e6c726dcc2e004788785aab295b7af29a0fe0ffc9e6ac41ee1b84dd97bd4bc53","ptbr":"Elixir do Coração de Gelo (G5)"}
+{"id":"LocalText/item_name1011663","revision":"71e24f605f44079e6ed607709e35413c30279bc7f69b5333a79da127b8f16355","ptbr":"Elixir do Coração de Gelo (G4)"}
+{"id":"LocalText/item_name1011664","revision":"adb91158e79a9d7a3cc99b403fb3bccdbe9f05e9197ab24a2fa1b42f20a850e5","ptbr":"Elixir do Coração de Gelo (G3)"}
+{"id":"LocalText/item_name1011665","revision":"39d3ff26b1bda38deef1c5a769fb88ea0f85366aec3febdde7a9ac872e98fc7b","ptbr":"Elixir do Coração de Gelo (G2)"}
+{"id":"LocalText/item_name1011666","revision":"fe2a96c5a5a6a4af8748774190d2f7ca92d88227d3b2eab650ae370ff7a75d0f","ptbr":"Elixir do Coração de Gelo (G1)"}
+{"id":"LocalText/item_name1011671","revision":"3ad4692cda7f843bbae46c9160aa76257d61eb23b846d011d5d3c35aca38c75a","ptbr":"Elixir do Dragão Azul (G6)"}
+{"id":"LocalText/item_name1011672","revision":"8e6ddafea86b5452c5e61e83852fb4328675810672a4b56488d8fc93f9602824","ptbr":"Elixir do Dragão Azul (G5)"}
+{"id":"LocalText/item_name1011673","revision":"e7cffe76abf19702f0fea564f285049ebd651aa99fdeb0de16d9665fdde00e1e","ptbr":"Elixir do Dragão Azul (G4)"}
+{"id":"LocalText/item_name1011674","revision":"17a05af1c27ae5d6596dfccb5d27e20c1aa2c811c5a708cecda305bfb77bb6ee","ptbr":"Elixir do Dragão Azul (G3)"}
+{"id":"LocalText/item_name1011675","revision":"c7ca3ef1b6991495bd6b5dfbc5e652ef48b9f4910933877988388a9a1aeb1b67","ptbr":"Elixir do Dragão Azul (G2)"}
+{"id":"LocalText/item_name1011676","revision":"0d6ece4af66899c50b2b2efaf6deb5139514c64bc469f506115e89d102fe88d1","ptbr":"Elixir do Dragão Azul (G1)"}
+{"id":"LocalText/item_name1011681","revision":"d2df25bd2ffb2816d50d846cdb56638f7a08f3c8fbec02a959cfbac7e51540b2","ptbr":"Elixir Estelar (G6)"}
+{"id":"LocalText/item_name1011682","revision":"8a2f77b6f6ef928a9039d56fce28dce3a752fabd52412d48b824b8f860bb1f0a","ptbr":"Elixir Estelar (G5)"}
+{"id":"LocalText/item_name1011683","revision":"4faaa61dd25820a595fff467b04ca4fdb8557b6719aa9524e808e99b33c44b7f","ptbr":"Elixir Estelar (G4)"}
+{"id":"LocalText/item_name1011684","revision":"cbe2402f2a4466a365f7fa10858a9a6cabb87ac19315a3401249883d539781b2","ptbr":"Elixir Estelar (G3)"}
+{"id":"LocalText/item_name1011685","revision":"8d6de0da99574f03185729851d64558b5b7f852f314f90a55ad24682d186e838","ptbr":"Elixir Estelar (G2)"}
+{"id":"LocalText/item_name1011686","revision":"ca1d24f846a05f76121d9e19c613c5520ed3938f08ab70203c53fd95b812677e","ptbr":"Elixir Estelar (G1)"}
+{"id":"LocalText/item_name1011691","revision":"c77b540734edb42fc91979c526a9d53ec97c81b568e815557849d2f6ec6552a8","ptbr":"Elixir sem Forma (G6)"}
+{"id":"LocalText/item_name1011692","revision":"8fcedf2406f7f468fdee5b201940b5945d5a0e93ad385e1569a25801672b4450","ptbr":"Elixir sem Forma (G5)"}
+{"id":"LocalText/item_name1011693","revision":"1a9857969bbc41e7205352da74b1a63094046ae8b71616463dbb850c87149c1d","ptbr":"Elixir sem Forma (G4)"}
+{"id":"LocalText/item_name1011694","revision":"c15257b2f5602c6b84c8e9254cbe894dcfaec81e80566a790bf2cfb7cbd6451f","ptbr":"Elixir sem Forma (G3)"}
+{"id":"LocalText/item_name1011695","revision":"3465507387a5a5d60b4a415b2acac7b95351e0cc8609f896a9913f2800b2158c","ptbr":"Elixir sem Forma (G2)"}
+{"id":"LocalText/item_name1011696","revision":"695ef1b9ee81c9763ff3b3922c0904a4f647cdcb78ba406242a820104059a767","ptbr":"Elixir sem Forma (G1)"}
+{"id":"LocalText/item_name1011701","revision":"c16a35cc8d5a4ae9d3af86683bc10fb25036904208d7e51c3aff5f7b1cfc454f","ptbr":"Elixir de Regeneração Óssea (G6)"}
+{"id":"LocalText/item_name1011702","revision":"c17ee06e8a5ea1b1b01133f994b981ccca480925e4d83ae34d6c3f8483d172fb","ptbr":"Elixir de Regeneração Óssea (G5)"}
+{"id":"LocalText/item_name1011703","revision":"2c6eab598fc8df2582d90f1608656300250972997e249288b4b6d6bb15d31327","ptbr":"Elixir de Regeneração Óssea (G4)"}
+{"id":"LocalText/item_name1011704","revision":"80470f133c8221239f00623954073f88f273651a36b55aa511fd3b349a930747","ptbr":"Elixir de Regeneração Óssea (G3)"}
+{"id":"LocalText/item_name1011705","revision":"bb7257550824115da87aa40c7a830482408da5c6633c782e33c50e0de63fe3bb","ptbr":"Elixir de Regeneração Óssea (G2)"}
+{"id":"LocalText/item_name1011706","revision":"869292c11fd3abc844fe867cc00a3571d7ca7f4ae2b52697e4f54d58d1468160","ptbr":"Elixir de Regeneração Óssea (G1)"}
+{"id":"LocalText/item_name1011711","revision":"a2f0ef8826c56f991f4364f2c90ac12fd32e43f36f0c05ca0c2f7188d8e5cb55","ptbr":"Elixir de Cura (G6)"}
+{"id":"LocalText/item_name1011712","revision":"677a47ce265696be5ae3173971ab583c87165df0514c8dcffcaa48f9b60370f8","ptbr":"Elixir de Cura (G5)"}
+{"id":"LocalText/item_name1011713","revision":"ad427a1f65f0228b2fbe11dd7f05bd18f5c8c3249810d0a6e94bc30710b1c839","ptbr":"Elixir de Cura (G4)"}
+{"id":"LocalText/item_name1011714","revision":"1a972ef7d6233076136603a84aec033d9e20498d743ca9ea0ece4fea72d61f21","ptbr":"Elixir de Cura (G3)"}
+{"id":"LocalText/item_name1011715","revision":"bb9cd43f4894c8ebd50e92107e95a2de8e195105d0a70430206a1e77db8428c4","ptbr":"Elixir de Cura (G2)"}
+{"id":"LocalText/item_name1011716","revision":"e14fe79a76cbe3815a44a806f129cca9dde6552395e88c1e2899089ed940a79b","ptbr":"Elixir de Cura (G1)"}
+{"id":"LocalText/item_name1011721","revision":"d9350a93c6c1d38ed4bb1c452be118ad0722bed8624d4cde20ccca54d27f5222","ptbr":"Elixir de Reconstrução Corporal I"}
+{"id":"LocalText/item_name1011722","revision":"250882950dbed847f7fa7d6817662a6f0fa90fef81b33f4ce7e9da662247bec6","ptbr":"Elixir de Reconstrução Corporal II"}
+{"id":"LocalText/item_name1011723","revision":"375926b4d6e56a968f50209d3764e9bb8a5cb5d2409896bb516a33c419427b80","ptbr":"Elixir de Reconstrução Corporal III"}
+{"id":"LocalText/item_name1011724","revision":"08e16bcf6db7f889affac12e38a576a5cb7fb982ab2963a1b6a4242f46dd03b2","ptbr":"Elixir de Reconstrução Corporal IV"}
+{"id":"LocalText/item_name1011725","revision":"6e09c971700df8850f9398255079d70c4576aaeef832eedf5a12f2ce351bba94","ptbr":"Elixir de Reconstrução Corporal V"}
+{"id":"LocalText/item_name1011726","revision":"96c00d8b8a3f26bbc035223a5b5905c1bf45581f6b37bc1b898703a8432ecec6","ptbr":"Elixir de Reconstrução Corporal VI"}
+{"id":"LocalText/item_name1011731","revision":"6e4e914f28e53f6519a4243bc19205852c074314d7203198f1fe26423bccc7d0","ptbr":"Elixir Desintoxicante (G6)"}
+{"id":"LocalText/item_name1011732","revision":"127d6b6e763e7be00a26325c10b21f8287b7fae30cfc10bddc1bff193004f3fb","ptbr":"Elixir Desintoxicante (G5)"}
+{"id":"LocalText/item_name1011733","revision":"eb8b02c33596952f7ebc536e0c6d7fec1d9a7187de03a419c19f5acfc6867f17","ptbr":"Elixir Desintoxicante (G4)"}
+{"id":"LocalText/item_name1011734","revision":"880feeac3df910da5b5afe51af0c67e6fab3c14b4d0b291eec7f7123f29c16be","ptbr":"Elixir Desintoxicante (G3)"}
+{"id":"LocalText/item_name1011735","revision":"917fa32a0c1268ec62aee8499ad924dce76ad7deb5adca0c587b87e6df6843b0","ptbr":"Elixir Desintoxicante (G2)"}
+{"id":"LocalText/item_name1011736","revision":"9206983b20c4d6fa6d77fbd9348772ad67370f647394395b222d0994a419915c","ptbr":"Elixir Desintoxicante (G1)"}
+{"id":"LocalText/item_name1011741","revision":"2afce24657c2e3a99fafb0b59ae4178e2efdc168e8616efd7523330e6d2237e4","ptbr":"Elixir Floral de Cura (G6)"}
+{"id":"LocalText/item_name1011742","revision":"5ea98e9c9a3f13b80aed1a7ee3b5ed8d17bb67392317b68ee9c4de1be8dc3efb","ptbr":"Elixir Floral de Cura (G5)"}
+{"id":"LocalText/item_name1011743","revision":"8c669453391850f7ecbbf7ea549e12f9d833435d1803313c352ede9651e77b30","ptbr":"Elixir Floral de Cura (G4)"}
+{"id":"LocalText/item_name1011744","revision":"20580367af4fdafec30efac1cdcb12ce0c059b6a78700c66161bf414c1f4aded","ptbr":"Elixir Floral de Cura (G3)"}
+{"id":"LocalText/item_name1011745","revision":"adabecc74f10c290b6d345f276a35008ec84d02fc873dea13296b9096b01ff6b","ptbr":"Elixir Floral de Cura (G2)"}
+{"id":"LocalText/item_name1011746","revision":"3de11f2e33b94edb1f588c0053bc7a9d7710f33ddee1fe18c2126a40f8c78e9f","ptbr":"Elixir Floral de Cura (G1)"}
+{"id":"LocalText/item_name1011751","revision":"a44ea2222b63cc943edcc355fa8aeb93b5429cac6ebf8345e753e0c1b6e12e8d","ptbr":"Elixir Taixuan (G6)"}
+{"id":"LocalText/item_name1011752","revision":"3b4258c8e1293fcc5d2681cf44e7f1fe94554fa8782048e37d7d02e63be353fd","ptbr":"Elixir Taixuan (G5)"}
+{"id":"LocalText/item_name1011753","revision":"e04bc258e33b397a1292f04fdc5b6410d7e20159b3ccc21db0271ee4d577464d","ptbr":"Elixir Taixuan (G4)"}
+{"id":"LocalText/item_name1011754","revision":"76983f97f103a88ead1e2e093b6b8263514eec1bb433cbee78344bed0d24af87","ptbr":"Elixir Taixuan (G3)"}
+{"id":"LocalText/item_name1011755","revision":"90bed3a41038f3c034603cf2c9c22840f93d9e2f599f513e56d26c8733babec0","ptbr":"Elixir Taixuan (G2)"}
+{"id":"LocalText/item_name1011756","revision":"d5cf2801642cbb3f000496bbc32a32db1867f9c0390346354396600856f36883","ptbr":"Elixir Taixuan (G1)"}
+{"id":"LocalText/item_name1011765","revision":"0b1130094c75bdc757603ffd61f1c35c514734254aaf7c45a24da3e8ac92c659","ptbr":"Elixir do Caos"}
+{"id":"LocalText/item_name1011775","revision":"9a38e9131966ad00d5f9f16432b41aec71d4ff37420ea74d3ac7d781238ba597","ptbr":"Elixir da Harmonia"}
+{"id":"LocalText/item_name1011785","revision":"21dd72fa64a36bcfa6808c78ac55f7573481a1c5d405f539415f9f6624c84bb7","ptbr":"Elixir de Forja do Fogo"}
+{"id":"LocalText/item_name1011795","revision":"e18bd6b5ab3dce303cc5bcfa2e8959ea7ce6beca8ccb001eda073a3892719808","ptbr":"Elixir de Forja da Água"}
+{"id":"LocalText/item_name1011805","revision":"516e1b66d97a8e4d718e84396b833f67575cc561eac2133ba15873508f2239d4","ptbr":"Elixir de Forja do Raio"}
+{"id":"LocalText/item_name1011815","revision":"41d63e5ed827c22a75972bd491fbf0b82b1fbac1a3f819b0f9d62efaaa3debc0","ptbr":"Elixir de Forja do Vento"}
+{"id":"LocalText/item_name1011825","revision":"97ba9fb4a8635695fe16e69a5c25792689d116e6f6e98e667060d52bff1b70c7","ptbr":"Elixir de Forja da Terra"}
+{"id":"LocalText/item_name1011835","revision":"e7538574a06f749cb74dd0c7a73b73635e9532f79c41a6f31cf64e4ed26dfa3d","ptbr":"Elixir de Forja da Madeira"}
+{"id":"LocalText/item_name3011011","revision":"a8ade3f61af86a5b40679e9b882ed99da4d5b44dc7ca91a12cf292444f0e35f1","ptbr":"Anel da Pedra Submersa"}
+{"id":"LocalText/item_name3011021","revision":"f17b96f47780ee2e339a633839c6362a172b436932474db156294eaeec5bffeb","ptbr":"Anel de Pedra Endurecida"}
+{"id":"LocalText/item_name3011031","revision":"80ac6c272f7f2d1aefff62ab6cb5ef8bd2bd43091037e7b68a083cbccf3c580c","ptbr":"Anel Fende-Rochas"}
+{"id":"LocalText/item_name3011041","revision":"7847491fb67d3160e954c56858e714aca68d5e9a61377c93c4c453277e1fa944","ptbr":"Anel Estilhaça-Rochas"}
+{"id":"LocalText/item_name3011051","revision":"6367c180cece967262bcd161f544b7f127453f060f9293ab4cfd98c5b4d0436a","ptbr":"Anel da Pega Espiritual"}
+{"id":"LocalText/item_name3011061","revision":"c57f21fa54ea5d8d00e55f157daf7d1a4e1a620e47abde7997463aac9d11c926","ptbr":"Anel da Alma Cálida"}
+{"id":"LocalText/item_name3011071","revision":"ecee251001c1022f8a1d339119ad8f9cc0bc0b8568cab0f79cab71b32594fa37","ptbr":"Anel Nascido do Fogo"}
+{"id":"LocalText/item_name3011081","revision":"d3fe42abf31b2f6d0c4da4be79d5b250beb7a52e2d377a186148ed5490782f59","ptbr":"Anel do Fulgor"}
+{"id":"LocalText/item_name3011091","revision":"d229db6182e2c165b91001351e696346a34a27d2d91fe4f0a47b885ca4b96d89","ptbr":"Anel da Alma de Jade"}
+{"id":"LocalText/item_name3011101","revision":"811c32f8a5370c4a812f2bf38b947c582139a3a24e8054b73af2cf7faf8e87c2","ptbr":"Anel de Poeira Estelar"}
+{"id":"LocalText/item_name3011111","revision":"46a5c6ae5dd2849eaa2d18ec31731d4645cc83b23b9989db40f7a95c84bcdbc3","ptbr":"Anel Abençoado da Pedra Submersa"}
+{"id":"LocalText/item_name3011121","revision":"97cdf8feb5cb61df819c25dd412fae10f9933f3ec54e4833487a1ee8b9b03a57","ptbr":"Anel Abençoado de Pedra Endurecida"}
+{"id":"LocalText/item_name3011131","revision":"535966e105a6fa603ce8beea36caa1fae8914b3d94180e7c8010b516a176be18","ptbr":"Anel Abençoado Fende-Rochas"}
+{"id":"LocalText/item_name3011141","revision":"96ace0febcaf78bdd0cd827d3ee3e40a38e7392fc8c1c73c90bfcb0b95aaaa86","ptbr":"Anel Abençoado Estilhaça-Rochas"}
+{"id":"LocalText/item_name3011151","revision":"94698bdb3544ce7d0758fcd4b6dcf4c4eecedca9b83cae9d3f688ad4360d653f","ptbr":"Anel Abençoado da Pega Espiritual"}
+{"id":"LocalText/item_name3011161","revision":"b436196e23880d0b027714e893a59b6e90f33b7ccde00e4e9e14e57db96ee85e","ptbr":"Anel Abençoado da Alma Cálida"}
+{"id":"LocalText/item_name3011171","revision":"887c60de22afcefd240e885ee25a6d0fd8218109c5670bb93f5c924bf0241675","ptbr":"Anel Abençoado Nascido do Fogo"}
+{"id":"LocalText/item_name3011181","revision":"5f48fdae0e76b0453a4d403b3af9bc80fbb8889ce80db92f9018c8e058ca5368","ptbr":"Anel Abençoado do Fulgor"}
+{"id":"LocalText/item_name3011191","revision":"2c4eafa1c907a78362473dc4994a53f63b034152bf2273af361700765f285b9b","ptbr":"Anel Abençoado da Alma de Jade"}
+{"id":"LocalText/item_name3011201","revision":"29a0c7a9ca726e83f2582513333219e4596dbc788d7215896f1dbbfe4d379691","ptbr":"Anel Abençoado de Poeira Estelar"}
+{"id":"LocalText/item_name3011341","revision":"ba68ee603a731ce3e62af2673421588da639b23d23f5ff1a542978d7d94d3b82","ptbr":"Anel do Olho de Fogo"}
+{"id":"LocalText/item_name3011361","revision":"7406be291eff0226f48dc45e2bbac4e5c6a60ca8adf4692c123b968dfa6379b7","ptbr":"Anel da Iridescência"}
+{"id":"LocalText/item_name3011381","revision":"47c937dea1086b5a23c86e2269b1dd7cb5bbd296199f05d70c5685479ba02e8b","ptbr":"Anel Colhe-Estrelas"}
+{"id":"LocalText/item_name3011401","revision":"3c11b8f6def77e4fd57e78b177b71ac2e256126ed99738447921b1a95e3b90e4","ptbr":"Anel da Ocultação"}
+{"id":"LocalText/item_name3011441","revision":"71747e05703c6ab3958f8d2ef8772a3ae74a94a78435686bc51d0d510855cf65","ptbr":"Anel Ascético do Olho de Fogo"}
+{"id":"LocalText/item_name3011461","revision":"9f19c50e7c93d1184fda989190eff1611ae432e704331d916926f6b55e2a3251","ptbr":"Anel Ascético da Iridescência"}
+{"id":"LocalText/item_name3011481","revision":"990645108527a0eae0983c309be9e4ff394f7602c44555d4ac31e07b517231f4","ptbr":"Anel Ascético Colhe-Estrelas"}
+{"id":"LocalText/item_name3011501","revision":"6f6e75a12da7cfe817b95fa2c2d6170497eb6ebbef8cf347111ac3db5b5c9dfd","ptbr":"Anel da Ocultação do Submundo"}
+{"id":"LocalText/item_name3021011","revision":"27c44884aed41a1dde1aef95401eca9232cb504985ae5c72a00ded88b0d4b8eb","ptbr":"Zouyu"}
+{"id":"LocalText/item_name3021021","revision":"ef96bb103fc14c103ccc8ce75815669350295a8ca4e733d2944f70c30e3b608a","ptbr":"Tenghuang"}
+{"id":"LocalText/item_name3021031","revision":"0739e5ce36376b160fcdc7fdb1c7ee1c38b7a3578fc022c42817beb76e6821f3","ptbr":"Longyu"}
+{"id":"LocalText/item_name3021041","revision":"e9e3aaf4bc3166665af36e81de04ca34e5405347337e3d6c43d9d475fe307ead","ptbr":"Espada Voadora"}
+{"id":"LocalText/item_name3021051","revision":"9752e5a490c82235af8c2c4e4c233a3616089c8e991896a1e84ca645933ceb49","ptbr":"Espada Voadora"}
+{"id":"LocalText/item_name3021061","revision":"dea76abf6d27bfa4035fd7b31ba0668988de365a3ea9bb5439132f6bd6ed436e","ptbr":"Espada Voadora"}
+{"id":"LocalText/item_name3021071","revision":"8b917a0c16a9b77e029bcfd1949e564110f2b34c20c0fb8b9e32e00cf39ce112","ptbr":"Espada Voadora"}
+{"id":"LocalText/item_name3021081","revision":"c438c47503ec1e82c5f72df62c11586127052c4bf0f25b9a6570bed64d364389","ptbr":"Espada Voadora"}
+{"id":"LocalText/item_name3021091","revision":"033372650ac899738aab2c47ae504215c33348fa8fa8bf07be8b576f4852d6b4","ptbr":"Espada Voadora"}
+{"id":"LocalText/item_name3021101","revision":"91f32b635e36eec9a276baaa32bfbd660421dc9967699f1c12aa6798043138f9","ptbr":"Jiliang"}
+{"id":"LocalText/item_name3021111","revision":"4c94d075133a36197f2c12609d6294569206eb6fd2edac15c94bddcd32bbdfa5","ptbr":"Dangkang"}
+{"id":"LocalText/item_name3021121","revision":"5c69d6266021d3750f38d7751ead01f1e4739c8ebbea66f0668b04fe4ac3ceed","ptbr":"Quanshu"}
+{"id":"LocalText/item_name3021131","revision":"7204fd508205725c151823789951378fc7f20b047b1a6edfbddc40991b51c53e","ptbr":"Cabaça Esmeralda"}
+{"id":"LocalText/item_name3021141","revision":"a0df88fc7c70333f0535bc54cdb52e719eddf1bddd35f14b06e567d7ea2919dd","ptbr":"Xuangui"}
+{"id":"LocalText/item_name3021151","revision":"fb0d10e771540247d3b021c015b4104b526bf2e3554fcf741236bc55014ddf03","ptbr":"Nuvem Auspiciosa"}
+{"id":"LocalText/item_name3021161","revision":"2ca5653a4da2f58c4139088f39bbede2ecb10eee36d3aac497f800dca1b0e782","ptbr":"Canoa Voadora"}
+{"id":"LocalText/item_name3021176","revision":"3d79b15470a1c8dafb0fca635f298832c2a56b553fcbeae9fa693c732a0b0019","ptbr":"Carpa-Dragão"}
+{"id":"LocalText/item_name3021186","revision":"d1a16288328a38046729490ba7e91c861dcbf7f20c69ea71630d2950c81b07f8","ptbr":"Nuvem Etérea"}
+{"id":"LocalText/item_name3021196","revision":"6dd43083e004a8ec18b13e2038bdd359bf4052897d99f0322f0677327b0abac9","ptbr":"Ovo Cósmico"}
+{"id":"LocalText/item_name3021206","revision":"29ee2dc649b61057b96e3f2ebdc229d13438b291768943ee88e1e4ca1ecff4d7","ptbr":"Barco de Sândalo"}
+{"id":"LocalText/item_name3021216","revision":"f7e353ea1c159e05e46bd44523b20e0fd31a85c617559830fe0e83b89bfb12d9","ptbr":"Nuvem Arco-Íris"}
+{"id":"LocalText/item_name3031101","revision":"ab3c8e97a6a21da6b9c314ac8b3b2ef0d378ebadbd95355bec15d3c1128bdc68","ptbr":"Trompa da Desolação"}
+{"id":"LocalText/item_name3031102","revision":"9158582f9b5ef6fe943f34037585f10163a171e42024754ad8651a2fd7760159","ptbr":"Esmagador de Raios"}
+{"id":"LocalText/item_name3031103","revision":"1ee5db63ab72fd9e84b2d7a6e69adb566f9a2c49fa5319f8e2cc79f797a7cd70","ptbr":"Sino Cerúleo"}
+{"id":"LocalText/item_name3031104","revision":"2e6f6635e4d82378f66b762fc85f73caa0c8ded55972be07ef0d7e9cf320f128","ptbr":"Máscara Tecida em Sangue"}
+{"id":"LocalText/item_name3031105","revision":"30c4a917427ed6f8a02f372d6612674c27e09f51cfb35ea09524b1262ac4c6bd","ptbr":"Estandarte Solar"}
+{"id":"LocalText/item_name3031106","revision":"f1c2f66c7f001e0331ee04dfde3808c9573bdb01456b377caf2e72b762955cf9","ptbr":"Lago de Pérolas"}
+{"id":"LocalText/item_name3031107","revision":"f7cfe1d9b9d7358d86074dad61dab61d0eb81ca618a9e7435e2e91fd9bf4eed6","ptbr":"Manto Devora-Sombras"}
+{"id":"LocalText/item_name3031108","revision":"a3d27924736c6c94a29b52837fdff16299a06b1464830c48d2357c48ab714e2e","ptbr":"Espada Imperial"}
+{"id":"LocalText/item_name3031109","revision":"3b3c5cc00122c132a2dba7fd9d1f7fe383b01c06bd77f93f6056c0c309283979","ptbr":"Selo Ciano do Devorador dos Céus"}
+{"id":"LocalText/item_name3031110","revision":"974a819c3239453c6e0613dc0ba817569ec31cc746f92492f17dd31fab32eb4a","ptbr":"Guqin Extramundano"}
+{"id":"LocalText/item_name3041001","revision":"12afbff4f468ee0232c14d75df924ef95316d63fb475fffade50590d5ab5cf92","ptbr":"Traje"}
+{"id":"LocalText/item_name3041002","revision":"d452024de16461bc26ef81215cc117912e3004ab525f5088e28c3bddbee826a2","ptbr":"Traje"}
+{"id":"LocalText/item_name3041003","revision":"4ace52a2c5c4b0c4c0edfb635ff2b55bb24632a8a6e454f4f2ca2cdc4806c858","ptbr":"Traje"}
+{"id":"LocalText/item_name3041004","revision":"4f78de573efe1f8f71a3b2683d0497031baa98646378c6aaa20a8bf4b516fcfa","ptbr":"Traje"}
+{"id":"LocalText/item_name3041005","revision":"9152671a32db0908ab3046880128c32ec5789829a5c7e0a7017d35c4b8784d5c","ptbr":"Traje"}
+{"id":"LocalText/item_name3041006","revision":"c77922bf8f778048106ea928d12b6ac0a986efc93ae47cfce99e6cb6fa5bf42a","ptbr":"Traje"}
+{"id":"LocalText/item_name3041007","revision":"7a86209ea6603ea5d0c3abfd1dac0453d469c3362ae749fc5a07fab3a56eea2f","ptbr":"Traje"}
+{"id":"LocalText/item_name3041008","revision":"df08c909f2a1da6c67e36c926c723a3184a2e541cd9c1b0826b04974b0f50d4a","ptbr":"Traje"}
+{"id":"LocalText/item_name3041009","revision":"fc5d26f87033c5f6434d964f06ac0650c802b377a121390e290e01ce2b0f3322","ptbr":"Traje"}
+{"id":"LocalText/item_name3041010","revision":"1c26ecf177b6e291ef9ba5a869e7aefff9e2f0cf7c9caee1fc84d5f5cbe32b17","ptbr":"Traje"}
+{"id":"LocalText/item_name3041011","revision":"846023a2c54ce0176d99887cad200c762e113314e487a1951256aa57a66404cd","ptbr":"Traje"}
+{"id":"LocalText/item_name3041012","revision":"ff3ed0329c097885d713bf7811e7c950ebe27d21b7d8714f616224666fae8692","ptbr":"Traje"}
+{"id":"LocalText/item_name3041013","revision":"667e9309717909d4ce65c216ddf0be7fa1a453d8009ed0a0b762ad459edcd86a","ptbr":"Traje"}
+{"id":"LocalText/item_name3041014","revision":"390c61c3e264ae2265d6c5b516ca0ce5843e765c00821fd14614cf2c8670ac04","ptbr":"Traje"}
+{"id":"LocalText/item_name3041015","revision":"3cd467dc09dba587130981b54327bd85cd22b5477810f89d40f3a7743365c842","ptbr":"Traje"}
+{"id":"LocalText/item_name3041016","revision":"8f2fcc6b67a99c059263f46fd625b1f569a49ba88b289e2761610fb86debead8","ptbr":"Traje"}
+{"id":"LocalText/item_name3041017","revision":"7ee17d3a1582a22f3aaad4aac9d4dbf2cf93e0105b50b0355b62c87c0b45a877","ptbr":"Traje"}
+{"id":"LocalText/item_name3041018","revision":"89305ed60c989c0ebbc4141b65dc70fb6412cadffa12906c2f5f606ab3109afb","ptbr":"Traje"}
+{"id":"LocalText/item_name3041019","revision":"06b917a0d4c8afa45deebf02fdf2874ad598f9455ffb1ec07638911dd58b6663","ptbr":"Traje"}
+{"id":"LocalText/item_name3041020","revision":"b3ac2acb57ae070c52cc28529d6bffc01de2c73db3e202739175f9538c00a96c","ptbr":"Traje"}
+{"id":"LocalText/item_name3041021","revision":"038e1233affdb228dfa71521951a639536b933c06be87f7e3456a7695a4cc3c5","ptbr":"Traje"}
+{"id":"LocalText/item_name3041022","revision":"c2882f5a67624a0c6e31622ac217ef5c8282b38212b461a9c4b1f8fe4b12b6cd","ptbr":"Traje"}
+{"id":"LocalText/item_name3041023","revision":"5204395a9557676bba37976aaf217dfb730cd5f7074aa8397ea2e040dbf1f589","ptbr":"Traje"}
+{"id":"LocalText/item_name3041024","revision":"f2fc416748f9cefac4c665c18ffd21f5bb65eaf38d41affad6c5f3f696fabac4","ptbr":"Traje"}
+{"id":"LocalText/item_name3041025","revision":"a9ead5423294de7efc6f75e86e0d1d8ec82311cf1aedba20391d4c84633c2682","ptbr":"Traje"}
+{"id":"LocalText/item_name3041026","revision":"6e6f4af927993ba715e1b9edf951c7ef54d3b1a361886a380397f6e9e2162489","ptbr":"Traje"}
+{"id":"LocalText/item_name3041027","revision":"230f177538ff8474566618368eb0d2a90d7cd09e712ffa8b4cb8c29f96c4b743","ptbr":"Traje"}
+{"id":"LocalText/item_name3041028","revision":"77d1bcf664446ad91e18985784a8655fa063e498b13c1c6c684cb44e81760c20","ptbr":"Traje"}
+{"id":"LocalText/item_name3041029","revision":"bfd4ff88b1fab5b0e77c4273ec683b95a35d6fdb6e3c4a9052c48273c872cf95","ptbr":"Traje"}
+{"id":"LocalText/item_name3041030","revision":"b4dc2f56cd3cc54b645ebc9da3f5a2a05f3ca3e139c4075810fe8e0dd358ec05","ptbr":"Traje"}
+{"id":"LocalText/item_name3041031","revision":"eae0d00dd96d1c1c980c98ca3b7a72bd602a13cf73f8b410863246859e6ec7a0","ptbr":"Traje"}
+{"id":"LocalText/item_name3041032","revision":"1f457c60d0d256b9c2fcd09ec4cb4fbc2f6c8cc827ac5d905d2aeab314ed52f1","ptbr":"Traje"}
+{"id":"LocalText/item_name3041033","revision":"a0f03cf9a1dd94d137c0896411506014fdd2266345c4e4a344cc623d8d43d5fa","ptbr":"Traje"}
+{"id":"LocalText/item_name3041034","revision":"497536196c4b929adf9b2b0f573362235f4cb4fd6f6ba9260b42ad6eae78c515","ptbr":"Traje"}
+{"id":"LocalText/item_name3041035","revision":"3022efe05c97db8b0d5cc2b29f1e0fdd7381ef71b3d92d78946c6cef74f55c39","ptbr":"Traje"}
+{"id":"LocalText/item_name3041036","revision":"f04b372f3c5f716e5addc8b4d57dd14944c1f1e01f7492ebd8eae6908ca6138f","ptbr":"Traje"}
+{"id":"LocalText/item_name3041037","revision":"c8906304e6dcada2893434b522b1dc15e721efdfb9264855db0c824972215b59","ptbr":"Traje"}
+{"id":"LocalText/item_name3041038","revision":"f65b36b9af87a0c3a33a5038c0c9e1f230aa1f61515664f713ae44034f254912","ptbr":"Traje"}
+{"id":"LocalText/item_name3041039","revision":"e5b13a450a87e74d85115a50d911532bec5abea488cb9536203481685d7aaacb","ptbr":"Traje"}
+{"id":"LocalText/item_name3041040","revision":"7dde08ead37f60dc0b62a8029911a4a3bd0fff09c63ef0c6f7ba94d601b331a9","ptbr":"Traje"}
+{"id":"LocalText/item_name3041041","revision":"ba4e996be4f11a34cde1ff0c72750316d267cb803967d9f32607d219a58f8354","ptbr":"Traje"}
+{"id":"LocalText/item_name3041042","revision":"c6ab2e21ad2b9fe0f7e0deaddbde80529ea7ef2bad54911f5c22b96479b25b2d","ptbr":"Traje"}
+{"id":"LocalText/item_name3041043","revision":"d0f6f4b7621b9e28c1ab8f774a3727da6829f78bb2c1ee1e3dcc8553354a75d2","ptbr":"Traje"}
+{"id":"LocalText/item_name3041044","revision":"91761750c086b5130c12d27ab58d8752a79e275694df53a8e50abcc0387a7b35","ptbr":"Traje"}
+{"id":"LocalText/item_name3041045","revision":"6646f98a0d8269007790fd01f8c1c943bd5b28dd5316ac6e71259f39d866aa4e","ptbr":"Traje"}
+{"id":"LocalText/item_name3041046","revision":"e370deffac266c630a1617c8c68cf41616bed3dbba34a1d2b9aa0e11df778843","ptbr":"Traje"}
+{"id":"LocalText/item_name3041047","revision":"d8054ea553bae8c18388e9189672219ae9dbcbd99b9b33a2f026f331fc565559","ptbr":"Traje"}
+{"id":"LocalText/item_name3041048","revision":"edf8186ee6528718d6359c39b02c6d870a9245e564e5086d95df78698c9f945b","ptbr":"Traje"}
+{"id":"LocalText/item_name3041049","revision":"16e7cfec8bf8202ab492f7266b75c63625d55beb28b41949f69b1d41f3721f5b","ptbr":"Traje"}
+{"id":"LocalText/item_name3041050","revision":"ff6f2df87f3de4c05e6a685a9286befb514d31088f98235717058c1e98eb00f8","ptbr":"Traje"}
+{"id":"LocalText/item_name3041051","revision":"1cb3c98dd843cfe659bb3f1f3b230f9658ed22a5dd7c7007714e9ffd03002792","ptbr":"Traje"}
+{"id":"LocalText/item_name3041052","revision":"c14fab65b4e65a14f0f032a474b85d092b582719c77daf476377b60cb209c59f","ptbr":"Traje"}
+{"id":"LocalText/item_name3041053","revision":"ba559fdb109f67ca84cdc6b8ca47a26e70512d9027cee1a1fe9919b08ea78393","ptbr":"Traje"}
+{"id":"LocalText/item_name3041054","revision":"1fd157db5188807a38ef3ebc417fdda58f730383b2efa69d742da28b5556a069","ptbr":"Traje"}
+{"id":"LocalText/item_name3041055","revision":"fd58a89a0b0ed5b47e7e74ec6edf193b90c21e13c05f724044267d94c37defe9","ptbr":"Traje"}
+{"id":"LocalText/item_name3041056","revision":"5fa56c5c7c5c229be7ba03f12395cc94ebbea7a9b8af8566f2d64e9abcaee4d3","ptbr":"Traje"}
+{"id":"LocalText/item_name3041057","revision":"db0ac8eea2ab06edf0355d578f81e8120076e04880942cd80ab54e3dd83cdac3","ptbr":"Traje"}
+{"id":"LocalText/item_name3041058","revision":"415e85741021ebffceb36856d3954d260673f15526b0e98ca98305eccce133b3","ptbr":"Traje"}
+{"id":"LocalText/item_name3041059","revision":"c6497cfe1d9ae84713068c4b9876a99466a0b21fa52d1d885fef8922e9a71fac","ptbr":"Traje"}
+{"id":"LocalText/item_name3041060","revision":"eba16cdcef877fb6df807314c1b536b2dc0d4c87a62f230da4cbc28fd3ac02e2","ptbr":"Traje"}
+{"id":"LocalText/item_name3041061","revision":"cdbf8cfc151faa4e30850e887815dc0d311c08f38a387b637051a0f010897564","ptbr":"Traje"}
+{"id":"LocalText/item_name3041062","revision":"2c6a0fa3247d48884fec0dfa7853693df259f3ca1e2e9caa3233f4195fec4920","ptbr":"Traje"}
+{"id":"LocalText/item_name3041063","revision":"082b053a53d029303ddf458d2a56e42364a52e71ae8443b4b892edd406eda79e","ptbr":"Traje"}
+{"id":"LocalText/item_name3041064","revision":"3b7f6819c20c785227c2f78a4457870be20929f0d3b02edb635fbf5c9d748f02","ptbr":"Traje"}
+{"id":"LocalText/item_name3041065","revision":"48b2bb856c11367b363764cb770934891e6675a9c32bb70fa1063a85d803f168","ptbr":"Traje"}
+{"id":"LocalText/item_name3041066","revision":"a583cbc60b5c6e1e7872246895f3aed8ee488528ae928a744b57c7cf5b16aa98","ptbr":"Traje"}
+{"id":"LocalText/item_name3041067","revision":"2240c117a2d334fa64b988ca4ca3c7225a6551e38a60e13fb13f41c2c815af25","ptbr":"Traje"}
+{"id":"LocalText/item_name3041068","revision":"c03e7d2b9ebadccd378b3d9f69680f77fec6836e1f621143fe078a19c5134001","ptbr":"Traje"}
+{"id":"LocalText/item_name3041069","revision":"45c2699f6e7bcdf9ae2699a0f33595fd876fc736c70b5d4f72c8600aa8570a04","ptbr":"Traje"}
+{"id":"LocalText/item_name3041070","revision":"e2641a730b3b1e8e38295b1ba6c51d1ea8579760d64c605ae273f810cbdba285","ptbr":"Traje"}
+{"id":"LocalText/item_name3041071","revision":"9251311c6d4ec0f66640196f01804769a57572e9b6df1087ac8d422dea92b2ba","ptbr":"Traje"}
+{"id":"LocalText/item_name3041072","revision":"be20130694fce5002b99fe101ed53643f5dcac5cc12cf3cb2fedf76c4efd9eb1","ptbr":"Traje"}
+{"id":"LocalText/item_name3041073","revision":"f4212c3b398882c2fa23534b6ba620243f5214285f2098a1cf2b6579fdc551a8","ptbr":"Traje"}
+{"id":"LocalText/item_name3041074","revision":"54ff84109e6e4bbca1d59b42c918ee0022ee41320977d0aa2f6ad49d8f75d658","ptbr":"Traje"}
+{"id":"LocalText/item_name3041075","revision":"3d8efd10a5868c8bcf9d2dfde494ce481c817884546f9b35b39fb35f7d0a8be4","ptbr":"Traje"}
+{"id":"LocalText/item_name3041076","revision":"42a1af8f0be188cdda035fc16dbc63d2d4f5115ae11862069dc5c17cf1c38286","ptbr":"Traje"}
+{"id":"LocalText/item_name3041077","revision":"3188c1b27e8119f9ca8e5e6c413ef0ad125a9d3dd763e9f7b968b956d56a34be","ptbr":"Traje"}
+{"id":"LocalText/item_name3041078","revision":"99b7f6973ea20ccad2199e9a500b3e25347b17c6a70702186ecd0611bda49e9f","ptbr":"Traje"}
+{"id":"LocalText/item_name3041079","revision":"3d8908aa858b8549e331d01ba0f58edb0a4ffb595741f219d6f4af62867f776d","ptbr":"Traje"}
+{"id":"LocalText/item_name3041080","revision":"cebd5bf50a2dd7b463f27f97f3aae1e9126fcc82d0cd14bc0b02b484f59f38d6","ptbr":"Traje"}
+{"id":"LocalText/item_name3041081","revision":"fd6e0c0520d5096fb4cdce9677aaa577b39587830baab3ce23c38da5c62f2e2f","ptbr":"Traje"}
+{"id":"LocalText/item_name3041082","revision":"b013db79cd3d654377b4fdd19a45173ee3464244278e805f30274ecee7797405","ptbr":"Traje"}
+{"id":"LocalText/item_name3041083","revision":"c58b033c5debac9da697116b819bb13a4c30e0c5eb387ae5e42e1a1e104d332f","ptbr":"Traje"}
+{"id":"LocalText/item_name3041084","revision":"a6ab078cb963a729c6bae6aaf9a7b498aaa9efab724c0ef2e422cc80deb7d010","ptbr":"Traje"}
+{"id":"LocalText/item_name3041085","revision":"a4a3bf470089d4445cc60c6428eee13020cb58611a04eed0a655f1984bf78b69","ptbr":"Traje"}
+{"id":"LocalText/item_name3041086","revision":"f3b9e7957aaf5bfda75fd9f832de35c24e8bf6c46127ef657a58967ebebb0a3e","ptbr":"Traje"}
+{"id":"LocalText/item_name3041087","revision":"a471bde184db1ded4cdcd5f1122a1ead6a995023762f6fe124995b14733fc09b","ptbr":"Traje"}
+{"id":"LocalText/item_name3041088","revision":"8cc9bb6788113ac5db2036a8003141b7a71af1e2b0ed49a2149aad9ad92e30e3","ptbr":"Traje"}
+{"id":"LocalText/item_name3041089","revision":"b461112d79a62a5b9aadd8f4ab56d56960935fcbf9968b910200f9aa30d2d8d1","ptbr":"Traje"}
+{"id":"LocalText/item_name3041090","revision":"358606d7a95d23b6e1e7475a8d60b3ac9fd5c88557fdb0a950b764a051c51c9f","ptbr":"Traje"}
+{"id":"LocalText/item_name3041091","revision":"ef39794bbb524991d825d4c9d31962758b482552450a3603044c6ca340b19dc2","ptbr":"Traje"}
+{"id":"LocalText/item_name3041092","revision":"c1cf79aef23e6c1ea15bf1109875d41e73776033b1180bb43d4e10a1b9e8a9fa","ptbr":"Traje"}
+{"id":"LocalText/item_name3041093","revision":"ec6ca0358fe05c5e7390bdcf8f5e12fe6ca7aea7c825e2e7376b14b4c404264d","ptbr":"Traje"}
+{"id":"LocalText/item_name3041094","revision":"433e967fb6dc11c2a0106b9af472ff8f2e46103c380f1bbb24dbb3ad2d67b78e","ptbr":"Traje"}
+{"id":"LocalText/item_name3041095","revision":"caba730be807c89640899825d6c15362421f347bb53dad00e759de2e4aadcd9a","ptbr":"Traje"}
+{"id":"LocalText/item_name3041096","revision":"e217141ddb5a28692c0b0aefb04812349dcfcfab9ab1ba056f3919aea116a33f","ptbr":"Traje"}
+{"id":"LocalText/item_name3041097","revision":"2f7d610256eeb534a1342691bc9b353ea8293a7586e435b71ef9d6018bfdb879","ptbr":"Traje"}
+{"id":"LocalText/item_name3041098","revision":"43c85a4e936f3e439cd5a0fb267fb5cb468629114237de8a59dab7d2b96ead36","ptbr":"Traje"}
+{"id":"LocalText/item_name3041099","revision":"cc5234f219833e86fe23cbbfd6ac491b6ffa79e4403ced4ef3d83bd3c9c2ab07","ptbr":"Traje"}
+{"id":"LocalText/item_name3041100","revision":"82bb8eb0f3ae26d7de2e19cd486ef78d34f3ebf3629baaae4980674886caf25d","ptbr":"Traje"}
+{"id":"LocalText/item_name3041101","revision":"5d9064c6c5dd4d183305112e423c327f31ec6b3480c3a41da3274112248b4faf","ptbr":"Traje"}
+{"id":"LocalText/item_name3041102","revision":"3b403143cbb578472751e358f1c4f659d257f1531777169bf3cf8f7248045216","ptbr":"Traje"}
+{"id":"LocalText/item_name3041103","revision":"1614a0b32cd13a967930d58156b0180b11ec691c1a23245c69d9741eacb31c58","ptbr":"Traje"}
+{"id":"LocalText/item_name3041104","revision":"6beff0c7f5f47c38924167eed5d2c3ea46ee1909355365981180a229e354a5f6","ptbr":"Traje"}
+{"id":"LocalText/item_name3041105","revision":"e318df910b0674ee2baa6b90222f77143a3d421b063686a2d329626690eac8ff","ptbr":"Traje"}
+{"id":"LocalText/item_name3041106","revision":"b134c523bb147b008913adf0faaefcffadbe26b9a98865b3fbac812fedafd330","ptbr":"Traje"}
+{"id":"LocalText/item_name3041107","revision":"ed36f32cf6e18c70dca5c7a9bd676cd30f40655f8361930633ea986efdda79e9","ptbr":"Traje"}
+{"id":"LocalText/item_name3041108","revision":"782624e80c473228a7bba0936cf1215770eedf0d8b8a3def0aa204a2159f7986","ptbr":"Traje"}
+{"id":"LocalText/item_name3041109","revision":"0a867a88fc8d1ff20ad2451d8949dd95d07aca67726a441264a9a70dabc104fb","ptbr":"Traje"}
+{"id":"LocalText/item_name3041110","revision":"944ff7d901b427990b5042462096704046dab8192e1b2a81a974257b86876fc7","ptbr":"Traje"}
+{"id":"LocalText/item_name3041111","revision":"df7acf677862890fc4b5bc17436ecc5513897574d5b3c30124e1eb8b50288a57","ptbr":"Traje"}
+{"id":"LocalText/item_name3041112","revision":"0eb131eab7280cef83a2257b9190cc93026983a09a4e4f803dde2de45e415444","ptbr":"Traje"}
+{"id":"LocalText/item_name3041113","revision":"8dcae5402a78b2e0696c83ef46ad787a55b18e662bd1b8a66ff2788364029486","ptbr":"Traje"}
+{"id":"LocalText/item_name3041114","revision":"1b167acb4b179599881cb1bd5a7ddbfe1c0512960cc170d5ef7a13e1d70aceac","ptbr":"Traje"}
+{"id":"LocalText/item_name3041115","revision":"82124dbe662fd7764daa7a8bff0168897dc6af7429a52f6464a67a2185454c6f","ptbr":"Traje"}
+{"id":"LocalText/item_name3041116","revision":"1cf3d8461262c5652c41477cba27a693da4cbb5b846ee4faadb4e9b6ec43db9f","ptbr":"Traje"}
+{"id":"LocalText/item_name3041117","revision":"eb3fe3491fdb577808f5aad9e50cec6721ce71b724b79d6e147c93c3ae0f0b13","ptbr":"Traje"}
+{"id":"LocalText/item_name3041118","revision":"60cb4605efc8cde753f4b8b627a9dcae60deba78fe276073e778d0c0f7a49c1b","ptbr":"Traje"}
+{"id":"LocalText/item_name3041119","revision":"cafe75429f724027c0b3f03b6fff2e1ed64c93248c27c6a1799ad21dab9b74dc","ptbr":"Traje"}
+{"id":"LocalText/item_name3041120","revision":"400d445b0ab99b79ab85f23b907f40f6312afd7fa24a31bb22087fcc6c4e357c","ptbr":"Traje"}
+{"id":"LocalText/item_name3041121","revision":"afa31bd3ffe9d805c6a0582d667c43d4012822ec1dab6142d13daec73a22b6e6","ptbr":"Traje"}
+{"id":"LocalText/item_name3041122","revision":"5f341478ad39057b585e193a424a61f33eccbaa44b5ebb72ffeec84b56e472df","ptbr":"Traje"}
+{"id":"LocalText/item_name3041123","revision":"a1588a246d1f27ec348de0a24ce1979b0a26f88df021afb869f9297e73afef77","ptbr":"Traje"}
+{"id":"LocalText/item_name3041124","revision":"7b5c66db582b0a7cd3cdf4f435a21c51ff014fe9d8cafec18bb2ac69679a997f","ptbr":"Traje"}
+{"id":"LocalText/item_name3041125","revision":"f75efb34d37c4b5746ceb434c9b5635831a088ceab1ad9ed3d78f1180fce5c64","ptbr":"Traje"}
+{"id":"LocalText/item_name3041126","revision":"d4d328db5771516c16539dbf4f946cdd36b958126fad6f0cb83da88b498e0436","ptbr":"Traje"}
+{"id":"LocalText/item_name3041127","revision":"2f7bac632296bc4b49fae6aef05e461942001bc3ed0fa68f38f206bf92ea7b9e","ptbr":"Traje"}
+{"id":"LocalText/item_name3041128","revision":"dbb4bc5b7f7f537f18224314fdf6b84bcb48bf52ffb473a5e3c02619e0dd5c0a","ptbr":"Traje"}
+{"id":"LocalText/item_name3041129","revision":"f084ea0853cf761237d734e68e762dc08f1b06c22ffcc9fb2d96c966632c86e7","ptbr":"Traje"}
+{"id":"LocalText/item_name3041130","revision":"83a2e41de1dd6197d54b18787e5a4b0c8b08c4bfc27b198d3d464143326dc9eb","ptbr":"Traje"}
+{"id":"LocalText/item_name3041131","revision":"2af017ce2ea7ace87a543446626c569a70120f0e8ab1a79d9bc34b3d617be3f1","ptbr":"Traje"}
+{"id":"LocalText/item_name3041132","revision":"56ebde0e08f9ce32cf8af358ca72f3407ebb3facf9ddcd31630907d00ff837e6","ptbr":"Traje"}
+{"id":"LocalText/item_name3041133","revision":"df0391721c4cf60d2f6a7378c6f6c964d726f107d8afd5cf2f70b9b1cf09d646","ptbr":"Traje"}
+{"id":"LocalText/item_name3041134","revision":"13552f9de51c3cc879bc3f7f5b2ad6056e7ddaf7f9addca68feb96815b85ffc0","ptbr":"Traje"}
+{"id":"LocalText/item_name3041135","revision":"11001202963e330ca7716594f3b5dbec82d09ddb63a61583906000e5f6b4c1e3","ptbr":"Traje"}
+{"id":"LocalText/item_name3041136","revision":"43fe267ce6bb9fdcd4f46f81dc522ed759be947a0f82f6333715b1351dcfcbc4","ptbr":"Traje"}
+{"id":"LocalText/item_name3041137","revision":"0f15367d015a8032064587161b20868f850d52e0c8fcd19f3d6219ae5f95fe31","ptbr":"Traje"}
+{"id":"LocalText/item_name3041138","revision":"1c5311a09a2ff98a69d2355a1f2defb8e72017e851364070603d6395d77b3c78","ptbr":"Traje"}
+{"id":"LocalText/item_name3042001","revision":"51cab75f4a70d0272bc7e614ce00319d2e12ef4d2b3c557d4fd54e1297aba5b3","ptbr":"Traje"}
+{"id":"LocalText/item_name3042002","revision":"6778e8efa08ec1cc4574f1b4d7a181cb76d33dab03cad34e5eba88030d526681","ptbr":"Traje"}
+{"id":"LocalText/item_name3042003","revision":"77fccacaaa41ff2efe7e43f43724773cfacbd110963b9ac012e4baaef9296a8e","ptbr":"Traje"}
+{"id":"LocalText/item_name3042004","revision":"eebb4de0c5760834f4563c9796788dd5680c67659e253f6b5499c20afd03f951","ptbr":"Traje"}
+{"id":"LocalText/item_name3042005","revision":"ee0f11365c8a6ace536e1747524d133abcffd69684c0ddc4ff3f1e19c2641f2a","ptbr":"Traje"}
+{"id":"LocalText/item_name3042006","revision":"bf1e9603ef8fb7f7e9a6d29f80deaeb7fd96724b357798b16b0549f41bf1eeed","ptbr":"Traje"}
+{"id":"LocalText/item_name3042007","revision":"a5ed489723b02dd8b89803098840495b9bc7a79c876b07002fb6f10cdb57a0f6","ptbr":"Traje"}
+{"id":"LocalText/item_name3042008","revision":"6ea396df85f92c501bbcf6dee052d3cd10edd6e06cb8debc2e562521a8dd2ca5","ptbr":"Traje"}
+{"id":"LocalText/item_name3042009","revision":"6382c7a8460b6ef778468c2861d5932e6eaf945043bba06d98dd6c8e325c8231","ptbr":"Traje"}
+{"id":"LocalText/item_name3042010","revision":"5ae032cae968cb0b4698ce077f7a53a3a8ec51e83ed0261a6db6559d47a00da7","ptbr":"Traje"}
+{"id":"LocalText/item_name3042011","revision":"b1e36423bb71276ae8ba5ead9d86beba30c54e44accc38f43327d4777f2daeb2","ptbr":"Traje"}
+{"id":"LocalText/item_name3042012","revision":"8429b80dfd0d298996d0075fea1af02720f8665960760d280dc792e7264bd85d","ptbr":"Traje"}
+{"id":"LocalText/item_name3042013","revision":"4f074c415b424f4679d0e98c915806e8998c486dcb41e9179f776fd26ad29137","ptbr":"Traje"}
+{"id":"LocalText/item_name3042014","revision":"58fa1e5deb20b9c0d13d23e6df919a42984e585ef1990f5c7a3222e17da7a518","ptbr":"Traje"}
+{"id":"LocalText/item_name3042015","revision":"c9e9e6d865a85b6345e3f8dea60149bc746bdeb3b6ddb989861a099ed2ea57c9","ptbr":"Traje"}
+{"id":"LocalText/item_name3042016","revision":"d58c6b9133a35c9113eeef74389e1352e1b1fdeae33fc32b36d5cea5daee0e33","ptbr":"Traje"}
+{"id":"LocalText/item_name3042017","revision":"398f2b5a1706c77be6553efa97f7867c50063533ba72f2fec03eb92067971de7","ptbr":"Traje"}
+{"id":"LocalText/item_name3042018","revision":"a7bb041f26f745b10cced34d39cff0cb9457777f84b814dacbe20df1774b2412","ptbr":"Traje"}
+{"id":"LocalText/item_name3042019","revision":"e15b736874f6d7261a7a392521df09c03d74d128f007ed9ee51bdcf621c78be8","ptbr":"Traje"}
+{"id":"LocalText/item_name3042020","revision":"e3993bd4826453a782bfea466a19293bd1f84f5b2ab4501a8253ce514c7b90c8","ptbr":"Traje"}
+{"id":"LocalText/item_name3042021","revision":"d25e72b29d6ec362134ff77df1c76132fb6cd826394f6b933207027c0bba16ed","ptbr":"Traje"}
+{"id":"LocalText/item_name3042022","revision":"184cb45fe62240c602f6e509d334dc3b048310c98aea41616e1f3fe9eed5a34b","ptbr":"Traje"}
+{"id":"LocalText/item_name3042023","revision":"e497cff9a580e2271175c90db57258ae7fb5a35c5c7ca451548e9cf7ed2d90f8","ptbr":"Traje"}
+{"id":"LocalText/item_name3042024","revision":"bdc6a8591118255de2fc474e19eb9c26c8d70d1080515487d06a322760304334","ptbr":"Traje"}
+{"id":"LocalText/item_name3042025","revision":"560221178b6e486a9d2350d9f2c57077db71d2f6c9ec9ee24cb9ac530401d983","ptbr":"Traje"}
+{"id":"LocalText/item_name3042026","revision":"72b7682045ebca82187e53bbc9893807228041318d6a3db2298410050a632785","ptbr":"Traje"}
+{"id":"LocalText/item_name3042027","revision":"ad9b459a46f418f346e3708084aa1bcdc2a4a03f3dfe9387946e8dfecb61c449","ptbr":"Traje"}
+{"id":"LocalText/item_name3042028","revision":"f03bbac13e31a526e9634ebe406811b0898a8d49739277c94096e17981f2ceff","ptbr":"Traje"}
+{"id":"LocalText/item_name3042029","revision":"db07a6d117b2d6f0fa54b84e653ef4bad01a3e534bf7dd77bcf212eb4df284d9","ptbr":"Traje"}
+{"id":"LocalText/item_name3042030","revision":"079afcd94d1fb795479cbb99bfdbd42bf8cd6f812519f6788797df11246fdc48","ptbr":"Traje"}
+{"id":"LocalText/item_name3042031","revision":"3e47e158f00768ed33bfbff3ac00f000c55b674763320f4e689550ce446826f3","ptbr":"Traje"}
+{"id":"LocalText/item_name3042032","revision":"8d7a84bd39353e94db18d4a822c6c9a019741bab92b60a5dc93039321d5c2aef","ptbr":"Traje"}
+{"id":"LocalText/item_name3042033","revision":"31c0e7ce047242c9acc8f904bdb1f973766d8ee6bdb02432910ce5eb003f51fb","ptbr":"Traje"}
+{"id":"LocalText/item_name3042034","revision":"813ebf04d2d5e8240e3b13309634dd26464691758a1f7bad7d3365a3fd01c867","ptbr":"Traje"}
+{"id":"LocalText/item_name3042035","revision":"c378fa1b23422915cfd378ea70d7ab4bedba930a988700934e6246c3e5065743","ptbr":"Traje"}
+{"id":"LocalText/item_name3042036","revision":"8c61839ae09a97c036093699833441b812c785fc147839cbd9aeed4fa2e7fa85","ptbr":"Traje"}
+{"id":"LocalText/item_name3042037","revision":"83b66e8f93b051bf406c7f257abf904d15ebd34e82ae3755d14d2c46f35b06ad","ptbr":"Traje"}
+{"id":"LocalText/item_name3042038","revision":"322bb3b85d0849820dfebf65462a7621d87937e097eec4a9179778e262d32f7c","ptbr":"Traje"}
+{"id":"LocalText/item_name3042039","revision":"9de84627a4cc5f87581ac91da811bd23b686ae13b2d6ef9c0cc473a3a31a50cc","ptbr":"Traje"}
+{"id":"LocalText/item_name3042040","revision":"451ff6b5022c4e927fc1698762b33eaa84dc46b173e7ef291ef1c8d975b0c067","ptbr":"Traje"}
+{"id":"LocalText/item_name3042041","revision":"f93ee88f65cba6eef43938d8ef6bfa4bd0ddfe6dd701ff9bde2b3760208b71ad","ptbr":"Traje"}
+{"id":"LocalText/item_name3042042","revision":"2f97dd2ef54f0d5eb525ca612b834fce365cadc4cbee3a9ddb33c878931aef29","ptbr":"Traje"}
+{"id":"LocalText/item_name3042043","revision":"4e7c7b07ef4ae00399d410d2ed28ffd6973d84ed6424470d2d3961bdea916c7f","ptbr":"Traje"}
+{"id":"LocalText/item_name3042044","revision":"d7d19129d4095f595109457c7ead380de2327f9f8eff525cc5eed7242fc993d4","ptbr":"Traje"}
+{"id":"LocalText/item_name3042045","revision":"6125c3fe353ef9c4a09cf5fb9674f8ac185c19629628ba5fea3c25d395e9ad55","ptbr":"Traje"}
+{"id":"LocalText/item_name3042046","revision":"8e0a46dd1de8cd220837c91e1cba0df8df817ce43fa22479ebd943047dc07914","ptbr":"Traje"}
+{"id":"LocalText/item_name3042047","revision":"a5cc299c657874625ee09dc14f9085990b7f892fc0f4fefcf319ce003e419066","ptbr":"Traje"}
+{"id":"LocalText/item_name3042048","revision":"e2f0890b3f139d29dd34f4ddb057eb6c12d7d015504902542391f00bae3e63c2","ptbr":"Traje"}
+{"id":"LocalText/item_name3042049","revision":"a85c84e5f13595e769e4d24f0ca9491f70d67e5dc02fc46ab41aecd5308df268","ptbr":"Traje"}
+{"id":"LocalText/item_name3042050","revision":"e7b1fb12905d4e583365f7458b806dac05df9d30cc8f0fd18e72189d3157009d","ptbr":"Traje"}
+{"id":"LocalText/item_name3042051","revision":"5db0ccd21bc5558f2dcf2afaed2aec0ae5cdd91bbd4d30e9f91c265583a031b0","ptbr":"Traje"}
+{"id":"LocalText/item_name3042052","revision":"5a498b1d5a51a4d901d007733279055e2c4f5f8f04dd419cb47de15a9c16c271","ptbr":"Traje"}
+{"id":"LocalText/item_name3042053","revision":"19d389245cacc7405435bca96f2c777dc315abd737e66102d667e14cb787b41e","ptbr":"Traje"}
+{"id":"LocalText/item_name3042054","revision":"920bf899b4c05f77cd309af087f8cc257bc09de1f3c20d36b6f292653ea60747","ptbr":"Traje"}
+{"id":"LocalText/item_name3042055","revision":"5e39e756dfe56a84356f550116ef81367c48963a60596e37e46b8d3491d37292","ptbr":"Traje"}
+{"id":"LocalText/item_name3042056","revision":"25d1addfc47956b9cd02023402f74cd9726d988ae7f65381fa590ef93564aba2","ptbr":"Traje"}
+{"id":"LocalText/item_name3042057","revision":"016b1b3197713c7736dd9d46ae9d4ae514db1056eb437c82f2c8b39dc8ec903a","ptbr":"Traje"}
+{"id":"LocalText/item_name3042058","revision":"dff7a85e07529bde2bda52591466e882aa56c98fe76a70617fe4c03fb592959c","ptbr":"Traje"}
+{"id":"LocalText/item_name3042059","revision":"14c475f63e3c438cb92b38f224d04b19cc740bed2b166f29a96cd9b724083dff","ptbr":"Traje"}
+{"id":"LocalText/item_name3042060","revision":"d5c7b8e4d3fb13764d0f53bf1c78674eef5039d08d4ca9b9c4c1f47ac173ad43","ptbr":"Traje"}
+{"id":"LocalText/item_name3042061","revision":"7879ae628c3430897bbcce41a83763f29b2293f596fabdc82b834533ee25e37d","ptbr":"Traje"}
+{"id":"LocalText/item_name3042062","revision":"40e2b45ddda8bedb41dff4cefaba3e99efa2372f6c2a58795a5c8a468c5c4876","ptbr":"Traje"}
+{"id":"LocalText/item_name3042063","revision":"71ffd258bd13df5be5deeafb9f8b4b829bed83a417bc9798b5154a48cbbc5bcc","ptbr":"Traje"}
+{"id":"LocalText/item_name3042064","revision":"ba076a58ca6c8106733098d062dd9b1a8c21b2cc50a2413a7714410a0854033a","ptbr":"Traje"}
+{"id":"LocalText/item_name3042065","revision":"b257659af52df9a5f8a50b637256e12a351cc93ec9c6f1b599d9f93082b65de3","ptbr":"Traje"}
+{"id":"LocalText/item_name3042066","revision":"530b549410d049a9c0e78d828bbd2654d0ff9769cee95cb37cea9adf7bec2537","ptbr":"Traje"}
+{"id":"LocalText/item_name3042067","revision":"d2cb9f6127eaba4fad5db6a018c5b035c094bb2e618047538042cdfab0bad2a4","ptbr":"Traje"}
+{"id":"LocalText/item_name3042068","revision":"7cb511ac4957970b4468e9468ad70d1314515328d91cfda7e37bd8ebe39b6390","ptbr":"Traje"}
+{"id":"LocalText/item_name3042069","revision":"76deedebea2f5c44ae931d4b44cbae43d133cc7ae2405bdb4b073c9216a5f797","ptbr":"Traje"}
+{"id":"LocalText/item_name3042070","revision":"9936c19a0414ae4e12bc37a2d4aede071b7fab0f600570b741a1a4de1e86ce07","ptbr":"Traje"}
+{"id":"LocalText/item_name3042071","revision":"b4c4beb6d59d0173f0adfc00e0aed911d9819537f749fa3e8f10044e8c8412ea","ptbr":"Traje"}
+{"id":"LocalText/item_name3042072","revision":"4283e8a1ff3fa165a2eb7d33eb5708cde1e016b5d42c4bc2a9fa2a7b8609e864","ptbr":"Traje"}
+{"id":"LocalText/item_name3042073","revision":"a0172cdc7c3d94274a0de44907b616b1156165814cfc68d8bd8e5cd8cc7b4ca3","ptbr":"Traje"}
+{"id":"LocalText/item_name3042074","revision":"67ceb433d92e780cd38bb0ab4e44eee5ab346c0cd40d190cce9636739bb7e81b","ptbr":"Traje"}
+{"id":"LocalText/item_name3042075","revision":"c40e5ad6f61e86f74dc4bc05b2475ce718782c16c208b356463d5170f4636f2b","ptbr":"Traje"}
+{"id":"LocalText/item_name3042076","revision":"ac72690401e82f7fb05f8c5f92af75976db42bcab025523011b69904ad59058a","ptbr":"Traje"}
+{"id":"LocalText/item_name3042077","revision":"513fb3fb75af294861e4ec5af1ee02a570c0d2c47b1dd576011191e0b632c5fe","ptbr":"Traje"}
+{"id":"LocalText/item_name3042078","revision":"55f490631f714c3a7232a6b90344f39a1613fe7e204773ad179e0be3fee4df10","ptbr":"Traje"}
+{"id":"LocalText/item_name3042079","revision":"920aaf8487f5315a8ff23ba336bdc9e557343411af877133c5a9292cbbee5589","ptbr":"Traje"}
+{"id":"LocalText/item_name3042080","revision":"47efdd5b470aedc418e28abec45e0b525f23b28b6911905697236f6cd0f13856","ptbr":"Traje"}
+{"id":"LocalText/item_name3042081","revision":"4cc829353bab97f1868bc8d7ce412c0945b63956bf45f8ddfde0422edfd45147","ptbr":"Traje"}
+{"id":"LocalText/item_name3042082","revision":"cded1afe7c694375c41c50e4bf224a886bcc750c0528e02eb6e139b20ddd5d64","ptbr":"Traje"}
+{"id":"LocalText/item_name3042083","revision":"dde990fcf90052a9f9bac4704db97a3d76e3d90fe77c14c9a6ea5b690d96cf6d","ptbr":"Traje"}
+{"id":"LocalText/item_name3042084","revision":"9aa5c66a2256f1a1ee8e42efcfcfd68cbf076c30691478f756b2cf4f07cece6b","ptbr":"Traje"}
+{"id":"LocalText/item_name3042085","revision":"12d4d883ba2ebefbbacfa05ce6b4510a6d74b6389436714b971fd05d87686312","ptbr":"Traje"}
+{"id":"LocalText/item_name3042086","revision":"3d37794f92a39405a57fb7d4f70ce4d146892b38ed61030eaf44e548360f80a2","ptbr":"Traje"}
+{"id":"LocalText/item_name3042087","revision":"eb33c11b67eb12d00df41a5fa0faf20bd3f6ab8fe1c199b68d10c021aeeb3c0d","ptbr":"Traje"}
+{"id":"LocalText/item_name3042088","revision":"1d57e94d1d4ca37782b385575b2cc23f7443a16aceff463881d6f9cece174e86","ptbr":"Traje"}
+{"id":"LocalText/item_name3042089","revision":"2fff677115e7212c82b2c6819462699dfe8e09245169b18266ec76116e7bb52d","ptbr":"Traje"}
+{"id":"LocalText/item_name3042090","revision":"942a5328b264da9867bfd67100712545fcf03b6ad7a034aafca64004a55d48bc","ptbr":"Traje"}
+{"id":"LocalText/item_name3042091","revision":"349925b3dd0f64d2faabc25e8803332500234310370a1551a39cce17d9b9f523","ptbr":"Traje"}
+{"id":"LocalText/item_name3042092","revision":"90791e717ab19013261355c9cf945309ea98bdc8507b5ec5b8d24d58ba62973c","ptbr":"Traje"}
+{"id":"LocalText/item_name3042093","revision":"4f99b7c437de85062f8d90cd309a430dcd6265df43634761a3af4bd7221a7b91","ptbr":"Traje"}
+{"id":"LocalText/item_name3042094","revision":"f844b5ad306111b32f10006df5eae299f77a99fed17e9ae810fb6616e5354c49","ptbr":"Traje"}
+{"id":"LocalText/item_name3042095","revision":"46f55a29dcb43a6a4406839dddf52053ba8af271f2ab700859e981bdf5760eb9","ptbr":"Traje"}
+{"id":"LocalText/item_name3042096","revision":"f2facd39aa5c3789f2f53670f869aa0c52270b009e96544a8931106fc46cfd2f","ptbr":"Traje"}
+{"id":"LocalText/item_name3042097","revision":"d1d36280ab46838d25bb355a785db6ad04cb4068f74e34c969747d0c96cb7f81","ptbr":"Traje"}
+{"id":"LocalText/item_name3042098","revision":"7d1a50ed6fcd08a2f059c7be1019ceaf9875e829cf1c2117f48e4ac1de888385","ptbr":"Traje"}
+{"id":"LocalText/item_name3042099","revision":"d165ca577aa24cff1dce362c34bffbaad3140612dc2d78dfa7cd7b78aff8aeda","ptbr":"Traje"}
+{"id":"LocalText/item_name3042100","revision":"40ba7e790cebfb11e674a1396e57b124f067dc3e6d49379ce0a72e42117ba36d","ptbr":"Traje"}
+{"id":"LocalText/item_name3042101","revision":"da8b8f85876dfadc85d357efb41c78d15de7e35c7844395fe67dfa9550251b1a","ptbr":"Traje"}
+{"id":"LocalText/item_name3042102","revision":"f1bbfbf36a3adc4cd052c781776e3771057aa4ae63f3d2deadfc450da5dd9854","ptbr":"Traje"}
+{"id":"LocalText/item_name3042103","revision":"fb0151e09b41473b053e0a2e47e0c92d89e900395bbec0e4021bd64ae67ffa2e","ptbr":"Traje"}
+{"id":"LocalText/item_name3042104","revision":"ae38191105b012bb6e652fd31fa35c50770594cb02049df73e936e168fcaa7d2","ptbr":"Traje"}
+{"id":"LocalText/item_name3042105","revision":"cfa3648e0e00fb7f06674e33ccf9140311ad38e35b0c76e842555372120febb1","ptbr":"Traje"}
+{"id":"LocalText/item_name3042106","revision":"3d2f3564b019239a3653fd0d95a7ff3ed0e42e000a0f9c97b6ff035acde2609b","ptbr":"Traje"}
+{"id":"LocalText/item_name3042107","revision":"66168ddd6b22a49738e21a3bc5aa502413fa589384a5a0153d8d44eb0844d532","ptbr":"Traje"}
+{"id":"LocalText/item_name3042108","revision":"42f9d7887a3f9e39972776c58e3bb69e8861a32ce1f4e9cc9fb3456afa0f9711","ptbr":"Traje"}
+{"id":"LocalText/item_name3042109","revision":"2abfd5fd5133663856a1ee817338becea33c04dbdcdad69eb9de67aa301a0d80","ptbr":"Traje"}
+{"id":"LocalText/item_name3042110","revision":"7b530a1a4647e94a625132847e8fc8f5c1a87a4386a79a0b64221f089e369c5a","ptbr":"Traje"}
+{"id":"LocalText/item_name3042111","revision":"e9dbde589313ee6828d16e4fcdc0eb46da3b2c98f3544de89ac714c48c6896cd","ptbr":"Traje"}
+{"id":"LocalText/item_name3042112","revision":"7af7eaf93f0c3228d12f009e966e49bcb9ee86fee15da8c295cd313487378003","ptbr":"Traje"}
+{"id":"LocalText/item_name3042113","revision":"acbbebd52bf121e357acbe7b5dcf31decde13539686a704f7fc0b514afa1fd09","ptbr":"Traje"}
+{"id":"LocalText/item_name3042114","revision":"55df624e394947bcbe25c363f5e55ac9e76f7eb4388e4bd09b2b6f6b0320a7c5","ptbr":"Traje"}
+{"id":"LocalText/item_name3042115","revision":"fd38a760afff5f773829127f75b8e257e30956e97450fda70267a28c90a2303b","ptbr":"Traje"}
+{"id":"LocalText/item_name3042116","revision":"786764b5584990baf335bd3fa19329bcc1a1d61ef8ccdda2f6f45648e348f8b4","ptbr":"Traje"}
+{"id":"LocalText/item_name3042117","revision":"8f7877a4732b08bed0c759d88a1b59d6ebf86126f418e05ad3c3698a264ebcff","ptbr":"Traje"}
+{"id":"LocalText/item_name3042118","revision":"5db95b99bfe7eab639f3981f1871260178293d9a82ccfcf18ecb7848bc80e93c","ptbr":"Traje"}
+{"id":"LocalText/item_name3042119","revision":"124772e652f4f9c401793a944f9b45b53625256ff0fe3117c401dfbf06668b60","ptbr":"Traje"}
+{"id":"LocalText/item_name3042120","revision":"255d197987e094141393c4be9d39fe36494db820bc21a203ec5db4443fb7a6ba","ptbr":"Traje"}
+{"id":"LocalText/item_name3042121","revision":"97cbbcd6d835f580285473720aa764c6c7457b80961fd18bd2c8c639277fb8ec","ptbr":"Traje"}
+{"id":"LocalText/item_name3042122","revision":"acf420913791b2e612324bb0a9236ef6e5867ae9f396462ba85dac16a674baba","ptbr":"Traje"}
+{"id":"LocalText/item_name3042123","revision":"45b518a7f6dbb2e30184469e4915158b5646acb8d180e2693873e0ac4ff9a89e","ptbr":"Traje"}
+{"id":"LocalText/item_name3042124","revision":"045d1d9cad0953030d7339d18ac3e75a301a011b8e25d3d49f4518199ec4e6e4","ptbr":"Traje"}
+{"id":"LocalText/item_name3042125","revision":"561a6146e7db88b04057a51c3fa06f67bbe777f3c5a4bfee6f6b24216ca72a7c","ptbr":"Traje"}
+{"id":"LocalText/item_name3042126","revision":"917efe287800e5d0b20c2d119822d7f30a73b1e019c48a9d72938f5ffdf69b52","ptbr":"Traje"}
+{"id":"LocalText/item_name3042127","revision":"394a300f248aad4b4bb9f48ab9747a4e741365666dca7f59c2f5c0dd31ac50f0","ptbr":"Traje"}
+{"id":"LocalText/item_name3042128","revision":"cfde709b7debddd9e025a9d62631fd951c79251f8236396cb4a54b93d43e97e7","ptbr":"Traje"}
+{"id":"LocalText/item_name3042129","revision":"33f3702a0a668ae7cf374b6a68660d7dc1501473577821fac364107cb72d5f4c","ptbr":"Traje"}
+{"id":"LocalText/item_name3042130","revision":"cb6953a8395f94836b70002e5546e62a4c1c7cc152309e873447f0dee210c4dc","ptbr":"Traje"}
+{"id":"LocalText/item_name3042131","revision":"5ebb5c60e8a64daaf20f37c7b8d8f572e70700829ff64a3b97c67dab0b43a70b","ptbr":"Traje"}
+{"id":"LocalText/item_name3042132","revision":"07d9df7c2f4fe288b615e5d28572000cb167204d9684d086f52da64b191661f9","ptbr":"Traje"}
+{"id":"LocalText/item_name3042133","revision":"f4618c774c1e8bbda6ac33dab24f508d734689a2408f47104329348a0a115ffb","ptbr":"Traje"}
+{"id":"LocalText/item_name3042134","revision":"f5633ee0f027f15e30dafe516833982a54d0282a6e1f12d5b833f8fb3dc1832b","ptbr":"Traje"}
+{"id":"LocalText/item_name3042135","revision":"d463b57a9ce4da8f272934103d9b4a5e41a72061d5e806632c2743648b393f2d","ptbr":"Traje"}
+{"id":"LocalText/item_name3042136","revision":"a8587557a0f9e4bc82a0ac1c35142ed5fd74852a77f2a169b4e889ae23581231","ptbr":"Traje"}
+{"id":"LocalText/item_name3042137","revision":"e437c6be9d119209ee04d1d6ae94a806d26fea333f98a7a9dcbba522d0feee41","ptbr":"Traje"}
+{"id":"LocalText/item_name3042138","revision":"62dd6e41d5ee096b64241b316242c690b87a1ff135263739bb80ae158c1d2c0d","ptbr":"Traje"}
+{"id":"LocalText/item_name8103211","revision":"adeae9c0da46194f644f93966aa36e427d41aa32e98a3e207c817577b17b996d","ptbr":"Antigo - Zouyu"}
+{"id":"LocalText/item_name8103221","revision":"8cc20b790b43429302d62503decff59b7306c863209d62109d873f2b54eecff0","ptbr":"Antigo - Tenghuang"}
+{"id":"LocalText/item_name8103231","revision":"aff54f1132a7dd620401fe195f85ba6f01768002b997a43ebd753cd2e814b582","ptbr":"Antigo - Longyu"}
+{"id":"LocalText/item_name8103241","revision":"98c03f7942ea61630ae346860e3524102644d208dc6fee4e8cff004c3bd80c68","ptbr":"Antiga - Espada Voadora"}
+{"id":"LocalText/item_name8103251","revision":"e3c0838f70cbe853be92ec77ee4b35a9f8894a4de763ddf0d6c5974183412015","ptbr":"Antiga - Espada Voadora"}
+{"id":"LocalText/item_name8103261","revision":"44d077b38826c926967b930db8c7aa00a7cfe3d31d5a4ec7fb5b4545eafb1668","ptbr":"Antiga - Espada Voadora"}
+{"id":"LocalText/item_name8103271","revision":"b0ce18c639f9101f37b6d243276d249a72cbbe85af2fe88d16af8c8a26d06ac4","ptbr":"Antiga - Espada Voadora"}
+{"id":"LocalText/item_name8103281","revision":"b3a6f6b72a586216e9cf666f22c590f7ba0a66a6473d55f413473f2b97a5ae61","ptbr":"Antiga - Espada Voadora"}
+{"id":"LocalText/item_name8103291","revision":"fc27f3c9e1e59d192c386a4f7c3b3f6573b3da9db831b9ad94f04a1124f4f1b7","ptbr":"Antiga - Espada Voadora"}
+{"id":"LocalText/item_name8103301","revision":"aedb2797ad1cc424ca5414f38a5a2352e21e33c6bc268d75daf5874ad58dbe3e","ptbr":"Antigo - Jiliang"}
+{"id":"LocalText/item_name8103311","revision":"49b4978b86ecb8f41105bdbb9b5f2251613a1d9ae7f8557d8fb80c6e93825f86","ptbr":"Antigo - Dangkang"}
+{"id":"LocalText/item_name8103321","revision":"ed2d4c4c72c57ca2bbead5753d05598ebaca4fe5a76adc28044aa0a8c956d853","ptbr":"Antigo - Quanshu"}
+{"id":"LocalText/item_name8103331","revision":"f3141ea077fdf05295b4b5bf3dcddf4ef1b683f8a96737573113e675f7cfbe45","ptbr":"Antiga - Cabaça Esmeralda"}

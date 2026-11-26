@@ -1,0 +1,500 @@
+{"id":"LocalText/effect_desc100","revision":"bfbd845fcf60cd1477a609e1be7563c7c95986d125b40dd797e42932f01c1220","ptbr":"Impede o uso de Técnicas de Movimento"}
+{"id":"LocalText/effect_desc100006","revision":"f440a8dfa1b05b29c4185746683ce2b9a82b5d3fe62eca7463a276a14cb1596a","ptbr":"Causa 5 de dano a cada 0,5 segundo"}
+{"id":"LocalText/effect_desc1000061","revision":"e903f1bbad9e23c3f33c527b297149b31d345390efc5f54c94faa19f70bb5254","ptbr":"Causa 5 de dano fixo"}
+{"id":"LocalText/effect_desc100007","revision":"815ccb7e03ef587685fbc495c903716251a39fcde0b5c91c00adbc16a22a6a99","ptbr":"Reduz a Agilidade em 75%"}
+{"id":"LocalText/effect_desc110","revision":"9e444b9d8affbc6c4429b98a3bcedb0e7f82a0cb82f14d30bfcbbe95d042bcbc","ptbr":"Morte"}
+{"id":"LocalText/effect_desc120","revision":"5dfef80a86767939722c01170288c3550c5e7be1ac628a7fdee2c263fa6c283e","ptbr":"Corpo Inabalável"}
+{"id":"LocalText/effect_desc130","revision":"f6306898a6f14ec293831eeb0e7bc41d9ef8f275b28d715b3dc223551e773dff","ptbr":"Invencibilidade"}
+{"id":"LocalText/effect_desc140","revision":"4cfddbc67282acd27fbddbac7b64783be8cb08fa120e3db77770959ce1918f68","ptbr":"Descontrole"}
+{"id":"LocalText/effect_desc200006","revision":"33b1e1ba2a89f994cfcaef4ea29d0c8d3cc8206451c4c8242e907ace22a67867","ptbr":"Restaura 0,1% de Vitalidade a cada 0,1 segundo"}
+{"id":"LocalText/effect_desc2000061","revision":"ced67edbcc7fc5dc25c9a0dacb827077a235fd4967e2ffb400d257688fe966f7","ptbr":"Restaura 0,1% de Vitalidade"}
+{"id":"LocalText/effect_desc2000071","revision":"bfc3c3d7e82ad7224aa5485ea8d7f9c2497924c9a300f1d4456e0c1371b22ddd","ptbr":"Atordoa por 7 segundos"}
+{"id":"LocalText/effect_desc2000072","revision":"b7dd9fab9b7a108ef4b881e3d5c5d4d01fba386c5508109637410b89b08d0a42","ptbr":"Aumenta o dano recebido em 200% por 7 segundos"}
+{"id":"LocalText/effect_desc300001","revision":"557dd3221f1fda51fb19b57c7809061cb29e420813b3dd002d5b91b9122ca2b5","ptbr":"Causa dano de Fogo a cada segundo"}
+{"id":"LocalText/effect_desc3000011","revision":"73c439e9d66e8fffddffaf5d0986b188b7253c373de66543c705cf1520f7602d","ptbr":"Causa dano de Fogo com poder de 50"}
+{"id":"LocalText/effect_desc31011","revision":"4ffb4a8e26ada9e1f768a688687bb53ad5c34192f8737b0d1495cfb21bce12ee","ptbr":"Causa dano de Fogo ao alvo a cada segundo por 7 segundos (acumulável)."}
+{"id":"LocalText/effect_desc31021","revision":"e1abcabcc3244e812bdff64f7e7bcb951371c4554c36dca17380d587bd0b31a5","ptbr":"Causa dano de Fogo a cada segundo por 7 segundos (acumulável)."}
+{"id":"LocalText/effect_desc31031","revision":"0d6ef58bdf58844f2f007de11c9fc14192473eb064cc7a61910307e6eae4b28c","ptbr":"Aumenta seu Ataque por 30 segundos."}
+{"id":"LocalText/effect_desc3115111","revision":"71183408b65922bd6b6a9066b728569ed70477795c9d1110b2787e721477e6a8","ptbr":"Reduz a Agilidade em 10 por acúmulo."}
+{"id":"LocalText/effect_desc3116111","revision":"46498c852cd101955fcaba3cacaa5d1fbe22621460c6c21c72be71770f37c1a8","ptbr":"Aumenta a Agilidade em 10 por acúmulo."}
+{"id":"LocalText/effect_desc3117111","revision":"d4d5394216fac602d2c214f8fe0d2143fbdab131a76b24bd136fca6fae7ba155","ptbr":"Reduz a Agilidade a cada acúmulo."}
+{"id":"LocalText/effect_desc3117211","revision":"82b85475231cf2a22bdabc663ef3e443683713dbc7f9b11b94cbdd63ea470437","ptbr":"Reduz o custo de Energia da Técnica de Movimento a cada acúmulo."}
+{"id":"LocalText/effect_desc312111","revision":"6662bcf3dfba948aa25d30ebb25be29f73f2081679b1eaec7a8426fb3732cb66","ptbr":"Aumenta o dano recebido pelo alvo afetado."}
+{"id":"LocalText/effect_desc312112","revision":"d50cba29a035affb86e13427db6cc97d052b25e2dd3db235c662e379b5a3a6d5","ptbr":"Aumenta o limite de Vitalidade da sua Execução. Ao causar dano de Sabre a um inimigo com Vitalidade abaixo do limite de Vitalidade, você o eliminará instantaneamente."}
+{"id":"LocalText/effect_desc313111","revision":"a4f7da52e7aceba94442015c1f58f8208c7b266cdab17dc962096db38af5238e","ptbr":"Reduz a DEF."}
+{"id":"LocalText/effect_desc313112","revision":"3ebd921339591e65a10731297a22918749fac5f784639996057df8c3701b2528","ptbr":"Aumenta seu dano contra inimigos com Vitalidade acima de uma certa porcentagem."}
+{"id":"LocalText/effect_desc3141112","revision":"1fa0cd59bf37d8455a46fe5626adda1a1cbd3b61bae3a07b7864a4b253eb19af","ptbr":"Causa dano contínuo. Esse dano não se altera quando há múltiplos acúmulos."}
+{"id":"LocalText/effect_desc3141114","revision":"43342892a48137507605f44bd96ea12148aefaf9e341aaa84876c1ecfe12c237","ptbr":"Um inimigo com acúmulos suficientes de Sangramento sofrerá Laceração. Esse inimigo receberá dano adicional sempre que usar uma técnica ou se mover."}
+{"id":"LocalText/effect_desc314112","revision":"dc0e9bd7267135b6668407757335ae31f2827808fd550a9f9b22de9483a8d912","ptbr":"Aumenta seu dano contra inimigos com Vitalidade abaixo de uma certa porcentagem."}
+{"id":"LocalText/effect_desc315111","revision":"7dc1b6b349a1a62aa7d8f9e2deb5f1f06927be14d65804707dcb0812fc543c68","ptbr":"O alvo afetado tem chance de ficar atordoado ao sofrer dano. Quanto mais acúmulos, maior a chance."}
+{"id":"LocalText/effect_desc315112","revision":"91ba31ec4b3d53294fe238b88961a27f677f42168ab5728a008ca340296b0703","ptbr":"Aumenta a Vitalidade do Escudo sempre que você receber este efeito. A Vitalidade do Escudo é usada para bloquear o dano sofrido."}
+{"id":"LocalText/effect_desc3151121","revision":"a661785b8997138514b02550cbefd6e44897545fb9cd9c0e650d40d60cd9790c","ptbr":"O Escudo (acumulável) bloqueia o dano sofrido."}
+{"id":"LocalText/effect_desc316111","revision":"44e31ca32f4e17ecdcd28197e58df6cec15404a17c40061e5c779b167b81b036","ptbr":"Aumenta o dano sofrido pelo alvo afetado."}
+{"id":"LocalText/effect_desc316112","revision":"d4394a3c4425bd90a1a2178586e29e63cbfd8c73815217d9377ae5b9732cc72d","ptbr":"Sempre que você conjurar uma técnica de Palma, há chance de gerar um Vento de Palma, que causa dano aos inimigos próximos."}
+{"id":"LocalText/effect_desc3161123","revision":"4e1aab21e41ece77c38b234f4bb6de6b96b1433675310db347be9d765d10c5b3","ptbr":"Causa uma quantidade fixa de dano aos inimigos próximos."}
+{"id":"LocalText/effect_desc317111","revision":"01e7eabea62da833330e2a8d96bec7f80a4b41171a88b590725c03933f1f8094","ptbr":"Reduz o ATQ."}
+{"id":"LocalText/effect_desc317112","revision":"9e4f47e767f35833eb8b2244b8830ef7d2c08627d56a0924edbae0cbbc7bec57","ptbr":"Aumenta o ATQ."}
+{"id":"LocalText/effect_desc3171123","revision":"aa550704c41d5192b1fc032b63f99d03749c6800e104c1c189dbc5582ef50b05","ptbr":"O alvo afetado não pode conjurar nenhuma técnica. Este efeito não pode ser aplicado a <p>monstros de elite</p> nem a <r>Feras Míticas</r>."}
+{"id":"LocalText/effect_desc32011","revision":"da3b9e2522fa308977cb8e0e9525eb8ee8ccfb199bf611ab150b46c0555122d7","ptbr":"Reduz a Agilidade do alvo e causa dano de Água contínuo por 3 segundos."}
+{"id":"LocalText/effect_desc32021","revision":"9a0caea3ce4a7f49bf97fbcf16665409a58623f8ad90f158a2435fff697bc3a7","ptbr":"Causa dano de Água adicional ao alvo com base em uma porcentagem da Energia atual."}
+{"id":"LocalText/effect_desc3202511","revision":"f43b0e9ffe9f9acc158c20a7dcd7c3ee9705bc9fdba0f221454fee00283bcafa","ptbr":"Detona o estado Aura de Espada em todos os inimigos, causando dano de golpe de espada para cada acúmulo de Aura de Espada."}
+{"id":"LocalText/effect_desc3202513","revision":"04645a27452c1810ff0624cbeae36cbb735d33e07dc8ca881e4b5151a93b47b6","ptbr":"Ao detonar Qi de Espada, cada acúmulo de Qi de Espada no alvo tem chance de causar o dano de 1 Golpe de Espada adicional."}
+{"id":"LocalText/effect_desc32031","revision":"1eb1e77dcfa7ec09944bb9732f7dd0387557395f3c525637cea48cb6e0d8b106","ptbr":"Restaura sua Energia."}
+{"id":"LocalText/effect_desc3220011","revision":"87bbe5a6e217fa018c40664ec9f6d238c16673a1fc16525bda426f7d8424a350","ptbr":"O próximo ataque sofrido será um acerto crítico garantido."}
+{"id":"LocalText/effect_desc3220021","revision":"3e4cbde686d4f073af40a7a466498268f206f4e29de95bf347dcf5bac182e33b","ptbr":"DEF &322002_jsfy& por acúmulo (até &322002_djcs& acúmulos)"}
+{"id":"LocalText/effect_desc3220031","revision":"a338b11b9920bf3034c3d064989cdc59ad0ac25fda51ea4f46ed5480bc083366","ptbr":"DEF &322003_jsfy& por acúmulo (até &322003_djcs& acúmulos)"}
+{"id":"LocalText/effect_desc3221111","revision":"c542ad30675cda0974667fd24a40981c8872f8cdc8a6b9172ec4e896cc372cb9","ptbr":"Esta técnica converte parte do dano causado em Vitalidade para você."}
+{"id":"LocalText/effect_desc3221132","revision":"916cee432fd12002b00fba2eb2d5a1ca604fa3c7972742d51f5e80591f1a9c09","ptbr":"A cada inimigo executado por esta técnica, você restaura Vitalidade."}
+{"id":"LocalText/effect_desc3221153","revision":"4aaf444d36db36133bd156fe6772e94c3a52488c999d9e5dbc37e3f975974431","ptbr":"Sofre dano contínuo. Inimigos próximos também convertem parte desse dano em Vitalidade para si."}
+{"id":"LocalText/effect_desc3221161","revision":"7067d982a1a2d796b94d1efb2755be8375aa7c503daf1ee19e660b17ece6b542","ptbr":"A cada inimigo executado por esta técnica, o tempo de recarga dela é reduzido."}
+{"id":"LocalText/effect_desc3230011","revision":"434309113b562ab3ce48af4b058a9944b28c21089f2d93be949ed303f99a9e8a","ptbr":"Sofre &323001_shwl& de dano de $s_jian$ a cada &323001_ydjl& de distância percorrida."}
+{"id":"LocalText/effect_desc3230021","revision":"cf997403ce50c99e90691cd80441dd8facd36be8a7f1e0b1ee12906e2b410be4","ptbr":"Cada acúmulo aumenta o dano sofrido em &323002_tssh&% e reduz o Alcance de Técnica em &323002_jdsc&%. Acumula até &323002_djcs& vezes."}
+{"id":"LocalText/effect_desc3230031","revision":"ee257fe4541df6512ca38c7a4c7d6bb765796d5be3774b1b5f51df67378f321b","ptbr":"Cada acúmulo aumenta o dano sofrido em &323003_tssh&% e reduz o Alcance de Técnica em &323003_jdsc&%. Acumula até &323003_djcs& vezes."}
+{"id":"LocalText/effect_desc3250023","revision":"5860b47528815087887c9dccb55f0f7af3d0dedc79c25a1861956496cc4d6a1c","ptbr":"Cada acúmulo reduz o dano causado em &325002_jdsh&%. Sofre &325002_shwl& de dano de $s_zhang$ a cada segundo."}
+{"id":"LocalText/effect_desc3250033","revision":"f5172cf0a5958300401df827da8efa88a53fd85971e4dc855f09639ff8ff744e","ptbr":"Cada acúmulo reduz o dano causado em &325003_jdsh&%. Sofre &325003_shwl& de dano de $s_zhang$ a cada segundo."}
+{"id":"LocalText/effect_desc3251144","revision":"d421c052ac6dfd3fa72541b7211c3087ed40e952b517bde788371606ba28b7bc","ptbr":"Aumenta temporariamente a DEF."}
+{"id":"LocalText/effect_desc3261134","revision":"d94a2521db7cb4f944bb7c15dcb4a979aadf42e71433e9df15cacaac1eee1c17","ptbr":"Durante a batalha atual, o poder desta técnica diminui a cada vez que é conjurada."}
+{"id":"LocalText/effect_desc3261135","revision":"3c7294585c415bdac0d8ccd52cd0b0db719f0e1f157bbafa5ebc742567a2215a","ptbr":"Mantenha o botão do mouse pressionado para carregar esta técnica; durante o carregamento, sua Agilidade é reduzida. Solte o botão para conjurar a técnica. Quanto mais tempo você a carregar, maior será seu poder e maior seu alcance (ou área de efeito).\\nUm Carregamento Perfeito é alcançado ao soltar o botão no exato instante em que o tempo máximo de carregamento for atingido, aumentando o poder da técnica."}
+{"id":"LocalText/effect_desc3261136","revision":"6ebf0a886a73e12ace010a301c711e832c1b7c97f84c6a175861202fbb67b3a1","ptbr":"Mantenha o botão do mouse pressionado para carregar esta técnica; durante o carregamento, sua Agilidade é reduzida. Solte o botão para conjurar a técnica. Quanto mais tempo você a carregar, maior será seu poder e maior seu alcance (ou área de efeito).\\nUm Carregamento Perfeito é alcançado ao soltar o botão no exato instante em que o tempo máximo de carregamento for atingido, aumentando o poder da técnica."}
+{"id":"LocalText/effect_desc33011","revision":"01da976e6e4223039e6835b677609746790cf37d299ce4d24cd11c376770f029","ptbr":"Elimina o alvo instantaneamente (sem efeito contra monstros de elite, Feras Míticas e personagens)."}
+{"id":"LocalText/effect_desc33021","revision":"cdf4823adff9458c3bec6b7cd6a06cfe98cbf694d730ecb641f9cc58c0a62b64","ptbr":"Causa dano de Raio adicional ao alvo e o paralisa por 1 segundo."}
+{"id":"LocalText/effect_desc33031","revision":"ef44f2c91819bdd9d5ee299c45f87fcfba23bea8c89584de58a2bb38aa623081","ptbr":"Aumenta sua Raiz de Raio por 30 segundos."}
+{"id":"LocalText/effect_desc3310011","revision":"7716ac2340df32ef8187a0446f2e40677094ead3696fdf8feadd5bed9c1e9fc3","ptbr":"Cada acúmulo aumenta o dano em &331003_tssh&% e restaura &331003_hftl& de Vitalidade a cada segundo por &331003_cxsj&s."}
+{"id":"LocalText/effect_desc3310023","revision":"1b895ac1aa79a6150650508fdbedfb2489719786131fdcc6f239193d98a32991","ptbr":"Cada acúmulo reduz a DEF em &331001_jsfy& (até &331001_djcs& acúmulos)."}
+{"id":"LocalText/effect_desc3310033","revision":"6b1e4d7a3f58de9d5722b83a3c17b5e94469c8498333163ab827c4a90873395d","ptbr":"Cada acúmulo aumenta o dano em &331002_tssh&% e restaura &331002_hftl& de Vitalidade a cada segundo por &331002_cxsj&s."}
+{"id":"LocalText/effect_desc3321111","revision":"e718937d7ec441c02d93607e3462df5e3c7e72a635dcd41fbc1af7fff7c6792f","ptbr":"Aumenta drasticamente ATQ e DEF."}
+{"id":"LocalText/effect_desc3321112","revision":"31d90b48a8df2aaa91730a80aa2c5097be1900c31d73d3732215f11a306c34a8","ptbr":"Técnica Marcial: desfere um corte à frente para causar dano."}
+{"id":"LocalText/effect_desc3321113","revision":"c23f881aeae03445747c116153648bf0d10464dacd6eb64571b0015834d1d5d7","ptbr":"Técnica Especial: libera um corte sangrento contra todos os inimigos dentro do alcance para causar dano."}
+{"id":"LocalText/effect_desc3321122","revision":"7faa27fda035ef71f43552438690ba190d2601ba2422797da76857e2b7fbaa8c","ptbr":"Você recebe 1 acúmulo de Tirania sempre que executar um inimigo. Quando houver acúmulos suficientes, poderá desferir Corte Tirânico."}
+{"id":"LocalText/effect_desc3331114","revision":"ba8bb44a067f112027fdd2294ff4b59fcbdfc7c714731e94625c54db4c71ab7d","ptbr":"Você recebe 1 acúmulo de Alma do Dragão sempre que matar um inimigo afetado por Quebra de Armadura. Ao atingir acúmulos suficientes, você pode conjurar Lança Infernal."}
+{"id":"LocalText/effect_desc3341124","revision":"5eefe02d8d3274c586dce923da655db504b0dcf181c9031d067f510e7b75f08d","ptbr":"Você recebe 1 acúmulo de Alma da Espada sempre que um inimigo afetado por Sangramento morrer. Ao atingir acúmulos suficientes, você pode conjurar Espada da Divindade."}
+{"id":"LocalText/effect_desc3351124","revision":"8fdcdb4df8c65943d3c693ac73b872068898832f6518e0b087408341b33c114b","ptbr":"Você recebe 1 acúmulo de Sangue Fervente sempre que sofrer dano. Ao atingir acúmulos suficientes, você pode conjurar Punho Titânico."}
+{"id":"LocalText/effect_desc3361113","revision":"29ede149710c207a70ec669dd4fad15aea09a54be5ad09db82f653e0c8acd484","ptbr":"Você recebe 1 acúmulo de Descanso Eterno sempre que sua técnica de Palma alcançar um Carregamento Perfeito. Ao atingir acúmulos suficientes, você pode conjurar Palma do Descanso Eterno."}
+{"id":"LocalText/effect_desc3371112","revision":"fff31dba9fd0b3038c09c7ee6e777aad7c20f0442ed01555811c7af5f74cf3c2","ptbr":"Você recebe 1 acúmulo de Explosão Espiritual sempre que fizer inimigos perderem certa quantidade de Energia. Ao atingir acúmulos suficientes, você pode conjurar Dedo da Explosão Espiritual."}
+{"id":"LocalText/effect_desc34011","revision":"84fc55c0734d083ab1f5018953123a522e633d3d133395c483e37b9e4d31ba97","ptbr":"Reduz a Agilidade do alvo e dos inimigos ao redor por 3 segundos."}
+{"id":"LocalText/effect_desc34021","revision":"1935778869e7fdafee3e6ebfb6070d904886d1aba5bfd4fc4894d79b7c5d8625","ptbr":"Causa dano de Vento ao alvo e aos inimigos ao redor."}
+{"id":"LocalText/effect_desc34031","revision":"80cdfb33983f331f1c106c8ccd81058ca16b6f593ada83a89bfb97703b67ff14","ptbr":"Aumenta seu Crítico por 30 segundos."}
+{"id":"LocalText/effect_desc341111","revision":"f022e9168f4a4046582d416272d59ea68e12689d2cdddfdc73f1ad8bafffb61e","ptbr":"Causa dano ao longo do tempo."}
+{"id":"LocalText/effect_desc341112","revision":"8e971dc8c1654dc9de095391338104e9062887229abd87a0ade03e986b1b21e0","ptbr":"Aumenta seu dano em certa porcentagem."}
+{"id":"LocalText/effect_desc3411131","revision":"6ba01a3027c008c58798b15593b2dc236522e9c9a1482a8413bda1b08d84ca8c","ptbr":"A duração de uma Técnica Contínua pode ser estendida (mantendo o botão do mouse pressionado). Após o término da técnica, você será afetado por Fraqueza por algum tempo. A duração de Fraqueza é determinada pelo tempo da extensão."}
+{"id":"LocalText/effect_desc3411136","revision":"b02e35e439c1f70a123eb7e28be57f2db68c963d64dcd30d2c4aaa08e0820a6c","ptbr":"Seu dano e sua Agilidade são reduzidos."}
+{"id":"LocalText/effect_desc342111","revision":"f8e7be583129ef2a6c9bbe06985fd1a6a2280a3a225543dc5ebfbae5aae3261c","ptbr":"Reduz a Agilidade e a Velocidade de Ataque."}
+{"id":"LocalText/effect_desc3421113","revision":"e09bdefa0f05dba141e454a2355373b15419e12066ce83c402f5473cb50b4d42","ptbr":"O alvo afetado não pode realizar nenhuma ação."}
+{"id":"LocalText/effect_desc342112","revision":"9d379fcf1b6dbc68da3dd4e26d88a62e813f774b1d4227ef473ca9ef7b712269","ptbr":"Aumenta sua Recuperação de Energia."}
+{"id":"LocalText/effect_desc342113","revision":"83c751e64b850bd4d30e5f39a359738d959524b94a8b9cdb28da11be2f73a3c5","ptbr":"Dentro da Lagoa de Energia, o poder das suas Técnicas Espirituais e Técnicas Especiais aumenta e o tempo de carregamento das técnicas é reduzido, mas você consome mais Energia para conjurar técnicas."}
+{"id":"LocalText/effect_desc342114","revision":"a238470394263b75a92f575518531778d559362f3c653443338d1161e33d66c5","ptbr":"Mantenha o botão do mouse pressionado para carregar esta técnica; durante o carregamento, sua Agilidade é reduzida. Solte o botão para conjurar a técnica. Quanto mais tempo você a carregar, maior será seu poder e maior seu alcance (ou área de efeito)."}
+{"id":"LocalText/effect_desc343111","revision":"998889f9dff9185e3d7a612a386ea5f6232e2a0c1f5ba85c325e9d759fc66b9d","ptbr":"O alvo afetado tem chance de ser atingido por um raio a cada segundo. Quanto mais acúmulos, maior o dano."}
+{"id":"LocalText/effect_desc3431112","revision":"9a2d1af1d70001c8654f6aae3c96b8b46fb068b9d4dc6afac6f2b92bcd444a6d","ptbr":"O alvo afetado não pode realizar nenhuma ação."}
+{"id":"LocalText/effect_desc343112","revision":"be0e151aa7446e2c38b5dd920f657aa4ce0d1c7f5976673e71cea9bfc54cd7a6","ptbr":"Ataca periodicamente inimigos próximos aleatórios com raios. Quanto mais acúmulos, maior o dano."}
+{"id":"LocalText/effect_desc344111","revision":"2c1a3a1ac82acd3dd51c995c8469819337797614897e133e290d6b0cebfed8c2","ptbr":"Reduz a Agilidade."}
+{"id":"LocalText/effect_desc344112","revision":"014fc40d47fef74d9c8ea55bb9d9f01d80dc871b196278300c2a89b0f4222cbc","ptbr":"Sempre que você conjurar uma técnica de Vento, há chance de gerar um redemoinho. Quanto mais acúmulos, maior a chance."}
+{"id":"LocalText/effect_desc345111","revision":"1d37d9a30f9227933ad6933f024cb03416c067b9fceb37acd64ba39fcae75754","ptbr":"Reduz a Agilidade e o dano."}
+{"id":"LocalText/effect_desc345112","revision":"792193ec869f5ea2f9ee6793c390f502116de3a8423b7fa3a8aa84edd025ba07","ptbr":"Reduz o dano sofrido em certa quantidade."}
+{"id":"LocalText/effect_desc346111","revision":"57eba02de7a12195cf12e8d994bafebc8832b893b9802c6905ea076b1d3d1135","ptbr":"Causa dano ao longo do tempo e reduz a velocidade do alvo."}
+{"id":"LocalText/effect_desc346112","revision":"91a94106ab5d6a5f1471ddacc09368e8aa09e06a89844b84069950df88061605","ptbr":"Sempre que você conjurar uma técnica de Madeira, há chance de invocar uma Pequena Fada das Flores."}
+{"id":"LocalText/effect_desc3461128","revision":"33042d332c5f3373eb7fc03a95707c9b870aaa7cc05e14cc0de5c1a8cb30a67e","ptbr":"Unidade pequena que não pode se mover. Causa dano disparando Botões de Flor."}
+{"id":"LocalText/effect_desc35011","revision":"75b2537bc2546d2bcc9a92169341bca0064b8d29cd16de75e41639cbd0762d9c","ptbr":"Reduz a Defesa do alvo por 7 segundos."}
+{"id":"LocalText/effect_desc35021","revision":"579ce83446c471023a70971ebc07794d90156568d252603e34404e566ba82009","ptbr":"Causa dano de Terra com poder de 150 ao alvo e aos inimigos ao redor."}
+{"id":"LocalText/effect_desc35031","revision":"a1396fe13b36e6744698705022f2f34a09ab34d578171bc662ad0b5dbab6aef7","ptbr":"Aumenta sua Defesa por 30 segundos."}
+{"id":"LocalText/effect_desc3551125","revision":"8961acd00dec2ecbcfbc658d6619e2b45dc2eb68c076442b4336a21824add059","ptbr":"Unidade com baixa Agilidade. Golpeia o chão com os punhos para causar dano."}
+{"id":"LocalText/effect_desc3561113","revision":"e4325a7605b157ba93a9886590304caf28ad685cc48a5d74f8c2ff1b5471cc44","ptbr":"O alvo afetado não pode se mover."}
+{"id":"LocalText/effect_desc3561124","revision":"859e25203cd201079625f696276f4b35c3c2a9f55c5ffb9e38d9c77374c71447","ptbr":"Aumenta o Poder de Ataque, o Alcance de Ataque e a Velocidade de Ataque da Pequena Fada das Flores. Também dobra sua Vitalidade Máxima e restaura toda a sua Vitalidade. A Pequena Fada das Flores permanecerá ativa por mais &56112_cxsj& segundos."}
+{"id":"LocalText/effect_desc3561144","revision":"c51add9bfd55457c0f9fdbfe46f3e42db140149f560e67ae295c1f329edf057f","ptbr":"Aumenta a quantidade de projéteis e a Velocidade de Ataque da Pequena Fada das Flores. Também dobra sua Vitalidade Máxima e restaura toda a sua Vitalidade. A Pequena Fada das Flores permanecerá ativa por mais &56112_cxsj& segundos."}
+{"id":"LocalText/effect_desc3561154","revision":"927e250e670d78947714a526e23be709ee4efe3949aa4f25b38a19e158bae148","ptbr":"O alvo afetado sofre mais dano de Espinho Venenoso."}
+{"id":"LocalText/effect_desc3561163","revision":"e26e6dd6db2fd804b15b2d449dead5b82e045c32ddfd63c72f0c3ac0b7f71f59","ptbr":"Aumenta a Velocidade de Ataque da Pequena Fada das Flores. Ao atingir um inimigo, sua técnica explode, causando dano em área adicional. Também dobra sua Vitalidade Máxima e restaura toda a sua Vitalidade. A Pequena Fada das Flores permanecerá ativa por mais &56112_cxsj& segundos."}
+{"id":"LocalText/effect_desc36011","revision":"261ead7a52264b61d12f38dfabdab87050621350acc16b14c9a03f9066e6d63e","ptbr":"Causa dano de Madeira ao alvo e aos inimigos ao redor a cada segundo por 5 segundos."}
+{"id":"LocalText/effect_desc36021","revision":"e7ed74161245ff48ac66869a740cd99e996ce6c648d90df3624b57893c5ef238","ptbr":"Causa dano de Madeira adicional ao alvo com base em uma porcentagem da Vitalidade máxima."}
+{"id":"LocalText/effect_desc36031","revision":"f52fd04cc28a83a8dbdca709870e58f3d6ce7cdf143976e1f175523401c2fde6","ptbr":"Restaura sua Vitalidade."}
+{"id":"LocalText/effect_desc3611122","revision":"ea382089038212e85af3cdeda4f171fa477aeacb055d6e7406849604d2c34d55","ptbr":"Você recebe 1 acúmulo de Divindade do Fogo sempre que um inimigo morrer em chamas ardentes. Ao atingir acúmulos suficientes, você pode conjurar Fênix de Fogo."}
+{"id":"LocalText/effect_desc3621112","revision":"23bab3c987919afc8f14c06daf0b13174a65688f66a51f8e9b92888f83b36a10","ptbr":"Você recebe 1 acúmulo de Olho Gélido sempre que matar um inimigo afetado por Congelamento. Ao atingir acúmulos suficientes, você pode conjurar Olho Gélido Celestial."}
+{"id":"LocalText/effect_desc3631112","revision":"22d994eb940546e8391bfc18f1910aedcc61eeb9a275f1c7d19e08f2f272d971","ptbr":"O raio celestial erradica todo o mal!"}
+{"id":"LocalText/effect_desc3641112","revision":"1c3244739b96121b40c8c4f9b417c1d6921ac3158e3694bc49dc6a272e28fa67","ptbr":"Você recebe 1 acúmulo de Deus do Vento sempre que o redemoinho matar um inimigo. Ao atingir acúmulos suficientes, você pode conjurar Tempestade Ártica."}
+{"id":"LocalText/effect_desc3641124","revision":"1cace4eae4d6261aeffa04cd543b34854fb4a877188291585c481a812672f381","ptbr":"Você recebe 1 acúmulo de Tempo Suspenso a cada segundo de duração da sua Técnica Contínua. Ao atingir acúmulos suficientes, você pode conjurar Campo de Vento Temporal."}
+{"id":"LocalText/effect_desc3651122","revision":"515b7a835055db02201da3fe3c4e831102549630684fb31cf37a0915403028c5","ptbr":"Unidade grande com baixa Agilidade. Usa seu martelo para lançar ondas de choque à frente. Ao morrer, provoca uma explosão que causa dano aos inimigos próximos."}
+{"id":"LocalText/effect_desc3661112","revision":"ac2aae490cafb9b29d8a9bea06a5b2aa868cbd36bb522520ded422613ac219a6","ptbr":"Você recebe 1 acúmulo de Veneno Corrosivo sempre que um inimigo morrer por Dano de Veneno. Ao atingir acúmulos suficientes, você pode conjurar Flor do Dragão Venenoso."}
+{"id":"LocalText/effect_desc3661113","revision":"15bf986d56e589cd872c2943fcb7115fc2dc2da0ff57e5facfbb4b515ab6ed4c","ptbr":"Devorar mata monstros comuns instantaneamente. Sempre que a unidade devorar um inimigo, levará algum tempo para digeri-lo, período durante o qual não poderá realizar nenhuma outra ação. A cada segundo, digere Vitalidade equivalente a &66111_xhwl&% do ATQ."}
+{"id":"LocalText/effect_desc3661119","revision":"b04abfc3f331d0c62dc3c74cf4669bed26301f196733af2aa5fc6a90af961774","ptbr":"Unidade grande que não pode se mover. Devora monstros comuns."}
+{"id":"LocalText/effect_desc3661124","revision":"4a72b0ee5013647fea08f3008899014c69bc388b3fa875c8a58c6c25ead2962d","ptbr":"Unidade grande que não pode se mover. Dispara Pétalas de Flor para atacar inimigos, com chance de causar Enredamento."}
+{"id":"LocalText/effect_desc4100001","revision":"9443ee75facfe6e2ce78bd6d17c4535960cffdc330465da98c04ee4c4fbecc94","ptbr":"Restaura 200 de Vitalidade"}
+{"id":"LocalText/effect_desc4100002","revision":"9899a385e4ce5c9b7163a62933ec689cef86e294a300dfad8e6d69d2076738d4","ptbr":"Restaura 500 de Vitalidade"}
+{"id":"LocalText/effect_desc4100003","revision":"77b590a13b34dda07c902717e3efa01fcfc973b7828ff2c1a4a98b149e20767a","ptbr":"Restaura 200 de Energia"}
+{"id":"LocalText/effect_desc4100004","revision":"a8aa62fbca025ec265db8042672349d1203e461de7ddee48ac4eb81c1bf07dab","ptbr":"Restaura 500 de Energia"}
+{"id":"LocalText/effect_desc4100005","revision":"fc20a8012153a5ae9392148d3a95dcd19f1e09cf1a67f705751893c9360c2631","ptbr":"Aumenta o Ataque em 200"}
+{"id":"LocalText/effect_desc4100006","revision":"e340279ec7b07c9a51591be669fa356bce4fc7b224eb6c511efcf1871d1e7267","ptbr":"Aumenta a Defesa em 200"}
+{"id":"LocalText/effect_desc4100011","revision":"cd5ca2cfd2c54d3262b50590e9a49b1289c8ef032745ca5d6cd483bb64a6a1e8","ptbr":"Restaura Vitalidade: {0}"}
+{"id":"LocalText/effect_desc4111002","revision":"e5085127dd9201044dd9b007317d6f6c056900b86ef47c7b5dc3c9e2eea2d686","ptbr":"Aumenta o poder de dano do Golpe de Espada."}
+{"id":"LocalText/effect_desc4111006","revision":"d871470f9605abd5cf23ddd4504ed1b58706e12da0384454709660aac578f028","ptbr":"Aumenta o poder de dano da Sombra de Espada."}
+{"id":"LocalText/effect_desc4111008","revision":"48b2524d103b203e82423e5b44f5c37b610acddad9f2881ed6140ed58e03d865","ptbr":"Ao detonar Sombra de Espada, cada acúmulo de Coração de Espada tem chance de gerar 1 Sombra de Espada adicional."}
+{"id":"LocalText/effect_desc4111104","revision":"dbfc0e5b830846070ec49be0e0ff189e9fb4a2a65de56cbd2877739ba90f8343","ptbr":"Sempre que sofrer dano, há chance de reduzir imediatamente o tempo de recarga da Técnica de Movimento."}
+{"id":"LocalText/effect_desc4111106","revision":"ac757bb4486d4fa1056767e889e517138fd75bb53c6ff08fe875fb6464a3bf28","ptbr":"Sempre que sofrer dano, há chance de invocar imediatamente 1 Golpe de Espada para atingir um inimigo próximo aleatório."}
+{"id":"LocalText/effect_desc4111108","revision":"a24eb00aced94ab64a6b9f3b58ee4ec5d8264569bf71fa54eb8520e5207dfcbe","ptbr":"Sempre que sofrer dano, há chance de ganhar 1 acúmulo de Coração de Espada."}
+{"id":"LocalText/effect_desc4111202","revision":"d0a4c640e343d73398395f073a67791c7b4221185a2f5fb98a029363a20076f4","ptbr":"Após usar uma Técnica de Movimento, reduz o próximo dano recebido."}
+{"id":"LocalText/effect_desc4111204","revision":"1276e12759fa305c14ac94700bd035284c8f83cc64b874b44999f89a2163008e","ptbr":"Ao sofrer dano, se a distância até a fonte do dano exceder 700 unidades, o dano recebido é reduzido."}
+{"id":"LocalText/effect_desc4111304","revision":"ec865789dcd767afce640a0fb3943004bb881723f53be1bc258c9bb4376f81b1","ptbr":"Ao usar uma Técnica Especial, você se desloca instantaneamente uma curta distância para trás."}
+{"id":"LocalText/effect_desc4111306","revision":"393dfc605b05e5f38128a03c6ff9b833488e6c6814fd985504c7a605252b8d21","ptbr":"Sempre que um Golpe de Espada abater um inimigo, há chance de reduzir imediatamente o tempo de recarga da Técnica de Movimento."}
+{"id":"LocalText/effect_desc4111308","revision":"6eeb0acf12de295a3a56e3cb0aa79657f8a341d5da3009b4dbfc403c3288722d","ptbr":"Após usar uma Técnica de Movimento, há chance de consumir 1 acúmulo de Coração de Espada para reduzir imediatamente o tempo de recarga da Técnica de Movimento."}
+{"id":"LocalText/effect_desc4111404","revision":"340dbbe07b20324ef1ca52f7f26c334f06f7d93e9e25b1d9db7f628da840f274","ptbr":"Sempre que usar um item ou Artefato, há chance de invocar 1 Golpe de Espada para atingir um inimigo próximo aleatório."}
+{"id":"LocalText/effect_desc4111406","revision":"cb5db86cb729e8124321001c4a4a5bbe1ee0e894d09799d60e365b0810e9c74b","ptbr":"Sempre que usar um item para restaurar Energia, há chance de restaurar uma quantidade adicional de Energia."}
+{"id":"LocalText/effect_desc4111408","revision":"bc317131f3d15d785b77c73a17f80af15fecae63f097ce190f088a8ede7f5854","ptbr":"Sempre que usar um item ou Artefato, há chance de lançar 2 Sombras de Espada."}
+{"id":"LocalText/effect_desc4111505","revision":"20e47032f089d1b5b86caaa17683879fa2b15252bdca3fe98bd40d1a31579647","ptbr":"Após usar uma Técnica de Movimento, aumenta o Crítico."}
+{"id":"LocalText/effect_desc4111705","revision":"dcc1ed813172218c83ae1389f7d292979d8d799a2a861bb15686e63f7e01d963","ptbr":"Após usar uma Técnica de Movimento, aumenta a Res. Crítica."}
+{"id":"LocalText/effect_desc4111904","revision":"905e751d8982fa439a6307a6de659e01a15af2efba6328e694c81759f08003c6","ptbr":"Sempre que usar uma Técnica de Movimento, lança 3 Golpes de Espada."}
+{"id":"LocalText/effect_desc4111909","revision":"b627b7c75156a6928c6a285051a4f64c392aa6ae66c8d58328ad1dac7d48ecea","ptbr":"Sempre que usar uma Técnica de Movimento, lança 5 Sombras de Espada."}
+{"id":"LocalText/effect_desc49001","revision":"0b54eec6544022a534619c712f2b60408b88f11fca8e6e473d159926a7ace632","ptbr":"Aumenta a Agilidade em 150"}
+{"id":"LocalText/effect_desc49002","revision":"8979f5435a8bff07d4816f33bc633a8ffd0f4bfca52cbbb912d3aa0d0546c7c9","ptbr":"Aumenta o Crítico em 999"}
+{"id":"LocalText/effect_desc5100105","revision":"c278f5260c0304e8920734c7782b7e67467ae147748181be7390e3b4adbd000c","ptbr":"Ao usar uma Técnica de Movimento, há chance de redefinir o tempo de recarga de todos os Elixires."}
+{"id":"LocalText/effect_desc5100107","revision":"877fa62261b3deaa155c893bd46a8714e4c7b0cf9a92d03533bab7ee77032e12","ptbr":"Ao usar uma Técnica de Movimento, você ganha 1 acúmulo de Coração de Espada."}
+{"id":"LocalText/effect_desc5100109","revision":"7bd654229d021f13397348af4de8831ea58c393e63109f6f491acead5db78013","ptbr":"Ao usar uma Técnica de Movimento, aplica 1 acúmulo de Qi de Espada a 2 inimigos aleatórios."}
+{"id":"LocalText/effect_name100","revision":"120103471f139c7d2dac304099f708d3e71de97b09886266308c6477f248803b","ptbr":"Silenciamento de Movimento"}
+{"id":"LocalText/effect_name100006","revision":"8436090e085d130dd3a4b4e102553987bb0ad844d9aef03b6fe333dbeac182ec","ptbr":"Veneno de Serpente"}
+{"id":"LocalText/effect_name1000061","revision":"01b09a5f377bf55207dc750d636593283287f2837affc9b317676ccd8c33fbca","ptbr":"Dano de Veneno de Serpente"}
+{"id":"LocalText/effect_name100007","revision":"67c5b016d50b4baff7483fec22b6a86f085e0439394a773de72968eec9c91488","ptbr":"Veneno de Aranha"}
+{"id":"LocalText/effect_name100061","revision":"c1ef31c5b86fa33608f12d4f27a17e0f0952b915f09be6c59a241ed97c777904","ptbr":"Veneno de Serpente"}
+{"id":"LocalText/effect_name100071","revision":"a657091205fe4339ab92b226d169f1b78561d1b62499a8f255874682ed4cbadb","ptbr":"Veneno de Aranha"}
+{"id":"LocalText/effect_name10591","revision":"5bfa825ac5fe1e959af0b1a1df67ceafe805150cb6439652e58af9f8a46c0a27","ptbr":"Rasga-Céus"}
+{"id":"LocalText/effect_name10601","revision":"a2495fd4b072661371936b5313f7035f023313490beaa2d9dbd888d98e185a5b","ptbr":"Quebra-Almas"}
+{"id":"LocalText/effect_name10611","revision":"6bbffad2ac497d5473db52f88db1f1d7ced8c12d0a660aaee65b55881040972d","ptbr":"Dreno de Alma"}
+{"id":"LocalText/effect_name10621","revision":"4c005da372c9ddff8fa5c76743bdeb5c138777e9b91a693669a79b7cf5739a2e","ptbr":"Dreno Espiritual"}
+{"id":"LocalText/effect_name10631","revision":"fe592f72c4e28c3f7d95ed12d5e3f827ebcbf9fdc2e77669537401f462e90979","ptbr":"Ferocidade"}
+{"id":"LocalText/effect_name10641","revision":"33bab88d109166ed19998bd8052d450cb74d6d9eb1ae6dd83b2722ecf78d58ca","ptbr":"Sede de Sangue"}
+{"id":"LocalText/effect_name10651","revision":"ea77295e931ce502e6b4dfbb13f63975167c40e58c684a95f6695a9b4aa0b772","ptbr":"Varredura"}
+{"id":"LocalText/effect_name110","revision":"84c2773b3312f97deb12b7ae6895e023ce9d34706541d88c79a656b13ae39673","ptbr":"Morte"}
+{"id":"LocalText/effect_name110015","revision":"cbb0e90afe24bfc0877e7e5dc7fc31cc9dfd2b94716cd224b44374c094a6febf","ptbr":"Opressão"}
+{"id":"LocalText/effect_name110016","revision":"bddcf06ed63e68b34c2f3cbbe8f4ce4b2fd3a5aa37de4f68e3c7b9fd7d41af75","ptbr":"Poça de Sangue"}
+{"id":"LocalText/effect_name120","revision":"3b601b88a5a7d8a0024357f2fa0034d647fa554ac2bb6f7826f5d7e154a02249","ptbr":"Corpo Inabalável"}
+{"id":"LocalText/effect_name130","revision":"71f163aae3f7d4bb166caa9e5f83da6b1d9e6418be4c1e80f5fc1f35eb9b8afd","ptbr":"Invencibilidade"}
+{"id":"LocalText/effect_name140","revision":"1da8e4f9f2f89dc296cbd8cc002630f6a378b257d06166bb1e2492b4b44dc98f","ptbr":"Descontrole"}
+{"id":"LocalText/effect_name200006","revision":"2ba6bedaace309963ad7e196b27dff8dbbc62f1e873218e59de28bd731e6f9fb","ptbr":"Regeneração da Árvore Anciã"}
+{"id":"LocalText/effect_name2000061","revision":"36333ba5b9c8603beb513d34664253d714612479658ca8373dfed4b6c7757f65","ptbr":"Efeito de Regeneração"}
+{"id":"LocalText/effect_name2000071","revision":"ca294ad4065819eb34c68f2899ce09b91efe1aa217ff8a7a4e2956c354ef3c4e","ptbr":"Atordoamento da Árvore Anciã"}
+{"id":"LocalText/effect_name2000072","revision":"26fbc7216371f278374e7a7b3b20ca48f3032fdcdeb382f650ef28841620182d","ptbr":"Fraqueza da Árvore Anciã"}
+{"id":"LocalText/effect_name300001","revision":"838581e08ee0ca25ef45f682c2c4779dc92bfc2c2210509e80f931022800fe75","ptbr":"Fogo Ardente"}
+{"id":"LocalText/effect_name3000011","revision":"9242dd931fc00bcb29908219792be37b962d32e0389ee9836620b022321c47e4","ptbr":"Dano de Fogo Ardente"}
+{"id":"LocalText/effect_name31011","revision":"bcc0e5c25c7aca9b4e9e324d04036c0792f661365a5ee190f0897674c9c2d4b1","ptbr":"Queimadura"}
+{"id":"LocalText/effect_name31021","revision":"f2a4d738d52fd62d29c5d5880673e47bd881d36d2d026954ab3ceb22c3b4709c","ptbr":"Queimadura"}
+{"id":"LocalText/effect_name31031","revision":"d7d7c69cb3f544438c1e6c7f70c207aebc9317387b4b766e4f0ec1cc65f6a7ff","ptbr":"Erupção"}
+{"id":"LocalText/effect_name3115111","revision":"4e0b4cec9fdae084d4138418f01e41d5ae86d2f9c85a35043adb5052fa63b38b","ptbr":"Qi de Espada"}
+{"id":"LocalText/effect_name3116111","revision":"7f683d7f0db6d6d468648895ec697cf0205f5d435da1b447339bb805f9bf2feb","ptbr":"Coração de Espada"}
+{"id":"LocalText/effect_name3117111","revision":"580499a1e57465e1d0ed0bf2be431ab8fc35cb515556cf826d5bce292204d31b","ptbr":"Qi de Espada"}
+{"id":"LocalText/effect_name3117211","revision":"7406b4401909752c4b1973770a0f031305b37dfd476ea2f26e52b2939f94a4b9","ptbr":"Coração de Espada"}
+{"id":"LocalText/effect_name312111","revision":"a1eb7687721e7eee66b5de44ecc53e3b1f8581e93443a5a13cefd6b9d6c745ca","ptbr":"Lâmina de Sangue"}
+{"id":"LocalText/effect_name312112","revision":"a2bdfb35e792a2ecb88caa04bb5996aedad68a2cc3d10308fd59e715eb3e2ca8","ptbr":"Implacável"}
+{"id":"LocalText/effect_name313111","revision":"6ac91287b0243a4ce4d8ffd76f54c9a1d8c33b6eaac77429374e9025cb9301fe","ptbr":"Quebra-Armadura"}
+{"id":"LocalText/effect_name313112","revision":"16571724d80f2f8152cd6104dd52c6a9e16c87e1f0dd43f41563bf69754106fe","ptbr":"Destruição"}
+{"id":"LocalText/effect_name3141112","revision":"897709305e54492bfb31647981486f3b294a91c0bc1ef0286eb001a106f0f3b4","ptbr":"Sangramento"}
+{"id":"LocalText/effect_name3141114","revision":"ae05af9b245a1767e4e7dc0e8c556b4dd0b550b769f0d3e2f21a3c7f12234e73","ptbr":"Laceração"}
+{"id":"LocalText/effect_name314112","revision":"a4c222003032e66f589e76039a61788b45b10c4dc868686d436813f2bc2ba1bc","ptbr":"Corte de Espada"}
+{"id":"LocalText/effect_name315111","revision":"cfca3084fc370dfa3b48f39d2da2400f176a1f6052f897eb48a7f49fd7c4b40d","ptbr":"Fratura Óssea"}
+{"id":"LocalText/effect_name315112","revision":"3a87ad083d44f573fa2d95973c027b2e5ea4c9c35b20a3dfb17920c53a69115e","ptbr":"Pele de Bronze"}
+{"id":"LocalText/effect_name3151121","revision":"1ec64dbda25f5c8834addf333d5d6266a5752420e1d8a8099238d5b9b4048357","ptbr":"Escudo"}
+{"id":"LocalText/effect_name316111","revision":"e71bc9b3edb809cb467f5577ee39f7d68397471a258a88d706e8d5f1a593a8d0","ptbr":"Ferimento Interno"}
+{"id":"LocalText/effect_name316112","revision":"86f3c8a9c160659ce0aaaeb8030aff60c782279f2e7cc6a960a6d67b33feb9a5","ptbr":"Força Interna"}
+{"id":"LocalText/effect_name3161123","revision":"519a5529d5d2118141a8f555642442e396b689f4fb992329c0703b2d2752e2d9","ptbr":"Vento de Palma"}
+{"id":"LocalText/effect_name317111","revision":"a522309dedb3b9b3d01c2824754786c7edc5e619f8f0e427f4985d14127a2d1c","ptbr":"Vazio Interno"}
+{"id":"LocalText/effect_name317112","revision":"101685961fa999a4461c412a3f8d1278d8e63455d5b94f2ea5f89a9e96857c36","ptbr":"Meridianos Abertos"}
+{"id":"LocalText/effect_name3171123","revision":"dcf4e2cbf0a24382eed52a0ac1b276c76ad1975b98be108e306f622590619cef","ptbr":"Meridianos Selados"}
+{"id":"LocalText/effect_name32011","revision":"417226bd33e9b017711b059511277dffbcab56d3c7c88fbc5174810b6224aa44","ptbr":"Geada"}
+{"id":"LocalText/effect_name32021","revision":"935929230da5f81fc9093f49ca30491f968eec306613ebfe2727355727305d65","ptbr":"Espinho de Geada"}
+{"id":"LocalText/effect_name32031","revision":"e41448bbb144f175cce0c21f3ffc7406e4190ed8d2bd365f1b23a8b82554c2f1","ptbr":"Essência Espiritual"}
+{"id":"LocalText/effect_name3220011","revision":"ef404f4276495aa22030f3dc9e7ce771e545e6be75891f2fd9070f3e3a25d654","ptbr":"Estilhaçado"}
+{"id":"LocalText/effect_name3220021","revision":"a6962054658d7ba67d8106ee3498a38434aad0382bc085c03d69e4668ba27a00","ptbr":"Quebra de Alma"}
+{"id":"LocalText/effect_name3220031","revision":"b60187055035ecc5a263ead45bb5fe317d721baf741b8e1e7f4d0db40ec90874","ptbr":"Quebra de Alma"}
+{"id":"LocalText/effect_name3221111","revision":"84f80f59838ba063bb2fcc78e9fb22508c1f38f455f6ef639ee09398fced2d2b","ptbr":"Roubo de Vida"}
+{"id":"LocalText/effect_name3221132","revision":"408620f3ef478b9ab1c8fbda9b6c39016a98ce4c8ae5783705115a899fbf32b2","ptbr":"Roubo de Vida ao Executar"}
+{"id":"LocalText/effect_name3221153","revision":"435dc4277a91410616dc4a3eb00f489535d999093aec675f527d78982a26996f","ptbr":"Lâmina Vil"}
+{"id":"LocalText/effect_name3221161","revision":"0ca3b03d751fe5c836d27c56340e5b5a10fc25e0d88a5746ee800a11d3fcc621","ptbr":"Varredura"}
+{"id":"LocalText/effect_name3230011","revision":"e6979f11c7d0bc5052ca02f50e529c5dd0ce703cfc6b52c469c8c21848bb2e9f","ptbr":"Laceração"}
+{"id":"LocalText/effect_name3230021","revision":"fa6ac3f9d1a13ca9efb420e92af0f1d9bd14ef420b264265e95dd2f7b17d09e1","ptbr":"Cicatriz"}
+{"id":"LocalText/effect_name3230031","revision":"d15f332399953ce2e6a3e6b98c8bb8f3e161a32c6f9f37c30b7bb87b08b69ad5","ptbr":"Cicatriz"}
+{"id":"LocalText/effect_name3231126","revision":"a3c765edc65bb71ed0c8c16861f14bd1fead40ecc4ce00c2956a01544a74ae1c","ptbr":"Recarregando"}
+{"id":"LocalText/effect_name3231141","revision":"28db5d78a245f87ef8269576581acc329fa16fea469ffaea8e88b715ea875a58","ptbr":"Ascensão do Dragão Rugidor"}
+{"id":"LocalText/effect_name3250023","revision":"4e74770c28800860a173d7c591234c84670bdd576ea779ca3af1c1157d5bf040","ptbr":"Pânico"}
+{"id":"LocalText/effect_name3250033","revision":"b7ef147432aff6dcdfaea9047b1557f21a7b6d43f5dd3fabfde6087e7aab9d2c","ptbr":"Pânico"}
+{"id":"LocalText/effect_name3251144","revision":"b35da8a2e7eaecd5e025b5b0faaf42fed8c63100fb44d4f941f4b93156b6942c","ptbr":"Aumento de DEF"}
+{"id":"LocalText/effect_name3261134","revision":"16cd30dc5cd57638f5e5c0b5eea3e61d8506ef8d9c6a576fdaee06ab6dc3abc5","ptbr":"Redução de Poder"}
+{"id":"LocalText/effect_name3261135","revision":"03d3965ec7cab35487fb09ffb23b5ca469eb50de487b283190d504bc811ee141","ptbr":"Carregamento"}
+{"id":"LocalText/effect_name3261136","revision":"dbb5a42bc32663298f21b928d75e99eb2cf9c67674b166952c4e608155402197","ptbr":"Carregamento"}
+{"id":"LocalText/effect_name33011","revision":"de2d3debdcc6ecaf2ec47e419af0c3b49356cf3d36eb986e23371959bbceff00","ptbr":"Castigo Celestial"}
+{"id":"LocalText/effect_name33021","revision":"8f9349e2aef42ee78e30b76f409f62a0cf2e5f6d712537ac683885f9f66d4fac","ptbr":"Choque de Raio"}
+{"id":"LocalText/effect_name33031","revision":"c09dd0e3af1d7d050a9d9b8d5fd770cd9352afb3c0873be2a679b1fe687e6333","ptbr":"Poder Divino"}
+{"id":"LocalText/effect_name3310011","revision":"3609442c78515654ca84fe8ebaa28e574d28459d1520c419668e22f5eb7c9143","ptbr":"Armadura Derretida"}
+{"id":"LocalText/effect_name3310023","revision":"92f836029df2d74981a43ee7961c844aa1b042d8a9c12f99953b114fd2bc1f8c","ptbr":"Prova de Fogo"}
+{"id":"LocalText/effect_name3310033","revision":"2cc230cf963fb1cc37bf92f10fa72aa09bdda6447dfd5e692fe4b4ab65f694d9","ptbr":"Prova de Fogo"}
+{"id":"LocalText/effect_name3321111","revision":"936452a0d0df8957bef30fb9b4d3c988f387b48370a0c18b8e663fb53742bac9","ptbr":"Demonização"}
+{"id":"LocalText/effect_name3321112","revision":"83b2f8be0047646d822fbe680f8a4e7d7932e9632a0e74d5b946b96c92a86a3a","ptbr":"Corte Deicida"}
+{"id":"LocalText/effect_name3321113","revision":"52b8d8e222898b7c14c990dd5a45746c59bdb9942670554dcfae2270011906fa","ptbr":"Corte Demoníaco"}
+{"id":"LocalText/effect_name3321122","revision":"b7b709f17e3206957212e5cee7ae0ba8f5da5f92cdc06a2a53571364caffa63a","ptbr":"Tirania"}
+{"id":"LocalText/effect_name3331114","revision":"7d1ad79aa5020b848a5159c57b9e0769a7f9c2730d7962b0d56b581410a62d60","ptbr":"Alma do Dragão"}
+{"id":"LocalText/effect_name3341124","revision":"ce4c548c28ff81141b835fc950dca9db4f2b0a4a80d15066b7324c11964bfe02","ptbr":"Alma da Espada"}
+{"id":"LocalText/effect_name3351124","revision":"892c3bf3fa5b5cb5327529316ee792e6a4144b4d21606c4590a66e72d099c541","ptbr":"Sangue Fervente"}
+{"id":"LocalText/effect_name3361113","revision":"2937e902778bae0d1c2674f0cff2ab41fc1163ae7ed9e4576ed0c9c1474ce4e6","ptbr":"Descanso Eterno"}
+{"id":"LocalText/effect_name3371112","revision":"847d426a7d29564bcfefb427b047715b8380a3a01b96a7fcee2562aa183af009","ptbr":"Explosão Espiritual"}
+{"id":"LocalText/effect_name34011","revision":"cc19789e43238020d6e82d9524f2150823963ca286726e963198a6f0c929d56a","ptbr":"Vendaval"}
+{"id":"LocalText/effect_name34021","revision":"ccad5c41a346d91da9a095933c253265e1e7b2cba17a186323708cd19141b575","ptbr":"Tempestade"}
+{"id":"LocalText/effect_name34031","revision":"49de30736358495b8f3fdb8c43725d063e940b90bda07a6c62e606ee246b94a3","ptbr":"Concentração"}
+{"id":"LocalText/effect_name341111","revision":"dfa4cd86e26a69c1719edc7143c3f2275e64ab32f2cf6f8202ce5cd591315e37","ptbr":"Queimadura"}
+{"id":"LocalText/effect_name341112","revision":"e1dc26ec34b42e3eee5f39397c161657580748dde230b8d0ce009f15d71bd435","ptbr":"Alma Ardente"}
+{"id":"LocalText/effect_name3411131","revision":"c528f481202b7cb6f5a8a663d7222b349221ade48f5999b209ef85a325014d08","ptbr":"Duração Estendida"}
+{"id":"LocalText/effect_name3411136","revision":"3362043f2770255c925e5a2a838b9908ab5659c8db1ba6d69f2b8d12af47386f","ptbr":"Fraqueza"}
+{"id":"LocalText/effect_name342111","revision":"9f5af831ae6e0f43999eaeb3ea025632e626722119a62848668a941eeb5ecdb8","ptbr":"Geada"}
+{"id":"LocalText/effect_name3421113","revision":"f592f744800a02c220fc76dcc4ec0193f3db02ae8ad9171387c01853760ca7bd","ptbr":"Congelamento"}
+{"id":"LocalText/effect_name342112","revision":"1d9e26599793c53605e310a89e17f8779574280f9fc255200abfbcb64ca22498","ptbr":"Surto de Energia"}
+{"id":"LocalText/effect_name342113","revision":"627aedaea25159ed63d9ca7f52b93dc42a35bee27fba8becd62a00139fbe0def","ptbr":"Lagoa de Energia"}
+{"id":"LocalText/effect_name342114","revision":"cbec2d135d47a89a9d80d7f5591e3957f3f7fd4ed6331adbdca2191b37826bd0","ptbr":"Carregamento"}
+{"id":"LocalText/effect_name343111","revision":"ee69915003c1fb2d9d475756cbaecd49ded4394548356da73f73271e20c89bb7","ptbr":"Raio Caótico"}
+{"id":"LocalText/effect_name3431112","revision":"ca42953194e36c8e7f36f6f2687faf97e2b9140a4f946d05355737ef32875427","ptbr":"Paralisia"}
+{"id":"LocalText/effect_name343112","revision":"22e9cc3a0b5e57f411ce0642fe398171d8d4dd56a21b8aa432271034082f7068","ptbr":"Surto de Raio"}
+{"id":"LocalText/effect_name344111","revision":"024383fbcaf950c1c89f51f1703bd5aff1efb35eb250c624d66cfe0095115980","ptbr":"Vento Contrário"}
+{"id":"LocalText/effect_name344112","revision":"d237bff00fb8af6e38904431d6328b776404832ab77333549da93a08cadfb758","ptbr":"Vento Espiritual"}
+{"id":"LocalText/effect_name345111","revision":"fecc9447b295363dd299832341c0bb1f42615e79e6fa163246a8944555e40d98","ptbr":"Tremor Rochoso"}
+{"id":"LocalText/effect_name345112","revision":"85c02a0870b2d57e4e881ff06d304e0c91815762c49281f94a944b16b4d2d344","ptbr":"Pele de Pedra"}
+{"id":"LocalText/effect_name346111","revision":"a9bce26ecd441f06b5ba340a000e32cf24c761d4c50e6cfc5471a2fe91a9de65","ptbr":"Espinho Venenoso"}
+{"id":"LocalText/effect_name346112","revision":"a7e0a8df5118350705387c8e07c8db906db6f3b49488b4b37efe5833f97d04d0","ptbr":"Espírito das Flores"}
+{"id":"LocalText/effect_name3461128","revision":"a4f8d9dc94bfb1fdc1b91fe80ff7966e5b6ab9e4d0d3775001f30b2e40ea0feb","ptbr":"Pequena Fada das Flores"}
+{"id":"LocalText/effect_name35011","revision":"62df1e7653b6cf661c65465a2a4b171d6c3dfb894284abc58fa02e3472c306e3","ptbr":"Quebra-Armadura"}
+{"id":"LocalText/effect_name35021","revision":"e6d61b6863f582d3baee3c41a4628f883d9a3bf69508e2cb5a78354ba262e9d2","ptbr":"Desmoronamento"}
+{"id":"LocalText/effect_name35031","revision":"abc1b1d3254248612958f63e0ef00abe815f4ae51dbab24273503ee6b5ec04f6","ptbr":"Rocha Sólida"}
+{"id":"LocalText/effect_name3551125","revision":"8c3ad7e827f01874abf17a1b929044db1bc2610c04a62850872c238692d6eb3f","ptbr":"Golem de Terra"}
+{"id":"LocalText/effect_name3561113","revision":"892b6ea40ce0da741c720156abe958af3dae3636b0fcb66f94f4bbfc49a98227","ptbr":"Enredamento"}
+{"id":"LocalText/effect_name3561124","revision":"83037a538ee4766184e68d13bec5cd0d61871fc17ee3f03acc63be3978777450","ptbr":"Energia Primordial"}
+{"id":"LocalText/effect_name3561144","revision":"1db5fa319ed55843dfec4ec490bc46387d25143e66d5c9ed0fa1fc888c4cc295","ptbr":"Espírito Floral"}
+{"id":"LocalText/effect_name3561154","revision":"7b56313af3d7c0de473bf978eff840a956accc19c4d8b6da5643d3fca96a76f3","ptbr":"Pó Venenoso"}
+{"id":"LocalText/effect_name3561163","revision":"4529bb55fa8078be5f9448f5431be5c5893b238dae5af206d5548e1409a5597c","ptbr":"Espírito Espinhoso"}
+{"id":"LocalText/effect_name36011","revision":"a3c01fd3bbc306069bdf2c6fb8c077d153581182ea756911a060f8aebe0245a8","ptbr":"Definhamento"}
+{"id":"LocalText/effect_name36021","revision":"355469e64f68c67070154db7e9fe128ee3fa00595eb0f9fbb724fccaf38c670d","ptbr":"Fenecimento"}
+{"id":"LocalText/effect_name36031","revision":"c40016ce441c2fb65e7598fbe4bb6c0326bb34c2489a2178a7b48c10716b10cd","ptbr":"Revitalização"}
+{"id":"LocalText/effect_name3611122","revision":"7ccb13d283adcba60bbd7d37eaa59909e30c396f949656d54d154c651cf14ab9","ptbr":"Divindade do Fogo"}
+{"id":"LocalText/effect_name3621112","revision":"aef8c91ae6e7bb8ca8957cd4d64846d9db30bcf81bf658264d503cb304b845ed","ptbr":"Olho Gélido"}
+{"id":"LocalText/effect_name3631112","revision":"440cd83a2045d369edb40f5e57ad84806f691b54453d542327a0db3456b6ea8a","ptbr":"Raio Celestial"}
+{"id":"LocalText/effect_name3641112","revision":"9afdb73b0df427d04cd41d756bd558ff01bb5f2d2ac7797cd168d3557af79aff","ptbr":"Deus do Vento"}
+{"id":"LocalText/effect_name3641124","revision":"745a342df5f99864a1f19bb57751c67c948bc26eba6bf92a35f7d1f38485e2fa","ptbr":"Tempo Suspenso"}
+{"id":"LocalText/effect_name3651122","revision":"a8b25ac196cb3b69aaf7e59fb97991bd83c24b5c5b58f2df3786e3039cca6048","ptbr":"Golem Espiritual Gigante"}
+{"id":"LocalText/effect_name3661112","revision":"26acac3b83facf1500801a8a79364eb1393a57fe70ba428eab9ef9254fcb5358","ptbr":"Veneno Corrosivo"}
+{"id":"LocalText/effect_name3661113","revision":"045cf92cdc93555c539c5ddf067359ca180f18325819a727c89e43c38cb32b0b","ptbr":"Devorar"}
+{"id":"LocalText/effect_name3661119","revision":"c30c48d90f4dae5dee688b0d2df231cca5af6b0df52017725df406d6b1719654","ptbr":"Flor do Dragão Venenoso"}
+{"id":"LocalText/effect_name3661124","revision":"0205d44660ce71846a04f3a76bc19db32f4a4ad39870c1fcd3acdcb5417c8b3c","ptbr":"Rainha Fada das Flores"}
+{"id":"LocalText/effect_name4100001","revision":"a6d97198aa087c66b0e3cf7d7c41ac95ad588758c69d680db62bba04df3f956c","ptbr":"Elixir Menor de Vitalidade"}
+{"id":"LocalText/effect_name4100002","revision":"686a1134c37f5928218c23d5928724bc64b9fde6cff7e6783ee5848e8ef4eb2a","ptbr":"Elixir Maior de Vitalidade"}
+{"id":"LocalText/effect_name4100003","revision":"6138106283ddf03d6d9f426aa8813fdf77e1ceef7072a8ebabcc9f332c757471","ptbr":"Elixir Menor de Energia"}
+{"id":"LocalText/effect_name4100004","revision":"2eb4d898ccd6667d42a848682f69d45f892cc70fba86c631ecac5b6951cc553c","ptbr":"Elixir Maior de Energia"}
+{"id":"LocalText/effect_name4100005","revision":"7cce73bf563ac6e99a12243969f15d1747b87cd86481b75f8a0860d444d1130c","ptbr":"Elixir de Ataque"}
+{"id":"LocalText/effect_name4100006","revision":"a38e00dc8b02b1adc7894cec99da1abb902c58180717d413572ca591bfcdd2a3","ptbr":"Elixir de Defesa"}
+{"id":"LocalText/effect_name4400112","revision":"bd8a440cda5c6ce6bb885957877537ed7e32f5351dd97911d1c8a0fe174798c1","ptbr":"Aumento de ATQ"}
+{"id":"LocalText/effect_name4400122","revision":"01d209eebdbaf3cd9d3e8d19332f058775e68e04dd09a5314c656699f1406fd8","ptbr":"Aumento de ATQ"}
+{"id":"LocalText/effect_name4400132","revision":"f391c24c1e4098c4a0aa7d90b2dc1ac0f31922d416d19a8f8d1cca2508782c23","ptbr":"Aumento de ATQ"}
+{"id":"LocalText/effect_name4400152","revision":"c5fab6cb1bd5fd6b80760b9708ab167efc871bf5d6ea1855217284f39b5c17ee","ptbr":"Aumento de ATQ"}
+{"id":"LocalText/effect_name4500112","revision":"00cd1192e9b32d504558b43ce90e99b5a086ff6cc6de26d5e2adc80f0a179731","ptbr":"Aumento de DEF"}
+{"id":"LocalText/effect_name4500122","revision":"79686e4eab539decf98a882a29eefb56792d45614a9ffb475698cbc47839ee95","ptbr":"Aumento de DEF"}
+{"id":"LocalText/effect_name4500132","revision":"4327804e9fd1d6222fc54d2a608f04e62d397d24735ea330a675356aea837425","ptbr":"Aumento de DEF"}
+{"id":"LocalText/effect_name4500142","revision":"265a5874993122cba052a7cb5ade4ea82281d1957f01eeabac6c2fc2b4420486","ptbr":"Aumento de DEF"}
+{"id":"LocalText/effect_name47011","revision":"5cebf7592675e874509df2a74f6ed061ff09f3244f0a90d3d44de9ba7d8429ee","ptbr":"Queimadura"}
+{"id":"LocalText/effect_name47021","revision":"09be8806c22f9d1b5718d3b13312bea6828336a9569fe5cdc3a6b86c5762e4c6","ptbr":"Frio Ártico"}
+{"id":"LocalText/effect_name47061","revision":"770cee737489b1b05ad698b02fa6757c6887b2f94c5d840d523c3a7a591fd355","ptbr":"Veneno Letal"}
+{"id":"LocalText/effect_name49001","revision":"1d2119c188962c797fbd691e692f338b73de47d6e016083200f5d926bf9470da","ptbr":"Efeito de Técnica de Movimento"}
+{"id":"LocalText/effect_name49002","revision":"e08bcbdf07fc897aafd6c44efdb83c08fb17b471ed395594435f4b81f10ddf67","ptbr":"Efeito de Técnica de Movimento"}
+{"id":"LocalText/effect_value_desc100","revision":"746498eb44e259f83b89c22c92d005edba34aeab9472fa517c58410f708f7307","ptbr":"Dano por segundo: {0}"}
+{"id":"LocalText/effect_value_desc101","revision":"9458eb17a27d0d131f3751a652287e86c1648eaa79573088e2a325ef489050bd","ptbr":"Restaura Vitalidade: {0}"}
+{"id":"LocalText/effect_value_desc102","revision":"9915cb8715af26356a183583bac3028f922406e12ce91e245971ad7729f458b8","ptbr":"Recuperação de Energia: {0}"}
+{"id":"LocalText/effect_value_desc103","revision":"d1ced1d4f10d7db8afa6cc320c08866d7a7864cdf9b26c15ebe949302c261586","ptbr":"Consumo de Vitalidade atual: {0}"}
+{"id":"LocalText/effect_value_desc104","revision":"398e54b60d6cb9786e7bce1fa52c77694c5b620538e9755d8b6fe90797493142","ptbr":"Consumo de Energia atual: {0}"}
+{"id":"LocalText/effect_value_desc105","revision":"8e29397b1e549044ebee32ac18c5748bc53f9ee1c59f3337e011f3bb20798246","ptbr":"Consumo de Vitalidade máxima: {0}"}
+{"id":"LocalText/effect_value_desc10591","revision":"fbcc83852c991589bafe6f55daf0997901ae57863e10c768fc02a98053ef90bb","ptbr":"A cada acerto crítico, reduz a Defesa do alvo por 5 segundos"}
+{"id":"LocalText/effect_value_desc106","revision":"f3a00b52a70937aafe6d05571efb094f1d34993c25a5f3cf7e6e910b3b12ae4c","ptbr":"Consumo de Energia máxima: {0}"}
+{"id":"LocalText/effect_value_desc10601","revision":"007384b5143483c488f4592f9c673c36f3b467a1ce486f76f2aeed325c149c5b","ptbr":"A cada acerto crítico, reduz a Res. Crítica do alvo por 5 segundos"}
+{"id":"LocalText/effect_value_desc10611","revision":"9f72430ae2589ec954f484f70c23408860f22c96fc693124da14bbb304ae278b","ptbr":"A cada acerto crítico, restaura Vitalidade"}
+{"id":"LocalText/effect_value_desc10621","revision":"c67b9ba1ac2513369a9b49fecaa21051b23952b02c54501ab31cedf85452e549","ptbr":"A cada acerto crítico, restaura Energia"}
+{"id":"LocalText/effect_value_desc10631","revision":"2d5e16c469dd9f64c4161156d2967b7fbcbf40d750bd81dddc1631e9e55ae0ac","ptbr":"Causa dano adicional a alvos envenenados"}
+{"id":"LocalText/effect_value_desc10641","revision":"35a1ac6c06e1ed599fb43e2f4f22254850428e417bde66112190c7685e85ff0d","ptbr":"Causa dano adicional a alvos com Sangramento"}
+{"id":"LocalText/effect_value_desc10651","revision":"1e30da1c9258eeec807913bf1995145a45c119c4009763da9caa9240c3a84a4c","ptbr":"A cada inimigo abatido, aumenta o Ataque por 30 segundos"}
+{"id":"LocalText/effect_value_desc107","revision":"c9b24200a4c80595cc9b32112e6619e414e14f87f5b6e97e5d6ea65d7af437e5","ptbr":"Aumento de Ataque: {0}"}
+{"id":"LocalText/effect_value_desc108","revision":"df316f5f4df8e0699cf5812039976c76bde35cd7287e61e20597438551a094c2","ptbr":"Aumento de Defesa: {0}"}
+{"id":"LocalText/effect_value_desc109","revision":"c392684da736e35fd2363c6c51676844702617da995f9f36dd82a7d09901e8cf","ptbr":"Aumento de Velocidade de Movimento: {0}"}
+{"id":"LocalText/effect_value_desc11","revision":"b9e590a4b72e40f8b1b253ec953fb3898238a753e313468a5587a2fb848bb1a7","ptbr":"Poder de Dano (Fogo): {0}"}
+{"id":"LocalText/effect_value_desc110","revision":"d76ddeaccc80e465b3d52dc24ffb33a8dd14680c3e7bfd85d094ee838ea35c22","ptbr":"Aumento de todas as Raízes Espirituais: {0}"}
+{"id":"LocalText/effect_value_desc111","revision":"3f4faa4f3a42f693ab7e04bbdb871f616d47326c9a7866f53d1ad7a27dbc1891","ptbr":"Aumento de Raiz de Fogo: {0}"}
+{"id":"LocalText/effect_value_desc112","revision":"6fa42767610918a1a07c57d4ac0ed568324eb7d0cc62fad672169a9aa7a3a4f8","ptbr":"Aumento de Raiz de Água: {0}"}
+{"id":"LocalText/effect_value_desc113","revision":"2f9f9864bb304a8958c4d68731659ad70d2f50160a83800d4f0799b4038df11d","ptbr":"Aumento de Raiz de Raio: {0}"}
+{"id":"LocalText/effect_value_desc114","revision":"869aa6c18680ab41f4a8f48c08e01b1a6a5359a3568a3083a8fb4fcb87c96021","ptbr":"Aumento de Raiz de Vento: {0}"}
+{"id":"LocalText/effect_value_desc115","revision":"93cb76f7ce985d9d7dc0cddda065c75f39fd7f4be45873a511dce042b1fc485c","ptbr":"Aumento de Raiz de Terra: {0}"}
+{"id":"LocalText/effect_value_desc116","revision":"56a35e4eae5f7981c34df024cc3f64a81270f9292e7a4d35d078f55636db9fcd","ptbr":"Aumento de Raiz de Madeira: {0}"}
+{"id":"LocalText/effect_value_desc12","revision":"a21ea10b3c414776230681da8535a8dcc426c3845a50d14078e5d7fa7c4fb093","ptbr":"Poder de Dano (Água): {0}"}
+{"id":"LocalText/effect_value_desc120","revision":"8149339d23860d269b4cdc395c277c399558fa189d70f0eeefca76be9fb87508","ptbr":"Aumento de todas as Aptidões Marciais: {0}"}
+{"id":"LocalText/effect_value_desc121","revision":"263101f627db56853a6fc781f133c8b9fb7f8b03059336378c21b2bfab6ba478","ptbr":"Aumento de Aptidão em Sabre: {0}"}
+{"id":"LocalText/effect_value_desc122","revision":"6f89b5b771c4bc50a1a9fc4fd8780b7a970ddc7c219194cf4bb944345e330685","ptbr":"Aumento de Aptidão em Lança: {0}"}
+{"id":"LocalText/effect_value_desc123","revision":"dc166c9d99deecec1a1a789a8d0a671d6404c8b6aa80b08c3e2185be47f9d37b","ptbr":"Aumento de Aptidão em Espada: {0}"}
+{"id":"LocalText/effect_value_desc124","revision":"7bf250a3f72a0e0a9e2b93b84502637201e3bd81f8d9fc1ed60f4e4f6a1bad0f","ptbr":"Aumento de Aptidão em Punho: {0}"}
+{"id":"LocalText/effect_value_desc125","revision":"b0d606019d13063514aea9fd28092000453a0b6b6781dd531fa4902459a87334","ptbr":"Aumento de Aptidão em Palma: {0}"}
+{"id":"LocalText/effect_value_desc126","revision":"b16c42ea8cf975f258d9d53abb2d3eda94b406eb4a2f0bcc4326f61b0b4db0fa","ptbr":"Aumento de Aptidão em Dedo: {0}"}
+{"id":"LocalText/effect_value_desc13","revision":"832eedec36d8dec68d4e4d460d5b3d0b174a06a3805ebd50c223ff273cae4ce2","ptbr":"Poder de Dano (Raio): {0}"}
+{"id":"LocalText/effect_value_desc131","revision":"0f74e4f928533b84ddd5aff5180401b3f2087d6c8001b36aed850b45a1439050","ptbr":"Aumento de Mitigação de Dano Físico: {0}"}
+{"id":"LocalText/effect_value_desc132","revision":"2db2270a4286dc404733299d9eaf572b58531a68fb8c01eabf5c330e9dfd10f5","ptbr":"Aumento de Mitigação de Dano Elemental: {0}"}
+{"id":"LocalText/effect_value_desc133","revision":"921ff4898d69df11b1b010dfa3c193f4703d0c48c31117d7a313bb07af0c4cd8","ptbr":"Aumento de Crítico: {0}"}
+{"id":"LocalText/effect_value_desc134","revision":"cb431555aff6ae55c8238e072952ad0ec6e1079eebd2f2ce586a39df3772c0a7","ptbr":"Aumento de Res. Crítica: {0}"}
+{"id":"LocalText/effect_value_desc135","revision":"506739785bc2aa4ffce9a4c5e008c938c65b18204e0677172beb7502ae6e9804","ptbr":"Aumento de Multiplicador Crítico: {0}"}
+{"id":"LocalText/effect_value_desc136","revision":"6b90a6355cd8a86a7871bd6775ba993523f25ae995ddb579f5452dabdeb3cc4a","ptbr":"Aumento de Multiplicador de Res. Crítica: {0}"}
+{"id":"LocalText/effect_value_desc14","revision":"bca8bc2ef6c357da1db383323e11ba3015e973ce00598e0aa4831c82061bd64f","ptbr":"Poder de Dano (Vento): {0}"}
+{"id":"LocalText/effect_value_desc147","revision":"734bd8a86bfe5f37bfbc0f9de16c32bc48a3a16de8ad27ae41f8f0c29d0bb7a8","ptbr":"Redução de Ataque: {0}"}
+{"id":"LocalText/effect_value_desc148","revision":"0df1831e5d8190c63b6e1d6c544d09dc9ffbaade12d15e18bc43dabd9bc126fd","ptbr":"Redução de Defesa: {0}"}
+{"id":"LocalText/effect_value_desc149","revision":"936ee7b825f3f30bd0689ef64d0cf7aac433aa259a50ce340cc8bac5665816f4","ptbr":"Redução de Velocidade de Movimento: {0}"}
+{"id":"LocalText/effect_value_desc15","revision":"bb84d1e377dd43f5da9e94f150a97870e3cf659f56ca67bb1621a7056a26fec2","ptbr":"Poder de Dano (Terra): {0}"}
+{"id":"LocalText/effect_value_desc150","revision":"57451f23a7518576f6c6bedd29ccbefe921fe5d7219b030b88a5a0bc2930b757","ptbr":"Redução de todas as Raízes Espirituais: {0}"}
+{"id":"LocalText/effect_value_desc151","revision":"9e94a7369cd9296d0b5ce783f3ef3950715c0d11509da8dbb47f77169eb42c87","ptbr":"Redução de Raiz de Fogo: {0}"}
+{"id":"LocalText/effect_value_desc152","revision":"3bc0ff5030c33d8950603b936c6154af6ff5ef08bc59556686f883a743ff077b","ptbr":"Redução de Raiz de Água: {0}"}
+{"id":"LocalText/effect_value_desc153","revision":"c4d3a47017d3009f6e8b0d7b934d19d6e790c5520b8c7ad71219ed2252ebce64","ptbr":"Redução de Raiz de Raio: {0}"}
+{"id":"LocalText/effect_value_desc154","revision":"eca454ac4cf24329b1fb70d3c9b53d287d7041ee781e75f71f4e048c9a2cffdc","ptbr":"Redução de Raiz de Vento: {0}"}
+{"id":"LocalText/effect_value_desc155","revision":"eaaed2e8ce89ec728b6035487f1d7a54e2e6ab6f71617200478f0a557de1d6b7","ptbr":"Redução de Raiz de Terra: {0}"}
+{"id":"LocalText/effect_value_desc156","revision":"3448c8b37739d0f5efc26e719257a2d75821dfe4adf4cb1cf02f3e5e70660ebd","ptbr":"Redução de Raiz de Madeira: {0}"}
+{"id":"LocalText/effect_value_desc16","revision":"591d3a2dfc613f8620aef4548d0ff496242f2f8d7414574666a52a12a834ea08","ptbr":"Poder de Dano (Madeira): {0}"}
+{"id":"LocalText/effect_value_desc160","revision":"471478f44439805716e09be7154a4973efbeff856f45b954bc3bdccf6e9448f2","ptbr":"Redução de todas as Aptidões Marciais: {0}"}
+{"id":"LocalText/effect_value_desc161","revision":"e093740ec6df443113cb92b9ea8a7b0aa6071938ba82b3563fa2014f5ea7e17b","ptbr":"Redução de Aptidão em Sabre: {0}"}
+{"id":"LocalText/effect_value_desc162","revision":"62d448833dfae6928a87c84ee31ae998bc58a05adf0936d432a2e4bb300c2811","ptbr":"Redução de Aptidão em Lança: {0}"}
+{"id":"LocalText/effect_value_desc163","revision":"b62b486028d91e9921ae7bdc4be9f2e30a025244ea72d9f605bdf740fd2a4955","ptbr":"Redução de Aptidão em Espada: {0}"}
+{"id":"LocalText/effect_value_desc164","revision":"469a26e0f02eef9ffbb1bc11ae3a617b1d3c09f03af819c0fd70133aca402e17","ptbr":"Redução de Aptidão em Punho: {0}"}
+{"id":"LocalText/effect_value_desc165","revision":"133ce0ad27e0343cf9471c2311f9120447b3c1c37afa626335d5c3a36229f3ce","ptbr":"Redução de Aptidão em Palma: {0}"}
+{"id":"LocalText/effect_value_desc166","revision":"98c90b78d7e84001322486056bfb80e5e399bc33557d46b10e853d5bad8873fc","ptbr":"Redução de Aptidão em Dedo: {0}"}
+{"id":"LocalText/effect_value_desc167","revision":"a1faa5ca79c5859a17f30a9c63604f410043460e621770a6b92a6e23ced7d943","ptbr":"Redução de Mitigação de Dano Físico: {0}"}
+{"id":"LocalText/effect_value_desc168","revision":"a665af947c5e64590d2222d62238c4cca7796b65e5f150494e1d3e6f9889b257","ptbr":"Redução de Mitigação de Dano Elemental: {0}"}
+{"id":"LocalText/effect_value_desc169","revision":"90910a39ddf7d73e54a7f8071b6169ea30936209a127313f4b60bcbbafcddaf5","ptbr":"Redução de Crítico: {0}"}
+{"id":"LocalText/effect_value_desc170","revision":"07eca7ddddbb888a4f19f26b49839a3db0ccdda4c79d4c12182ad5f67c6a83ea","ptbr":"Redução de Res. Crítica: {0}"}
+{"id":"LocalText/effect_value_desc171","revision":"aa1ab87e5b4c8ac3ac343c7ed4325cf39064c2188cdc26862905e1b3d12d5bd6","ptbr":"Redução de Multiplicador Crítico: {0}"}
+{"id":"LocalText/effect_value_desc172","revision":"d6870a95d13ec6c6b80622a01ce46533a59aa6871c894850cda70a3b01548a65","ptbr":"Redução de Multiplicador de Res. Crítica: {0}"}
+{"id":"LocalText/effect_value_desc181","revision":"72253b6288b4b497fbafd76b7cbc218cb079ff8dfd631d5606f997888473d12e","ptbr":"Percentual de dano (Fogo): {0}"}
+{"id":"LocalText/effect_value_desc182","revision":"7084b2299830f31d92a964a8c7d0ee6faed29cd064da5275e087d6f55dbea88e","ptbr":"Percentual de dano (Água): {0}"}
+{"id":"LocalText/effect_value_desc183","revision":"c2ff8bf3321f399e4745cb4e9649c8a277fc28a91806e028562f4021d9f13e5f","ptbr":"Percentual de dano (Raio): {0}"}
+{"id":"LocalText/effect_value_desc184","revision":"9be60b06f03fa0c5bfc2b08eb8cf5aa48ff728024e6fe26f4cd068498cc07883","ptbr":"Percentual de dano (Vento): {0}"}
+{"id":"LocalText/effect_value_desc185","revision":"7a0bd713d7626dffd23804528ed353acb3ae9ac0664cbef2fe3181e73f25292a","ptbr":"Percentual de dano (Terra): {0}"}
+{"id":"LocalText/effect_value_desc186","revision":"160f846bd5010ff1da210923715a34bfb29efbc8cdd5022c2df78ea6da668b7f","ptbr":"Percentual de dano (Madeira): {0}"}
+{"id":"LocalText/effect_value_desc191","revision":"e97388253c92264e5f3b8076c8e0146db5efee3a288527e635f1569c030304a5","ptbr":"Percentual de dano (Sabre): {0}"}
+{"id":"LocalText/effect_value_desc192","revision":"706a6b1c513e14d0e05afef6e1410093b0475e90bf58b9158d3014e5894aa268","ptbr":"Percentual de dano (Lança): {0}"}
+{"id":"LocalText/effect_value_desc193","revision":"bebf17aa6ccb507f5931cb7181dc592db3ebc205917f1c7eb2dbd3747af3b9aa","ptbr":"Percentual de dano (Espada): {0}"}
+{"id":"LocalText/effect_value_desc194","revision":"9684f9a2a4a16cd77a62b81d6bcb7a3b7dc6243019633432fc51335f6a013f64","ptbr":"Percentual de dano (Punho): {0}"}
+{"id":"LocalText/effect_value_desc195","revision":"99a24d95d0b1a495fe1db21ed27f3f2edfcfb498e4f33e2694f57dc96388a9f1","ptbr":"Percentual de dano (Palma): {0}"}
+{"id":"LocalText/effect_value_desc196","revision":"899c9b7ac5af07a599340669e879a74000ede4d7ad3248fffe52b7fcc01c9be4","ptbr":"Percentual de dano (Dedo): {0}"}
+{"id":"LocalText/effect_value_desc197","revision":"cbabe0532944f828405b2374fbb39859aaa6704efd2085b2c2be114a8361dd8b","ptbr":"Dano adicional: {0}"}
+{"id":"LocalText/effect_value_desc198","revision":"00327741b0fb01bdc961c308adfccc52aca02859f6eee83fe14df0aac5e9f6b6","ptbr":"Máximo de acúmulos: {0}"}
+{"id":"LocalText/effect_value_desc199","revision":"5030ad90b2c6d6211b83f0c1ec519014fe1f2db34d59f31d4d9b88f350c4ea90","ptbr":"Redução de custo da Técnica de Movimento: {0}"}
+{"id":"LocalText/effect_value_desc200","revision":"916aedd518d58c11acdff5227e9837183d3b0c28b7206bbf3f55ee9a5c27e421","ptbr":"Poder de dano: {0}"}
+{"id":"LocalText/effect_value_desc201","revision":"57c53f47a7ff768dc27ad118e086e7054dcfe55607fac5fa85631a7fa4cb76a4","ptbr":"Chance: {0}%"}
+{"id":"LocalText/effect_value_desc202","revision":"f83f23ed37549cca60a3240672d22ff10d90ea9c6102ac02fffeb5a556b43a4c","ptbr":"Redução de recarga: {0} s"}
+{"id":"LocalText/effect_value_desc203","revision":"1688360e195b7b4bdc79548b850b358429266eaecd2f3482e7755405da5f74e9","ptbr":"Redução de dano: {0}"}
+{"id":"LocalText/effect_value_desc204","revision":"215efe54567942264672148a2e0a7c00c5c126a9990ff609892b393a624eb86b","ptbr":"Duração: {0} s"}
+{"id":"LocalText/effect_value_desc205","revision":"416da486bb1f9d48920bcf21e85571607aecdf7a41273633dd573903db2bd2a0","ptbr":"Acúmulos: {0}"}
+{"id":"LocalText/effect_value_desc206","revision":"f4264129cb1bfdfcf3bb74581c639c588ccf19d78be170775f51036944e5fb69","ptbr":"Dano adicional: {0}%"}
+{"id":"LocalText/effect_value_desc207","revision":"c6b5343893f1ac493db8439a73240ea3b755de1ac9189c79c72e8e142336e106","ptbr":"Limite de Vitalidade para execução: {0}"}
+{"id":"LocalText/effect_value_desc208","revision":"8b9237797505092944aed15c34304f95ee5b18ffd1d8c09ed02e1db8fd6232f3","ptbr":"Roubo de vida: {0}%"}
+{"id":"LocalText/effect_value_desc209","revision":"b68e3e59d6700112c85cf4763e17e035a33c935aaf3fe4af6b4781c84f228a78","ptbr":"Aumento de Ataque: {0}%"}
+{"id":"LocalText/effect_value_desc21","revision":"cee02eb2b753cd1bab7a3c8b1cad31ff19a148796c3182e0ceb62c7ad0b59b8b","ptbr":"Poder de Dano (Sabre): {0}"}
+{"id":"LocalText/effect_value_desc210","revision":"0d3f87300ab9fad079c81ae0652c016830cba0a2bd6d235a46d143a45c71c4a8","ptbr":"Aumento de Defesa: {0}%"}
+{"id":"LocalText/effect_value_desc211","revision":"c2ff48cd50d117932422e079b17065f82404c5b525ceb07a6f0117abeeb178c0","ptbr":"Distância de investida: {0}"}
+{"id":"LocalText/effect_value_desc212","revision":"cec005d353e5b67fc8f87b9eae0d457aec21aa2bd922537941ecb17424c17b22","ptbr":"Acúmulos de Carga: {0}"}
+{"id":"LocalText/effect_value_desc213","revision":"74510f518065ac359d7c6522ca038a45de26070c7b583605b814e526bd87da29","ptbr":"Acúmulos de Quebra de Armadura: {0}"}
+{"id":"LocalText/effect_value_desc214","revision":"12bdcb613d1cc28c3e1e406ad26d14bca6809ac3af6e044defa3228a466e2f39","ptbr":"Aumento da distância de investida ao consumir Quebra de Postura: {0}"}
+{"id":"LocalText/effect_value_desc215","revision":"5fea7c57c216e1fe849e6591497a3782545efd33cab7ef52ca2e3525f20c89d4","ptbr":"Acúmulos de Sangramento necessários: {0}"}
+{"id":"LocalText/effect_value_desc216","revision":"629d6690f268cd7e21f9a3570e82dfeee69010d231dbaee05fcfd2f16fcde814","ptbr":"Aumento de duração por acúmulo de Corte de Espada: {0} s"}
+{"id":"LocalText/effect_value_desc217","revision":"06855f24a4d84c309e28412b4bdb2092456c2e5ea62f0dc8d4b8551ff177a16a","ptbr":"Redução de recarga da Técnica de Movimento: {0} s"}
+{"id":"LocalText/effect_value_desc218","revision":"fc845ac8a97877725d46aa191a6e0d267acc1edde6373537b05ed9000500a515","ptbr":"Aumento do limite de execução: {0}%"}
+{"id":"LocalText/effect_value_desc219","revision":"1dc442a367631ec2fde451576aac10c8d29f6b1bdbb64ead5c027cdca3abbe50","ptbr":"Chance de atordoamento: {0}%"}
+{"id":"LocalText/effect_value_desc22","revision":"0db31bb25c30e25de4274ccf78b1f6848ed38c3a9e18ff9432e2f3eb07e6ea0c","ptbr":"Poder de Dano (Lança): {0}"}
+{"id":"LocalText/effect_value_desc220","revision":"198b19146cbfb6049c30925f05378fe478f382522c11e1e7ac2efce2efbc1481","ptbr":"Duração do atordoamento: {0} s"}
+{"id":"LocalText/effect_value_desc221","revision":"91d9fc7c750293b2cf54733f6ec15971769569c33a5ea7210d3b2b6dda825e2f","ptbr":"Escudo acumulado: {0}"}
+{"id":"LocalText/effect_value_desc222","revision":"93f20a9a42515dfb772409b8fda61257646fa975a5e697567969e9167d072be1","ptbr":"Limite de escudo: {0}"}
+{"id":"LocalText/effect_value_desc223","revision":"d4077942346caf75fc928084033a30cd4c4155e914286e421724834dab4eaca2","ptbr":"Chance de acumular Pele de Bronze: {0}%"}
+{"id":"LocalText/effect_value_desc224","revision":"f94a38c3f277c6090b083c0080d951552af8136087ee7118504d73c317eefee4","ptbr":"Consumo de Vitalidade atual: {0}%"}
+{"id":"LocalText/effect_value_desc225","revision":"61f8723992aada70854cebc7310db7b02b5d9da42efcacb6d77b9d150ee744f0","ptbr":"Recuperação de Vitalidade por segundo: {0}%"}
+{"id":"LocalText/effect_value_desc226","revision":"ba2be2f693635f04b3971774daf04a457c3a4bda408733c5bba6499f2fedb48f","ptbr":"Aumento de alcance por acúmulo de Corte de Espada: {0}"}
+{"id":"LocalText/effect_value_desc227","revision":"07bdf829847558b95b1e322978e0b80fd34471426f8ead0de567d59c11ae2c92","ptbr":"Aumento de dano por acúmulo de Corte de Espada: {0}%"}
+{"id":"LocalText/effect_value_desc228","revision":"d236cd630294e822b7a2d5ae04933712ab7017a78372246863686f1554b9d773","ptbr":"Dano adicional por acúmulo: {0}"}
+{"id":"LocalText/effect_value_desc229","revision":"9ebb80528641ac3859345cc35e8556e3ebc7d8cc3e012e987e17b3698923ea83","ptbr":"Dano fixo: {0}"}
+{"id":"LocalText/effect_value_desc23","revision":"df9703c1ff999502d4f77fbc9c5c30c505b5d51fd5689ea038c4466849eb3468","ptbr":"Poder de Dano (Espada): {0}"}
+{"id":"LocalText/effect_value_desc230","revision":"7b577e2020d92884a5e9de5dc0d38ca6cca3359596f59bbe44b65fccb46e211e","ptbr":"Bônus de poder de dano: {0}%"}
+{"id":"LocalText/effect_value_desc231","revision":"74966faddf1dbf758a41369d3172ad6a64e6645d5d5f4d3591d76a8f96b00eee","ptbr":"Redução de poder a cada vez: {0}%"}
+{"id":"LocalText/effect_value_desc232","revision":"702c68d1da284a1f5bce9e2a55df1cd1f022465c684ba535233a2346f540cd98","ptbr":"Perda de Energia: {0}"}
+{"id":"LocalText/effect_value_desc233","revision":"babf8264cfa73ddde860a76cca1db9e14d3d5d16e644b352b6312653a5558480","ptbr":"Chance de aplicar Selo de Meridianos: {0}%"}
+{"id":"LocalText/effect_value_desc234","revision":"f0b06e5bbedad294e52921dc9fa742dff4107f0434a992558e03b002259c8038","ptbr":"Dano adicional e perda de Energia: {0}%"}
+{"id":"LocalText/effect_value_desc235","revision":"896a26d55e368f0a873e3387f302559da63ccf3a52f551a2b9017fb3637f21e5","ptbr":"Sombras de Dedo adicionais por acúmulo de Abertura de Meridianos: {0}"}
+{"id":"LocalText/effect_value_desc236","revision":"a5c9cfbc3de79b5ee61effe02b095808dc8271a9176e2d0e1ec32df5cbd9091b","ptbr":"Aumento de alcance por acúmulo de Abertura de Meridianos: {0}"}
+{"id":"LocalText/effect_value_desc237","revision":"009cdda1524c92ad83ac6937571e8496a7565a5ef1b41a42f56480175110817e","ptbr":"Aumento de dano por acúmulo de Abertura de Meridianos: {0}%"}
+{"id":"LocalText/effect_value_desc238","revision":"6e856525fd5b040d669c68898aa4b056ee7313996546ac1057763abc4cf85a33","ptbr":"Perda de Energia por acúmulo de Abertura de Meridianos: {0}"}
+{"id":"LocalText/effect_value_desc239","revision":"3db2577e068631fefc3c31adde0cf5afc28dbfdcb2e8531ecf2caa623206228e","ptbr":"Dano por acúmulo de Vazio Espiritual: {0}"}
+{"id":"LocalText/effect_value_desc24","revision":"ef92a648ef38732ae0232696f644ff92fa25b14bce2acce2adc0860b5fc55f7e","ptbr":"Poder de Dano (Punho): {0}"}
+{"id":"LocalText/effect_value_desc240","revision":"c4063f9b821a75afbdd797b277d678a9d6fe8039049e38a940011f2434782237","ptbr":"Poder de dano por segundo: {0}"}
+{"id":"LocalText/effect_value_desc241","revision":"f9604de9f96085831785acc4aec8467de6d843f4d3d8f63b068c49e1204661ac","ptbr":"Redução do tempo de recarga: {0}%"}
+{"id":"LocalText/effect_value_desc242","revision":"d7914ced0fc52c9e34159de8eb444a8c5c33f7168c31cb2f5b019bb7a032a594","ptbr":"Percentual de redução: {0}%"}
+{"id":"LocalText/effect_value_desc243","revision":"64d2e33c9476bdc8fdc1cebeda6de020c61d697ab1a906740fa7fbcc75a65782","ptbr":"Aumento de Velocidade de Movimento: {0}%"}
+{"id":"LocalText/effect_value_desc244","revision":"80dda1a8e1de0a8e088ce971d8c07bf28b7e93c2c99b2eaaf4c279e29be553a8","ptbr":"Aumento de chance por acúmulo de Alma Ardente: {0}%"}
+{"id":"LocalText/effect_value_desc245","revision":"249aa631288cdd0e28f5345d65e22e63d9bbb30b33172e301bc659c79d8df534","ptbr":"Redução de Velocidade de Movimento: {0}%"}
+{"id":"LocalText/effect_value_desc246","revision":"6d9a3bb65a0a1aaef7956bc515c7a9607c4be965fa2dd9558c20cef1ceaa99c7","ptbr":"Redução de Velocidade de Ataque: {0}%"}
+{"id":"LocalText/effect_value_desc247","revision":"79b026634e151df1d657f5098272d9ca44b70db4103bd8bba391707c23529931","ptbr":"Intervalo de recuperação: {0} s"}
+{"id":"LocalText/effect_value_desc248","revision":"4d608abca285b9cbd57ed1c35eb4da51949f48c8e30ebd0fe0a22e5a77e7253b","ptbr":"Recuperação de Energia: {0}"}
+{"id":"LocalText/effect_value_desc249","revision":"b8bd7625b30830625f9cc3efdd7c89cc3bcdfcb9e2bf159ee69f96fad183c15c","ptbr":"Aumento de custo da técnica: {0}%"}
+{"id":"LocalText/effect_value_desc25","revision":"c4e15faece07a5b692535ac76c2afbf6964ea612482071c84ddfe33fc2fad754","ptbr":"Poder de Dano (Palma): {0}"}
+{"id":"LocalText/effect_value_desc250","revision":"7dbee887ef94e01ac3cad7099149e5c691fd16d64ed6ac4c5f51649e5f671e43","ptbr":"Aumento de poder da técnica: {0}%"}
+{"id":"LocalText/effect_value_desc251","revision":"04efd2c9276cd961f9e4beae4e47b36c7c42fae8e4dc6090975aec579fe464a9","ptbr":"Redução do tempo de carga: {0}%"}
+{"id":"LocalText/effect_value_desc252","revision":"066a360660cc7c35d9914a1694249abba210dd3a9659db756199e882698b0eea","ptbr":"Chance de congelamento: {0}%"}
+{"id":"LocalText/effect_value_desc253","revision":"4a40035fe61af11ee2e2561e5e9e5f175bdaf4adb8f7a0a824be86bdf6a6b3c5","ptbr":"Aumento de duração por acúmulo de Surto Espiritual: {0} s"}
+{"id":"LocalText/effect_value_desc254","revision":"b01ad00b8a060d9a0eb6fab893bd0bccbda004ca5dc653f6d2275b38f77402ac","ptbr":"Taxa de absorção de Energia: {0}%"}
+{"id":"LocalText/effect_value_desc255","revision":"69f67c0b703e8115929c8b79e986cac4434c185bb7be7ed13ee16acfda020b6b","ptbr":"Chance de paralisia: {0}%"}
+{"id":"LocalText/effect_value_desc256","revision":"40e94b10b8369a08b2784d7cecf92abc1afc291dae0122709ba3e820e3181994","ptbr":"Duração da paralisia: {0} s"}
+{"id":"LocalText/effect_value_desc257","revision":"1d7181f8bae86c33984fc43284f11f74dc2a58604e7c24b2307136bf191e2b1a","ptbr":"Intervalo de golpes de relâmpago: {0} s"}
+{"id":"LocalText/effect_value_desc258","revision":"df6f14d4e4ebbd85d6e5ad04483998f358221c24f87cdb37e8787173e1e9453e","ptbr":"Dano mínimo por acúmulo: {0}"}
+{"id":"LocalText/effect_value_desc259","revision":"861283b319981e401dd2c81519f92c82c3d02515ae1d4b1760018a4599eddc4f","ptbr":"Dano máximo por acúmulo: {0}"}
+{"id":"LocalText/effect_value_desc26","revision":"189a7796f7574114a07d97d1e8175f037a4d13752a91a59e5a5076492154d7b4","ptbr":"Poder de Dano (Dedo): {0}"}
+{"id":"LocalText/effect_value_desc31","revision":"f0c22875cde94e15d78fe612b633cb62a9137764b02ae3756ba5aa37447bfedd","ptbr":"Poder de Dano por Segundo (Fogo): {0}"}
+{"id":"LocalText/effect_value_desc32","revision":"521c3c02e5b10daa2a89937a79425cf69befa17a76c496d792cd785df43f6a7f","ptbr":"Poder de Dano por Segundo (Água): {0}"}
+{"id":"LocalText/effect_value_desc33","revision":"74fc954acf2aeaf285fb3cc8bf25dbdefb9b3d6c316c0fad7945b582c882638a","ptbr":"Poder de Dano por Segundo (Raio): {0}"}
+{"id":"LocalText/effect_value_desc34","revision":"f4300312182102c3222793ef52faab6bbbe5ac9a78e1d693aed8d6f32bfdf165","ptbr":"Poder de Dano por Segundo (Vento): {0}"}
+{"id":"LocalText/effect_value_desc35","revision":"9d05f8e74b5b2f4704307cce56dd73c05800fa45f23c2e572afbcedbdcff960f","ptbr":"Poder de Dano por Segundo (Terra): {0}"}
+{"id":"LocalText/effect_value_desc36","revision":"79f6db802803a988d6507dfb59d88adc1331ccf0ed8f6489ebd0161f22c143be","ptbr":"Poder de Dano por Segundo (Madeira): {0}"}
+{"id":"LocalText/effect_value_desc41","revision":"19267bc8e66e970b861f7145c7cd5735e2420cb23006efa286bde2a43d718e88","ptbr":"Poder de Dano por Segundo (Sabre): {0}"}
+{"id":"LocalText/effect_value_desc42","revision":"7f4bb6886ec4046396f76eab07c4141480986607cfe35088cca17dddf0176c66","ptbr":"Poder de Dano por Segundo (Lança): {0}"}
+{"id":"LocalText/effect_value_desc43","revision":"456cf43afe5c06f1e0b313035e79e7ac9b923c5562aa3aba8891065c3f339022","ptbr":"Poder de Dano por Segundo (Espada): {0}"}
+{"id":"LocalText/effect_value_desc44","revision":"b121e4ae8d62ebeb3ff54f50069388469b3b76954d89c41829e97b434b912245","ptbr":"Poder de Dano por Segundo (Punho): {0}"}
+{"id":"LocalText/effect_value_desc45","revision":"3db61ade0cc2d010aa650497db61da51ef12c8751642d2828eb6738b145556f7","ptbr":"Poder de Dano por Segundo (Palma): {0}"}
+{"id":"LocalText/effect_value_desc46","revision":"0938cbbf469383919ddccdd9546a32eae3a8a673fba80988741f52ed110ac1bf","ptbr":"Poder de Dano por Segundo (Dedo): {0}"}
+{"id":"LocalText/effect_value_desc51","revision":"6aad4af30a45e4174febf2c6ba078b4e5994292e3b304da45ab02f1af78c431c","ptbr":"Valor de Dano (Fogo): {0}"}
+{"id":"LocalText/effect_value_desc52","revision":"a2f277c5efb698833f6589d1d5de805b97c276bbc49022b316e909e92e229e98","ptbr":"Valor de Dano (Água): {0}"}
+{"id":"LocalText/effect_value_desc53","revision":"6330f431799c4e44fe040b4364aec901c96980306a68f03abe6e61bf5c8c85fc","ptbr":"Valor de Dano (Raio): {0}"}
+{"id":"LocalText/effect_value_desc54","revision":"b1aab4c648612c1e07ce42b9dc2ee524c8b1490d384e6cef57044c6508eaf0ac","ptbr":"Dano (Vento): {0}"}
+{"id":"LocalText/effect_value_desc55","revision":"d72e7f032272c16f95a04a2ee936ad87f96e8c42ff8f8a3b1e9895f2c7ef7894","ptbr":"Dano (Terra): {0}"}
+{"id":"LocalText/effect_value_desc56","revision":"bf16ea45f1ef9efcb2c018b2f04e7a847297d1258b8eea6bb6e072fc361aa397","ptbr":"Dano (Madeira): {0}"}
+{"id":"LocalText/effect_value_desc61","revision":"0eddf234d563b0e5ed93ae51824735164d895ba614e3f834463b7e5aadd17a35","ptbr":"Dano (Sabre): {0}"}
+{"id":"LocalText/effect_value_desc62","revision":"3d2a68fd819ebc955bdbe46e251f39b3b8959453e314d03f3f7f9d54e0377282","ptbr":"Dano (Lança): {0}"}
+{"id":"LocalText/effect_value_desc63","revision":"a9870b80e3bfce9fa3928c48451d41022d32e74c73df5ae661fb10fb66f4d058","ptbr":"Dano (Espada): {0}"}
+{"id":"LocalText/effect_value_desc64","revision":"b31c1d95b08c5daeb17358d9c7d35ff837a40e90e10e0635690060e2d30ec8c3","ptbr":"Dano (Punho): {0}"}
+{"id":"LocalText/effect_value_desc65","revision":"1b6a79f4d9299b7d6da6f25b65d897fa11d4452a655b5f1a3c3913c80ec61235","ptbr":"Dano (Palma): {0}"}
+{"id":"LocalText/effect_value_desc66","revision":"32297dd1dbe58df4d1c2dfad5cf8ed85d47eddfd0c61f7b4e2e435864919f678","ptbr":"Dano (Dedo): {0}"}
+{"id":"LocalText/effect_value_desc_shwldao","revision":"2d3bed7b4767a6067398ea7f6144951754c91f0060cdec5a7240b3b8ea397e8c","ptbr":"Poder de Dano (Sabre):"}
+{"id":"LocalText/effect_value_desc_shwlfeng","revision":"66bbfa6cfdf85b827a465bfe70f55e7683a721ec53c9f3159ec8d9891294961f","ptbr":"Poder de Dano (Vento):"}
+{"id":"LocalText/effect_value_desc_shwlhuo","revision":"1c595bb974c06815da5300de44715f0a94cbb293f35a3710a79c2f38fadb5c19","ptbr":"Poder de Dano (Fogo):"}
+{"id":"LocalText/effect_value_desc_shwljian","revision":"ed1f112d9ca5fb2165c3a7997f8d521ab6ca9a81b132aa1a5d2996ed96903cd1","ptbr":"Poder de Dano (Espada):"}
+{"id":"LocalText/effect_value_desc_shwllei","revision":"584fbe48bd50c08c5fbc2ddea2a5aa06380aced590a70d40051a04000b19b9f9","ptbr":"Poder de Dano (Raio):"}
+{"id":"LocalText/effect_value_desc_shwlmu","revision":"dbf642eec5979b391cfb3cffbe8620efd3c9e07c13f12ec116768c00495f1499","ptbr":"Poder de Dano (Madeira):"}
+{"id":"LocalText/effect_value_desc_shwlqiang","revision":"53a01d9ba39babe973a7c22a2da478d44b6f7ee5ffc73f5334de10949defb21d","ptbr":"Poder de Dano (Lança):"}
+{"id":"LocalText/effect_value_desc_shwlquan","revision":"d083d18367544e464e6189dd139a9a13fe277a7b40b4594b031b4441bebc24f0","ptbr":"Poder de Dano (Punho):"}
+{"id":"LocalText/effect_value_desc_shwlshui","revision":"8303b1e911cea4804fafd3fda082673fbc252e90c8bc11913d9a543d1b9ab702","ptbr":"Poder de Dano (Água):"}
+{"id":"LocalText/effect_value_desc_shwltu","revision":"5a2c9d9795e7ca687e287c70c26d077959f0e97da275989dd33c280c09efc6c6","ptbr":"Poder de Dano (Terra):"}
+{"id":"LocalText/effect_value_desc_shwlzhang","revision":"222dd01828509406c1293cd63601ffbebbefceac5689c84976fd1c37c9614e38","ptbr":"Poder de Dano (Palma):"}
+{"id":"LocalText/effect_value_desc_shwlzhi","revision":"266ee40866414b6bc3b3f4652c204e448a0104bcdf92ef382cf9d5b6b5c346bd","ptbr":"Poder de Dano (Dedo):"}
+{"id":"LocalText/skill_difficult3","revision":"2e45bb52516f2fafc59c090122cda8be875228e1665961914c7ce6027faa0d4d","ptbr":"Média"}
+{"id":"LocalText/skill_difficult4","revision":"cb2e498ad9b0d113ade3830c0c603de2a88d5a38a1cc9fe331ce6484cdc177cf","ptbr":"Difícil"}
+{"id":"LocalText/skill_difficult5","revision":"bbea702efd5b6be157a8b4c3e55754e0355ba332393cf9f0ef30eb0ac3820af9","ptbr":"Muito Difícil"}
+{"id":"LocalText/skill_missile_dao","revision":"c96028fcb4868b15ae66ecb7fa54f4b43c00eaddc562d1c774fdee805d8b6920","ptbr":"Lampejo de Sabre"}
+{"id":"LocalText/skill_missile_jian","revision":"7a4dc5c3e76e4ce0dee1c3187a8ca3ec231b06de066d6b8c7cd27f5583f2902c","ptbr":"Qi de Espada"}
+{"id":"LocalText/skill_missile_qian","revision":"b268423a28d28082e8100095597c67f5d1764ea4f2e6794230ddfa98d0a31aff","ptbr":"Sombra de Lança"}
+{"id":"LocalText/skill_missile_quan","revision":"d38ef8a5eb62f21b19de1f444a6909dfb1e56d2ad2c14334e70e1240382598de","ptbr":"Ímpeto de Punho"}
+{"id":"LocalText/skill_missile_zhang","revision":"94c933f3063cd0a7174323642a74e024e32e8f1d915f8ceabf9cd533fbf452f1","ptbr":"Vento de Palma"}
+{"id":"LocalText/skill_missile_zhi","revision":"081e872216b8ad0f0b5bf38ba03263945a564651b468693e7fa8071240add69c","ptbr":"Força de Dedo"}
+{"id":"LocalText/skill_ui_chushoujiage","revision":"a431581d3e0dffece2bd44094ba4417d60d4596fd65759556674ce2320f5f105","ptbr":"Preço de Venda:"}
+{"id":"LocalText/skill_ui_diuqi","revision":"607bdde47d6eca5a3b040b97fedab45571b08ac8e078949c365da09d38f60ac3","ptbr":"Descartar"}
+{"id":"LocalText/skill_ui_diuqitishi","revision":"4a7e3f48f222cd29b2e35601040af5ace9b14070227343c1991022dc82f6a7e2","ptbr":"Descartar {0}? Após o descarte, este item desaparecerá do seu Inventário"}
+{"id":"LocalText/skill_ui_juejiweilishuoming","revision":"c96eccad72ca7613dd266313d9d02649a5a8ccb3ceb29ad50d29f4c324441872","ptbr":"(O poder total é a soma do poder de todos os projéteis de uma Técnica Especial)"}
+{"id":"LocalText/skill_ui_lengque","revision":"3d8cbe81c0c736ca62d0fc15aa12840af692aa1aa6e403062f2a30b6aa0ca516","ptbr":"Recarga: "}
+{"id":"LocalText/skill_ui_lengqueyue","revision":"a6e88c3210c8027c525c65f712ec36d55e731754bd95ff2c74c9914510e3d9d1","ptbr":"Recarga: {0} mês(es)"}
+{"id":"LocalText/skill_ui_nuqi","revision":"560b8f75c563c1c51fbc7d462c9b9a4887a1ccabb0fd500ec80e303fe09f4e2f","ptbr":"Fúria"}
+{"id":"LocalText/skill_ui_wujiweilishuoming","revision":"652adcc6b9bd856877c9fdda14e09bbfa03b52abdacd51d7261fcb9fdebfc65a","ptbr":"(O poder total é a soma do poder de todos os projéteis de uma Técnica Marcial)"}
+{"id":"LocalText/skill_ui_xiaohao","revision":"5c0d158688e3a136b8d640d5563cf1900f4f0291cf7bd880e819cace7bb69848","ptbr":"Custo: "}
+{"id":"LocalText/skill_ui_xiulian","revision":"a42defcbc92bb1ba7e0f76c11ec87734db6e12fb9f32e2d10e81a662855bb560","ptbr":"Aprender"}
+{"id":"LocalText/skill_ui_xiulianchenggong","revision":"18767716e88e0998c02fb74666965fc58e9d27aeed1ffebc549d2fbfa1c906fd","ptbr":"Cultivo concluído!"}
+{"id":"LocalText/skill_ui_xiulianzenjia","revision":"33f62716f22d0d76401fb6da404a927e4afd74d1254d561ed509e817e6f8a3ac","ptbr":"Bônus de Atributos: "}
+{"id":"LocalText/skill_ui_zhandoulengque","revision":"2c4e7e45d77fe28bf1b514bac02d6472d16ddad7f0175e3d32a4ab68e321ded0","ptbr":"Recarga em combate: "}
+{"id":"LocalText/skill_ui_zhandouxiaohao","revision":"27ea73ad0d7005d2a14cfaf8d92bce777230c6b0a2256b61a1cfbb46bc84efa0","ptbr":"Custo em combate:"}
