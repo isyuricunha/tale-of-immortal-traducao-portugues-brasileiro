@@ -1,0 +1,500 @@
+{"id": "LocalText/modConditionTitle_abClose", "revision": "f2b5504f19de7d5a47d3fdf8eb638567dc0d189b82e1c1cc82a52f2d8236815d", "ptbr": "Determinante de Afinidade entre Jogador e NPC-A (a afinidade do Jogador pelo NPC-A; se invertido: a afinidade do NPC-A pelo Jogador)"}
+{"id": "LocalText/modConditionTitle_abExpectRelation", "revision": "c800e5c53c40c5db0d53deda5a26f9fd5e60d2f4985b9393a00e09170af944e5", "ptbr": "Quando A espera que B seja um amigo (a relação esperada não é a relação real. Se a relação real já for essa relação, então a condição não é atendida)"}
+{"id": "LocalText/modConditionTitle_abFamily", "revision": "68872eead6042d338a41fa7dba1347ed8f37b95780ea183fdb2dd5e1dd1c6f84", "ptbr": "Determinante familiar entre Jogador e NPC-A (a relação familiar dos dois personagens)"}
+{"id": "LocalText/modConditionTitle_abGrade", "revision": "9f9c62e8c1281c3ed6e83b496018ffa1555fc7d7ec1aff54a190a24c32917873", "ptbr": "Determinante de diferença de Reino entre 2 personagens especificados"}
+{"id": "LocalText/modConditionTitle_abRelation", "revision": "f5a32369a7783233b05858da84178cf0a078fe0805e44907cf90530e7d20bdf7", "ptbr": "Relação entre Jogador e NPC-A (quem é o Jogador para o NPC-A; se invertido: quem é o NPC-A para o Jogador)"}
+{"id": "LocalText/modConditionTitle_abRelationCoincide", "revision": "63d1a03e1701d22551ae927f57e655c1fe1ef2f01d7aa338299c0f64ce53266d", "ptbr": "Um NPC com a relação especificada com o Jogador também existe na lista de relações do NPC-A (por exemplo, o Par do Jogador está na lista de Inimigos do NPC-A)"}
+{"id": "LocalText/modConditionTitle_abSchool", "revision": "61f48ce07f9202b394b70961cfed58e58796366b35ab559096a7e18e5b80dc35", "ptbr": "Determinante de seita entre Jogador e NPC-A (as seitas dos dois personagens)"}
+{"id": "LocalText/modConditionTitle_abSchoolClose", "revision": "7beca4f857aac8cfcd4c65ffc443a809078734b520b22d0d97315a6e903345c8", "ptbr": "Determinante de afinidade de seita entre Jogador e NPC-A (a afinidade de seita do Jogador pelo NPC-A; se invertido: a do NPC-A pelo Jogador)"}
+{"id": "LocalText/modConditionTitle_abSchoolPost", "revision": "45e7d88adfc891d11b168609b452467a7fd47248daeaeaf167dee53c6e03d4fd", "ptbr": "Determinante de diferença de cargo de seita entre 2 personagens especificados"}
+{"id": "LocalText/modConditionTitle_abShareFamily", "revision": "9f9b9aa418817934ff69e9ec571800b638a5471125c47a2961443c5d2d8a01c2", "ptbr": "Jogador e NPC-A compartilham o mesmo NPC de relação familiar (por exemplo, Jogador e NPC-A têm o mesmo Par)"}
+{"id": "LocalText/modConditionTitle_abShareRelation", "revision": "1686454211e69a84ff631b7ab2508608c1678a5885937e0463668c957f0dc7b0", "ptbr": "Jogador e NPC-A compartilham o mesmo NPC de relação social (por exemplo, Jogador e NPC-A têm o mesmo Inimigo)"}
+{"id": "LocalText/modConditionTitle_abStand", "revision": "7cf1821374a77dc03211c5fb9e303c3d4a5d45343d257cda3c1ed0197b2cf3f6", "ptbr": "Determinante de facção entre Jogador e NPC-A (as facções dos dois personagens)"}
+{"id": "LocalText/modConditionTitle_abcStand", "revision": "16f7984f59e9f741055cf9864dd1951f047a1a19679835efe63fd4067816e426", "ptbr": "Especifica a que Facção o personagem pertence"}
+{"id": "LocalText/modConditionTitle_acSchoolCount", "revision": "73449d66ae7084db29c606132676371c0978a52391871464fc342a05e3fd98ae", "ptbr": "Na seita em que A tem mais relações positivas, quando as relações positivas de A forem iguais ou maiores que 5, um C precisa ser retornado aqui. C é o personagem com o cargo de seita mais alto entre todos os personagens que atendem às condições na rede de relações de A."}
+{"id": "LocalText/modConditionTitle_advantage", "revision": "ff89e8be8a29babe24cc64a3115289df97af29c1306f9964e0d8ba07b5bf6ee3", "ptbr": "A seita do personagem especificado tem a regra especificada"}
+{"id": "LocalText/modConditionTitle_area", "revision": "e2ceb14dadd5404d84591a9e82428ba0d1f4ad8da115a2ccf30a7484c87ce06a", "ptbr": "Se a localização atual do Jogador está na região especificada"}
+{"id": "LocalText/modConditionTitle_attr", "revision": "b126bfe26fcc1ce677a1bf22393c99fff4b3c46c9bfe34febc9d75c5997afce8", "ptbr": "Atributos do personagem especificado entre valores"}
+{"id": "LocalText/modConditionTitle_attrCompare", "revision": "2b4655be03480e89826e6c29140bdeb143a71cd4b6f8e9a20349b9d4801fba7f", "ptbr": "Especifica o grupo de Atributos e determina qual é o Atributo mais alto nele"}
+{"id": "LocalText/modConditionTitle_attribute", "revision": "395698a5d5345061b2816806eef46008cd18aa88ac74184364acaa2a653aeb50", "ptbr": "O atributo especificado alcançou um valor especificado"}
+{"id": "LocalText/modConditionTitle_basCompare", "revision": "d8151d6a8f9cc7be3325f32e604b92a227b55035b644c2637bd3c8a2809414cf", "ptbr": "Compara como os Atributos especificados se classificam no grupo especificado"}
+{"id": "LocalText/modConditionTitle_battleDungeonRoomDie", "revision": "0ad5b4aeefd6f7b76e0d719b0bfb2811e891fc4dbf3abb669c21774a8a257a29", "ptbr": "O número de unidades locais mortas na sala atual alcança 100"}
+{"id": "LocalText/modConditionTitle_battleSkillCondition", "revision": "c7c0aea8c310f49e27bfd5231d2c59716290a418a3872eef1e378c61f8db6796", "ptbr": "Chama a condição com ID 722101 na tabela [#BattleSkillCondition]"}
+{"id": "LocalText/modConditionTitle_blockElement", "revision": "8fc79e8e6b54af12da823de840769e27c980241e0bfb459014cdc0baaab5e315", "ptbr": "O valor da grade atual sob os pés (Qi, Ervas etc.)"}
+{"id": "LocalText/modConditionTitle_blockRange", "revision": "13dfd1618dc26b23b0bea3462042ed395be7faccbd79f07f4dbced88b70d80be", "ptbr": "Está no intervalo de coordenadas especificado"}
+{"id": "LocalText/modConditionTitle_buildingTown", "revision": "2be88579e828029420f05fa10d3ce79def721e2aba81f73caa32b9f9ebacd9e2", "ptbr": "Quando a localização atual está numa cidade, determina se é a cidade principal"}
+{"id": "LocalText/modConditionTitle_capacity", "revision": "f132bbab0a65d854726973816f6769a7106afa94b30258fff63c1c2b0389ef97", "ptbr": "Quantos espaços vazios há na mochila"}
+{"id": "LocalText/modConditionTitle_checkLog", "revision": "c6bf284ed06d5cf5c1fcd7fd5e492d8d21cc2b9fd8e13c6988398195ae1fac7f", "ptbr": "Quando o evento [A matou C] aparece no registro de C"}
+{"id": "LocalText/modConditionTitle_checkLogOneUnit", "revision": "c73e6947d143aa5fa19d260a89f3a63c83c0605043461789735c4dd5bafa0731", "ptbr": "Verifica se B foi atacado nos últimos 24 meses e define C como o atacante"}
+{"id": "LocalText/modConditionTitle_checkLogPack", "revision": "a3fc70cb1869bba82b13ed416b9af0b87bf02467c2b636e9804c53a90b41f02a", "ptbr": "Verifica o registro de B para ver se B roubou itens de A nos últimos 12 meses"}
+{"id": "LocalText/modConditionTitle_close", "revision": "bff872ed8d264e4947e49fcbf90fd0a84c8da2aba94b46908f3df5506cbcb64a", "ptbr": "Ter uma Afinidade de pelo menos 95 com o personagem NPC cujo ID é 105"}
+{"id": "LocalText/modConditionTitle_compareDistrictGrade", "revision": "ab9851fb90fa42ac3a20fee7a94668ea318db039cd8a65c6aa16f6dc21333fa1", "ptbr": "Comparação do Reino do personagem especificado com o Reino regional atual"}
+{"id": "LocalText/modConditionTitle_curMonthDay", "revision": "0a3013b1588c45b7084c7b2e26b3ce4896666841539129ca3e507dc54cff77be", "ptbr": "Pelo menos quantos dias restam no mês atual"}
+{"id": "LocalText/modConditionTitle_dialogue", "revision": "04568cab951a83f00a1738801377613e9ae1e7c2ca83d8080b25685e33d80b89", "ptbr": "Se o Jogador acionou o enredo especificado"}
+{"id": "LocalText/modConditionTitle_dialogueCount", "revision": "26aa8b86475edeaecf4d6917ccd878bbe8f9fc064b69d125f436bacbdbf79af6", "ptbr": "O enredo especificado foi acionado um número especificado de vezes"}
+{"id": "LocalText/modConditionTitle_dialogueLast", "revision": "65f1d0cea6fedbb94db3c16df323cbc706f9aa56d20de99314d1dc17b0ec85ad", "ptbr": "Nos enredos com ID 10001, 10002 e 10003, o último acionado é 10002"}
+{"id": "LocalText/modConditionTitle_dialogueTime", "revision": "5690217f5ddcde726de1fbaaaa3dd59b6d829631c0d3e4b52f52e377cf695db4", "ptbr": "O Jogador acionou o enredo especificado e o tempo especificado se passou"}
+{"id": "LocalText/modConditionTitle_dialogueTimePeriod", "revision": "8d5615c285b0b7d761f44f9258e46c2027ace828f9fae5584ce7c85bf09a038f", "ptbr": "O Jogador acionou o enredo especificado e o tempo especificado se passou"}
+{"id": "LocalText/modConditionTitle_diff", "revision": "40597891cab7a33c5e761f8acff1ed22e904389f83be09362a87ed95b5296843", "ptbr": "Determina a dificuldade atual do jogo"}
+{"id": "LocalText/modConditionTitle_dramaConditionID", "revision": "f6a4efc9234a1b424c1ea16605a044f5522285cf92634051e6fd78e75ebe6986", "ptbr": "Quando as condições com ID 1001 e ID 1002 na tabela [#DramaCondition] são atendidas"}
+{"id": "LocalText/modConditionTitle_dungeonBattleNpcUnit", "revision": "75d351407846f192ba4811d60fdc59acfcdde6c6fdfcf110cda514a01d962187", "ptbr": "Há uma unidade NPC viva na sala atual da masmorra"}
+{"id": "LocalText/modConditionTitle_dungeonBattleTime", "revision": "3148c2ef900aa90608214b186c0b8928bc2c6fe9a6ecfb378a8b4eea56a745a9", "ptbr": "O tempo que o Jogador passou na masmorra atual alcança 180 segundos"}
+{"id": "LocalText/modConditionTitle_dungeonDialogue", "revision": "e602df39d3db14a70ed92b7c2a7b4d4aef33dbf183b01cda2e20d76fc6509275", "ptbr": "O Jogador acionou o enredo especificado na masmorra atual"}
+{"id": "LocalText/modConditionTitle_dungeonItem58", "revision": "5354f5380c2adfaa62971885e7f62fdadc37d4a528293cbe06abc73d4fe69e2e", "ptbr": "O número de itens com ID 58 na masmorra 10001 é menor ou igual a 1"}
+{"id": "LocalText/modConditionTitle_dungeonLevel", "revision": "0979b57b4406fc8a7dd84ea36b6f2ff30b3a35b7a894429670648e5e47c754b8", "ptbr": "O último nível de masmorra em que se entrou está no intervalo especificado"}
+{"id": "LocalText/modConditionTitle_dungeonRoomEstimate", "revision": "f7c01ccbf72cc3deff211763558615b3f3e1251ce70e70881452ca065ec58752", "ptbr": "A sala atual é uma sala normal"}
+{"id": "LocalText/modConditionTitle_equipMartial", "revision": "5f5c4bd238dd9195e0ba380a1781fa1341f5e706be554785f432dd369438adc6", "ptbr": "Se o Jogador tem o tipo de manual especificado equipado"}
+{"id": "LocalText/modConditionTitle_feature", "revision": "3eb9e32dbb29841d1eed40269c1ffc6caa1236ac61f796a6702888aca71d9d8a", "ptbr": "Especifica se o personagem tem um Destino"}
+{"id": "LocalText/modConditionTitle_featureNot", "revision": "0199ec62be80363ff3ae3b7e1f23494bb8fe07680ad87d53eae703830713078b", "ptbr": "O personagem especificado não tem o Destino especificado"}
+{"id": "LocalText/modConditionTitle_featureTime", "revision": "a2ac20d86b08d79fecc1f643203af8c113fed571ff674ca1d2fb6dac7b2016fb", "ptbr": "O Jogador adquiriu o destino especificado e o tempo especificado se passou"}
+{"id": "LocalText/modConditionTitle_gameCurYearMonth", "revision": "20d66f5982cf5627d4ffc9b2fc955a064ad07b0a2385abe9449f3ed28260463f", "ptbr": "O mês atual do ano está dentro do intervalo especificado"}
+{"id": "LocalText/modConditionTitle_gameMonth", "revision": "59362b5e99909ca71d221debabc29be311da014fea42522df4b7d37fa93e1ac8", "ptbr": "o total de meses decorridos está dentro do intervalo especificado"}
+{"id": "LocalText/modConditionTitle_gender", "revision": "57990f5138f2f09f7b160dc588bc5dd8961ae31e376ef83ce1780cae838f4307", "ptbr": "Especifica o gênero do personagem"}
+{"id": "LocalText/modConditionTitle_getNpcToPlayerLetterTime", "revision": "f88ffa7495893c4d41454c1638b08ee07df9982a6291fc1c4a700b33f5af456c", "ptbr": "Recupera o período em que o NPC B escreveu uma carta ao Jogador"}
+{"id": "LocalText/modConditionTitle_grade", "revision": "fb4afb49823aca8fc939f900d318d0f0d20dae90a8f73c3ddd16bcbf6d5a1089", "ptbr": "Especifica o intervalo de Reino do personagem"}
+{"id": "LocalText/modConditionTitle_gradePhase", "revision": "92a72b1d8464c4cadfe8956311f84cd58e6495a3e67f9ae371119f9c5d343e2e", "ptbr": "Intervalo de reino pequeno do personagem especificado"}
+{"id": "LocalText/modConditionTitle_herbSkill", "revision": "322c5f8f95562afb59784ac36c25185448ede901bf0d945d40b0c572365ac4b6", "ptbr": "Se o Jogador aprendeu a técnica de erva especificada"}
+{"id": "LocalText/modConditionTitle_hobby", "revision": "e765f96f84aaec4a411000805aff89be788bc31ebc3423b6c6e1f90c4c8011f5", "ptbr": "Se o Jogador tem o interesse especificado"}
+{"id": "LocalText/modConditionTitle_intDataCompare", "revision": "fc45ff30616c181453a0d36a008f610d819465a03ebd95eab45a8f8ea72abcd4", "ptbr": "0"}
+{"id": "LocalText/modConditionTitle_isBattleData", "revision": "6fd142e0b2c2d4ad2427bd351dbc4fadb0ef2e6dd08ae50efb5029fe578d474d", "ptbr": "Os dados da batalha contêm [kaizhanle] e são [ok]"}
+{"id": "LocalText/modConditionTitle_isBattleDataExist", "revision": "fa692dfcdac0e9843836ae8eb480d52986921b393e13171feb238ea47dcc0c4d", "ptbr": "Os dados de combate [NPCRoom] existem"}
+{"id": "LocalText/modConditionTitle_isBattleUnitDie", "revision": "a7abbf6fc93325e840a44df4a88e5f3fc9e6ce6490ab11a440cdeefe7b3a0a5d", "ptbr": "O NPC3 morre durante a batalha"}
+{"id": "LocalText/modConditionTitle_isCdBuild10005", "revision": "109ea71d7aaae1503afff4ede29e16be1dee860f12c20818cc45f778ca163953", "ptbr": "Se a edificação 10005 da localização atual está em recarga"}
+{"id": "LocalText/modConditionTitle_isCreateEvent", "revision": "8bd6a618c8d1c8a0039fc6444c692ea2a0ef27ceb6ef79aefad1aae38e580a82", "ptbr": "Determina se o evento especificado pode ser criado na localização atual do Jogador"}
+{"id": "LocalText/modConditionTitle_isCurSchool", "revision": "0e6213772348b108b5cc5433d6bf525f9fb8ad5b3c25a4067c1e0831e76fe909", "ptbr": "Se a seita a que o personagem 1 pertence é igual à seita em que o personagem 2 está atualmente"}
+{"id": "LocalText/modConditionTitle_isDataInt", "revision": "01f97b022d50e71b3103206ca885cf0c4c9d2075a74e7fa5412fff530980a6e0", "ptbr": "Os dados contêm [level] e são maiores ou iguais a 5"}
+{"id": "LocalText/modConditionTitle_isDataString", "revision": "22d6154e48374bd3dc558bfa8e213b705f215cb791cf2c73383f8bc745725be6", "ptbr": "Os dados contêm [state] e a string é igual a [test]"}
+{"id": "LocalText/modConditionTitle_isDecorateId", "revision": "531fa6f547980cc825695e4a84a690ef10ffc47430d62283dab71e1c7759c71f", "ptbr": "Se o ID de decoração do mapa da localização atual é 1621"}
+{"id": "LocalText/modConditionTitle_isEventExist", "revision": "37961a80c3e282c20531ec08e8a4cea3136ebd277e176f7f87447200a402cf69", "ptbr": "O ID de evento especificado não existe no mapa-múndi"}
+{"id": "LocalText/modConditionTitle_isFairyHaveItem", "revision": "6187278808d4265f073ed7cada58999e8ccce094c3c6924244fcfdc2fb9fe344", "ptbr": "Não ter Espíritos de Artefato, mas ter o item com ID 123"}
+{"id": "LocalText/modConditionTitle_isHaveItem", "revision": "183bf40dc1e7fed11075bb422fb359bdd06363c25aa5832b4b325c9ca02c6800", "ptbr": "O item com o ID especificado não existe na mochila, na mochila temporária ou no armazém do Jogador"}
+{"id": "LocalText/modConditionTitle_isInManor", "revision": "c9d41a83ef28d1788e38492517db99a03ead0eeb342199d6bfcb3a52023749e8", "ptbr": "A localização do personagem 1 está dentro do território de seita do personagem 2"}
+{"id": "LocalText/modConditionTitle_isItemExist", "revision": "b7f1ebd6e6993263558e3d22b56c5128205beddfe55f5b2273f9fef80072606e", "ptbr": "Se o item especificado existe na mochila do Jogador"}
+{"id": "LocalText/modConditionTitle_isLearnedMineBook", "revision": "568ac826b0e7aced1c57ce44354bf2b2ec597e58bc4faf549dba20efbd35192f", "ptbr": "Se o Jogador aprendeu o livro de minério especificado"}
+{"id": "LocalText/modConditionTitle_isWorldData", "revision": "103af5514a1f73f36d1ae26be253907ca10d00074150c8e35bc9060c118eefec", "ptbr": "Os dados do save contêm a chave especificada e são o valor especificado (use o comando para definir uma chave para marcar os dados)"}
+{"id": "LocalText/modConditionTitle_item", "revision": "1f8c24820d4399b18d3ef4a4cbaee1f35a90614e63a0a6a579f3c67c07f639b3", "ptbr": "A mochila contém o item na quantidade especificada"}
+{"id": "LocalText/modConditionTitle_itemCount", "revision": "92259af9b8ef802c633dee87c330bafa0526ecf0b16696e38bb69c1e5d3c2787", "ptbr": "Determinante da quantidade de itens na mochila do personagem especificado"}
+{"id": "LocalText/modConditionTitle_itemType", "revision": "3757f5452ea934026318009578ad65cf02f19b2a084f14be63d64cb4d5a160ad", "ptbr": "Determina quantos itens da raridade e do tipo especificados há na mochila"}
+{"id": "LocalText/modConditionTitle_itemUse", "revision": "279886d84f4c36b6b7722cb2beacaa0ae3426af50d49ce7d7071b4c01f2d90ed", "ptbr": "O Jogador usou o item especificado"}
+{"id": "LocalText/modConditionTitle_jingweiInJianmu", "revision": "da365f6daeb0560a96155863855c365cb76c6d004506067a228a8e9ba5ef47e5", "ptbr": "Se Jingwei está no Cofre de Árvore"}
+{"id": "LocalText/modConditionTitle_lastDialogue", "revision": "8c9a2b140f69d3243824351bea31af70f6fcaabe0f813634fa675807eb5a6161", "ptbr": "Qual foi o último enredo acionado"}
+{"id": "LocalText/modConditionTitle_lastDungeon", "revision": "1ffc59b897531c2fadb312efa370893bb460f31a5e8ec8c8df03d9f381eb4779", "ptbr": "Se a última batalha de masmorra foi vencida ou perdida"}
+{"id": "LocalText/modConditionTitle_lastItemPillEffectType", "revision": "ee0c63a5f1de7c1039465b8548442ffafedcfa435a886e2276dac7567d6b6eb3", "ptbr": "O último tipo de uso de Elixir selecionado é 101 ou 201"}
+{"id": "LocalText/modConditionTitle_locationSchoolTerritory", "revision": "096c5ebdd4557c080ce932704e59ee6b0603bef8dfb55c5af85beb4d589dcae5", "ptbr": "O personagem especificado está no território da própria seita dele"}
+{"id": "LocalText/modConditionTitle_mapPosition", "revision": "ab7a9057850291dbb64e9b29fb3d5ca7033a6d144822c32277435b4903d7b4c7", "ptbr": "Se o Jogador está numa localização especificada do mapa-múndi"}
+{"id": "LocalText/modConditionTitle_mapPositionDistance", "revision": "81ab9e09027f6f19c235f95cc810912873009ac582d180e691ce0230b10a1804", "ptbr": "Dentro do intervalo especificado da localização atual do Jogador, não há evento com o ID especificado"}
+{"id": "LocalText/modConditionTitle_mapResource", "revision": "e981dee794110de83019d4195232a489cc912f2a5a9b5f65e62c10ffe9103c26", "ptbr": "Quando não há efeito especial de Qi na região 1"}
+{"id": "LocalText/modConditionTitle_martialbookInBag", "revision": "4135fc2b588cd6263402c293e54029bd67855f024a281f109963e112f922bd06", "ptbr": "Quantas cópias do tipo especificado de manuais há na mochila do Jogador"}
+{"id": "LocalText/modConditionTitle_noWorldData", "revision": "8143c2b4b70222d33bd3608042780ef6527bb629ce3338d4efd251828c89646e", "ptbr": "Os dados do save não contêm a chave especificada (use o comando para definir uma chave para marcar os dados)"}
+{"id": "LocalText/modConditionTitle_npcConditionSave", "revision": "6302e771f583d9979cec665571540459f081ca960f2e46d34c1a1dcee22d4725", "ptbr": "Extrai a tabela de configuração de NPC; se o NPC está salvo"}
+{"id": "LocalText/modConditionTitle_npcConditionSaveRelation", "revision": "e71e84a73dfdcbd7775fd83d7cfc9815ce417c3f38197901b396b4f92b30cd97", "ptbr": "Que relação o NPC salvo tem com o personagem especificado (se invertido: determina que relação o personagem especificado tem com o NPC salvo)"}
+{"id": "LocalText/modConditionTitle_npcDungeonResult", "revision": "124c817a4e4238d94e51a4883b7f7f510022800ec7160c51a58d2f6d27eb2282", "ptbr": "Estado da última batalha contra NPC (NPC poupado, NPC morto ou derrota para o NPC)"}
+{"id": "LocalText/modConditionTitle_numInRelationList", "revision": "70f4ce07e38c27fee8016801eb51cb276e8416cd7050c9a325f407556e912e6a", "ptbr": "Determinante do número de NPCs na lista de relações especificada de um personagem especificado"}
+{"id": "LocalText/modConditionTitle_or", "revision": "2b5c9db61379dbcaee97a9cbacf3018b7189aa744b2567be5ef9f716381e48be", "ptbr": "A condição [ou] permite que todas as condições após ela sejam consideradas completas quando uma delas se completa. (Por padrão, todas as condições precisam ser alcançadas. Por exemplo, digamos que há 5 condições: A, B, C, D e E. Se C for a condição [ou], então A e B precisam ser ambas completas individualmente, e cumprir D ou E faz com que D e E sejam ambas consideradas completas."}
+{"id": "LocalText/modConditionTitle_passDungeon", "revision": "0babd0341bb40be828c4f814c62df01c16672f197f8b62d3564b5167c1c3173d", "ptbr": "Se o Jogador já limpou alguma vez a masmorra com o ID especificado"}
+{"id": "LocalText/modConditionTitle_playerChangedCloth", "revision": "571920ef31a6da10ab9a2c15f6ed2d9de31f50195ecb9ed2dc700fe255de0030", "ptbr": "O Jogador trocou de roupa no mês passado"}
+{"id": "LocalText/modConditionTitle_positionPoint", "revision": "7c44710fc669a9553ecf500bf4ac9cc670d63c780acc6e74df43e482cd277ffe", "ptbr": "As coordenadas atuais do Jogador estão dentro do retângulo especificado"}
+{"id": "LocalText/modConditionTitle_post", "revision": "f328367abfa43a907e34f01debeb3788fea9330eb51593b98694c48e9410a41d", "ptbr": "Qual é o cargo do jogador na Seita"}
+{"id": "LocalText/modConditionTitle_probabilityTriggering", "revision": "9c479d965a314a44795cc5771bc142e6a978379d401dc86c1c792afd14872c4d", "ptbr": "Cada vez que é chamada, há chance de a condição ser atendida diretamente"}
+{"id": "LocalText/modConditionTitle_rivalrySchool", "revision": "46c5a46543fd4ab974f8478c30fbd5bcc146eb6ff65201bb380998fa565a0157", "ptbr": "A seita atual do Jogador tem uma seita inimiga"}
+{"id": "LocalText/modConditionTitle_roleCharacter", "revision": "72fa4ed91e25175e14f2efff6799de2da91f4952da89b111589425f369dc898f", "ptbr": "Determinante de traços de caráter do personagem especificado"}
+{"id": "LocalText/modConditionTitle_roomIndex", "revision": "5ea9bf5b737e263e0bc2187cdd38c589fd4c73bc8b24176d497ab088b346472a", "ptbr": "A sala atual não é a primeira sala da masmorra"}
+{"id": "LocalText/modConditionTitle_ruleCurrent", "revision": "f6897d86ae2729b1d3c8c7ccf5fbf4e680b440cbcfe75cbef7479599c082aa70", "ptbr": "O jogador está no reino tao do sabre"}
+{"id": "LocalText/modConditionTitle_sameTown", "revision": "c038237ec12aaf2f7be72a25444a2be9726ffe12bc2cbed068a5a85a8f43fbc3", "ptbr": "Se os dois personagens especificados estão na mesma cidade"}
+{"id": "LocalText/modConditionTitle_school", "revision": "daabdb061315863f8976b6015e3f7777ef310670ec4a4160563f49aedb49ce91", "ptbr": "Especifica se o personagem tem uma Seita"}
+{"id": "LocalText/modConditionTitle_schoolPost", "revision": "9a22faae56997cc981807e7848f3866c8dfeb5fe6b4e0c33a624cea08d89480f", "ptbr": "Determinante de cargo de seita do personagem especificado"}
+{"id": "LocalText/modConditionTitle_schoolStaffCount", "revision": "67ddb87367f1122f8977dae9317ff839f3a8090aa1e6f104591922bf193cca35", "ptbr": "Determinante do número de NPCs num cargo de seita dado para um personagem especificado"}
+{"id": "LocalText/modConditionTitle_setRelationLastRejectText", "revision": "c5b5fefe03e81d48ca86f323c515b6bbfd64a45e9dacbacfcbae5c771eeb96f0", "ptbr": "Recusou quando pediram para virar pai jurado da última vez"}
+{"id": "LocalText/modConditionTitle_skillEquip", "revision": "2f4241124e62828638e3fb8248a533b285ef41422f215e48d67d21dd45d34a76", "ptbr": "Quantas técnicas do tipo especificado de Técnica Marcial + Técnica Especial estão equipadas"}
+{"id": "LocalText/modConditionTitle_skillEquipType", "revision": "3c7d1bcb73a5e92bef83a4e98cf9e6111f87e302005dc01fe4b8420f15f95245", "ptbr": "Quantas técnicas equipadas"}
+{"id": "LocalText/modConditionTitle_stand", "revision": "92e25e089cc476a8380377dc0544147d3c54a5750ab4ef4645fe3495dcb39a3d", "ptbr": "Determina a Facção do personagem"}
+{"id": "LocalText/modConditionTitle_standCalculate", "revision": "cd6cb67a3783b23a8770f5b98582edaf03417d3190062fac26dfa401b3286a97", "ptbr": "Valor justo/demoníaco do Jogador, determinante de diferença"}
+{"id": "LocalText/modConditionTitle_standCompare", "revision": "92fc721873aad5f8bb197054ceeba805028143430a728e7e88f7fd4221a792fa", "ptbr": "Pontos Justos ou Pontos Demoníacos, o que for mais alto"}
+{"id": "LocalText/modConditionTitle_task", "revision": "ca8e350c3236a5521fa31f1512c27030b6cc8ebacab7f067c8ca1c15b65da4ee", "ptbr": "Estado atual da Missão"}
+{"id": "LocalText/modConditionTitle_taskTime", "revision": "40001b603a6a246590993a06b4f1e0f23f42a0e1cfd80576f58ba2a07abd227c", "ptbr": "Completou a Missão especificada mas ultrapassou o tempo especificado"}
+{"id": "LocalText/modConditionTitle_terrain", "revision": "01231f5cc6889e657e471681074ce7db3a3739dd5818da571c3f957d0b310cd6", "ptbr": "Grades com ID de terreno 101, 102 ou 103"}
+{"id": "LocalText/modConditionTitle_terrainExclude", "revision": "4d065d1187700f4e98bbda43816ef12534b7619b4267a0c44066cfbc28243a7d", "ptbr": "Quando não está em grades com 101, 102 ou 103"}
+{"id": "LocalText/modConditionTitle_xxClose", "revision": "31826f51614f52223b7bffd387dad9c286ac748b89f8933018b10e3c4bc260a0", "ptbr": "Determinante de Afinidade entre 2 personagens especificados (a afinidade do 1º personagem pelo 2º personagem)"}
+{"id": "LocalText/modConditionTitle_xxDistancePosition", "revision": "6643dd8013751447a75823fe411cce1084c8287b02e0262d5972d9fed674fbd9", "ptbr": "Se o personagem 2 está dentro da distância especificada da posição atual do personagem 1"}
+{"id": "LocalText/modConditionTitle_xxGender", "revision": "c3f4d06878d9d3d157525535fa918b02648af5466865bf9bc9a57af540403063", "ptbr": "Determinante de gênero de dois personagens especificados"}
+{"id": "LocalText/modConditionTitle_xxRelation", "revision": "6396ab6fe70919e5c3167e5532afc3e01a9bafa686d4a7c898054ae5706a5368", "ptbr": "Determinante de relação entre 2 personagens especificados (o que o Personagem 1 é para o Personagem 2)"}
+{"id": "LocalText/modConditionTitle_xxRelationDeny", "revision": "7a13db2a4e2bb100c71572421686a733a0bd6fed4b73fa0471e56c5b852cd782", "ptbr": "Determinante de relação entre 2 personagens especificados (o que o Personagem 1 NÃO é para o Personagem 2)"}
+{"id": "LocalText/modCondition_abClose_value3Name", "revision": "dbfa6c0edc7982fe171d3ace4c4b14773aac500192dcf2e52cf5c7e994278cd6", "ptbr": "Valor de afinidade a comparar"}
+{"id": "LocalText/modCondition_abGrade_value1Name", "revision": "978369ceec5698d052e6e355603203b15adee713e2c20ebaddc9cc3664cf5817", "ptbr": "Personagem 1"}
+{"id": "LocalText/modCondition_abGrade_value2Name", "revision": "0d8d572c313ac191ef289e4afef2b23a9760a670c11c13d8cd15b29548f27e6e", "ptbr": "Personagem 2"}
+{"id": "LocalText/modCondition_abGrade_value3Name", "revision": "b26907e7dd6c5fc6a107494614ddc4e062a04808eb5469b25ed155387667bf9b", "ptbr": "Diferença mínima de Reino (Reino do personagem 1 menos o do personagem 2)"}
+{"id": "LocalText/modCondition_abGrade_value4Name", "revision": "d0a62185fb096a417df2101f5872457bc9667922a723e8c1137579fd766f01ff", "ptbr": "Diferença máxima de Reino (Reino do personagem 1 menos o do personagem 2)"}
+{"id": "LocalText/modCondition_abRelationCoincide_value1Name", "revision": "db7a183ec8c4b0d26f6ed68336fdb5cbf491c804db8d74ddb5c0dd9a0a790d86", "ptbr": "Relação do Jogador"}
+{"id": "LocalText/modCondition_abRelationCoincide_value2Name", "revision": "d3a057bc91e38178e8ec793a0674b29b10570fade8b271d8616b2e245a9d498c", "ptbr": "Relação do NPC-A"}
+{"id": "LocalText/modCondition_abSchoolClose_value3Name", "revision": "c326be2afe680843f2ba03a81599953ff746d20ef10229ed3d7850865326c787", "ptbr": "Valor de afinidade de seita (≥)"}
+{"id": "LocalText/modCondition_abSchoolPost_value1Name", "revision": "98475453c1a4a1f9de352fbf57a7b71a1cd7df330170cce7051971df8df816ee", "ptbr": "Personagem 1"}
+{"id": "LocalText/modCondition_abSchoolPost_value2Name", "revision": "3200333fe2e522283e02eca473ab3105867bd2339427db04eb912f5dc060335e", "ptbr": "Personagem 2"}
+{"id": "LocalText/modCondition_abSchoolPost_value3Name", "revision": "ec161b06f278eae1d547c8662f05d4d438edd5b2b05a0e8ad1e5cb9f40ce5625", "ptbr": "Diferença mínima de cargo de seita (cargo do personagem menos o do personagem 2)"}
+{"id": "LocalText/modCondition_abSchoolPost_value4Name", "revision": "427353e41fb7f2ae59f967927af3e57dfd4dccd5208902c2496116f06dd0368f", "ptbr": "Diferença máxima de cargo de seita (cargo do personagem menos o do personagem 2)"}
+{"id": "LocalText/modCondition_abSchoolPost_value5Name", "revision": "a2636f50cd4948a65561c223114d775c79499fcf1ca676fec9cf7fdc1999f1ea", "ptbr": "Referência de cargo de seita (só referência; não é preciso selecionar)"}
+{"id": "LocalText/modCondition_attrCompare_value2Desc", "revision": "9acdb8d92a94b2a126b6f1a78071f51d8a5e31181d660215f8a507ae4aac675d", "ptbr": "Quando um atributo fora do grupo de atributos é selecionado, a condição nunca será atendida. (Selecione a Vitalidade/Energia/Foco atuais)"}
+{"id": "LocalText/modCondition_attrCompare_value2Name", "revision": "fc10983bb00f07c9fc9a9abff1161eff4abb25b13f1d41e9067ffe2d0476c43b", "ptbr": "Qual é o atributo mais alto do grupo de atributos"}
+{"id": "LocalText/modCondition_attr_value2Name", "revision": "d0589cc723f93a05183226de1537ed5fddaca7c708cbf6d248b002cc1dff2b5c", "ptbr": "Tipo de elemento"}
+{"id": "LocalText/modCondition_attr_value3Name", "revision": "ab0f46d229f0525545e1340dfaf302333730ef9cd8e72941ba776d5db654fcae", "ptbr": "Valor mínimo do atributo"}
+{"id": "LocalText/modCondition_attr_value4Name", "revision": "a4cebf975ba5a3daffb87a4932f89f99a0aa2305a91006056e09a7b6d333f047", "ptbr": "Valor máximo do atributo"}
+{"id": "LocalText/modCondition_attribute_value1Name", "revision": "26a0df0c0f1a26f2ab94cfd0acd778f762647c20b2dea84ca694a9ddf27b8439", "ptbr": "Atributo especificado"}
+{"id": "LocalText/modCondition_attribute_value2Name", "revision": "050a3c0569b72bf4778f69813fccff653367c40002abbcef813b6ec9bb7e3d13", "ptbr": "Valor mínimo requerido do atributo"}
+{"id": "LocalText/modCondition_attribute_value3Name", "revision": "644ecd607e4acae2c7ed3c798bddeaa1f94a501a5612ee6741464391ccb6a1ed", "ptbr": "Valor máximo requerido do atributo"}
+{"id": "LocalText/modCondition_basCompare_value2Desc", "revision": "366cbb16f23ee45f1d88eccbb7750afb2f369450ceb6f1ab411400f60f57ca67", "ptbr": "Quando um atributo fora do grupo de comparação é selecionado, a condição nunca será atendida. (Os atributos dos grupos de comparação são ordenados do mais alto ao mais baixo)"}
+{"id": "LocalText/modCondition_basCompare_value2Name", "revision": "ed57dac206913c0aeb13a62f2d00a5da9057e8ce79e1ed8336760c212a351085", "ptbr": "Atributos comparados"}
+{"id": "LocalText/modCondition_basCompare_value3Name", "revision": "6263038aa016b32c139fd91bcb12127927674ac2e52699b05b565d7141d816e2", "ptbr": "Classificação mais alta (1 significa 1º lugar)"}
+{"id": "LocalText/modCondition_basCompare_value4Name", "revision": "b9138d494b7c812487c5dd66aadf91080d732540a1fe3407db287ee8f744ace6", "ptbr": "Classificação mais baixa (2 significa 2º lugar)"}
+{"id": "LocalText/modCondition_blockElement_value2Name", "revision": "ed2c46f707116715c89b37960be30195961b51be78d911da5878d5db8d2b30ae", "ptbr": "Valor mínimo"}
+{"id": "LocalText/modCondition_blockElement_value3Name", "revision": "55ff35ef39d34fd8faca1779a86d15e937ef859ef3bdb53d138f3f19d703480c", "ptbr": "Valor máximo"}
+{"id": "LocalText/modCondition_blockRange_value1Name", "revision": "710ef83c9e308000e579b4f7744966f012b62e5f343c7008dd4c37ace69b06d0", "ptbr": "Coordenada x do mapa-múndi"}
+{"id": "LocalText/modCondition_blockRange_value2Name", "revision": "3c8becde7058f8b1bcf2dbbfea32652d7f45d452f04d1feb8402e31baceb5719", "ptbr": "Coordenada y do mapa-múndi"}
+{"id": "LocalText/modCondition_blockRange_value3Name", "revision": "c6b1929ef74fd3eec893ff4ddf441461f26895dffee253c6372932982e099df1", "ptbr": "Raio (formato de losango)"}
+{"id": "LocalText/modCondition_capacity_value1Name", "revision": "76718442fd9e2d9b35bcb0578f4181dc42f0497fe2d8a5032cc401d46c4fc847", "ptbr": "Número mínimo de espaços requeridos"}
+{"id": "LocalText/modCondition_dialogueTime_value1Name", "revision": "f83c66095a1270e0c2b46168fdb7a61f339ff7dcdaeaa3a0af106a71b3e1357e", "ptbr": "ID do enredo"}
+{"id": "LocalText/modCondition_dialogueTime_value2Name", "revision": "6965013f2b8d5aff935a858fbd4f1b9612c6a4bedb6fa8d13c8bb76e7078318c", "ptbr": "Enredo acionado e tempo decorrido (meses)"}
+{"id": "LocalText/modCondition_dialogue_value1Name", "revision": "95956eb96a21c72db348a9f3690e79acf1f3829d72adc048528f9bf02627411c", "ptbr": "ID do enredo"}
+{"id": "LocalText/modCondition_dungeonDialogue_value1Name", "revision": "eb97682838e293404a88db1edc94670f3655610fecd8960d870aee1b1cf815a3", "ptbr": "ID do enredo"}
+{"id": "LocalText/modCondition_dungeonLevel_value1Name", "revision": "df898817b73eb6df512051e73ea7a977d3f9596b8d9e083592301fc3328df8cf", "ptbr": "Valor mínimo de nível"}
+{"id": "LocalText/modCondition_dungeonLevel_value2Name", "revision": "441a6f81af9c054d347923c7d4bbb1255e73f699f0d1b1461370db1444163104", "ptbr": "Valor máximo de nível"}
+{"id": "LocalText/modCondition_equipMartial_value2Name", "revision": "71eeea95f4767a7ece0c248177a22d4bad9650810fc215564939f082e9e003f4", "ptbr": "Número de técnicas equipadas"}
+{"id": "LocalText/modCondition_feature_value2Name", "revision": "d40e6b006e0cdfe7196f7256688aee98fa2f3b8db193d96d0433e912f987d47e", "ptbr": "Destino possuído"}
+{"id": "LocalText/modCondition_gradePhase_value2Name", "revision": "3c06ac3d20c652fee732fafbf2bf93c129992abcf5115e6978ac078ed787c78b", "ptbr": "Valor mínimo de reino pequeno"}
+{"id": "LocalText/modCondition_gradePhase_value3Name", "revision": "10623510d282881c3ae442cfd3d7da17747ee7c155b1475ffc80c897172298a1", "ptbr": "Valor máximo de reino pequeno"}
+{"id": "LocalText/modCondition_grade_value2Name", "revision": "d54d235bfa8c231a9fb90bcbb1b75cbb0cec884f7d958438ed4a2a36434cf7d8", "ptbr": "Valor mínimo de Reino"}
+{"id": "LocalText/modCondition_grade_value3Name", "revision": "8b87b81db61652bb68df185c728e72a74e86453a14622444d40587519b78cfb8", "ptbr": "Valor máximo de Reino"}
+{"id": "LocalText/modCondition_itemType_value2Name", "revision": "624f3a7220371c90455958f156270bd0c43f4e67e2264a8979820a4ffe5d64db", "ptbr": "Classificação do item (pode-se optar por não determinar a classificação)"}
+{"id": "LocalText/modCondition_itemType_value3Name", "revision": "4eed4a3b19277cc5bbcdc448d4124e8619c227b269921cbbb3053ac44e4807b7", "ptbr": "Raridade do item (0 = sem determinante de raridade)"}
+{"id": "LocalText/modCondition_itemType_value5Name", "revision": "66cb29f491353dab1549517e6bcacb2f0ee27b5efb9f32b274078f08844a1735", "ptbr": "Quantidade de itens a comparar"}
+{"id": "LocalText/modCondition_lastDungeon_value1Name", "revision": "eb51684a4eab43ac7d45159443a42fdec431f54dd74f585304f126a7b2b25172", "ptbr": "ID da masmorra"}
+{"id": "LocalText/modCondition_skillEquipType_value2Name", "revision": "fe4b5b22f97acdad3095150b347e8dee121d0721bd63a9ef017922bcd49a8517", "ptbr": "Número de equipamentos requerido"}
+{"id": "LocalText/modCondition_skillEquip_value3Name", "revision": "6461c39c92b3719707c28c76d34079ff5d01dbe22ddaec82ea47d4008c98c5cc", "ptbr": "Número de equipamentos pedido"}
+{"id": "LocalText/modCondition_xxClose_value1Name", "revision": "659be2b9e8231241d1ac1e3ea2bbdb4176067dd59539db1ec83f8f0686b53852", "ptbr": "Primeiro personagem"}
+{"id": "LocalText/modCondition_xxClose_value2Name", "revision": "429373c8a85a88d6617342fad37caecd5a59b87e604216293a24d782a21df5d5", "ptbr": "Segundo personagem"}
+{"id": "LocalText/modCondition_xxClose_value4Name", "revision": "d3f27b9aa487b0f83ad0df8abb642c5d9189b1957a3164eb2f406a03e619756e", "ptbr": "Valor de afinidade a comparar"}
+{"id": "LocalText/modCondition_xxRelationDeny_value1Name", "revision": "f1d98f6e3b962b4de860435d66318acf20a2410a97f8551e92af26e6b367f63b", "ptbr": "Personagem 1"}
+{"id": "LocalText/modCondition_xxRelationDeny_value2Name", "revision": "43378e52a451ea3eaa66ec8d8bce6999f60861796477b3a393d5cadead8e867d", "ptbr": "Personagem 2"}
+{"id": "LocalText/modCondition_xxRelation_value1Name", "revision": "47849baaad79fc7eee127df393612e0f16a3725af2b3913eb4b8d246f573fdd8", "ptbr": "Personagem 1"}
+{"id": "LocalText/modCondition_xxRelation_value2Name", "revision": "501523abb7938ddbd3ba8cded84b2d41512621822df1c3bbd96587a530ebf804", "ptbr": "Personagem 2"}
+{"id": "LocalText/modEffectType3_attachAttrByArtifact_value1Name", "revision": "7ede6ebcc96ed2db64a2512a2e4c1bc8f8c7032facccc640c5807cdaff31fc0c", "ptbr": "Atributos a melhorar"}
+{"id": "LocalText/modEffectType3_attachAttrByArtifact_value3Name", "revision": "7897fef548182743ea9fbfea6b23a16525409ba735a69ebf8414e438e1fe1fc5", "ptbr": "Valor a melhorar"}
+{"id": "LocalText/modEffectType3_changeAttrCost_value3Name", "revision": "9d97d3f9d0dd4040fb59d954012b3d04a87ce6659f01d3c5a8b7b609c851bfc1", "ptbr": "Valor a aumentar"}
+{"id": "LocalText/modEffectType3_forgetEffect_value1Name", "revision": "25396577f6b7bcf6265764ec2b94612b3c707655daef3c311b941b296f36d6db", "ptbr": "Número máximo de camadas para aumentar o Atributo (-1 significa infinito)"}
+{"id": "LocalText/modEffectType3_forgetEffect_value2Name", "revision": "cadeb0ae66271503632dfab6a3d79d67251c3359dd00b2c4d0391deaac8bf064", "ptbr": "Atributos a melhorar"}
+{"id": "LocalText/modEffectType3_forgetEffect_value3Name", "revision": "55bd892ff0d84ced84d4bc569d2469ba7ca5b61473a9d5e549dc509b7b04d75d", "ptbr": "Valor a melhorar"}
+{"id": "LocalText/modEffectType3_graveLife_value2Name", "revision": "cdaeb8e4fb377373ee912b5ab46549003b0c85acaa6bdbc7e1bb33f278980f34", "ptbr": "Valor a aumentar"}
+{"id": "LocalText/modEffectType3_graveLife_value3Name", "revision": "215700f048f0d28ad174450152b446fe592f338e3a1152898d1e10bd9296a265", "ptbr": "Probabilidade de acionamento"}
+{"id": "LocalText/modEffectType3_increaseBasPil_value1Name", "revision": "d9786a1385a9c665d9d030b7692efad3ec481f02b3050f76a2af3e14ce7d4403", "ptbr": "Valor de Alquimia aumentado"}
+{"id": "LocalText/modEffectType3_killNpcEffect_value3Name", "revision": "8c60f85e89a340b3ff78d4781c9cc73cab522c76e34b3257fff4b882d94686fd", "ptbr": "Atributos a melhorar"}
+{"id": "LocalText/modEffectType3_killNpcEffect_value4Name", "revision": "f0f37bdec19f380f729cf3159bbbb17cad33e95643a5acf19a05d2a83d03990b", "ptbr": "Valor a melhorar"}
+{"id": "LocalText/modEffectType3_learnEffect_value1Name", "revision": "6c4bc633e0efc345279613f53ea54d633629655e66f8bb1ffa15b982ec2658f7", "ptbr": "Número máximo de camadas para aumentar o Atributo (-1 significa infinito)"}
+{"id": "LocalText/modEffectType3_learnEffect_value2Name", "revision": "8a237fda77184a024d0246e9bb9ca3d6eabab4cdb3059c631c2d041b77c720a8", "ptbr": "Atributos a melhorar"}
+{"id": "LocalText/modEffectType3_learnEffect_value3Name", "revision": "43218483fa1c8cf93734aa25c311c5f6bb5c3bec21b3bb92475ad4c67afadcbb", "ptbr": "Valor a melhorar"}
+{"id": "LocalText/modEffectType3_learnSkillCost_value3Name", "revision": "134c7f4928648c42cf748c404b92c5a982ec6a9610b0cbff66ef8619013a79e9", "ptbr": "Valor a aumentar"}
+{"id": "LocalText/modEffectType3_learnSkillExp_value2Name", "revision": "839f5465521970c764c6119ccf80137b8d71dd0914c0d0602ff5f673462dc288", "ptbr": "Valor a aumentar"}
+{"id": "LocalText/modEffectType3_limitGradeExp_value1Name", "revision": "8543584eddba143e09bed089ff2f8a1303c46e51d7c50a5c7a2752e1ddd156dd", "ptbr": "Reino que alcançou a restrição"}
+{"id": "LocalText/modEffectType3_limitGradeExp_value2Name", "revision": "42e7690ac91949e2872e247dcc089f02d909515a78a6a0db0bbfc17acb25d873", "ptbr": "Período que alcançou a restrição"}
+{"id": "LocalText/modEffectType3_mapSpecialSign_value1Name", "revision": "1f3e205b3fb6e768cc2f3c96c4feb8d270ca46bc9e9602a1b16518d8637c1982", "ptbr": "Intervalo de anexação"}
+{"id": "LocalText/modEffectType3_meetMonsterProbInArea_value1Name", "revision": "ff0ca14efe9e81e5ddc7ae239790450d370be10b50a67a8735720cebe7d7e0ba", "ptbr": "A probabilidade de encontrar um monstro torna-se"}
+{"id": "LocalText/modEffectType3_meetMonsterProbInArea_value2Name", "revision": "13ebacd0318422fec210000d50f0a171c91a763f07b7a5f5e10776256f30723c", "ptbr": "Texto adicional exibido após o Aviso ao entrar numa área especial"}
+{"id": "LocalText/modEffectType3_meetMonsterProbInArea_value3Name", "revision": "3c3b6adcd1c930a6232109d8b1dbf5b56777ba7aa0d84d3aed619918154ced6a", "ptbr": "Área especificada"}
+{"id": "LocalText/modEffectType3_npcConnectLimit_value1Name", "revision": "d00dda045fb5c857923f208e601545bbaa2e5a15622131af57bde796d2292fdb", "ptbr": "Limite mínimo aleatório de interações"}
+{"id": "LocalText/modEffectType3_npcConnectLimit_value2Name", "revision": "5c98b8120ad248be16de3f8d98e9bf7b4cc005734b507eea8a1378fc1a22ff1f", "ptbr": "Limite máximo aleatório de interações"}
+{"id": "LocalText/modEffectType3_npcConnectLimit_value3Name", "revision": "f466455c652a7a99ac755627288b5451c683e35634ff5176090a027adb014061", "ptbr": "ID mínimo da área especificada"}
+{"id": "LocalText/modEffectType3_npcConnectLimit_value4Name", "revision": "d7944dfb1a1b1a187896a2c69bb5271f11287a35d3fd8827aeb9899f6a5ed36b", "ptbr": "ID máximo da área especificada"}
+{"id": "LocalText/modEffectType3_pilCount_value2Name", "revision": "648a65fd69af73e109fa564d8b0f38301792e7faeabc566b2f5b799c2cc782b8", "ptbr": "Valor a aumentar"}
+{"id": "LocalText/modEffectType3_pilEnergy_value2Name", "revision": "f52896510dc068d051295071355298bbaa3a62988dacc4d2fec1cc3a67b2c7cf", "ptbr": "Valor a aumentar"}
+{"id": "LocalText/modEffectType3_randomArtifactWithSprite_value1Name", "revision": "7251471088cd596f08da09549100c1a10d374248ba85507ce7aa05f10ce6b67e", "ptbr": "Artefato"}
+{"id": "LocalText/modEffectType3_randomArtifactWithSprite_value2Name", "revision": "928013015fe364c907364bd97ddd3a329bbbbad95a2c0f46f96a5b4ea7b6c942", "ptbr": "Porcentagem de atributos iniciais do Artefato"}
+{"id": "LocalText/modEffectType3_randomArtifactWithSprite_value3Name", "revision": "037c03de986aa2c03c6931472b0a5ddc69b5c63307f4ce147017b2ec360638b4", "ptbr": "Raridade mínima aleatória do Espírito de Artefato (5-6 raro)"}
+{"id": "LocalText/modEffectType3_randomArtifactWithSprite_value4Name", "revision": "d07d7bcf98308b84e7700bee94e3fa351389fa3decfc95496ec99068c20d993d", "ptbr": "Raridade máxima aleatória do Espírito de Artefato (5-6 raro)"}
+{"id": "LocalText/modEffectType3_randomArtifactWithSprite_value5Name", "revision": "019b48e4a281447067012cdb0a66019f1d66806ed05314d975ea4ad457b7705b", "ptbr": "Reino do Artefato"}
+{"id": "LocalText/modEffectType3_relationEffect_value3Name", "revision": "0b3cb2d2194f3568b436191a566eadc87c041cf270130957d87d449205fca8a5", "ptbr": "Número máximo de camadas para aumentar o Atributo (-1 significa infinito)"}
+{"id": "LocalText/modEffectType3_relationEffect_value4Name", "revision": "cd9b920ce565d8b16013e85272d3bd4208abb75eeeab0a1a2c6109be6903a6bb", "ptbr": "Atributos a melhorar"}
+{"id": "LocalText/modEffectType3_relationEffect_value5Name", "revision": "7258542756a568d6afa1ef284e73aaad92cd9bbe79732c6f2a8ace1c00f8baed", "ptbr": "Valor a melhorar"}
+{"id": "LocalText/modEffectType3_roleEffectAdd_value1Name", "revision": "6ec1d07f80c555a32aef459cb93deb99c21264e535a427b5032983a1de9cb6a0", "ptbr": "Probabilidade de aplicação"}
+{"id": "LocalText/modEffectType3_roleSight_value1Name", "revision": "68545487cc019a400dc42c365b61f05052b6f648f7fd76e2c748cdd660762778", "ptbr": "Campo de visão aumentado"}
+{"id": "LocalText/modEffectType3_skillColorEffect_value1Name", "revision": "ed5d8e1ce424592eba2c0cd644b068898cb5826a6e7fcb5bd041d3e344b760e0", "ptbr": "Cor mínima da técnica"}
+{"id": "LocalText/modEffectType3_skillColorEffect_value2Name", "revision": "5f155e808a4d9923b445a36e71ee454d89e50db83c29690619c015361b423161", "ptbr": "Cor máxima da técnica"}
+{"id": "LocalText/modEffectType3_skillColorEffect_value3Name", "revision": "20b3b7e29cadd25490c58711aaef83a2ff7b99960bdf468672fbfd20ee69a750", "ptbr": "Número máximo de camadas para aumentar o Atributo (-1 significa infinito)"}
+{"id": "LocalText/modEffectType3_skillColorEffect_value4Name", "revision": "c52a44df0b711a842639a3d1883c5a697dba4438105c330f45e8cd012bf4f3c1", "ptbr": "Atributos a melhorar"}
+{"id": "LocalText/modEffectType3_skillColorEffect_value5Name", "revision": "28783795d0cee8fcd0a550d883be69c3c713763b178827d16757a32c3e44efb8", "ptbr": "Valor a melhorar"}
+{"id": "LocalText/modEffectType3_trainsGive_value1Name", "revision": "3cc3a5ababaebae0d9284b6636c4f97253278c0d6b58cb7e05801a844463054b", "ptbr": "Texto de aviso ao acionar"}
+{"id": "LocalText/modEffectType3_viewItemCount_value1Name", "revision": "cf39d88f339e998c3ca06d80c76e1c213dc95c00e29a5123103f533eb402d80d", "ptbr": "Visualização adicional da quantidade de itens (-1 significa todos)"}
+{"id": "LocalText/modEnum1001Title", "revision": "51e5430b343c24e18ff007bbdc4f7db517b011d8dadb79ad1b519f397a820f58", "ptbr": "Reino"}
+{"id": "LocalText/modEnum10022EnumName0", "revision": "16e722fcfbb6526b31163bf1866c3e1db26cbd0f8f79ac1fc3cecf12e0417474", "ptbr": "0-Sem requisitos"}
+{"id": "LocalText/modEnum10022Title", "revision": "38b56dd6b77eb924b8abc591b460cb7a53072df87dc61f4ad1b469aa0b237144", "ptbr": "Requisitos de Reino"}
+{"id": "LocalText/modEnum10023EnumName1", "revision": "719e996c53845073061ca700d37f4e9965d865bcbe9875400b7f21896e8b707a", "ptbr": "1-Início"}
+{"id": "LocalText/modEnum10023EnumName2", "revision": "39346a79a17f1b056b61fd3e2b3bd2b16dec7673511e6d7a4179f2fde16aea70", "ptbr": "2-Meio"}
+{"id": "LocalText/modEnum10023EnumName3", "revision": "ce5db7bc780e757ac2a5bfb70fa91e0af169d619399ca7fdb8fcaf9c88d667df", "ptbr": "3-Fim"}
+{"id": "LocalText/modEnum10023Title", "revision": "11bc3c21586894b2e024e3438727d6786c3866120198f0e94fc03c5e02e3852a", "ptbr": "Requisitos de período"}
+{"id": "LocalText/modEnum10024EnumName0", "revision": "a9c747a6022185fb3697b0bc827bdb74cfd81df90ee2191d1b8a5a64e55efd67", "ptbr": "0-Pode ser derrotado em batalha"}
+{"id": "LocalText/modEnum10024EnumName1", "revision": "62deae7b053bdff32c2809c0df0e1dc980381829c8e0d017963d216084d7350f", "ptbr": "1-Precisa ser morto após a batalha"}
+{"id": "LocalText/modEnum10024Title", "revision": "bec1665572dc3c1afa1c7da1e67dc7cf5cebd1a95398a8f075cae57098e1f0cd", "ptbr": "Requisitos de ataque"}
+{"id": "LocalText/modEnum10025EnumName0", "revision": "61043741bdd09cc92f2c4400d0c737a1477011cbcadaf8cbb7e251ddada21837", "ptbr": "0-Custo de dias"}
+{"id": "LocalText/modEnum10025EnumName1", "revision": "dbd7c57df6900c5ee8e1cb774d67752416b2c36c131d9309df7b45dffe988601", "ptbr": "1-Custo em Pedras Espirituais"}
+{"id": "LocalText/modEnum10025EnumName2", "revision": "9c333c691bf3b46a910ec37ee3ba1b141c8e1d26af8ae8df89370e5f4e7ea643", "ptbr": "2-Custo de Humor"}
+{"id": "LocalText/modEnum10025Title", "revision": "c1304eed9df74b4987b4c8722cb34a791e6ab8adaca944cbb2e955380fc1deb9", "ptbr": "Tipo de custo de mudança"}
+{"id": "LocalText/modEnum10026EnumName-1", "revision": "d9fbe554fa3f1dfbb261871b0a73587f431d8d7282da6742b72c7aab74e417f5", "ptbr": "-1-Segue o Reino do Jogador"}
+{"id": "LocalText/modEnum10027EnumName6", "revision": "b93d6b5202ce31d5953f05fcb3e911dc97ee91a5c320997cddad52b4f44433e6", "ptbr": "6-Custo de Vitalidade"}
+{"id": "LocalText/modEnum10027EnumName7", "revision": "7c0e0d24c2ecb8de8f7b1aafa38425d3abf0050beb3e88f7b038a962890a0678", "ptbr": "7-Custo de Energia"}
+{"id": "LocalText/modEnum10027EnumName8", "revision": "838dfe2836e0db723f5ac466209dbab3e675ff37345c25e1d68bdb21dac64163", "ptbr": "8-Custo de Foco"}
+{"id": "LocalText/modEnum10027Title", "revision": "a853c6ad99e91434760956a3e7de2b932a40acc767afe49afae438aebf3ca850", "ptbr": "Tipo de custo de mudança"}
+{"id": "LocalText/modEnum10028EnumName0", "revision": "e373b4a1713646de392b6fcf0b5ba2f054c03fde794ca31e2c71b3c88c16480b", "ptbr": "0-Aumentar ou diminuir valor fixo"}
+{"id": "LocalText/modEnum10028EnumName1", "revision": "b11d6b4b87df5e449a1f227ca0ef629210dc79ced6fdefb68b5ab435d4853aa4", "ptbr": "1-Aumentar ou diminuir porcentagem"}
+{"id": "LocalText/modEnum10028EnumName2", "revision": "4ed154fc6b1549f121ee5e0a45fbacc7c0a6026f4b5384263317075a303aceba", "ptbr": "2-Igual a valor fixo"}
+{"id": "LocalText/modEnum10028Title", "revision": "61066b0e08a38e66eaadf2e29c6fdff5cdd0e769f86a5c1d21a8ea4712a2470a", "ptbr": "Método de mudança"}
+{"id": "LocalText/modEnum10029Desc", "revision": "465944be3c40f0aca325c82195292b7bc0fc7678b0afbd888dce5b4f5112b6e5", "ptbr": "Tipos de acionamento diferentes podem controlar o método de acionamento da Aventura. É preciso abrir o Enredo para entrar na Aventura depois de acionada.\\n\\nPor exemplo, 1- Mover um espaço no Mapa-Múndi: toda vez que você se move um espaço no Mapa-Múndi, o acionamento da Aventura é determinado com base na probabilidade."}
+{"id": "LocalText/modEnum10029EnumName1", "revision": "3ddbcaa2c13681198348d445de46c9272ec17bcb7a6c54951e52706f4beeaec6", "ptbr": "1-Mover um espaço no Mapa-Múndi"}
+{"id": "LocalText/modEnum10029EnumName10", "revision": "d1ba3125ce4971529130368998d1620c72279fa093ad874bae9c7948ca207d81", "ptbr": "10-O jogador minera no Mapa-Múndi"}
+{"id": "LocalText/modEnum10029EnumName11", "revision": "dd40fbcb5e2be963555af77b721de2d0d021fed684dd6859524d077eba379e97", "ptbr": "11-O jogador faz Geomancia no Mapa-Múndi"}
+{"id": "LocalText/modEnum10029EnumName12", "revision": "8db3a0fe9f2ec183396d8a7aa7889b5784392c75b221dce6b94ba07b4f529282", "ptbr": "12-O jogador rompe de Reino"}
+{"id": "LocalText/modEnum10029EnumName13", "revision": "e7f91ce2a290ca2d306e06fffc54ec96d427772c29b4d224b67d996e8e625aa1", "ptbr": "13-O jogador terminou a batalha na masmorra, antes de abrir a interface de resultados"}
+{"id": "LocalText/modEnum10029EnumName2", "revision": "f7af7ed41fb60ec845a6ab15ed37f7f9abae544747d1ed3c26b93038aa8179bd", "ptbr": "2- Entrar no Mapa-Múndi (voltar ao Mapa-Múndi no meio de batalha também conta)"}
+{"id": "LocalText/modEnum10029EnumName3", "revision": "b2602a3d8138e5665cd456827658067e4b7efef639b677f4bcb322fc3b62f2d6", "ptbr": "3-Fim da corrida mensal"}
+{"id": "LocalText/modEnum10029EnumName4", "revision": "40c8a30be9651b273e36ebc486d8b5eb8befab55b908aa4f3b49ee0dbd23d5c0", "ptbr": "4-Interface da Taverna aberta"}
+{"id": "LocalText/modEnum10029EnumName5", "revision": "b231b3a86ed393c5052d18efa442812fda3d36c2431343eb1581e292f07653d1", "ptbr": "5-Interface da cidade aberta"}
+{"id": "LocalText/modEnum10029EnumName6", "revision": "128a2fbff42bee99582b4adf488a432687e9b2624d79d69e54bde31733a9bf18", "ptbr": "6-Interface da Seita aberta"}
+{"id": "LocalText/modEnum10029EnumName7", "revision": "2f4f53c73731df1b2a917fee88c1b6a7d2d8dabfdc2dde747f08347e99faa325", "ptbr": "7-O jogador morreu em batalha na masmorra"}
+{"id": "LocalText/modEnum10029EnumName8", "revision": "986080590161be648225edb29f3bf66af520ea9a750930305415e031e49966c5", "ptbr": "8-O jogador fugiu da masmorra e voltou ao Mapa-Múndi"}
+{"id": "LocalText/modEnum10029EnumName9", "revision": "f70e113e9a4792226528962cd30b00f26c6b4010a9541b481e660d0d2a2a8feb", "ptbr": "9-O jogador cultiva no Mapa-Múndi"}
+{"id": "LocalText/modEnum10029Title", "revision": "190aac35627613225c0e2fd9a0e35094d4bb1b44ab1edf6a996c78fb00c3dfd0", "ptbr": "Tipo de acionamento"}
+{"id": "LocalText/modEnum1002Title", "revision": "6661e9cc9fb0e82dc149cd78383d423039016844fd89e8b20cf6a530f9eeedc3", "ptbr": "Nível"}
+{"id": "LocalText/modEnum10030EnumName0", "revision": "cf48f2dfa83b1441693430dedbdd7a28053e8535c925f15ef30c75b3586e1dee", "ptbr": "0-Não pode ser acionado repetidamente"}
+{"id": "LocalText/modEnum10030EnumName1", "revision": "ee974a0f355f4e2a824141d9c066b143d03638982575a207ebe5def748b4aa73", "ptbr": "1-Pode ser acionado repetidamente"}
+{"id": "LocalText/modEnum10030Title", "revision": "2d7bd18bd38f5b85eae9033b44252b3fab45e89b29cc50577797d248dc710c0d", "ptbr": "Pode ser acionado repetidamente?"}
+{"id": "LocalText/modEnum10031EnumName-1", "revision": "988c1b5c2914419bbe39fe13d01706431668c0a2631ecd35061e68b4a382774e", "ptbr": "Missão não aceita"}
+{"id": "LocalText/modEnum10031EnumName0", "revision": "ce9b0b3aa934ac489033b7230350c06a28b39f9097fb098720c319e316701e91", "ptbr": "Missão aceita mas não concluída"}
+{"id": "LocalText/modEnum10031EnumName10", "revision": "ceb6ba0c9808a109791d8a97b8769dcb5b4d49abe8c292502bdbd43aefa1dfa9", "ptbr": "A missão foi aceita no passado"}
+{"id": "LocalText/modEnum10031EnumName11", "revision": "4c5cea88a386a6bd05bee225c01894fcf7e11b342ca0aba1b1a9d2ec6682e5aa", "ptbr": "A missão foi concluída no passado"}
+{"id": "LocalText/modEnum10031EnumName12", "revision": "1af456a31b3702ee3277a81aaee65a4783ee55120121fee6ba6f0e0ce8d94a78", "ptbr": "Missão resgatada, não concluída ou missão expirada"}
+{"id": "LocalText/modEnum10031Title", "revision": "1782e5c3eb17e7660bef67532a158515f8b3925aa7a25492fe31fd8bd243279f", "ptbr": "Tipo de estado da missão"}
+{"id": "LocalText/modEnum10032EnumName0", "revision": "4eff78715a54acf0a1e25d9fba53e33d60f894bb0da12dbbcff8b72fb553acb7", "ptbr": "0 = Sem condições"}
+{"id": "LocalText/modEnum10032Title", "revision": "e1c78b5dd7f0413ba8a311d54b00de337fd21c4068a249d8502de9de0c03f01c", "ptbr": "Tipo de raridade"}
+{"id": "LocalText/modEnum10033EnumName0", "revision": "491a692b7ff5741594428e9fdabe9a15647d3771479ce07ca5fe3e16e7b420fd", "ptbr": "0- ≤"}
+{"id": "LocalText/modEnum10033EnumName1", "revision": "786a0d5ff97c8bde2dffc90edac5abfe309e7786cd6173f3beb4a41bf1db8ee8", "ptbr": "1- ="}
+{"id": "LocalText/modEnum10033EnumName2", "revision": "6b2ba3e676fdda215c00994435fbc57ba5c4854e28eadff09d85a065302a152d", "ptbr": "2- ≥"}
+{"id": "LocalText/modEnum10033Title", "revision": "fda2987b2cc542187cbcd3a11dd662e98b52db00319ece6b6e72337e5d221ce0", "ptbr": "Tipos de comparação"}
+{"id": "LocalText/modEnum10034EnumDesc1", "revision": "8c5e7a8b94a3b5ba0dcdbdc9a87fcb3989704ac917b8d2e5f8350fae4a7cf24f", "ptbr": "Vitalidade, energia e foco têm valores diferentes, então os valores reais de comparação precisam de escala."}
+{"id": "LocalText/modEnum10034EnumName1", "revision": "26a069dfcba1d117d3426d05cb4e73875f3b59d553a047e9bdde35867bdda77f", "ptbr": "1- Vitalidade, energia, foco (vitalidade/100, energia/20, foco/10)"}
+{"id": "LocalText/modEnum10034EnumName2", "revision": "cc1e07e8dd00587ca9da8cc07613c4cbe59e8af893c05d0b0ca8dcc122bb319d", "ptbr": "2- Todos os atributos de arma"}
+{"id": "LocalText/modEnum10034EnumName3", "revision": "cd1025e104957caf65ec453bfcf7b04893c92beef879ef74abd6a44e29e39738", "ptbr": "3- Todos os atributos de raiz espiritual"}
+{"id": "LocalText/modEnum10034EnumName4", "revision": "1990cfc5a2c92a1752522298816c8e194d1761d7032d01db208bf91852252ec0", "ptbr": "4- Todos os atributos de arma e de raiz espiritual"}
+{"id": "LocalText/modEnum10034Title", "revision": "2021bbe5f369d99fbca0567daa22ec9f04a6d3cbbb9315e6bc41f3fa9b94ffae", "ptbr": "Grupo de atributos a comparar"}
+{"id": "LocalText/modEnum10035Desc", "revision": "6931e5aa13716b15a66aaf3b60ff45f6027ce666e595fbb341c277bf67af08a4", "ptbr": "Se o personagem tem uma seita, segue-se a facção da seita; se não, compara-se com o valor justo/demoníaco do próprio personagem."}
+{"id": "LocalText/modEnum10035EnumName1", "revision": "6975a4c680cae985ce48153afbddebdc638effb900fd0173bc0976f69c0cef94", "ptbr": "1- Justo"}
+{"id": "LocalText/modEnum10035EnumName2", "revision": "7c90a2c46dc9bacd7751d2f1e3a6ea6cb960c885690500afa07b121208b70a82", "ptbr": "2- Demoníaco"}
+{"id": "LocalText/modEnum10035Title", "revision": "86b0a97679f42329c670e232c084106faf8a7b9512a091eb547919d39c1b4bc7", "ptbr": "Facção"}
+{"id": "LocalText/modEnum10036EnumName0", "revision": "04e4e67c0c5b2bd55af9b6292e90eb5f7b02fd628fcca8fcd3409a50ef806cb1", "ptbr": "0- Fora de uma seita"}
+{"id": "LocalText/modEnum10036EnumName1", "revision": "e1bdbc441cdba8afbe28712ac0a3d8131c5108e5790053043134f06ae7b4b6e7", "ptbr": "1- Numa seita"}
+{"id": "LocalText/modEnum10036Title", "revision": "77e59b1ba78fee1e618ff09ed91904d45edd92d4481e155c70fb64ac6feee8f2", "ptbr": "Condição de seita"}
+{"id": "LocalText/modEnum10037EnumName1", "revision": "f1ba5193c848c42281dd02c3ff938cea9f3f48c3a9cf7fee23d394f214ad54eb", "ptbr": "1- Líder de Seita"}
+{"id": "LocalText/modEnum10037EnumName2", "revision": "08e833b9b20edb6e0a5743ba6ce1c16ed4941eb9412328e911fe814c34bc0dfe", "ptbr": "2- Grande Ancião"}
+{"id": "LocalText/modEnum10037EnumName3", "revision": "474219d37e5f2125c7471c90a702808b45fc7ede9e1ce008d39315025d6f4d1f", "ptbr": "3- Ancião"}
+{"id": "LocalText/modEnum10037EnumName4", "revision": "cef4aaa1153bfdc5de7ff5d2814a5b929e9dfd6d01f398c091162e9ca78c04cd", "ptbr": "4- Discípulo Real"}
+{"id": "LocalText/modEnum10037EnumName5", "revision": "75ec171b8ce9d2f2e3f3320e75db18c2026439bd3d0fbce10cbad85fabf76200", "ptbr": "5- Discípulo"}
+{"id": "LocalText/modEnum10037EnumName6", "revision": "b1268d6f329033bb33f8959e76d464ca08642c6a51f86c08d4603c541ad14f2b", "ptbr": "6- Discípulo Novato"}
+{"id": "LocalText/modEnum10037Title", "revision": "87006f7d6135608751f7fc85b0c81ba79f35e641530f823651311ce6ea0144ee", "ptbr": "Tipo de seita"}
+{"id": "LocalText/modEnum10038EnumName1", "revision": "3ed97d0914a4cdb5d1c1754f42b5bba9a4eb98f477239f486b88d0d41a867e24", "ptbr": "1- Qi"}
+{"id": "LocalText/modEnum10038EnumName2", "revision": "e522f0f12cddaa1c45ca7565d77e78026f1eb1d8fd0c1a2b16776efea1ad87e9", "ptbr": "2- Feng Shui"}
+{"id": "LocalText/modEnum10038EnumName3", "revision": "ac1b175c497cc9944c8064e254069ce224d03c4bfa0ea89990ac2374d1d33fb9", "ptbr": "3- Erva"}
+{"id": "LocalText/modEnum10038EnumName4", "revision": "04e5e3d4b3c68040d7a11580f8dbce25b9e2880ed99d5a67957328fb4e44aef9", "ptbr": "4- Minério"}
+{"id": "LocalText/modEnum10038Title", "revision": "2f5bf3b805b2c0aa9315a4f127f9c2ddd67cde0c4c11a63a8f263757b08d66b4", "ptbr": "Tipo de valor da grade"}
+{"id": "LocalText/modEnum10039EnumName0", "revision": "ec4fd3fb82405d4aeebb8112dee6c56c5d5b1709396ed46148bada549a3da6d9", "ptbr": "0- Não especificado"}
+{"id": "LocalText/modEnum10039EnumName1", "revision": "96f71b308de06b67d3d43eee1782cc479677eb5521fce5ff8423132befbe562f", "ptbr": "1- Arma"}
+{"id": "LocalText/modEnum10039EnumName2", "revision": "4affb5622b158a66a0b00dab724cf07fa5eba4e3f0272a4d480240b7d6e7e74b", "ptbr": "2- Elemento"}
+{"id": "LocalText/modEnum10039Title", "revision": "e6c9a0a589370cfcef648b0b2f76ed3620e1946f10d514d69819b7fe148d6d33", "ptbr": "Tipo de elemento das técnicas marciais e especiais equipadas"}
+{"id": "LocalText/modEnum10040EnumName0", "revision": "611b02dc60622e71c8f866912832d60f30cfc63f397374f3c8f3dfa306abf898", "ptbr": "0- Sem condições"}
+{"id": "LocalText/modEnum10040EnumName1", "revision": "a00b90638d7f8b0458db89d69c5e10e1d2baac30ba3cb22a0dd84d3f6df4037a", "ptbr": "1- Vitória"}
+{"id": "LocalText/modEnum10040EnumName2", "revision": "edd72b927c120872bcf3596d035700e4f97d649fb13531fdda075f604c9be727", "ptbr": "2- Derrota"}
+{"id": "LocalText/modEnum10040Title", "revision": "5a5478a9e52c08fd5f95654ffb83d1b920428c003e8b3c43e8f9eb62801dd9cb", "ptbr": "Tipo de resultado de batalha"}
+{"id": "LocalText/modEnum10041EnumName0", "revision": "07c5fbfef54566cc6c307ee5da1c6be65963e7edebb3ea21084290432bfd1aaa", "ptbr": "0- Todos os atributos"}
+{"id": "LocalText/modEnum10041EnumName1", "revision": "b9db321baed666048319e38b888cee419bb9bc90746e10527dad4dffbf5bd987", "ptbr": "1- Atributos de artes marciais"}
+{"id": "LocalText/modEnum10041EnumName12", "revision": "a7945f9935f392f199a621261b884c40ffc51db901e4102aadced986c9886a83", "ptbr": "12-Artes marciais + atributos de raiz espiritual"}
+{"id": "LocalText/modEnum10041EnumName2", "revision": "665cfc5a446a257cfbfc4b8e142460e6740f0ac29b9124d8196d977be6406d32", "ptbr": "2- Atributos de raiz espiritual"}
+{"id": "LocalText/modEnum10041EnumName3", "revision": "b73ce2a6d9d57893ec17a2ecbd52627e8bf321bd9ed32f996db9ef80d99b205e", "ptbr": "3- Atributos de artesanato"}
+{"id": "LocalText/modEnum10041Title", "revision": "02c36e284cbf3f41d8777660b6720aec3fd615f1cdc26b4473107932c124014d", "ptbr": "Grupo de comparação de atributos"}
+{"id": "LocalText/modEnum10042Desc", "revision": "e88edd8b451df61ffadea23562fb38e141f46b9710b79d8b320d9bb1fdc39ce4", "ptbr": "Se o personagem tem uma seita, segue-se a facção da seita; se não, compara-se com o valor justo/demoníaco do próprio personagem."}
+{"id": "LocalText/modEnum10042EnumName1", "revision": "503db1da41445bc22334143d64d0b10c4b6a06b96e07be3447557f67c563b85d", "ptbr": "1- Igual"}
+{"id": "LocalText/modEnum10042EnumName2", "revision": "313287181827a1968cab9a8fc006b686e791f0162d101197e03ce525615c4c15", "ptbr": "2- Hostil"}
+{"id": "LocalText/modEnum10042Title", "revision": "35039ee01aa9fc3a41dddae1ea61edd088c0905ef09471f0ea6fa48859ce88ee", "ptbr": "Tipo de facção"}
+{"id": "LocalText/modEnum10043EnumName1", "revision": "822e5dfc0ef820747a94e5010c07d8960d5ff48df3fc20af0c22f1e77893f080", "ptbr": "1- Mesma seita"}
+{"id": "LocalText/modEnum10043EnumName2", "revision": "a4b9306a0d31e6013c0e776f329a1f1752d70ee8b6596ad25b4a3b2895d1db68", "ptbr": "2- Seita diferente, mesma facção"}
+{"id": "LocalText/modEnum10043EnumName3", "revision": "d2ff9dd68e648fce0119658e5d4d7351db82cb2b28c3edbc53c9f8c0d0fdc9d6", "ptbr": "3- Seita diferente, facção diferente"}
+{"id": "LocalText/modEnum10043EnumName4", "revision": "bc82d12f2987d9e7b5ea7f7aaa6af706b17e0c20f122e3f6f58bb91fcaa6d627", "ptbr": "4- Facção hostil"}
+{"id": "LocalText/modEnum10043EnumName5", "revision": "84c4eb4579fc43653b3007ee8e0a106f3e774c5e4eb8b4ab29ca613bc05e3525", "ptbr": "5- Seita diferente, sem determinante de facção"}
+{"id": "LocalText/modEnum10043EnumName6", "revision": "1a7d2e6af7c02c340c48f5ea378bd3a3d134ebbe93d0a19e52d5888c17610782", "ptbr": "6- Outros"}
+{"id": "LocalText/modEnum10043Title", "revision": "282217c5b98c7dd811fb516d719b7aa959746eac0275d6242a0ed751a33d6e61", "ptbr": "Tipo de determinante de seita"}
+{"id": "LocalText/modEnum10044EnumName0", "revision": "30bb1e1cc41e8fd54a94b811910ced9a68effcbbd3861ee90c3fbccfe6deb3e5", "ptbr": "0- Sem relação familiar"}
+{"id": "LocalText/modEnum10044EnumName1", "revision": "ef9aae7bf57014e8e9eb2260f630a2b2e2d78623a949e7be91f269993e889783", "ptbr": "1- Com relação familiar"}
+{"id": "LocalText/modEnum10044Title", "revision": "b0ed619ad5f7b867206b2984355e7935d667bbce68e2fb7d8b85a2540fdcb802", "ptbr": "Tipo de determinante familiar"}
+{"id": "LocalText/modEnum10045EnumName0", "revision": "193daebdc4988b7fd09ce8990eeff1cf85f696603318ec091e628283337a4601", "ptbr": "0- Não invertido (Jogador para NPC-A)"}
+{"id": "LocalText/modEnum10045EnumName1", "revision": "e294f9a7617dabb9f4f8855aba534111a15bffcc9115a4e49cd843b49f4a2cf6", "ptbr": "1- Invertido (NPC-A para Jogador)"}
+{"id": "LocalText/modEnum10045Title", "revision": "ad9487cb7f15b293c83d8d1c4a14dd387034913c92f6850e3bfdaebab81f0f80", "ptbr": "Se inverte os papéis do determinante de personagens"}
+{"id": "LocalText/modEnum10046EnumName-1", "revision": "084ef6c31e441605582baaa66ac54fad6b7b599066453b986365e50a9346fb75", "ptbr": "-1-Não determinar relação"}
+{"id": "LocalText/modEnum10046EnumName0", "revision": "2966840171d7e6540f1eb5f5912cd34c7cd2696292877b8be6a1614c69d5c47d", "ptbr": "0- Sem relação"}
+{"id": "LocalText/modEnum10046EnumName1", "revision": "cc7ac0150cf20fb455da711a52672cbc2141eb8811dca732218db34a9f25241d", "ptbr": "1- Pai"}
+{"id": "LocalText/modEnum10046EnumName10", "revision": "86e34243dbf26ba498ce266c695c61b1ea3c41fd538158a67ac68cc58ff4878b", "ptbr": "10-Mestre"}
+{"id": "LocalText/modEnum10046EnumName101", "revision": "f6ec64b9cb9c7430b100c379554f37fa3b6013fa870282bdcc4262ec9b8fe17e", "ptbr": "101-Qualquer relação amistosa (familiar + amigo)"}
+{"id": "LocalText/modEnum10046EnumName102", "revision": "9695c05028bcc292ffd0df7ff3749a9ea1945b5cd15f63e739be2bfedf0c1b1b", "ptbr": "102-Seita"}
+{"id": "LocalText/modEnum10046EnumName103", "revision": "743ab3d4fd4824a385b6163f7a1434d9a6886d64a5604d0fec4e8e31a8399414", "ptbr": "103-Amigo"}
+{"id": "LocalText/modEnum10046EnumName104", "revision": "692d32abda73ff45b0d3f1eebd3304c4dad605b751d906cd14f9f392b62e2aac", "ptbr": "104-Inimigo"}
+{"id": "LocalText/modEnum10046EnumName105", "revision": "40ab4e767bcd2c6d871040f14b82ed9a9e554dcea78de0865a9c2d9db1869da7", "ptbr": "105-Pai, pai adotivo, mestre"}
+{"id": "LocalText/modEnum10046EnumName106", "revision": "5c9c2d1e5ddf0c994f4581e71f3de172ad19fa8b40c0c2adc336732e00c37763", "ptbr": "106-Amigo, irmão, irmão jurado mais velho, par, cônjuge"}
+{"id": "LocalText/modEnum10046EnumName107", "revision": "45ae896de93e22fc38a1af64abda00cfa8b1413fa9c2c88fbedcfd4c323f67c2", "ptbr": "107-Filho, aprendiz"}
+{"id": "LocalText/modEnum10046EnumName108", "revision": "ee927c2573840d4b8d687dc70e1062de4ce3d50c8a52801a0415b45f37e04183", "ptbr": "108-Sem relação familiar"}
+{"id": "LocalText/modEnum10046EnumName109", "revision": "c451c1924158de69380bae1715235ff163050e26436a51078e507a18a9261770", "ptbr": "109-Mesma facção"}
+{"id": "LocalText/modEnum10046EnumName11", "revision": "c6506301a1ad6fcdc04fe35e0614a565a15779a910d9c861af3a4ab3f307a15d", "ptbr": "11-Aprendiz"}
+{"id": "LocalText/modEnum10046EnumName2", "revision": "2a389c276f43788986a3ed632830dc89996a0813099f0672f670aaa0f5a81c89", "ptbr": "2- Filho"}
+{"id": "LocalText/modEnum10046EnumName3", "revision": "eb4c2d6839c4e556c0711e3b816ba447be8ffdad7b9fb8e910dde06fffbead61", "ptbr": "3- Filho ilegítimo"}
+{"id": "LocalText/modEnum10046EnumName4", "revision": "6042f547e5ed852b2f8108bf2a66e1741121559ee8b746cadc566192324b36c9", "ptbr": "4- Irmão (mesmo pai, mãe diferente)"}
+{"id": "LocalText/modEnum10046EnumName5", "revision": "8773d6a1acbfab04751eb1235f99e774bc151a06b98d227ecf685ea0002f8bfe", "ptbr": "5- Pai Adotivo"}
+{"id": "LocalText/modEnum10046EnumName6", "revision": "fb1a2943f73b13f6d0413cfc58bd219fe996c54c24f1b73843f0c329c68c0f73", "ptbr": "6- Filho Adotivo"}
+{"id": "LocalText/modEnum10046EnumName7", "revision": "e41252934834f891ed68758218653f90fb879db64dfe42f29ed79e6d3f9d3048", "ptbr": "7- Irmão Jurado mais velho"}
+{"id": "LocalText/modEnum10046EnumName8", "revision": "d6c311766e6728e43442f1fff0d1006fdcb9e90ca565b4c9d51e56cd50e7ac9a", "ptbr": "8- Cônjuge"}
+{"id": "LocalText/modEnum10046EnumName9", "revision": "8228ab3229560df61f71ba5f4d55320870e14d1b00d335569936747d0d7ea1b9", "ptbr": "9- Par"}
+{"id": "LocalText/modEnum10046Title", "revision": "0e5289922abe3b9ddb21403c8a1e728518b0a14a1e168328c2948d63a1a275f5", "ptbr": "Tipo de determinante de relação"}
+{"id": "LocalText/modEnum10047EnumName0", "revision": "080ec1ddbb23bf62cfedfdf1a033c06f855cabd4dcb2669c20800ec2ef23c92c", "ptbr": "0- Sem tipo de relação social compartilhada"}
+{"id": "LocalText/modEnum10047EnumName10", "revision": "813f22f07da8705f6ff1d8b125e703dd798b4c0bac1bd9f163aa59e893e7f4d9", "ptbr": "10-Ter amigos em comum"}
+{"id": "LocalText/modEnum10047EnumName11", "revision": "6dd56e3921e04a1f9ad75a5cc80a5afeb06c127174faf1e223f1294d770ab905", "ptbr": "11-Ter inimigos em comum"}
+{"id": "LocalText/modEnum10047Title", "revision": "68c7736af8d94bfe605f43bb0735164585e879bab783abe624758d5499a70d15", "ptbr": "Tipo de relação social compartilhada"}
+{"id": "LocalText/modEnum10048EnumName0", "revision": "1d58f1b02eab257a857ad34cfd4b20b0376441d926bdb6346b2b3b33979fadbf", "ptbr": "0- Não acionado"}
+{"id": "LocalText/modEnum10048EnumName1", "revision": "80db3d43217e4726da4a5a21ff72c83c9b9d47f24a61992b79cec08241855662", "ptbr": "1- Acionado"}
+{"id": "LocalText/modEnum10048Title", "revision": "240b26eafa88a819914d2ad696ae797972035d0614bcea773846f1ca656c422b", "ptbr": "Tipo de acionamento de enredo"}
+{"id": "LocalText/modEnum10049EnumName0", "revision": "94060a82e59a973f9b4230836b8dfffb8866c41f74176b5d407feccc29e14d8f", "ptbr": "0- Não usado"}
+{"id": "LocalText/modEnum10049EnumName1", "revision": "dc989bbb20b5ad672a81ad6979be1e20ce66522bfbc89774128707bde8a3a9ba", "ptbr": "1- Usado"}
+{"id": "LocalText/modEnum10049Title", "revision": "0f44fbd83a49c0997ad67ddc1c738779a9c9bf07875463787db683900de7e856", "ptbr": "Tipo de uso de item"}
+{"id": "LocalText/modEnum1005EnumName1", "revision": "cdf08be72b7e39d60d9b44d035b5c3dc140cc123837d4b4d862db5588c09673b", "ptbr": "1- Sabre"}
+{"id": "LocalText/modEnum1005EnumName2", "revision": "d252d4f1977d751769badb126a422937fefceaf943d1f814da7878a9b183e980", "ptbr": "2- Lança"}
+{"id": "LocalText/modEnum1005EnumName3", "revision": "4a3e23ca7ac50117947dc991cfff68b56881e76a810bf67b8153302a12ae3e59", "ptbr": "3- Espada"}
+{"id": "LocalText/modEnum1005EnumName4", "revision": "02359f3a32678b99515b4d480248d2b8c2a3d74329889a7450fd8a34a1d66a65", "ptbr": "4- Punho"}
+{"id": "LocalText/modEnum1005EnumName5", "revision": "ea7bc7576a480b5c4dcd2792760c819c1cfcc858d1a2c85a61dbf5e47185e91b", "ptbr": "5- Palma"}
+{"id": "LocalText/modEnum1005EnumName6", "revision": "e14fd5f7a39fe4fd42e63aa4baa0315f9c570cacb16f594a084250b56adb0e31", "ptbr": "6- Dedo"}
+{"id": "LocalText/modEnum1005Title", "revision": "91491af15bf082983bab7a88800ee84a28bc4c35d68827bb385b00064ee4daf8", "ptbr": "Tipo de arma"}
+{"id": "LocalText/modEnum1006EnumName1", "revision": "afaf3bece9c1f5dc277e74d724319db5fa57578d256ca8837bfdd3f182570ca0", "ptbr": "1- Fogo"}
+{"id": "LocalText/modEnum1006EnumName2", "revision": "0668149f825340bb41517f3fd2ce8430b69f655efc82977cf3bef3f9b30857b7", "ptbr": "2- Água"}
+{"id": "LocalText/modEnum1006EnumName3", "revision": "e7971c38f25581b0343c13df8a830b7777b892fd1f54af732f701dd04e28ebe9", "ptbr": "3- Raio"}
+{"id": "LocalText/modEnum1006EnumName4", "revision": "341f6b858a35a4a82c35810f3d8b55e7d002d067c571a0dd94c791ca7eafa991", "ptbr": "4- Vento"}
+{"id": "LocalText/modEnum1006EnumName5", "revision": "fee388c885b859d446368726f75d46c9489f671aefcfd2150ff1824ab71bd178", "ptbr": "5- Terra"}
+{"id": "LocalText/modEnum1006EnumName6", "revision": "83f6130934c25922fe1e3f010edbf08f54a308eba1c3ca09127aff9614bad7f6", "ptbr": "6- Madeira"}
+{"id": "LocalText/modEnum1006Title", "revision": "fe83842d940f63616ddf728dd74b70f49b7c2d66dfad0c5653328e4a09919b66", "ptbr": "Tipo de elemento"}
+{"id": "LocalText/modEnum1007EnumName1", "revision": "dc104aab1098c82c50197de8086d2ed03ab64a81cdad7b4e01bc3eef9cd098ce", "ptbr": "1- Técnica marcial"}
+{"id": "LocalText/modEnum1007EnumName2", "revision": "354a12a0a31f76292502f2ad89fbbead436610741abbb00fafccf6f1ca5d6a65", "ptbr": "2- Técnica especial"}
+{"id": "LocalText/modEnum1007EnumName3", "revision": "ac1a5d3000ec68bbdad8517cac89fa1cd48a55c49ec7eea41d4a289674608b48", "ptbr": "3- Técnica de movimento"}
+{"id": "LocalText/modEnum1007EnumName4", "revision": "4a2876c0aa387d84b48069eda6026d24dec01c8b2acde1e2785471158d2be585", "ptbr": "4- Técnica mental"}
+{"id": "LocalText/modEnum1007EnumName5", "revision": "f700caaa98639183d4b7824e02a796ed5d4974608434db08de6b1162ca357fec", "ptbr": "5- Técnica suprema"}
+{"id": "LocalText/modEnum1007Title", "revision": "a6b75537fb668760424cdf0b55101ed7682b806e7461f8bfe428eaea7c4b0780", "ptbr": "Tipo de técnica"}
+{"id": "LocalText/modEnum1008EnumName1", "revision": "30aaa784fc926ae129cc7a99ca3d77da45e8472f27f1a243bcaac6c7c651be9a", "ptbr": "1- Masculino"}
+{"id": "LocalText/modEnum1008EnumName2", "revision": "7ca7d354bd35e3cecfc67b0ec3da41fb5febc40d8fbc64c63650d01df506b78a", "ptbr": "2- Feminino"}
+{"id": "LocalText/modEnum1008Title", "revision": "51c664bf69b4a955a32ce9ddf44e84604ef0bf3b6834a438da9f6a68f6865d57", "ptbr": "Tipo de gênero"}
+{"id": "LocalText/modEnum1009EnumName0", "revision": "5d1134fd4f7f2a170a9994783c4cf64f0110bd74fb19242fe450ecd306cf05cd", "ptbr": "0- Nenhum"}
+{"id": "LocalText/modEnum1009EnumName1", "revision": "d7ac5e2e14425a2f1e17cd20050352cfbac9af9df53452520c0528009b4bc819", "ptbr": "1- Líder de Seita"}
+{"id": "LocalText/modEnum1009EnumName2", "revision": "b08b9b9c6326a248f3cac296f5448693de567f92f11d047932d2b05d96821f82", "ptbr": "2- Grande Ancião"}
+{"id": "LocalText/modEnum1009EnumName3", "revision": "a14f56a47e7aae44269d92852d66124faa3cac6851566562532a652241b703e1", "ptbr": "3- Ancião"}
+{"id": "LocalText/modEnum1009EnumName4", "revision": "c8c4386f59981f22ed708812f87c6db442de807ea1ac220962d7562ccb3e142c", "ptbr": "4- Discípulo Real"}
+{"id": "LocalText/modEnum1009EnumName5", "revision": "9056c163e1c80cd0f5b9af06ce7632cf26a0516cd6f4c27761a9ff1c53f058ff", "ptbr": "5- Discípulo"}
+{"id": "LocalText/modEnum1009EnumName6", "revision": "edf9654beba935f6d4f284893f2189175769c9b92c208bc2f24f29ee76d714b8", "ptbr": "6- Discípulo Novato"}
+{"id": "LocalText/modEnum1009Title", "revision": "06777216c209d550ec54badc4bfab43f599bb7ab344d756cbefdea03b0c13a99", "ptbr": "Tipo de cargo de seita"}
+{"id": "LocalText/mod_banbenhao", "revision": "518aa8a798f9f6a9feabc365618a2e5c42e9b2c85cf50624a8ea20bef214c9f7", "ptbr": "Número do patch:"}
+{"id": "LocalText/mod_chatudiushi", "revision": "f764e9b79a027722ed9fdeab90caf8eb54b343fea06ef81033b1d375cd488058", "ptbr": "Esta cena foi apagada e não pode ser usada!"}
+{"id": "LocalText/mod_chichuntishi", "revision": "bcfff658bdad5f47c3024ae047c005adacc3639f60161e94d3ca5e09c162d544", "ptbr": "Dimensões da imagem incorretas!\\nAs dimensões da imagem devem ser: Largura {0}, Altura {1}"}
+{"id": "LocalText/mod_chichunyaoqiu", "revision": "ad2837ac0e94b933cfc86160831d706d09ec6314a5c0e7fab21924e3845999b0", "ptbr": "Medições padrão da imagem: Largura {0}, Altura {1}"}
+{"id": "LocalText/mod_chongtutishi", "revision": "f5767e8ced6ebe731a29744bf5944a80535be70b481391e3d099c16666a4b477", "ptbr": "Se não houver conflito de ID entre vários Mods, não mude o ID, ou haverá um erro de perda de dados no save em que o Mod foi carregado!"}
+{"id": "LocalText/mod_chuangjianqiyu", "revision": "9880e01bb21309cbd746f735a56bab856a551d4742c6850e1f2b2e4248015287", "ptbr": "Criar Aventura"}
+{"id": "LocalText/mod_chufatiaojian", "revision": "db982f909f64cafa2abfbe331163a7ca2ffd2d2113750c68e91165bd5bd3c5b2", "ptbr": "Condição de acionamento:"}
+{"id": "LocalText/mod_danweileixing", "revision": "2e03bacdf184b342955566e9af4ad766de6aa5e24d40d5f4403012cbb0a95573", "ptbr": "Especifica o tipo de personagem"}
+{"id": "LocalText/mod_daochu", "revision": "266a8e73a50ac3b5b9e326123ba9e85a2aad6ff237cc77a9aba6edbde87cb3b2", "ptbr": "Escolha um caminho de save"}
+{"id": "LocalText/mod_daochuchenggong", "revision": "b533cc21b2a23d46853e67fdd4bf0a7fc98c338b669ddc9bbb0f5a03d1df9030", "ptbr": "Mod exportado"}
+{"id": "LocalText/mod_daochumozu", "revision": "09e55182c921e242cb8c31bbb4b5de24837528470ecf5307a9c2aa0f167aad08", "ptbr": "Exportar Mod"}
+{"id": "LocalText/mod_daoruchengong", "revision": "265c523cec2f768cef6e46e79899fded9d1c70b34b44f71211f5593265f4d8af", "ptbr": "Importado"}
+{"id": "LocalText/mod_daorumozhu", "revision": "3863500341dcd53c3605c64ed1b46a33faa4a0c0b4cfccff8d9c97171600920d", "ptbr": "Importar Mod"}
+{"id": "LocalText/mod_daorushibai", "revision": "236f81e0e9ddace526a2658d190915a58684fbe3f080012d0e006c570b333091", "ptbr": "Falha na importação do Mod!\\nNome do Mod: {0}\\nErro: tabela {1} com ID duplicado {2}"}
+{"id": "LocalText/mod_daorushuju", "revision": "2fbe0a1fa3bf6d8ae3043f7c507232333cd922cc30400ce74cf5a2d2d1c0e822", "ptbr": "Selecionar dados de importação"}
+{"id": "LocalText/mod_dianjisuiji", "revision": "4eea5a55bb267d9786cf2769c1081f7e802b583af0b815ba80d4ad2eb015a559", "ptbr": "Clique para ID aleatório"}
+{"id": "LocalText/mod_feiqibiaoji", "revision": "03c980af4bb907b28e5d6624af21206c12aad1f5d70859be86f8f613e703a7f4", "ptbr": "Marcar como inválida"}
+{"id": "LocalText/mod_feiqibiaojitishi", "revision": "28482bd6d1ed96015f741ee2b3ba5ba5d8c06cc24eb5825ceb702b422ede371a", "ptbr": "Quando o Mod está online, apagar uma tabela pode causar perda de dados num save que foi carregado com este Mod (por exemplo, se a tabela de Destinos que foi carregada num save for apagada, os dados de Destinos se perderão). Você pode marcar a tabela como inválida em vez disso. Isso a moverá para o fim da lista."}
+{"id": "LocalText/mod_fumianqiyun", "revision": "d9ef007171019bb2d02c3439547649656cf44c9e3bc06587579c6ffe29fed863", "ptbr": "(Negativo)"}
+{"id": "LocalText/mod_idchongtutishi", "revision": "702137cc30b08202f67b3e2af8c3388d6a67e764d24f73e617947c4bfabd029c", "ptbr": "Nota: se for um erro de conflito de ID, e o ID conflitante não for encontrado no Mod, o ID foi criado dinamicamente quando o Mod foi exportado, e você só precisa reexportar o Mod!"}
+{"id": "LocalText/mod_idfanwei", "revision": "850bb07e30d7c44ecb4162bf38a7a82a23a0d2f932691c333b7a3165fe0c533d", "ptbr": "O intervalo de IDs não está disponível: -10001 a 100000000 (cem milhões)"}
+{"id": "LocalText/mod_idtishi", "revision": "84003ece01d70accf35ca64e7d10efb71fdea10e20ae7eb625ed44b0519581b7", "ptbr": "O ID é um identificador único de um item de dados numa tabela de dados. IDs duplicados na mesma tabela levam a conflito de ID.\\n\\nSe houver conflitos de ID entre vários Mods, o autor do Mod precisa mudar o ID manualmente.\\n\\nOs IDs são aleatorizados automaticamente e, quando o ID duplicado é aleatorizado, o Mod importado falha e o autor precisa aleatorizar o ID de novo."}
+{"id": "LocalText/mod_jixugenggai", "revision": "8d7f677be0d2d66f8b7357716423850fb26c2f57c39625ffa87cc108e2908518", "ptbr": "Continuar a mudança"}
+{"id": "LocalText/mod_jixujinru", "revision": "2bf777246ad7f451353d82dabca2c273b0d5f8b3586712666ccdb42ee704e2dc", "ptbr": "Continuar entrando no save?"}
+{"id": "LocalText/mod_miaoshu", "revision": "0c774221d3ad261784dc64739a61ca9cd6a4034c7dd10369049f6c2b0f0f3862", "ptbr": "Descrição:"}
+{"id": "LocalText/mod_mingcheng", "revision": "8ed0ca3b2b70de2efb89924e5f6f7dba2c3373be8d5bacbfb35e89c6efd3dd86", "ptbr": "Nome:"}
+{"id": "LocalText/mod_npc_bianjiwancheng", "revision": "139f3b29d91012babfedaad160d2feb90fa7e67db32f03bb730b152d1776bca8", "ptbr": "Edição concluída"}
+{"id": "LocalText/mod_npc_biaoti", "revision": "46bfc893d2a99f462c0f58f9048de22410a3ab269baeaea730f89d53a41da178", "ptbr": "NPC"}
+{"id": "LocalText/mod_npc_guanxi", "revision": "86b5b1f076bf889c815f521d05d492d70e0376edd78cf273247a451922ac5006", "ptbr": "Relação do jogador após a criação"}
+{"id": "LocalText/mod_npc_jingjie", "revision": "0f0157ae1e38975a609021d952593a303811462f134d0e35d24612f2bea4148e", "ptbr": "Reino inicial"}
+{"id": "LocalText/mod_npc_mingzi", "revision": "bba793f69a577e6b040736fe978ca7d95e02a6eb7b0660c56cbf307ac441a61d", "ptbr": "Nome (aleatório se deixado em branco)"}
+{"id": "LocalText/mod_npc_name", "revision": "a43a3ab78b7c41dc588a9ba5ee9f08c1749e0aa6a6722e417e1b03d766c923a7", "ptbr": "Nome: {0}, Gênero: {1}"}
+{"id": "LocalText/mod_npc_nanlihui", "revision": "c74decfc82ac782868687aa7429922e57e7978cd88dc0378b69361185e41a504", "ptbr": "Desenho de corpo inteiro em pé masculino"}
+{"id": "LocalText/mod_npc_nanlihuishuoming", "revision": "01167b37c7cf1026972250a88580f5a2687b2831d1e564e69d931586fdd32a1c", "ptbr": "Quando o NPC criado for masculino, use este desenho de corpo inteiro em pé; deixe em branco para criar aleatoriamente um desenho de corpo inteiro em pé."}
+{"id": "LocalText/mod_npc_neizaixingge", "revision": "42b280ddec4d0c7eeebc39722d76e8a1303bb66be3de4ee4271c4cd1659356d6", "ptbr": "Traços internos"}
+{"id": "LocalText/mod_npc_neizaixinggecuowu", "revision": "5ced4bbe15a792b99e8d86612cd146c9bc18f7a0a5390baf363dda8b819c3ff6", "ptbr": "Traços internos não podem ser duplicados!"}
+{"id": "LocalText/mod_npc_nvlihui", "revision": "14a7c38a780e692777de4b6bba66864dd3b8be66f65d9f52da808a3e913a36c3", "ptbr": "Desenho de corpo inteiro em pé feminino"}
+{"id": "LocalText/mod_npc_nvlihuishuoming", "revision": "2b4a5f89b996b8b3017fd9d7e66c7f824abad42d01dd21a4b0e9b8dd473dc242", "ptbr": "Quando o NPC criado for feminino, use este desenho de corpo inteiro em pé; deixe em branco para criar aleatoriamente um desenho de corpo inteiro em pé."}
+{"id": "LocalText/mod_npc_qinmidu", "revision": "0cfc65fca0d3966ded37893460edc0b97e9c73a43d1cff65ea63284d2fa0f4af", "ptbr": "Afinidade inicial com o jogador após a criação"}
+{"id": "LocalText/mod_npc_shanchushuju", "revision": "66baab97b2818ee83189b3c4e62388d837b3cdc766f9473609856860d825ed4d", "ptbr": "Apagar dados"}
+{"id": "LocalText/mod_npc_shanchutishi", "revision": "bbbe3ee69aac777aae2afa2108eb4a3b6bf0632f5cf4c9b2e6209e1ae5109b13", "ptbr": "Tem certeza de que quer apagar os dados do desenho de corpo inteiro em pé? Depois de apagar, o desenho será aleatorizado ao criar um NPC."}
+{"id": "LocalText/mod_npc_shezhilihui", "revision": "d7da9583b9b79dc3fea2165f781077d824b85d976e75fa353529732fa7d1cab8", "ptbr": "Definir desenho de corpo inteiro em pé"}
+{"id": "LocalText/mod_npc_suiji", "revision": "27acf755f595013c59203cc38e7ef97b5ce887d263f0b571c6ad050bd1ee69c7", "ptbr": "Aleatório"}
+{"id": "LocalText/mod_npc_waizaixingge1", "revision": "331b9a9ddf99f1a959db593b0b71f0010da8bce82628bda392eda2ef58837504", "ptbr": "Traços externos 1"}
+{"id": "LocalText/mod_npc_waizaixingge2", "revision": "821a3204c08e834fc902942d1d40892f6d1fc719771fe1eb61ebcfa47d1c7e48", "ptbr": "Traços externos 2"}
+{"id": "LocalText/mod_npc_waizaixinggecuowu", "revision": "e61e4ae84dd411780b8ae88873f8755df939b7747c1a397346cb92fc4dafa6c7", "ptbr": "Traços externos não podem ser duplicados!"}
+{"id": "LocalText/mod_npc_xingbie", "revision": "9a020c1379d4a1cefd44edc4ec49133c285178caa4c01b8c34bda6c19fdb7477", "ptbr": "Gênero"}
+{"id": "LocalText/mod_npc_xinggeshuoming", "revision": "e8b8b13b00665f97feb5d5b155e854ebb3a75f8e92bb3ed58e2c50f569ce2033", "ptbr": "Nota: os Traços de caráter não podem ser duplicados, ou causarão um erro!"}
+{"id": "LocalText/mod_npc_zidongbaocun", "revision": "2535398266a7a32ca3dfc1f4ac1d3de4de4c5f24611c77d10ac2de0983364feb", "ptbr": "Salvamento automático"}
+{"id": "LocalText/mod_npc_zuidajuli", "revision": "74bdc2cd770c75f5a032558832ed916a09acbe75067a38fd4889936f87970859", "ptbr": "Distância máxima do jogador ao ser criado"}
+{"id": "LocalText/mod_npc_zuixiaojuli", "revision": "810976d995588436c3b5d90906076c9a0a50079f2772cd28290bf88d36261ed1", "ptbr": "Distância mínima do jogador ao ser criado"}
+{"id": "LocalText/mod_qiyiwenben1", "revision": "07becc1da1afee705a0d42fb4a023743a97861846c0e883ba32f41ad854f8b40", "ptbr": "Tipo de acionamento"}
+{"id": "LocalText/mod_qiyiwenben10", "revision": "48c50f5276941195906b2a1c5448215065614723b033cb198c972f9d706b26d2", "ptbr": "Quando o intervalo de acionamento é maior que 0, a Aventura precisará ser acionada num intervalo de N meses antes de poder continuar sendo acionada."}
+{"id": "LocalText/mod_qiyiwenben11", "revision": "7a98d484da2e345a7d5bb80f0099ebb952c0625006c9912187a238a9cd15006b", "ptbr": "Grupo de intervalo compartilhado"}
+{"id": "LocalText/mod_qiyiwenben12", "revision": "3ff91a036c7474f797daab7cbd6669fceacf021c0000cf8e1ed83fbab18ebe15", "ptbr": "Quando duas Aventuras compartilham o mesmo grupo de intervalo, depois que uma Aventura é acionada, a outra Aventura também precisa de um intervalo de N meses para continuar sendo acionada."}
+{"id": "LocalText/mod_qiyiwenben13", "revision": "31d0b591ec30d377104195aec64da3ca1b24493e14ef5f034f5660044a6483d5", "ptbr": "Extrair NPC-A"}
+{"id": "LocalText/mod_qiyiwenben14", "revision": "4d2d7ce7458bcefd6d0d424067df70192d66a3cefe3191aa628c3cef4a1baa67", "ptbr": "Quando a extração de NPC foi configurada, é preciso extrair o NPC com sucesso para acionar a Aventura.\\n\\nExemplo 1: depois de extrair o NPC, você pode conversar com ele.\\n\\nExemplo 2: depois de extrair o NPC, ele entrará no Enredo. Você pode usar comandos para aumentar os atributos, Destinos etc. dele."}
+{"id": "LocalText/mod_qiyiwenben15", "revision": "57f944d68f9e0e19b13c653e28af34bb56a008f7a61c0c796064127409bcb3b0", "ptbr": "Extrair NPC-B"}
+{"id": "LocalText/mod_qiyiwenben16", "revision": "50f0b182ef416862fe0701c62395623687691a11b5654d02edf80bd4004d7d36", "ptbr": "A mesma função que extrair NPC-A. O comando pode passar até dois NPCs, e a exibição de diálogo do Enredo também só suporta até dois NPCs."}
+{"id": "LocalText/mod_qiyiwenben17", "revision": "1d6303241777e0a23f25090f5fbddecc1f41aa7919e69f4823270d4519dafb40", "ptbr": "Enredo lançado pelo acionamento da Aventura"}
+{"id": "LocalText/mod_qiyiwenben18", "revision": "c864649cc7e67bbaeb6a93ef4a4cce163db6c8ff2be13df25c9ded32b465acf6", "ptbr": "Depois de acionar a Aventura, configure o Enredo para a interface da Aventura aparecer."}
+{"id": "LocalText/mod_qiyiwenben19", "revision": "b3e8de7722afe6e235dee26334edf0e34f2d5239502ad91b9a628e8b50a6816a", "ptbr": "Comandos executados depois de acionar uma Aventura"}
+{"id": "LocalText/mod_qiyiwenben2", "revision": "aadd3ff531cc649825fbcd5a895cb5aea174c4d0d196ee29c575759f6db6eb8b", "ptbr": "Tipos de acionamento diferentes podem controlar o momento da Aventura."}
+{"id": "LocalText/mod_qiyiwenben20", "revision": "f1ded25ac6d266ed84882f2c15f47adf3fd09870035d26f20990b506760e7fa3", "ptbr": "Depois de acionar uma Aventura, você pode executar comandos sem lançar o enredo."}
+{"id": "LocalText/mod_qiyiwenben3", "revision": "2a317bdeb4bcc1a96e5e8c60bb0338c7c3cf6678eb97a1f9cc1f5a5a9bb1830f", "ptbr": "Probabilidade de acionamento (porcentagem)"}
+{"id": "LocalText/mod_qiyiwenben4", "revision": "f7852d067fc69633fce6258323a92366801837a9ff79516c818d53793d082ca0", "ptbr": "A probabilidade de acionar a Aventura quando o requisito é atendido."}
+{"id": "LocalText/mod_qiyiwenben5", "revision": "512f590bd337d268bb11de499322529fcf88fbb5485394afb510db219a152916", "ptbr": "Condição de acionamento da Aventura"}
+{"id": "LocalText/mod_qiyiwenben6", "revision": "296aa651d1d4ddbd42e338363f7bbd565f973787016df597ce6e555088511475", "ptbr": "Define os requisitos para acionar a Aventura."}
+{"id": "LocalText/mod_qiyiwenben7", "revision": "08e64ce444593b97fcc4d6f7101814888dda828349144e1d1c6c55fb6ae587d0", "ptbr": "Pode ser acionado repetidamente?"}
+{"id": "LocalText/mod_qiyiwenben8", "revision": "38ff6299cf0174de4395d9977c9198c7e4bb47f74a590ffcf3810b3cd0caa76c", "ptbr": "Quando definido como não repetível, o arquivo só pode acionar esta Aventura uma vez."}
+{"id": "LocalText/mod_qiyiwenben9", "revision": "9740ee6ba91b3144df5f636296c6ac5edbb3fae3c0173e76d92ce099692f3721", "ptbr": "Intervalo de acionamento (meses)"}
+{"id": "LocalText/mod_qiyu", "revision": "3fb5ddd5c900eb74a97253cf935651022f7d344117b792c4f4473feac661d184", "ptbr": "Aventura"}
+{"id": "LocalText/mod_qiyuchatu", "revision": "c74a952ea8c71ffc39d88f58a5aae2e29ac45ba7b3fcf6a1d5aceb27167be6af", "ptbr": "Cena da Aventura"}
+{"id": "LocalText/mod_qiyun_chatu", "revision": "07eb8179e94069eec81c738b7f73b4d43c7c8d1034d71d7a34238ce36397878c", "ptbr": "Cena que aparece depois de o Rompimento ser bem-sucedido"}
+{"id": "LocalText/mod_qiyun_gushi", "revision": "118395196d7c33e9dceab1232aa6e88f0963011ed4610dfbf18651beea8d54d6", "ptbr": "Descrição de história que aparece depois de o Rompimento ser bem-sucedido"}
+{"id": "LocalText/mod_qiyun_jingjieshuoming", "revision": "caa1df54d668b98ae430c5e6696a2fa598926c73275d5d486e887b2432d21877", "ptbr": "Requer alcançar um certo Reino para aparecer aleatoriamente"}
+{"id": "LocalText/mod_qiyun_jingjieshuoming2", "revision": "efabe4e3f13358521315492d98ffa2f99cf4f79a18c032a99737b3a6723d07c6", "ptbr": "Por exemplo: selecione Alma Nascente. O Destino Reescrito precisa que o jogador alcance Alma Nascente antes do Rompimento; então, quando o Rompimento se completa, este Destino Reescrito é renovado."}
+{"id": "LocalText/mod_qiyun_shengjizu", "revision": "efa28e75762bcf2f38a85e15595a8941ff3f63b150ca03861d13c30f07b6e023", "ptbr": "Grupo de melhoria"}
+{"id": "LocalText/mod_qiyun_shengjizushuoming", "revision": "ac0fa0f8de5dd096298010e4113a3cf40d056ff0c9f000c24713589dc576cfb3", "ptbr": "Se dois IDs de grupo de melhoria de Destino Reescrito forem iguais, você tem um Destino Reescrito de nível baixo ao fazer um Rompimento, para obter aleatoriamente um Destino de nível alto (por exemplo, Espada Voadora do Jo I, II, III). O dado de Destino mais ao fundo da lista de Destinos à esquerda é o de nível mais alto, e quanto mais ao fundo da lista, maior o nível."}
+{"id": "LocalText/mod_qiyun_suijigailv", "revision": "7fc1f95a7b3af03b870d29b64195a152286b7166473c7ca60803c6adc37002ad", "ptbr": "Probabilidade de aparição aleatória no Rompimento (porcentagem)"}
+{"id": "LocalText/mod_queding", "revision": "2a99a2a2ab0330d2a107bc571650ac42f330499cadf840d8c115a49a29ca7c11", "ptbr": "Confirmar"}
+{"id": "LocalText/mod_renwuid", "revision": "0e2e5f1e14f2ab5b9b085f0b3dafd4927d9a33216f20c2a3dc461d18905e24a0", "ptbr": "ID da missão"}
+{"id": "LocalText/mod_shanchuchenggong", "revision": "15661c7049ba78131e316e09f3d26a4e649428e3240aedb6e180148a101f0553", "ptbr": "Apagado!"}
+{"id": "LocalText/mod_shanchujinggao", "revision": "0fd75ce33e80fdb3e7da0bd44672c3e77804e644d40cbf27ab17388814f4b297", "ptbr": "Se o Mod já foi lançado, não é recomendado apagar tabelas inúteis. Você pode marcá-las como inválidas. Se houver um Destino criado pelo Mod no save, mas a configuração do Destino tiver sido apagada, haverá perda de dados no save."}
+{"id": "LocalText/mod_shanchutishi", "revision": "2eeee5a19a560544ba9da22138c7ef971000f6b91e1d1b2d2d100dffd1fc0bb1", "ptbr": "Apagar uma tabela pode causar perda de dados num save que foi carregado com este Mod. Continuar a apagar?"}
+{"id": "LocalText/mod_shanchutupian", "revision": "e29cc60902bf3df5d868d2f2a74108bf14ed78402033b5ed3b9e9193479f508a", "ptbr": "Apagar o recurso: {0}?"}
+{"id": "LocalText/mod_shengjitishi", "revision": "5f5e960e7509c911279108223dafd2dfda2bf9cab0b3eed73c150863e92982c4", "ptbr": "O Mod seguinte tem um patch de melhoria. Faça backup do save com certeza. (Nota: se o Mod apagou alguns dados, o jogo pode ter vários erros!)"}
+{"id": "LocalText/mod_shifougenggaiid", "revision": "a1230bbae409c8b92ef1d82ef301ef7e53dd9dba5634122ad983df8c91616524", "ptbr": "Mudar o ID?"}
+{"id": "LocalText/mod_shuxingleixing", "revision": "06414a24f3a6d0caa56f0d1cb5de719b1eec48e8d874879f0e420bcbb3d225df", "ptbr": "Tipo de elemento"}
+{"id": "LocalText/mod_tianjiachenggong", "revision": "69d0db8d5592f5aa2c2d83dc83fb6efd00c402b4768218aa101d57f80fc60fd2", "ptbr": "Adicionado!"}
+{"id": "LocalText/mod_tianjiatietu", "revision": "d2bbe0a8f2746c51092f74fd3d551edeb67b8275513204d37d10887e5421ee0b", "ptbr": "Adicionar uma nova imagem"}
+{"id": "LocalText/mod_tianjiatishi", "revision": "a10aaa68866ec02a78f9efedb8ea474227f5b5af71f011f458312fc6c5f69b7c", "ptbr": "<size=26>Foram carregados os Mods seguintes (importar Mods pode causar erros e bugs desconhecidos e pode corromper o arquivo de save. <b><u><size=30>Então faça um backup!</b></size></u>)</size>"}
+{"id": "LocalText/mod_tiaojian1", "revision": "560ece03f7860fcf122aad2d19011a6ebde840cff5f8661fd950e553d05aa379", "ptbr": "ID da missão"}
+{"id": "LocalText/mod_tiaojian2", "revision": "947f4e94009b974521f08d74d0efbf92e69a4208dec64dc06858dfd9360585c2", "ptbr": "Tempo decorrido (meses)"}
+{"id": "LocalText/mod_tiaojian3", "revision": "17da7548ccb1a40ee781e0588be37301b6555030b988ccc873db96d9b4186c90", "ptbr": "Item requerido na mochila"}
+{"id": "LocalText/mod_tiaojian4", "revision": "f1768bc20c18bf758354144e0395af9af7143b4eb71f05e05a2b57884064050a", "ptbr": "Quantidade de itens requerida (≥)"}
+{"id": "LocalText/mod_tiaojianliebiao", "revision": "15b183e3dad349b8435d0c9e1a57878db329c45ea8975f81173efd2ed6785d9b", "ptbr": "Lista de requisitos"}
+{"id": "LocalText/mod_tiaojiansuoming", "revision": "d1a32d2b6dc4c7a11c3f1edb910d142866972eabfa56abb78c41dcfb3277439f", "ptbr": "Quando um tipo de personagem não é selecionado, o valor padrão é Jogador.\\n\\nAtenção: por padrão, todas as condições precisam ser cumpridas, a menos que a condição [ou] seja usada."}
+{"id": "LocalText/mod_tupianchongfu", "revision": "5ba03231e360b52769b2d98ca08c0fe0a444326c5b02f4fadf8164a3bd9848dc", "ptbr": "Nome de arquivo duplicado! Mude o nome do arquivo!"}
+{"id": "LocalText/mod_wanjiazishen", "revision": "cf9365bdcca5b9ec5a9eb543c66a84324abd8b81156cc1cc301c9d8e3a12a2de", "ptbr": "0- Jogador"}
+{"id": "LocalText/mod_xiaoguo", "revision": "0e0259cd0b6e0629a61d19c8185fa8aa9b7e8df960e87cb8c3bf744b2c5f289e", "ptbr": "Efeito de personagem"}
+{"id": "LocalText/mod_yichutishi", "revision": "c687b6e93876e745b7b29198ecd6ac911d1deda7b77d246b4cd499942c794cf3", "ptbr": "<size=26>O save usou o Mod seguinte, mas o Mod foi removido (nota: continuar o jogo pode resultar em erros e bugs inesperados!)</size>"}
+{"id": "LocalText/mod_yulan", "revision": "88e484ec4e031cc8e86ead68aa2f2e009f62525e1645c41cf42b313369e607c2", "ptbr": "Selecionar"}
+{"id": "LocalText/modwufenlei", "revision": "9b99d49d4d0841b55166361170d25179b1902fd5eac1b15050140ce90e618272", "ptbr": "Sem condições de classificação"}

@@ -577,3 +577,16 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | Righteous Points / Demonic Points | Pontos Justos / Pontos Demoníacos | idêntico ao lote 45 |
 | Contract Aura | Aura Contratada | destino 633104xx |
 | Editor terms: Random Importance / Save Project / Locked Value | Importância aleatória / Salvar projeto / Valor travado | — |
+
+### Lote 0049 (Condições do Editor de Mods e Aventuras)
+
+| Inglês (EN) | Português Brasileiro (PT-BR) | Notas |
+| --- | --- | --- |
+| Condition determiner (Affinity/Realm/Relationship/Sect/Faction) | Determinante (de Afinidade/Reino/Relação/Seita/Facção) | modCondition |
+| Player / NPC-A / Character 1 / Character 2 | Jogador / NPC-A / Personagem 1 / Personagem 2 | referências de condições |
+| Adventure trigger types (move one space, geomancy, monthly running end…) | Tipos de acionamento da Aventura (mover um espaço, Geomancia, fim da corrida mensal…) | modEnum10029 |
+| Mission status: not accepted / claimed / expired | Missão não aceita / resgatada / expirada | modEnum10031 |
+| Full-body standing up drawing | Desenho de corpo inteiro em pé | editor de NPC |
+| Adventure / Plot / Trigger Interval / Shared Interval Group | Aventura / Enredo / Intervalo de acionamento / Grupo de intervalo compartilhado | — |
+| Relationship types: Illegitimate child / Sworn Older Brother / Couple | Filho ilegítimo / Irmão Jurado mais velho / Par | modEnum10046 |
+| Extract NPC-A / NPC-B | Extrair NPC-A / NPC-B | — |
