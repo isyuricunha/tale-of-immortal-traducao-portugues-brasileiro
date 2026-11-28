@@ -471,6 +471,18 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | Zouyu / Tenghuang / Longyu / Xuangui / Dangkang | Zouyu / Tenghuang / Longyu / Xuangui / Dangkang | Feras do *Shan Hai Jing*; nomes em pinyin (Shan Hai Jing citações) |
 | Montarias: Mount / Dismount / Discard | Montaria / Desmontar / Descartar | — |
 
+### Lote 0042 (Aventura da Lâmpada de Alma, Coelho Espiritual e Geomancia)
+
+| Inglês (EN) | Português Brasileiro (PT-BR) | Notas |
+| --- | --- | --- |
+| Geomancy skills: Windseek, Planetary Alignment, Yin Yang Duality, Flying Star, Rocksunder, Gentle Wind, Ghost Deed | Busca-Ventos, Alinhamento Planetário, Dualidade Yin-Yang, Estrela Voadora, Monte Imóvel, Vento Suave, Pacto Fantasma | "Técnica {0} acionada!" nos avisos de Geomancia |
+| Soul Lamp / Soulbound Lamp / Ghost Summoning Banner / Soul Summoning Banner | Lâmpada de Alma / Lâmpada Habitada por Alma / Estandarte Convoca-Fantasmas / Estandarte Convoca-Almas | Iten da aventura |
+| Azurite Sect / Demonic Elder / Blood Puppet / Tiangou | Seita Azurita / Ancião Demoníaco / Marionete Sanguínea / Tiangou | — |
+| Dreamode Mirror / Ether Rocks / Rabbit Spirit | Espelho do Sonho Poético / Pedras de Éter / Espírito de Coelho | — |
+| Poem Dream Studio / Jun Yuanzhi / Chiyuzi | Ateliê Poema Sonho / Jun Yuanzhi / Chiyuzi | Nomes próprios da aventura |
+| `<Soul Lamp Story>` em drama_dialogue611423/611609 | Preservada verbatim | O toolkit trata `<...>` como tag; o conteúdo não pode ser traduzido |
+| "Confirm1"…"Confirm10" (opções de diálogo) | Confirmar 1…Confirmar 10 | Botões confirm placeholder |
+
 
 
 
