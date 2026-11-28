@@ -282,7 +282,7 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | `... Shards` (itens) | …碎片 | Lascas de … | *Lascas de Qi de Fogo*, *Lascas de Aura Terrestre*; o corpus antigo mantém *Fogo Qi Shards* (legado a reconciliar) |
 | Mythical Beast / Mythical Beast Lord | 大妖兽 / 妖兽之王 | Fera Mítica / Senhor das Feras | Novas entradas seguem o glossário; 10 linhas publicadas no lote 30 usam *Criaturas Míticas* (reconciliar depois) |
 | Spar | 切磋 | Duelo de treino | — |
-| Skill Points | 技能点 | Pontos de Técnica | — |
+| Skill Points | 道点 | Pontos de Dao | Moeda de Reescrita de Destino (corrigido: CH é 道点, não 技能点) |
 | EXP (修为, recurso) | 修为 | Cultivo | Ex.: *ganha X% mais de Cultivo* |
 | Body Cultivation skill / Spirit Cultivation skill | 体修技能 / 灵修技能 | técnica de Cultivo Corporal / técnica de Cultivo Espiritual | Distinção vinda do CH; o EN usa *cultivation skill* para ambos |
 | Tomb raiding | 挖坟 | Saquear tumbas | — |
@@ -293,5 +293,62 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | Destinos de combate (700001+): Witchcraft, Burning Butt, Following Bug, Mysterious Shield, Jo's Flying Sword, Commander of the Dead, Blood Power, Sword Shadows, Shield Stance, Starlight, Spirit Fusion, Mushroom Power, Hidden Potential, Burrow, Shield Spirit, Rain of Energy, Blood Energy, Spiritual Sword, Blood Claw, Energy Essence, Vitality Essence, Enhanced Spiritual Skill, Martial Skill Specialization, Thundercall, Celestial Mark, Always Someone Better | — | Bruxaria, Bunda em Chamas, Bichinho Seguidor, Escudo Misterioso, Espada Voadora do Jo, Comandante dos Mortos, Poder Sanguíneo, Sombras de Espada, Postura de Escudo, Luz Estelar, Fusão Espiritual, Poder de Cogumelo / Espírito de Cogumelo, Potencial Oculto, Escavação, Espírito de Escudo, Chuva de Energia, Energia Sanguínea, Espada Espiritual, Garra Sanguínea, Essência de Energia, Essência de Vitalidade, Técnica Espiritual Aprimorada, Especialização em Técnica Marcial, Chamado do Trovão, Marca Celestial, Sempre Há Alguém Melhor | Nomes de traços e variantes I/II/III; alguns referenciados nas dicas antes de seus lotes de nome |
 | Unidades e personagens: Mystery Man Jo, Chicken King, Small Flower Faerie, female Dangkang, wild boar lair, charming fox, Following Dragon, Greenscale Spring | 神秘人李四 / 鸡王 / 小花妖 / 雌性当康 / 野猪窝 / 魅惑狐妖 / 跟屁龙 / 青鳞池 | Homem Misterioso Jo, Rei das Galinhas, Fada das Flores Pequena, Dangkang fêmea, toca de javalis, raposa encantadora, Dragão Seguidor, Fonte das Escamas Verdes | — |
 | Linhas de stat elípticas (`cooldown &tok&%`, `Agility &tok&%`) | 冷却时间&tok&% | Espelhar a elipse com *fica* (`a recarga … fica &tok&%`) | O valor renderizado carrega o sentido; não inventar verbo de direção (risco de negativo duplo) |
+
+### Lote 0032 (Nomes de Destinos, Histórias, Taverna e Intro)
+
+| Inglês (EN) | Chinês (CH) | Português Brasileiro (PT-BR) | Notas |
+| --- | --- | --- | --- |
+| Enlightenment (traço) | 醍醐灌顶 | Epifania | Distinto do reino Iluminação (悟道) |
+| Aggressor | 战斗狂人 | Agressor | Traço |
+| Speed Reading / Efficient Learning / Motivated Study / Spark of Genius | — | Leitura Veloz / Aprendizado Eficiente / Estudo Motivado / Centelha de Gênio | Traços de estudo |
+| Realization (I–IX) | — | Realização (I–IX) | — |
+| Energy Seed / Vitality Seed | — | Semente de Energia / Semente de Vitalidade | — |
+| Jo's Here! / Chicken King's Here! | — | O Jo Chegou! / O Rei das Galinhas Chegou! | — |
+| Lightning/Wind/Wood Burst | — | Explosão de Raio / Explosão de Vento / Explosão de Madeira | Alinhado a Explosão de Fogo/Água (700016/17) |
+| Mirage Pot (traço) | 幻灵锅 | Caldeirão da Miragem | Mesmo nome do item (glossário §7) |
+| Catalyst / Free Spirit / War Drum | — | Catalisador / Espírito Livre / Tambor de Guerra | — |
+| Forge Apprentice / Forge Craftsman / Forge Master | — | Aprendiz de Forja / Artesão de Forja / Mestre de Forja | — |
+| The World Together | 天地同寿 | O Céu e a Terra Juntos | — |
+| Invincible Fist | 隔山打牛 | Punho Invencível | — |
+| True Qi of Seized Fate | 夺命真气 | Qi Verdadeiro Ceifador | — |
+| Blade of Heaven's Eye | 天瞳之刃 | Lâmina do Olho Celestial | — |
+| Body of Demonic Greed / Body of Demonic Consuming | 贪魔体 / 噬魔体 | Corpo do Demônio da Ganância / Corpo do Demônio Devorador | — |
+| Ghostly Shadow Tracks / No Traces Left in Snow | 鬼影迷踪 / 踏雪无痕 | Rastros de Sombra Espectral / Sem Rastros na Neve | — |
+| Martial Arts Tao | 以武入道 | Dao Marcial | — |
+| Travel the Books / Supernatural Repelling | 神游书海 / 鬼神辟易 | Viagem pelos Livros / Repulsão Sobrenatural | — |
+| Unmasking Warriors / Unmasking Heroes | 揭榜侠客 / 揭榜豪杰 | Guerreiro do Edital / Herói do Edital | 揭榜 = aceitar edital de recompensas |
+| Forthcoming Fortune / Great Fortune | 鸿运当头 / 洪福齐天 | Fortuna Iminente / Fortuna Colossal | — |
+| Cloud-piercing Lightning / Borderless / Raging Flames | 穿云电闪 / 载物无疆 / 烈火燎原 | Relâmpago Perfurante / Sem Limites / Incêndio Arrasador | — |
+| Tiger's Spirit, Dragon's Soul / Concealed Nirvana | 虎魄龙魂 / 凝元寂灭 | Alma do Tigre, Espírito do Dragão / Nirvana Oculto | — |
+| Earth Shattering / Murderous Rise | 排山倒海 / 杀心骤起 | Força Arrasadora / Ímpeto Assassino | — |
+| Alchemic Taoist Perfection | 炉火纯青 | Perfeição na Alquimia | Idioma 炉火纯青 |
+| Soul Resonance / Cold Divine Light / Cold Spirit Ice Vein | 灵魂共鸣 / 摄神寒光 / 寒灵冰脉 | Ressonância de Almas / Luz Divina Gélida / Veia de Gelo Espiritual | — |
+| Wild Desert Blade / Rising Battle Will / Laws Broken | 大漠狂刀 / 战意暴涨 / 万法皆破 | Sabre Frenético do Deserto / Ímpeto de Batalha / Rompe-Leis | — |
+| Regained Strength, Scattered Elements / Transmuted Strength | 归劲分元 / 透体化劲 | Força Restaurada, Elementos Dispersos / Força Transmutada | — |
+| Golden Needle Point / Fowl Spirit Riot | 金针刺穴 / 鸡灵暴动 | Acupuntura Dourada / Rebelião das Galinhas | — |
+| Sweet Rain Falling / Fleetfoot / All in Awe | 天露甘霖 / 疾风迅雷 / 威震八方 | Chuva Doce Celestial / Pés-Ligeiros / Terror dos Oito Cantos | — |
+| Virtue and Acceptance / Medicine for Everyone | 厚德载物 / 悬壶济世 | Virtude e Acolhimento / Remédio para Todos | — |
+| Fiery Bristle / King of Foxhill | 炎火刚鬣 / 青丘之主 | Javali Flamejante / Senhor de Qingqiu | 青丘 = Qingqiu, reino das raposas do *Shan Hai Jing* |
+| Floating Illusion / Shadowchase Pill / Lightning Rumble | 浮生泡影 / 追影奇丸 / 天雷滚滚 | Ilusão Flutuante / Pílula Perseguidora de Sombras / Trovão Celestial | — |
+| Quick Wit / Unity of Heaven and Human / Dipper Tail Footwork | 风起灵动 / 天人合一 / 天罡步法 | Vivacidade / União do Céu e do Homem / Passos de Tiangang | Tiangang em pinyin (passo ritual do Big Dipper) |
+| Roiling World / Halberd Lightning Rod / Karmic Attraction | 震天怒啸 / 聚雷尖戟 / 宿命之引 | Bramido Celestial / Alabarda do Trovão / Laço do Destino | — |
+| Heavenseal Will / Dragon Awakening | 封天之志 / 潜龙觉醒 | Vontade de Selar os Céus / Despertar do Dragão | — |
+| Statue's Grace / Statue's Spirit | — | Graça da Estátua / Espírito da Estátua | Série 9000 |
+| Heavenly Blessing / Treasure Hunter | — | Bênção Celestial / Caçador de Tesouros | Série 9000 |
+| Eye of Providence | 昊天眼 | Olho da Providência | Artefato divino de escolha inicial |
+| Bagua Jade | 双鱼佩 | Jade Bagua | — |
+| Mythical Gourd | 炼妖壶 | Cabaça Mítica | Corpus usa *cabaça* para gourd |
+| Map of the Immortal World | — | Mapa do Mundo Imortal | — |
+| Heavenly Path Protection | 天道庇护 | Proteção do Caminho Celestial | — |
+| Spirit Platform | 灵台 | Plataforma Espiritual | — |
+| Mushroom Immortal / Shennong Elder | 蘑菇仙人 / 神农 | Imortal Cogumelo / Ancião Shennong | — |
+| Bounty Board | 悬赏榜 | Quadro de Recompensas | — |
+| Blacksmith's Shop / Way of the Forge / Golden Needle Way | 铁匠铺 / 锻造之道 / 金针之道 | Ferraria / Caminho da Forja / Caminho da Agulha Dourada | — |
+| Buster of Ghost Valley / Jo of Ghost Valley | — | Flagelo do Vale Fantasma / Jo do Vale Fantasma | Gravado no escudo/espada da intro |
+| Force of Nature (traço de licor) | — | Força da Natureza | Citado em `liquorDescA1001` |
+| Destinies (Nurture) | — | Destinos (Criação) | Rótulo dos licores |
+| Perguntas da taverna (pubAsk): "How do I break through to X?" | — | "Como faço para romper para a X?" | Usar nomes de reino do glossário §1 |
+| Linha sentinel `pubAnswer3` = "123" | 123 | 123 | EN e CH idênticos; preservar verbatim |
+
 
 
