@@ -590,3 +590,20 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | Adventure / Plot / Trigger Interval / Shared Interval Group | Aventura / Enredo / Intervalo de acionamento / Grupo de intervalo compartilhado | — |
 | Relationship types: Illegitimate child / Sworn Older Brother / Couple | Filho ilegítimo / Irmão Jurado mais velho / Par | modEnum10046 |
 | Extract NPC-A / NPC-B | Extrair NPC-A / NPC-B | — |
+
+### Lote 0050 (Comandos e Eventos do Editor de Mods)
+
+| Inglês (EN) | Português Brasileiro (PT-BR) | Notas |
+| --- | --- | --- |
+| World Map Location / world map event | Localização do Mapa-Múndi / evento do mapa-múndi | editor |
+| Extract NPC / condition group | Extrair NPC / grupo de condições | modzhuaqunpc |
+| Command list / commands | Lista de comandos / comandos | — |
+| Beg mercy item bundle | pacote de itens para implorar misericórdia | rewardNPCBegMercy |
+| Artifact Map / Mount / Books | Mapa de Artefato / Montaria / Livros | modEnum10079 |
+| Monthly tally event | evento de balanço mensal | monthLog |
+| Bounty board missions | missões do quadro de recompensas | getAllBountyTask |
+| Flashback filter / black screen filter | filtro de flash-back / filtro de tela preta | — |
+| Difficulty: Standard/Hard/Nightmare/Hell/Chaos | Padrão/Difícil/Pesadelo/Inferno/Caos | modEnum1013 |
+| Duality Village | Vila da Dupla Perfeição | openVillage |
+| Tile / grid | grade | valores de terreno Qi/Ervas/Minério |
+| key/value (world data) | chave/valor | dados de save marcados |

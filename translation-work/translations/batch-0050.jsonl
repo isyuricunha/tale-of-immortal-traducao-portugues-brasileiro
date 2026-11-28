@@ -1,0 +1,500 @@
+{"id": "LocalText/modConditionTitle_curExpPercent", "revision": "5b3f779a4076eef6a1350e6ed838ab75e5715e82c6f16be20f6ef6f9238bc4f9", "ptbr": "Determina a porcentagem da barra de progresso de EXP atual do jogador"}
+{"id": "LocalText/modConditionTitle_lastUpGradeMonth", "revision": "010299b97a562ae355b80ac447ba65d7a6d1b8272a0d65644d00a59fe43ed0b3", "ptbr": "Determina o momento do último Rompimento do jogador"}
+{"id": "LocalText/modConditionTitle_unitName", "revision": "5ce9e36a2af218ff62649563ae985df1815f09da37c98891ce44d84c5692b5ab", "ptbr": "Especifica o nome do personagem especificado"}
+{"id": "LocalText/modCondition_area_value1Name", "revision": "bd4edf717fb97e032feb3495f57482bebfc3fae1079663b74a0b14e5ad2e7cd3", "ptbr": "Região especificada (multiseleção; basta estar numa das regiões)"}
+{"id": "LocalText/modCondition_curExpPercent_value3Name", "revision": "96da93d17cd7e8bac6c830b6d2c422b18651ec169787b0d8527a8c3b65a5ef7c", "ptbr": "Porcentagem a comparar"}
+{"id": "LocalText/modCondition_curMonthDay_value1Name", "revision": "a3f17bc9b4ff907e50392920ff823bc64c5401f22837fd2c18b73e098063abf5", "ptbr": "Dias restantes (≥)"}
+{"id": "LocalText/modCondition_dialogueCount_value3Name", "revision": "20df29fabd265bcc6853376ac17604726aa24296149fb8950e85a0356124f48e", "ptbr": "Vezes acionado"}
+{"id": "LocalText/modCondition_dialogueTimePeriod_value2Name", "revision": "24cbaab9b5fd839ac62c71b4354b31647627d7079c75763c51e3df0156c8c8a0", "ptbr": "Valor mínimo de tempo decorrido (meses)"}
+{"id": "LocalText/modCondition_dialogueTimePeriod_value3Name", "revision": "2d99cf164570016cb5fcb06f5b91586ea7a11c203e9faa64c51b25ddf776ceec", "ptbr": "Valor máximo de tempo decorrido (meses)"}
+{"id": "LocalText/modCondition_featureTime_value2Name", "revision": "37da58fa4b606a5fba79165c498758ffddd146e6428bb9b25b203262a7e2e3f2", "ptbr": "Quanto tempo se passou depois de adquirir o destino (meses)"}
+{"id": "LocalText/modCondition_gameCurYearMonth_value1Name", "revision": "5475143a0f76670a46a94d4f8c3eca3d69aca33a8398d953b009e0e04f001801", "ptbr": "Mês mais cedo do ano"}
+{"id": "LocalText/modCondition_gameCurYearMonth_value2Name", "revision": "be308f14ac0b8699569d10d99d5b31b5a1b6650ae67d4c1ab7297a42bbb1cbae", "ptbr": "Mês mais tarde do ano"}
+{"id": "LocalText/modCondition_gameMonth_value1Name", "revision": "825de30a05bd163f1601166009bc925fd530586a83122d339381d22392d1ffc0", "ptbr": "Valor mínimo do tempo de jogo (meses)"}
+{"id": "LocalText/modCondition_gameMonth_value2Name", "revision": "a4eeffcd76426d1a4c1916cc0c35a2cd19e56d3fe4ac058bcef7d52bad67803b", "ptbr": "Valor máximo do tempo de jogo (meses)"}
+{"id": "LocalText/modCondition_isWorldData_value1Name", "revision": "d104f98ad7568ae769a774bccd91324e0b1b1bcac240c96ad448958480a43982", "ptbr": "chave"}
+{"id": "LocalText/modCondition_isWorldData_value2Name", "revision": "f3f54e229e4f6aa2587dc1f7ccfbdfe5527b8b021d2903719c0db0e642fe6eac", "ptbr": "valor"}
+{"id": "LocalText/modCondition_itemCount_value3Name", "revision": "f4f34bba4c3821dbf8e2d2ba8485de95bfbbc4dafdcd06f01c04d338f52e801b", "ptbr": "Número total de itens (itens empilhados contam como um)"}
+{"id": "LocalText/modCondition_itemCount_value4Name", "revision": "39f743969a7c66cea56b91823a242b69fb67fb02a0f0c1bda464c26d58dfa3e3", "ptbr": "Valores comparados"}
+{"id": "LocalText/modCondition_itemUse_value1Name", "revision": "65e5912a22ee9b84052789e0b716bd5d31caae2bae6ca8ed01e04845fd75cddd", "ptbr": "ID do item"}
+{"id": "LocalText/modCondition_lastUpGradeMonth_value3Name", "revision": "72ef5bc77e05c723ce50365a1f67989c6cfe265e51cec0f1b36e9ec8bdc9def1", "ptbr": "Tempo de comparação (meses)"}
+{"id": "LocalText/modCondition_martialbookInBag_value3Name", "revision": "7521efaa3be34b0a258b6d7e377b5eab99481b81101392cad22f1ce94625a735", "ptbr": "Número de manuais requerido"}
+{"id": "LocalText/modCondition_noWorldData_value1Name", "revision": "a32af9c81f5681b73900a49226b815aecbc4551a5eb0cbc589cbb2b4d3264128", "ptbr": "chave"}
+{"id": "LocalText/modCondition_npcConditionSaveRelation_value1Name", "revision": "b31c0fcd139f2873b7bb17c95e719164be7e9f1f932b143251483cac3412f915", "ptbr": "Especifica personagens"}
+{"id": "LocalText/modCondition_numInRelationList_value4Name", "revision": "bc5a0af5bb2a6417c76aa3260145e248ea8eb7a02c42deb483b21810219eb9fc", "ptbr": "Quantidade a comparar"}
+{"id": "LocalText/modCondition_positionPoint_value1Name", "revision": "b80c5a3fbf6f361c24bae737f7b2fdb952db8e5886bb57bff6445e242e8e468d", "ptbr": "Coordenada x do mapa-múndi"}
+{"id": "LocalText/modCondition_positionPoint_value2Name", "revision": "0ec68692ebf7330c2e152240320860774e659f772cc77486ea0fd417d4e8cddc", "ptbr": "Coordenada y do mapa-múndi"}
+{"id": "LocalText/modCondition_positionPoint_value3Name", "revision": "f1d2176ef41e9b1a263c705ea8141670b53ea6ea55ef6190b03f26223969fce0", "ptbr": "Largura (começa no canto inferior esquerdo, expandindo rumo ao canto superior direito)"}
+{"id": "LocalText/modCondition_positionPoint_value4Name", "revision": "b77509e83f42212e23b77fd5f9dfb392daa7d911d165b7d99f30068e9471f33f", "ptbr": "Altura (começa no canto inferior esquerdo, expandindo rumo ao canto superior direito)"}
+{"id": "LocalText/modCondition_probabilityTriggering_value1Name", "revision": "41baec93f2a6ea950610ed490671170e1d25a3070fdb3795019841b377652198", "ptbr": "Probabilidade ‱ de conclusão da condição"}
+{"id": "LocalText/modCondition_schoolStaffCount_value4Name", "revision": "eb78dafa9e4eb6746b58c57440fbd72fae51bdcb699fe72fb984c8aee2fa34ba", "ptbr": "Número de NPCs"}
+{"id": "LocalText/modCondition_unitName_value2Name", "revision": "ebb13905b0ac053689fed21a4e91d206755b25c439b884655a6987ee6e11759f", "ptbr": "Qual é o nome do personagem"}
+{"id": "LocalText/modCondition_xxDistancePosition_value3Name", "revision": "24d0e9e1d67e97319898cc1a8942ebe20ba8e39494a667da24602b517e972535", "ptbr": "Distância mínima"}
+{"id": "LocalText/modCondition_xxDistancePosition_value4Name", "revision": "512107668bc6e0baf468bc29ec1e51dd43bd182b8f5e343341c524fbeda23398", "ptbr": "Distância máxima"}
+{"id": "LocalText/modEffectType3Title_drillExp", "revision": "a1cdc9f080240199583430edd5bfde4b064c8b71b74f313b8512a247b3e349be", "ptbr": "Depois de vencer um duelo de treino, ganha conhecimento adicional se o oponente for um NPC"}
+{"id": "LocalText/modEffectType3Title_featureTime", "revision": "c66b59b4e06b37256a5becc875a87579823a193236c64f382fcac4530a51d741", "ptbr": "Modifica a duração de um destino quando ele é obtido"}
+{"id": "LocalText/modEffectType3Title_learnSkillUp", "revision": "3f73b025a7bf0d1240864c2f7151fb3efc53edefd71efe93a2869f8a91c1f95d", "ptbr": "Ao aprender um manual, há chance de definir o Reino do manual para o Reino atual do jogador"}
+{"id": "LocalText/modEffectType3Title_taskReward", "revision": "8777ae7f18a2c30646931e63e31915081b1695e2d30d8fd129d063d6b856369b", "ptbr": "Aumenta todas as recompensas de missão (Pedras Espirituais, Reputação, Decretos do Prefeito, Contribuição)"}
+{"id": "LocalText/modEffectType3_drillExp_value1Name", "revision": "a8c2c8542c538137da06e708e6e1d0fed650ce9e9de19aa60338f9809ebaf92b", "ptbr": "Porcentagem de aumento de EXP"}
+{"id": "LocalText/modEffectType3_drillExp_value2Name", "revision": "49ec366f4fd520fd1cd725b11999e30d6976da93483964bdbfd8405e7cc25220", "ptbr": "Texto de dica após a mudança de EXP"}
+{"id": "LocalText/modEffectType3_featureTime_value1Desc", "revision": "14eb8dbcb905dbbe28a5531f166955dc2e9dc8307b34d07495eb78ca8cb37f74", "ptbr": "1- Todos os destinos positivos\\n2- Todos os destinos negativos\\nOutros- ID do destino especificado"}
+{"id": "LocalText/modEffectType3_featureTime_value1Name", "revision": "46756fac814477799595c0fa932ad932d6ebcf261cbf41aae20bba7d21dccc4e", "ptbr": "Destino mudado"}
+{"id": "LocalText/modEffectType3_featureTime_value2Name", "revision": "e7be73cd819e72bfee78226741208f5ce03e0f41deb86ec61c02b737abcef317", "ptbr": "Porcentagem da duração do Destino a aumentar"}
+{"id": "LocalText/modEffectType3_learnSkillUp_value1Name", "revision": "e5797912a016ab10af62c146e9a3d1ec2a1bfd549fd2074faceb23df3543d1a2", "ptbr": "Porcentagem de probabilidade de acionamento"}
+{"id": "LocalText/modEffectType3_learnSkillUp_value2Name", "revision": "689643434fb71510f79d0463008e9f52402ac3b0a43769d331fee2ed611d7a5f", "ptbr": "CD interno (meses)"}
+{"id": "LocalText/modEffectType3_learnSkillUp_value3Name", "revision": "ecd89ed8126c16904c65cd8e2cd6ea166f9a33bd021aba38a0134b71460837d5", "ptbr": "Texto de dica ao acionar"}
+{"id": "LocalText/modEffectType3_taskReward_value1Name", "revision": "03abcb69081cfb410f7cbfbf282537981546cd4b2b7c0b27ad220dad1541d80b", "ptbr": "Porcentagem de aumento de recompensa"}
+{"id": "LocalText/modEnum10050EnumName0", "revision": "3ed069b664cda9e5a4c692f837250822a5501693d4006a791a601ec84fd77ffa", "ptbr": "0- Não existe"}
+{"id": "LocalText/modEnum10050EnumName1", "revision": "4196586fa36667348a4b70ee7d8780172ef15f2375f5be177cc3cb6ec47af2ec", "ptbr": "1- Existe"}
+{"id": "LocalText/modEnum10050Title", "revision": "0bfa1016f24210d3a7803e505ebc261be7bef0f3ec934e51698d3072e7a83f01", "ptbr": "Tipo de existência"}
+{"id": "LocalText/modEnum10051EnumName1", "revision": "41986debc4dfcb0328fc372b412599d6c4463e2db304a60f01feb7ae544faf0a", "ptbr": "1- >"}
+{"id": "LocalText/modEnum10051EnumName2", "revision": "e6ef4b8909ad49e07663e2653c91f0a7741fdc1a46a28bb35055c0de96fd9996", "ptbr": "2- <"}
+{"id": "LocalText/modEnum10051EnumName3", "revision": "a1c6639137d988a29bcb1f9879551856b14ea4b8294a0371f5ead3b95fde6e59", "ptbr": "3- ="}
+{"id": "LocalText/modEnum10051Title", "revision": "dc5bf9dd2cffabe98cdf2a303900b29f45e8e2825e0c73b9c175a35c80d938d1", "ptbr": "Tipos de comparação"}
+{"id": "LocalText/modEnum10052EnumName1", "revision": "a294889ecfb9538ddf21edc2c4f01a16a70e553aad1f1a1b0c777436deab28c7", "ptbr": "1- Pontos justos +- x÷ pontos demoníacos"}
+{"id": "LocalText/modEnum10052EnumName2", "revision": "817ce6011799f8d14700988d6901ee04ffc1828a4f3ac46d376b3411a6b6fff5", "ptbr": "2- Pontos demoníacos +- x÷ pontos justos"}
+{"id": "LocalText/modEnum10052Title", "revision": "7e814dcb649509798e50a525543d349ac9f1bf63888c6b541b44d446b589c29d", "ptbr": "Tipo de cálculo de facção"}
+{"id": "LocalText/modEnum10053EnumName1", "revision": "53acba5d06f7f2607e19f2b8ad6b3cd1fee5e4a2221f95bc38f4ec8c396ab352", "ptbr": "1- Subtração"}
+{"id": "LocalText/modEnum10053EnumName2", "revision": "cd92ab9a4746045e3bb8dd90b34f86f8a5de6d4438f4e114ad3d4dba503bb0bd", "ptbr": "2- Adição"}
+{"id": "LocalText/modEnum10053EnumName3", "revision": "0665deafa3fad103d2e5535f2cc2ad499c9a74311030d582d6411bef7bf0c8cb", "ptbr": "3- Divisão"}
+{"id": "LocalText/modEnum10053EnumName4", "revision": "b2597a33e770ee971f9979a57ce57ba729565d766e480865e2f552c34ca1bab4", "ptbr": "4- Multiplicação"}
+{"id": "LocalText/modEnum10053Title", "revision": "774a1e08a24e7f1447fb1d04da2617db4450ea58af660c2b6afb2c02f70b1031", "ptbr": "Tipo de símbolo de operação matemática"}
+{"id": "LocalText/modEnum10054EnumName1", "revision": "4eafb4bafff9809e88c9a1d0392f9d8771a994b54d02b4d12255c9c9d9569140", "ptbr": "1- ≥"}
+{"id": "LocalText/modEnum10054EnumName2", "revision": "0db805802a901cb60531696aaf6347838a4ce88320a80c920c8a67f2ee859515", "ptbr": "2- ≤"}
+{"id": "LocalText/modEnum10054EnumName3", "revision": "11f084aad3a88736d7ed6a9b2adb67595ab440526dd5d0849d2d9f5731edb61b", "ptbr": "3- ="}
+{"id": "LocalText/modEnum10054EnumName4", "revision": "208150e2f6a9482e3ecc1dacbf3824e70f2630d469469cb3335908b4dc8ec0fa", "ptbr": "4- >"}
+{"id": "LocalText/modEnum10054EnumName5", "revision": "5676890a0ed297fb09f1855afaec7537c6359d8a3fad12ff2e60bf10751eaadc", "ptbr": "5- <"}
+{"id": "LocalText/modEnum10054Title", "revision": "2fd2d9b07e9add3e326a53896673af245ff39bcdbdd90d16af92059a64073a5b", "ptbr": "Tipo de cálculo de relação"}
+{"id": "LocalText/modEnum10055EnumName0", "revision": "afdd88fcd3e3cba774c2c77993d2faecfed7d6ccee2aba4f81bd5980bdb3ec77", "ptbr": "0- Sem dados salvos"}
+{"id": "LocalText/modEnum10055EnumName1", "revision": "4d86edd1b6e115cc6f8b68b6896dd2694a363d7788335836987ec6c224a33e1b", "ptbr": "1- Com dados salvos"}
+{"id": "LocalText/modEnum10055Title", "revision": "c1af4e23f56c3f49b8459a62026140d86158f2bb1d149b01cc7a4baca6026a42", "ptbr": "Salvar dados ou não"}
+{"id": "LocalText/modEnum10056EnumName0", "revision": "bd330eeae1d3850d8275573dfb51da011a743e3c09e49b16e76af3d9bdb75fa4", "ptbr": "0- Poupou o NPC"}
+{"id": "LocalText/modEnum10056EnumName1", "revision": "68fd4f585fd0be832edd71eb6a85b9ad7045d4c2a53a5ed9fbbe0259609b64b2", "ptbr": "1- Matou o NPC"}
+{"id": "LocalText/modEnum10056EnumName2", "revision": "9a97876fa20e4676bfdc20711ac384cc92d9fa9f437c2c526a0fafa4215afd5f", "ptbr": "2- Perdeu para o NPC"}
+{"id": "LocalText/modEnum10056Title", "revision": "eec771a01909749507974735819ab8fa9af316d29fd10d8bccd9ee8ddd029577", "ptbr": "Tipo de fim de batalha"}
+{"id": "LocalText/modEnum10057EnumName0", "revision": "2f3e27a10f18bdeda9a19f7800f7f0fa940b422b9f0f07cc7b83a6fb46a9e50c", "ptbr": "0- Sem inversão"}
+{"id": "LocalText/modEnum10057EnumName1", "revision": "c5b6de688102b1200d3bfdab24b0a1361fd4c764303af3aec9b93ecb4f5416b4", "ptbr": "1- Invertido"}
+{"id": "LocalText/modEnum10057Title", "revision": "d2d254ce964a489658cf02adcb1e50e1e40dc3d9877d4d6d19cc84f61e95548c", "ptbr": "Inverter ou não"}
+{"id": "LocalText/modEnum10058EnumName0", "revision": "88c3c73d4d62e3a89b5345b980b9c9509ba50f72e155fc6f6dfd537bd7e4380a", "ptbr": "0- Outras cidades"}
+{"id": "LocalText/modEnum10058EnumName1", "revision": "dd2a90d642579e3a23c018049f9bbab1ad25173099c05cfd3362fa43779339a4", "ptbr": "1- Cidade principal"}
+{"id": "LocalText/modEnum10058Title", "revision": "2d8dec66db2cee1374d5ab473dd5472225956dfe7119ce75cedba00e52d5c4c2", "ptbr": "Tipo de cidade"}
+{"id": "LocalText/modEnum10059EnumName0", "revision": "2fcea5951db9cff45f05854ffe152dbf5dd9f77d473db73d73d5b77a5d2b534b", "ptbr": "0- Não aprendida"}
+{"id": "LocalText/modEnum10059EnumName1", "revision": "bfbecd1f39d433fea6161620e6b15807cb84494f8d8521c0fc3370643b6e061a", "ptbr": "1- Já aprendida"}
+{"id": "LocalText/modEnum10059Title", "revision": "6ea2596a34762a9f88c4a06cdcd9208915878d7cfe26e6d7fb8ab7be68fd4dd1", "ptbr": "Se a técnica foi aprendida"}
+{"id": "LocalText/modEnum10060EnumName0", "revision": "507ef60e32f2ff605d49e29cb0d8bc8b9cf61c0135144fdb4f28d1007a2fcc4a", "ptbr": "0- Não limpo"}
+{"id": "LocalText/modEnum10060EnumName1", "revision": "71a5d093554e8bde829df04a6216c3d005dc2c93c586bdcd244d0ea61517ed59", "ptbr": "1- Foi limpo"}
+{"id": "LocalText/modEnum10060Title", "revision": "650732c94bedbd87ede5caab1c44432ef907e5fee56680edba934dccc6d1d863", "ptbr": "Se foi limpo"}
+{"id": "LocalText/modEnum10061EnumName1", "revision": "4344cfa5560da255a4ceb96cc1ee37356c341908841d3cd93f48cd43b8b9db99", "ptbr": "1- Igual"}
+{"id": "LocalText/modEnum10061EnumName2", "revision": "82ecdb1235f305de85504445449525faad018bbb64d9cf0b7011fc0850a8146a", "ptbr": "2- Diferente"}
+{"id": "LocalText/modEnum10061EnumName3", "revision": "9f0c83dc0739983e61d8a0ce7c3bb085a589b620a1e5eebb9ceb54b070a75d27", "ptbr": "3- Masculino e masculino"}
+{"id": "LocalText/modEnum10061EnumName4", "revision": "29c18e7c574aee632bf4f1877cc3da67229ae0711796175d0bbe9e1042d95ae0", "ptbr": "4- Feminino e feminino"}
+{"id": "LocalText/modEnum10061Title", "revision": "d397c6327a2c24e9ac01b6148ae11a84775f954704ae1b7b2182755d8c8b050b", "ptbr": "Tipo de gênero"}
+{"id": "LocalText/modEnum10062EnumName0", "revision": "3eff94840136ae50924a683132fe726c48823afaf85705142bb49a1a8e33ae0a", "ptbr": "0- Não"}
+{"id": "LocalText/modEnum10062EnumName1", "revision": "d3276c797748e13307572af6e47e14c3147481b42aa6316aedb266ad26101472", "ptbr": "1- Sim"}
+{"id": "LocalText/modEnum10062Title", "revision": "6001c678a261efa744c8bbecb81e15ffef1805f16e0c68073d380928bb786ff8", "ptbr": "Se tem"}
+{"id": "LocalText/modEnum10063EnumName0", "revision": "f244dddde2cda7393b161129b3333f2479fa6ee03f772bb8d039189cf20ac67d", "ptbr": "0- Fixo"}
+{"id": "LocalText/modEnum10063EnumName1", "revision": "f5365ed236bbe0184061aded8786e8f3a75848e694b63e2c5fe6a788809cea6b", "ptbr": "1- Com base no Reino do jogador (1 reino = 5 níveis)"}
+{"id": "LocalText/modEnum10063EnumName2", "revision": "4932cc67f19ee5d661fb87c69e41be8d922821ce995def4882490d25743c83e2", "ptbr": "2- Com base no Reino regional (por exemplo, Bai Yuan = Refino de Qi)"}
+{"id": "LocalText/modEnum10063Title", "revision": "dc713509d98815e00cb1484e844b2143649a620363a8d8d6b71e01fdb55053d5", "ptbr": "Tipo de nível de masmorra"}
+{"id": "LocalText/modEnum10064EnumName0", "revision": "1e4c90d57d9c3837eac2242bea5cb46991ce844be8f0bf8cec4cedf882f5d2d7", "ptbr": "0- Aleatório"}
+{"id": "LocalText/modEnum10064Title", "revision": "7cb0d5f254c01b9935f34e5fc680292b90d40eb9f61889ac3085e165d66890ff", "ptbr": "Tipo de técnica"}
+{"id": "LocalText/modEnum10065EnumName0", "revision": "d37230cb02cbc63d25a11e07d68687992a191a8877064c969d72a2209d701d38", "ptbr": "0- Valor fixo"}
+{"id": "LocalText/modEnum10065EnumName1", "revision": "59654b11b11a970ab9f28221b0c064b899c31e04124b9b64c8534734288a0e95", "ptbr": "1- Porcentagem"}
+{"id": "LocalText/modEnum10065Title", "revision": "424187e4e741cf770ad63b3e7cf630bc4a9d8676989da8144c7c0dfb6a35bf0a", "ptbr": "Tipo de aumento"}
+{"id": "LocalText/modEnum10066EnumName0", "revision": "3bd4f3fa6ee91d44cae77070b8f7240185b362f25245eb17f7849463b7659222", "ptbr": "0- Porcentagem"}
+{"id": "LocalText/modEnum10066EnumName1", "revision": "3b5c1963ae055b3ea592965a4fd4cfa5fba01f89226e46f5b0f28ab38240c594", "ptbr": "1- Valor fixo"}
+{"id": "LocalText/modEnum10066Title", "revision": "8027ebd3ecd2684660a3d0187db9558405b0578727d7ca28acd7698874e97e4f", "ptbr": "Tipo de aumento"}
+{"id": "LocalText/modEnum10067EnumName0", "revision": "f071588812f2fb451f16fb320cd2038d6477e54c03b4f3c178d45f17c2e9fe99", "ptbr": "0- Definir para um valor fixo"}
+{"id": "LocalText/modEnum10067EnumName1", "revision": "94d14001128ca22c24d06f16c84a95f7583f440898247c596ad474ba099eea89", "ptbr": "1- Aumentado por um valor fixo"}
+{"id": "LocalText/modEnum10067Title", "revision": "b1282f13b59dcd57481f5930280c5e37652d647dc8a358c61eb358e15dcb0cb5", "ptbr": "Método de aumento de atributo"}
+{"id": "LocalText/modEnum10068EnumName0", "revision": "4ca0b2c1413887e2cd705bb65688903889613ea4b4106ecb39bb6343397ae83e", "ptbr": "0- Mesmo Reino que o jogador"}
+{"id": "LocalText/modEnum10068Title", "revision": "c44d825b0c73a639e275a16cf15667e90e6629ff30c684c23439aee334f3f196", "ptbr": "Tipo de Reino"}
+{"id": "LocalText/modEnum10069EnumNamehp", "revision": "2bcbb9d42d5d5c96ecbc2cde54c05981982c3260d0b021f6c181d7e0a75cc5a7", "ptbr": "hp- Vitalidade"}
+{"id": "LocalText/modEnum10069EnumNamemp", "revision": "a037846b9a338bef2b127ec4a1ec89c903e7df3913b52c27d03f36c5236217d6", "ptbr": "mp- Energia"}
+{"id": "LocalText/modEnum10069EnumNamesp", "revision": "8c30eed370a11144e21e0246d73f0fbc2d886d6831d56c4e9f24e7a6cdcde10f", "ptbr": "sp- Foco"}
+{"id": "LocalText/modEnum10069Title", "revision": "2ea976a96ac8c5f8b970a759d40dd9e743e7bb6afbb4bf51fbc23eb52174d7d5", "ptbr": "Tipo de elemento"}
+{"id": "LocalText/modEnum10070EnumName0", "revision": "9753e4e053b1017f6c9e33a2f64abc2f50c90df29e9b51cbc26a84630c318f05", "ptbr": "0- EXP"}
+{"id": "LocalText/modEnum10070EnumName1", "revision": "79796f87ceb1058cd2eda0d3adf402e38bf5ac3f125af80e7fc00b3e9a44e16d", "ptbr": "1- Nível"}
+{"id": "LocalText/modEnum10070Title", "revision": "bd4b5def64ce795afcd26662a612522bb6329cddcca5aa2994e64db538a81419", "ptbr": "Tipo de aumento"}
+{"id": "LocalText/modEnum10071EnumName0", "revision": "979ae1cc56cb1bba878dd18ce98e447c017cc257404fa5d531e7d4e7a383e421", "ptbr": "0- Valor fixo"}
+{"id": "LocalText/modEnum10071EnumName1", "revision": "5ebdcb6512ca8e5687a3a38579b0fadaa914e6e6cf3db7b8a37b19a7024f20ac", "ptbr": "1- Porcentagem da quantidade empilhada"}
+{"id": "LocalText/modEnum10071Title", "revision": "231f8be955f56c8148de3dd838dc806c9d5c03c7a17c4021114e33911c76a728", "ptbr": "Tipo de quantidade de item"}
+{"id": "LocalText/modEnum10072Desc", "revision": "99d1b617723b6ae7f16723c348e9884be34a552a32833cc041b2d52572226fab", "ptbr": "Quando vários NPCs atendem aos requisitos, o primeiro da lista ordenada será retornado."}
+{"id": "LocalText/modEnum10072EnumName0", "revision": "5178f807bdb334276a358b08f5507c23752a0faea4da7cdb4e9e65b1d7796bb1", "ptbr": "0- Aleatório"}
+{"id": "LocalText/modEnum10072EnumName1", "revision": "537bbdc009db8685c4e1a4c443c56b46e2c69e88145a3b1c4dbbf0d7ec98b4a1", "ptbr": "1- Afinidade, da mais alta à mais baixa"}
+{"id": "LocalText/modEnum10072EnumName2", "revision": "cdad43c2fcd08e8f012002644987743a0221bbac2f317253d2685ae426f820bc", "ptbr": "2- Afinidade, da mais baixa à mais alta"}
+{"id": "LocalText/modEnum10072EnumName3", "revision": "0a71fb3983c1275b2bb25ccccdeb9ce1c8a4297e8fa999239ce7f13aa3719553", "ptbr": "3- Rancor, do mais alto ao mais baixo"}
+{"id": "LocalText/modEnum10072EnumName4", "revision": "cbb63f0fc72b66a90912535edc9a64fe371fba2462efb784e550d4191497831b", "ptbr": "4- Rancor, do mais alto ao mais baixo"}
+{"id": "LocalText/modEnum10072Title", "revision": "0207f07da1b4dec1a0257bac8a742d2c01060e18343dc1464c5a1e08a657d28c", "ptbr": "Ordenar por"}
+{"id": "LocalText/modEnum10073Desc", "revision": "c9969f0ef356520c781990108ff6985db8e02f702d5c9e5c4cdec7c3812dfa01", "ptbr": "Quando definido como [salvar], a extração seguinte certamente retornará este NPC em vez de extrair um novo do mapa-múndi, a menos que o NPC tenha morrido ou os dados dele tenham sido apagados com o comando [clearNpcConditionSave]. \\n\\nÉ frequentemente usado em aventuras longas, em que um NPC é extraído e interage o tempo todo. Quando a aventura termina, use o comando [clearNpcConditionSave] para apagar os dados do NPC."}
+{"id": "LocalText/modEnum10073EnumName0", "revision": "96954a4d8fd9bd6f3f3d9efee35a37d69e03778891f328ec78cd2077e7220ed7", "ptbr": "0- Não salvar"}
+{"id": "LocalText/modEnum10073EnumName1", "revision": "8a866e1639109079c3b6e06c1aaa557618c371bd93bdbd9633dc6c1e497a2992", "ptbr": "1- Salvar"}
+{"id": "LocalText/modEnum10073Title", "revision": "e7de926be7548965653be01fc7fd451f2e77dcb82f2c7a4860f7cc0986178bc5", "ptbr": "Salvar ou não"}
+{"id": "LocalText/modEnum10074Desc", "revision": "3ca50a3c4bb58ae9f13374f690f98beeb550e922a56af0e812bb585a59962f14", "ptbr": "É possível buscar numa variedade de tipos de localização diferentes (por exemplo, buscar todas as cidades, buscar localizações de eventos do mapa-múndi especificadas)"}
+{"id": "LocalText/modEnum10074EnumName1", "revision": "50d68d4cc30771953356b818ecded875d3f97c0b311380a6bef4283562e97731", "ptbr": "1- Edificação"}
+{"id": "LocalText/modEnum10074EnumName2", "revision": "b8f3682edd919c8aa6227372bae8cd5e6bf27292b7689635893ead7f5848e9be", "ptbr": "2- Evento do mapa-múndi"}
+{"id": "LocalText/modEnum10074EnumName3", "revision": "4b464ce660295edec3ad30414026df147ddb364a7b11e0c887c9736ef7b4fcea", "ptbr": "3- Coordenadas fixas do mapa-múndi"}
+{"id": "LocalText/modEnum10074Title", "revision": "fed191d407c27e612d182dc8c46503cab3d01ba8ab88228788671ef6e3adbd9c", "ptbr": "Tipo de localização a buscar"}
+{"id": "LocalText/modEnum10075Desc", "revision": "da47bae196cc572227f9a69badf77d1b747dde49f50303f28366bd318a40674e", "ptbr": "Por exemplo, se você quer obter todas as cidades de Bai Yuan, pode usar o método de ordenação para decidir qual localização de cidade retornar."}
+{"id": "LocalText/modEnum10075EnumName-1", "revision": "d348674cd50539f20e63d6f71ab3ff64e06e03ccedd3c480fc05a313e47e3cc9", "ptbr": "-1 Um alvo aleatório (história, edificação etc.)"}
+{"id": "LocalText/modEnum10075EnumName-2", "revision": "a1446c51dddd220ace0e32c051fc152bb56e9dbebe5f3ca4668b3b49f5820996", "ptbr": "-2 O alvo mais recente (história, edificação etc.)"}
+{"id": "LocalText/modEnum10075Title", "revision": "bae626eef668f3301734035f1fd49775eca08a7032cde3caf85df1b0c3594816", "ptbr": "Ordenar por"}
+{"id": "LocalText/modEnum10076Desc", "revision": "56176a07e588b34b9fceca240dc4aecf6779e0883843f2e2b51a0edcde18ffab", "ptbr": "Se definido como verdadeiro, a câmera do jogador se moverá para o ícone quando o evento for criado. \\n\\nNota: se o ícone não for criado no fim da aventura, não ative isto, ou a aventura será interrompida."}
+{"id": "LocalText/modEnum10076EnumName0", "revision": "f6aae52363f370c29f8baac45b1b415006e1b69462fe04245301fd92de80d6a1", "ptbr": "0- Falso"}
+{"id": "LocalText/modEnum10076EnumNameQiyuPutong", "revision": "978c925462e8b7d1be98bcfe651cc8ccd00bb37a8f7e3a1704eb65e46f1d01f2", "ptbr": "1- Verdadeiro"}
+{"id": "LocalText/modEnum10076Title", "revision": "00a7c5f31ae0d1157921bbab31ee31596a04904b5ad3d6c746f33f822cf8c369", "ptbr": "Se move a câmera para o ícone quando o evento é gerado"}
+{"id": "LocalText/modEnum10077Desc", "revision": "5827826d53c5b855ccc791b2f84b3ba3fed06599b50320236e5808eedf5400dc", "ptbr": "Depois de empilhados, vários itens serão mostrados num só ícone na Mochila, parecido com a Pedra Espiritual. (Itens de enredo normalmente não são empilháveis)"}
+{"id": "LocalText/modEnum10077EnumName0", "revision": "76dd8207de6fd0edd9c3433c89c8ee1d4d814a96ccb6cc988f21953dc2ddada7", "ptbr": "0-Não empilha"}
+{"id": "LocalText/modEnum10077EnumName1", "revision": "fcc8ffbe5c6e4cbbbd44ff6a4480645a4ea8b9529fc6ca9a4f63f1f0863ffc4f", "ptbr": "1-Empilha"}
+{"id": "LocalText/modEnum10077Title", "revision": "c968687cd82a002df4e315d7b4e8f2d113904faac4ea54e3a3518a000dd0c3d2", "ptbr": "Empilhável ou não"}
+{"id": "LocalText/modEnum10078Desc", "revision": "61288c7de5a6be1e225329abfd65c9705aa8f777c404fd3f368712d2442dba47", "ptbr": "Itens que não podem ser descartados, vendidos ou postos em leilão. (Itens de enredo normalmente não podem ser descartados)"}
+{"id": "LocalText/modEnum10078EnumName0", "revision": "a1d44e13392a2ade30789f8b176a6bc48682ba6e95043e6d583c3ec2f511dcf0", "ptbr": "0-Descarte não permitido"}
+{"id": "LocalText/modEnum10078EnumName1", "revision": "26b260e4e55fa323b6468ffb60ccdd03f8e1b5b12231a91717695ea261aac265", "ptbr": "1-Descarte permitido"}
+{"id": "LocalText/modEnum10078Title", "revision": "88ea2564c0fd6470e9cd5d0b3aa5a984fdc7f464866a972fc76c38b1f260e3c2", "ptbr": "Descartável ou não"}
+{"id": "LocalText/modEnum10079Desc", "revision": "5504cd8eb76f80bd141e01b5da98aa8acc145a06b131623047ca919824ea5405", "ptbr": "Tipos diferentes de itens têm funções correspondentes diferentes."}
+{"id": "LocalText/modEnum10079EnumDesc1", "revision": "8aea962219ab1d16611e5fc0a623c1f27c144b4d8b8ee52e13c0cb45f508abd4", "ptbr": "Itens normais não têm função real. Este tipo é geralmente usado para itens de Enredo."}
+{"id": "LocalText/modEnum10079EnumDesc2", "revision": "9a9777ec5e6c89136af4b739045d79e73afabe59bb08705635fef5819e653889", "ptbr": "Tipo Elixir. Pode usar efeito de personagem para configurar recuperação de saúde, aumento de Carisma e outras funções."}
+{"id": "LocalText/modEnum10079EnumDesc3", "revision": "cd299845c56711acb0a3f9d28841fd3482264562d9e6e84b17d742c9f21a5c3d", "ptbr": "Tipo Livro. Geralmente usado para descrever o enredo. O item pode ser aberto, e um livro exibirá o conteúdo de texto depois de aberto."}
+{"id": "LocalText/modEnum10079EnumDesc4", "revision": "152b6d418adbdc7bb9b9b8691fe988b844874bdf8dd75ca154066990b1102513", "ptbr": "Tipo Montaria. Igual à montaria do jogo. A função da montaria pode ser personalizada."}
+{"id": "LocalText/modEnum10079EnumDesc5", "revision": "562f33a3c2c53290dc2b295946ccb83ba221139b47571bcddcff1cffd2c56dfb", "ptbr": "Tipo Mapa de Artefato. Depois de usar o Mapa de Artefato, um evento do mapa-múndi será definido na localização especificada. A Geomancia precisa ser anexada ao evento para exibi-lo. (Semelhante aos mapas das montanhas do leste do jogo e aos pedaços de mapa obtidos em Aventuras para conectar o enredo)"}
+{"id": "LocalText/modEnum10079EnumName1", "revision": "284e68d429a24f657635dc2df9e3d6a01615ed86ea8c42dee18dffee2f3bd5b6", "ptbr": "1-Item normal"}
+{"id": "LocalText/modEnum10079EnumName2", "revision": "bb65ec01d26128a80b36511a414502e6a96130e90296ebacabde0568123033a2", "ptbr": "2-Elixir"}
+{"id": "LocalText/modEnum10079EnumName3", "revision": "5ad4d84b811db1131ec2affcba82e35066d971603a0caf2db3d11342971496e2", "ptbr": "3-Livros"}
+{"id": "LocalText/modEnum10079EnumName4", "revision": "08520b370b05e0fdf41af87b870310628d69c8d4845c5449b52c51a07e9e365e", "ptbr": "4-Montaria"}
+{"id": "LocalText/modEnum10079EnumName5", "revision": "316b6538f4496d23edc77139ee245e735453529e748a37eb01473397e04d495b", "ptbr": "5-Mapa de Artefato"}
+{"id": "LocalText/modEnum10079Title", "revision": "a66e243092a972f26ebfd67c4233c425789d080abfd18b3cf3e78d5abc39a823", "ptbr": "Tipo de item"}
+{"id": "LocalText/modEnum1010EnumName1", "revision": "37cbf84493c17c883f607b09bb216322c821c97451a3ba7ea437b472f4c00012", "ptbr": "1- Início"}
+{"id": "LocalText/modEnum1010EnumName2", "revision": "7858350819c9273e10316544bf52d5b5f0b80fbc7337ae9839fd970d1b63d599", "ptbr": "2- Meio"}
+{"id": "LocalText/modEnum1010EnumName3", "revision": "793e8c99b8ca2c8463d0d76b18f4e0678e94bd635083f0e0660631bcdf7fe450", "ptbr": "3- Fim"}
+{"id": "LocalText/modEnum1012EnumName0", "revision": "5410dbb0221dc455b17917d99bb8dee52fa40c16a9cac5c6ad6fbb6d3e911080", "ptbr": "0- Sem limite de tipo"}
+{"id": "LocalText/modEnum1012Title", "revision": "036aeb6cdcc298556691e29db564d1be51b60f458cc7deefe09ad4c91db9a945", "ptbr": "Tipo de manual"}
+{"id": "LocalText/modEnum1013EnumName1", "revision": "2d86ab4022ab10f55ebac9039fcc5fc20bb3ddf214c88f911df993974f1355a5", "ptbr": "1- Padrão"}
+{"id": "LocalText/modEnum1013EnumName2", "revision": "6d09dc26349df69c231365506ed3b956ea978c96a15985098176a347b4f91a8e", "ptbr": "2- Difícil"}
+{"id": "LocalText/modEnum1013EnumName3", "revision": "719aeb216257c3e1be6abada0a99b024647aaa9606f540a627e088e2ad74090e", "ptbr": "3- Pesadelo"}
+{"id": "LocalText/modEnum1013EnumName4", "revision": "3f7efae030a6f0a7ee12a2d9014b1e7fd5e0f08d98054fe7bf5d38a2bc1aae9c", "ptbr": "4- Inferno"}
+{"id": "LocalText/modEnum1013EnumName5", "revision": "4df40b0136a377a10aaaaca2bc2f818aed1e8f3c2c8130ded1b39e86a42538f8", "ptbr": "5- Caos"}
+{"id": "LocalText/modEnum1013Title", "revision": "b99895952028958095cdd3f13ba3eb4a907016dd32cf82fb54027a28e8e43fa5", "ptbr": "Tipo de dificuldade do jogo"}
+{"id": "LocalText/modEnum1014EnumName0", "revision": "2fd0329577f0aa188056bcaa9428babed6e3da88360a8fb2524eef09cf567ab6", "ptbr": "0- Falso"}
+{"id": "LocalText/modEnum1014EnumName1", "revision": "9cd620b6feb5d012169011c960655de3771e91bc3e9c89dec083eb55c86de17b", "ptbr": "1- Verdadeiro"}
+{"id": "LocalText/modEnum1014Title", "revision": "b24104f02ec3cf332df95e80c74e77cdbed67c1c3d1be218b83c5ca726387085", "ptbr": "Verdadeiro ou falso"}
+{"id": "LocalText/modEnum1015EnumName0", "revision": "d619857ef6942f1a595bee335e62f5427f2f97321efa260a6dc8ed550f74b3e9", "ptbr": "0- Não"}
+{"id": "LocalText/modEnum1015EnumName1", "revision": "57edeba5e16ca52f6950317a82872285de9938ba89a5018653329a29345b1d8c", "ptbr": "1- Sim"}
+{"id": "LocalText/modEnum1015Title", "revision": "70065e0d9139c726089ce360b416445bf89ac1041a2947d2ac4647854cb20377", "ptbr": "Sim ou não"}
+{"id": "LocalText/modEnum1016EnumName0", "revision": "dd3acf5f20819abcf372623a52336635189d7575c933a2d5b48ce6813c9b5835", "ptbr": "0- Derrota"}
+{"id": "LocalText/modEnum1016EnumName1", "revision": "d9c12825e8f448b20b35ce4a25157478000c129652fb6e4d3c329902bbce7355", "ptbr": "1- Vitória"}
+{"id": "LocalText/modEnum1016Title", "revision": "4f60fd6f4cccae0cbbdebffa312c2d330c3b3babc520382d3d8fb9243d7fc2a4", "ptbr": "Se o resultado da masmorra foi vitorioso ou não"}
+{"id": "LocalText/modEnum1017EnumName1", "revision": "ca40366366bc88624f8c45df735ece4910aade23a5f6b9a9a4f6d745f2ffa6af", "ptbr": "1- Qi"}
+{"id": "LocalText/modEnum1017EnumName2", "revision": "452409d10b5dbc79935bee4ee157aaec1de898a330d5f6cf30511877fa189fe2", "ptbr": "2- Feng Shui"}
+{"id": "LocalText/modEnum1017EnumName3", "revision": "b58a20c538b0610cc02c7e29c4365d1de6642ead200dad0c1fe189a29b0a485b", "ptbr": "3- Erva"}
+{"id": "LocalText/modEnum1017EnumName4", "revision": "cf70697673da77ca6defd87b67350c99b5fbb76fd04a2eb28ed4356e8b725635", "ptbr": "4- Minério"}
+{"id": "LocalText/modEnum1017Title", "revision": "ac229e86d088655784303a82b2939b5a60b32892d6c866e33c20417c5145b5df", "ptbr": "Tipo de atributo da grade"}
+{"id": "LocalText/modEnum1018EnumName3", "revision": "2e0300fff07d621760d669b27598db510c50b3b41d9d1de5508fc3d6573ea0a4", "ptbr": "3- Seita"}
+{"id": "LocalText/modEnum1018EnumName4", "revision": "7577243370c6175fb687df94cac63ccb3084d6dfd82253f4fee18e9ec43fec84", "ptbr": "4- Cidade"}
+{"id": "LocalText/modEnum1018Title", "revision": "dff4b19011a36d7768704122267aabb4852a0d71b7afc5b43f6fafb32f7f4b01", "ptbr": "Tipos de edificação"}
+{"id": "LocalText/modFunctionTitle_abClose", "revision": "e12b0caa5c235bbe373094adf7d0f11a24e68c3c1431c5aff83c8b1f342e488d", "ptbr": "A afinidade do Personagem 1 pelo Personagem 2"}
+{"id": "LocalText/modFunctionTitle_addAttr", "revision": "0a507491e8873453fc2f194faa1c3875d888cfba12cc73ef8f0584ad86af4b5e", "ptbr": "Aumenta os atributos do personagem"}
+{"id": "LocalText/modFunctionTitle_addExp", "revision": "177bfc56bbdb84cadec04564f0f15f534c35ffc85f3da9bac089465b80b8ae07", "ptbr": "Aumenta o EXP do personagem"}
+{"id": "LocalText/modFunctionTitle_addFeature", "revision": "12717becbbd7b3a1c119d5b2b3c5001876a62d38ed6d38541dc7bac7b0d916bd", "ptbr": "Adiciona um destino (criação) ao jogador"}
+{"id": "LocalText/modFunctionTitle_addGridArrtRange", "revision": "6a7be1c4a751cca12fdc74796bd86121f11045710a6c0cb3a1642b1b320ab1dd", "ptbr": "Aumenta aleatoriamente o valor de uma grade por perto"}
+{"id": "LocalText/modFunctionTitle_addIntim", "revision": "4c40cfdc01f04b3eda59340bb07e09ea37fc956c4bbdab1d64abb08376cb3705", "ptbr": "A afinidade do personagem 105 com o Jogador é reduzida em 50"}
+{"id": "LocalText/modFunctionTitle_addMastery", "revision": "0cf6e33b930dfa8508b962375eb92027b858ad243a137616697b448d937c6dea", "ptbr": "Aumenta a proficiência das técnicas equipadas"}
+{"id": "LocalText/modFunctionTitle_addTargetAttr", "revision": "042cea6e5dbe53e49d4c9eb582116a8f02b1df16f11ba0e76e47f0fece09b970", "ptbr": "Aumenta o atributo especificado para o personagem especificado"}
+{"id": "LocalText/modFunctionTitle_addTask", "revision": "c6d61c3b33854b4e14fd9c4902272b05eedac27bfe3f8bc017821331a2840f4a", "ptbr": "Aceita uma missão"}
+{"id": "LocalText/modFunctionTitle_areaDungeon", "revision": "942836bc6773bacad3938ef9788a416a90c18479a6433876874d425369b743b1", "ptbr": "Cria uma masmorra num local aleatório da região especificada"}
+{"id": "LocalText/modFunctionTitle_areaEvent", "revision": "43c33f705d106def8fd6961efb6fc11224f86721ec3f7250b14b4e11eece7cbc", "ptbr": "Gera um evento do mapa-múndi com ID 15 no terreno especial com ID 10 na região 2"}
+{"id": "LocalText/modFunctionTitle_arrestNpcCondition", "revision": "e38601a264711efd6cf2d829e074be84b20e13ed2b9d760227333f4c57a3d82a", "ptbr": "Obtém os dados do NPC com ID 1001 e o define como a unidade à esquerda deste enredo"}
+{"id": "LocalText/modFunctionTitle_battleExit", "revision": "66f0037dab9e23e9319627dbd1a125f14beff163c65f78c434163a1be4d05cea", "ptbr": "Termina a batalha da masmorra (disponível só em batalha)"}
+{"id": "LocalText/modFunctionTitle_battleFunction", "revision": "e44c2d870a52d0028f0a8c6c7ebc3b7171acebb378ac42321ff0b10ff4b03a8c", "ptbr": "Oculta a barra de Vitalidade do chefe"}
+{"id": "LocalText/modFunctionTitle_battleFunctionList", "revision": "1b9f5e78133c6f0e8d19db545e938100adf54003a4df2ee38c5af0fb97dc607f", "ptbr": "Usa a [função 1001] em [#BattleFunctionList]"}
+{"id": "LocalText/modFunctionTitle_battleSkillTrainUp", "revision": "fb08c8a00dda30175868a932865677e310f492468b30bb5039cf7deb7e209912", "ptbr": "Aumenta a experiência ou o nível da técnica especificada equipada pelo personagem"}
+{"id": "LocalText/modFunctionTitle_blackFilter", "revision": "cb647d2fbbd1b7be44a3ca4603b639b4455d18964c4ddb9b58716c31cd69cdbe", "ptbr": "Liga o filtro de tela preta"}
+{"id": "LocalText/modFunctionTitle_callAppointedDrama", "revision": "62e21ed3355ff984ea4db9f14e70dc53d7555d334f72e012628db3217e35fbd3", "ptbr": "Chama o enredo com ID 6352101, mas o texto do enredo é o conteúdo do último enredo aberto"}
+{"id": "LocalText/modFunctionTitle_callDrama", "revision": "7e733d01e793ad2be46497496752be3c1fa3df1236ab70d4457ce9ecf2865e6e", "ptbr": "Abre um ID de Enredo (quando vários IDs de Enredo são selecionados, lança aleatoriamente um deles conforme o peso do Enredo)"}
+{"id": "LocalText/modFunctionTitle_captureNPC", "revision": "4cd34157a79e17b1358db5332e71234a68ff7568d1e399ef0c4372461aea86ed", "ptbr": "Extrai o grupo de NPCs que corresponde aos IDs de condição de NPC 10001, 10004 e 10005"}
+{"id": "LocalText/modFunctionTitle_captureNpcConditionGroup", "revision": "82c44bc4ef8627831cfed5b176fca7c214de55deba6953a88080e82cfa5fc654", "ptbr": "Extrai todos os NPCs com o ID de grupo de condições 100005 na tabela de condições de NPC e decide se os salva conforme as configurações"}
+{"id": "LocalText/modFunctionTitle_chatUpClose", "revision": "4dfa2c188825744d6e110d4e74199f8281c70279c2013d9d0a7e4f1631563633", "ptbr": "Faz a próxima conversa informal do Jogador com o NPC aumentar o bônus de afinidade para ambas as partes"}
+{"id": "LocalText/modFunctionTitle_clearEvent", "revision": "9138b56c5573add7095e025644dafee86f66700ae26b6ffcb7b3b2b44ce5fb8f", "ptbr": "Apaga o evento do mapa-múndi sob os pés do Jogador"}
+{"id": "LocalText/modFunctionTitle_clearEventForceDel", "revision": "c1511d88d3082f8f57776c33a6cc0b834ac59e6aa84e491a4f3df2fb41d6e604", "ptbr": "Força a apagar o evento do mapa-múndi na localização atual"}
+{"id": "LocalText/modFunctionTitle_clearEventID", "revision": "66ffbc0b889e03e2409ed6faa77b593b9a58f035ab52588d81ae8e53cd8444af", "ptbr": "Apaga todos os eventos do mapa-múndi com o ID especificado e cria eventos novos onde os antigos foram apagados"}
+{"id": "LocalText/modFunctionTitle_clearFeature", "revision": "2d8b36d37ed37eef34b8700e5d9f1dbfe65fc9fc57daf20522fbbe924f36d1df", "ptbr": "Apaga um destino (criação) do jogador"}
+{"id": "LocalText/modFunctionTitle_clearFeatureGroup", "revision": "c31699aaf9830a8fbac9c572c888ff761d6da2ce0875c4e12c64d8c916d863b0", "ptbr": "Apaga todos os destinos do grupo 401"}
+{"id": "LocalText/modFunctionTitle_clearInEventID", "revision": "14162136617bbeef14aba1dfa6a47ce97638f342444e0aea07732b7111417f1f", "ptbr": "Apaga o evento do mapa-múndi sob os pés do Jogador"}
+{"id": "LocalText/modFunctionTitle_clearNpcConditionSave", "revision": "b80bff8004cf3940d0fa49732f0700cf06e9c4c0790f216229a6e7ff60f27e98", "ptbr": "Apaga os dados de NPC salvos na tabela (Extrair NPC)"}
+{"id": "LocalText/modFunctionTitle_clearNpcConditionSaveGroup", "revision": "2c3f07df85e5d61097cc6030386b8d4d2c0da4c8c30d544ef55af3499d8894f2", "ptbr": "Apaga os dados de NPC salvos no grupo de condições 100005"}
+{"id": "LocalText/modFunctionTitle_clearTask", "revision": "589d4e1e01ee9e1c9c30fe23936fc6ba4206135986857b1efd5fa38049d74e3c", "ptbr": "Não aceita a missão com ID 10001"}
+{"id": "LocalText/modFunctionTitle_clearWorldData", "revision": "b982522ae0df7b8d118a20bb90f91ee8ed5121f423c0fe53a7ac291c79bdea0d", "ptbr": "Apaga os dados da chave especificada no arquivo de save"}
+{"id": "LocalText/modFunctionTitle_closeMapUI", "revision": "600426717dbf6451bda448714d9b371e78ef2b62c46e464bd50c58a54c53f241", "ptbr": "Fecha todas as interfaces no mapa-múndi"}
+{"id": "LocalText/modFunctionTitle_closeUI", "revision": "6389ebfe7ca1a4f5e1b1b5e7e3cd815bc38da35bf158d733a42e8913cbae5d5b", "ptbr": "Fecha a interface da loja do mundo (veja a tabela [UI Names] para o nome de cada interface)"}
+{"id": "LocalText/modFunctionTitle_createDungeon", "revision": "151acdffa94a0551a986dfd9eed75cde1fd96fcbb487d81b4e2011174a5733f5", "ptbr": "Cria uma masmorra sob os pés do Jogador"}
+{"id": "LocalText/modFunctionTitle_createDungeonInRange", "revision": "6662e97999d1c1bd43e9ee81ee9bd0a0622502bd3593e519180418810436a403", "ptbr": "Cria uma masmorra num local aleatório perto do Jogador"}
+{"id": "LocalText/modFunctionTitle_createEnemy", "revision": "08fb5ce2def37720539bbd54d84699c7274f09a0f6353a22fb4bb2d00d1d08f5", "ptbr": "Cria um inimigo com ID 30001 na masmorra atual em (20,12)"}
+{"id": "LocalText/modFunctionTitle_createEvent", "revision": "390cc04fd5f09a583e782c2f3749c4e9c1ab380e19ec25635876117387f065a3", "ptbr": "Cria um evento do mapa-múndi (ícones interativos no mapa-múndi)"}
+{"id": "LocalText/modFunctionTitle_createEventArea", "revision": "fda3004c401b1d64b3341654b608a5e760bf4fba4df10cbf3197dbacbbc1f096", "ptbr": "Cria um evento do mapa-múndi num local aleatório de uma região especificada"}
+{"id": "LocalText/modFunctionTitle_createEventAreaCondition", "revision": "679aef9d6645fabe51e4fd99f7af0bddf34ecc0d99b7d4a383078c8690266df9", "ptbr": "Cria um [evento 101] aleatório na região 8 e atende à condição"}
+{"id": "LocalText/modFunctionTitle_createEventInRange", "revision": "7faa9d5c396f715632be2eca62a89e6b2efd1022e8e58770f9628166f48d5a37", "ptbr": "Cria um evento do mapa-múndi num local aleatório dentro da visão do Jogador"}
+{"id": "LocalText/modFunctionTitle_createEventMapPoint", "revision": "e42e1e919749c10104037d5a44d8be9697b87d3e8d824b5ddcb0ac136c015294", "ptbr": "Cria o evento 4201 dentro de 5-10 espaços da posição da tabela [MapPosition] 1001"}
+{"id": "LocalText/modFunctionTitle_createEventPoint", "revision": "48ea4f461a54e2b57780cbd1857236289911cb79a219949118d50a90e9f717ab", "ptbr": "Cria aleatoriamente um evento do mapa-múndi dentro de um intervalo especificado de uma localização especificada"}
+{"id": "LocalText/modFunctionTitle_createEventPointIngoreTree", "revision": "2080b7898165ade77aaa05285d5683ef70ec2487db96de095a7f149d482100fb", "ptbr": "Cria aleatoriamente um evento do mapa-múndi dentro de um intervalo especificado de uma localização especificada"}
+{"id": "LocalText/modFunctionTitle_createWeather", "revision": "02a834bb83c07a8a474874e8d61a07be401448118ee71aed76cbd3e0ccd30e77", "ptbr": "Define o clima para a região atual"}
+{"id": "LocalText/modFunctionTitle_delItemID", "revision": "7d45bc94fb63dda0596c494d4ef2b6a0398cd017e2017d5d77d07868c3ace9b8", "ptbr": "Apaga um número especificado do item especificado da mochila"}
+{"id": "LocalText/modFunctionTitle_delNPCLuck", "revision": "bc2c23373ef16e1d40f71e2f54d6d92ef3e1f3bba3a807f4bce59e8836b68c24", "ptbr": "Apaga o destino (criação) de um personagem selecionado"}
+{"id": "LocalText/modFunctionTitle_delTask", "revision": "50f2203508b4e97e028c59bd5f76baa82718d0e8484d6951e262791d06e2dd76", "ptbr": "Apaga uma missão"}
+{"id": "LocalText/modFunctionTitle_delTerr", "revision": "5d6d762ad2e32b413774138241abde006c7c08767bb7923536ef9abe8b7505d4", "ptbr": "Apaga todo o terreno 3001 do mapa"}
+{"id": "LocalText/modFunctionTitle_die", "revision": "637fbfebd299f3bdd48621a297d76accc29eec93316bdc9e50792d7918d250cb", "ptbr": "O Jogador morre imediatamente"}
+{"id": "LocalText/modFunctionTitle_dramaInfo1Attr", "revision": "978d839cb290996a8eafc270097b6f69c8b402689381d478a2e359f9e2463594", "ptbr": "Aumenta a Vitalidade de Kuafu em 110"}
+{"id": "LocalText/modFunctionTitle_dramaInfo1CostPause", "revision": "084ba4215312b8d7cdc2189ffb8b430633c506acabf1163187f275b44f9105fd", "ptbr": "A diminuição dos atributos base de Kuafu é pausada"}
+{"id": "LocalText/modFunctionTitle_dramaInfo1CostStart", "revision": "00948df786673c39f1ab28cf52899d98909d505793803e1150e7fc4ae5e6a1bf", "ptbr": "A diminuição dos atributos base de Kuafu começa"}
+{"id": "LocalText/modFunctionTitle_dramaInfo1MoveNextPoint", "revision": "08b27358557a2a3b9fc694e93ac09e0694a5a875c82873e4875b7ce5ce0d0a0b", "ptbr": "Move Kuafu para a próxima localização"}
+{"id": "LocalText/modFunctionTitle_finishTask", "revision": "6f01bdfb078fd725467bf337a69e678e47a9939656e2523fea675a90fc90fae4", "ptbr": "Completa uma missão (é possível não definir condições de conclusão para uma missão, mas chamar manualmente o comando para completá-la)"}
+{"id": "LocalText/modFunctionTitle_flee", "revision": "41ea26136949745a6d48d90020899e68e2aac36b73bfdd8bf1f34a330e98faa3", "ptbr": "Move o Jogador para uma localização aleatória dentro de um intervalo especificado (fuga)"}
+{"id": "LocalText/modFunctionTitle_fleeNPC", "revision": "0c70a5d66820b8028bef21783dc9fe8dc6be28faefccf1758b8ac5b74770e86f", "ptbr": "Move o personagem especificado para uma localização aleatória dentro de um intervalo especificado (fuga)"}
+{"id": "LocalText/modFunctionTitle_forceTrains", "revision": "7f4246d3b5eefd1eeb10ef6b6eae650b17fc221d7a59e2a547217741fa078479", "ptbr": "Dois personagens especificados cultivam juntos"}
+{"id": "LocalText/modFunctionTitle_fortuitousEventCD", "revision": "3b3b33ea6add39e4f190dbe0e0136c3035e58ba160095c1208c70a4c0ee6de2b", "ptbr": "Recalcula o CD do acionador 1001"}
+{"id": "LocalText/modFunctionTitle_getAllBountyTask", "revision": "e439c145b3ef0c0a0a5d4c53d9847a802cff6864e5792539c8f61c79aa78df77", "ptbr": "O jogador recebe todas as missões do quadro de recompensas que não envolvem NPCs (coletar itens, matar monstros etc.). As regras de aceitação de missão precisam corresponder às configurações da missão. Se há missões a aceitar, um diálogo com o ID especificado 123 aparece. Então o Jogador clica no botão com o ID de botão especificado 456 para completar diretamente todas as missões aceitas por esta função e recebe as recompensas correspondentes."}
+{"id": "LocalText/modFunctionTitle_getSprite", "revision": "aafb91e6c0b03aea7fe6f81d0d22d836dd46249ea77d90749262472324e31304", "ptbr": "Adquire um Espírito de Artefato"}
+{"id": "LocalText/modFunctionTitle_group", "revision": "a9cf47258984628a53118281638908480a5db192beec2532e9ace1542f884700", "ptbr": "Entre todas as funções do GroupID 1001, seleciona 1 que atenda à condição para rodar"}
+{"id": "LocalText/modFunctionTitle_hideEvent", "revision": "145996ac0b7de99a3905a69c54d3e421471718eb86cc001e09e365fd31b57cf4", "ptbr": "Oculta o evento do mapa-múndi para o ID especificado"}
+{"id": "LocalText/modFunctionTitle_hideUnit", "revision": "249b36cc22306dbf90ad4e0591122d35c7437175d1d6c3fb269d948e9b15cc08", "ptbr": "Oculta todos os monstros com ID 20016"}
+{"id": "LocalText/modFunctionTitle_initTask", "revision": "a986233c7d72678a4b1078fbfa2d2f4a76b112c2811bb726a9cd44bac239f254", "ptbr": "Inicializa os dados da missão com ID 10001"}
+{"id": "LocalText/modFunctionTitle_intoAreaDungeon", "revision": "f3f6846b1e33303da9af72557d6f2e3953d1ae7ea18175b77ee54dabf149675a", "ptbr": "Quando o Jogador está na região 1 ou na região 2, entra na masmorra com ID 1001, com o nível correspondente ao dele"}
+{"id": "LocalText/modFunctionTitle_intoDistrictDungeon", "revision": "5d35e944b716aea4bfda67849872f9184f59989a3d99d9aba45f5fb02e867a75", "ptbr": "Entra na masmorra 101 da região atual. A masmorra está 2 níveis abaixo do nível regional base. É preciso importar o Reino do jogador A, o Reino regional base B e o Reino regional máximo C. O nível base da masmorra corresponde a B ou C, o que estiver mais próximo de A."}
+{"id": "LocalText/modFunctionTitle_intoDungeon", "revision": "0236298297b189c19bcf12da20ebfe2f6cf8e2d722b867e605ae3300ee5b937d", "ptbr": "Entra na masmorra especificada"}
+{"id": "LocalText/modFunctionTitle_itemQuantityTimes", "revision": "a3002971941acaacac399993518b014a73c415514b0c7c328b4f2d6c5f06f6e8", "ptbr": "Muda o número do item especificado na sua mochila para uma porcentagem"}
+{"id": "LocalText/modFunctionTitle_itemSelect", "revision": "1407a4f52f8bcd63a5832494048b002b01f669189b36fe5d8c6fdda2cc146c35", "ptbr": "Abre a interface de seleção de itens e seleciona um item com classificação (o item será consumido ao selecionar)"}
+{"id": "LocalText/modFunctionTitle_itemSelectAll", "revision": "edbeaf50dadf19df2d7ece599eb8ee9abe1cceb9bbe76de451b9699550e0dc13", "ptbr": "Abre a interface de seleção de itens e seleciona um item (pode-se definir para não consumir o item)"}
+{"id": "LocalText/modFunctionTitle_itemSelectElement", "revision": "0ae0b4e0f3817061996dee9824132ee8d6ed0b05e57bbd9815a4c64e3ee379cd", "ptbr": "Abre a interface de seleção de itens e seleciona um manual (será consumido)"}
+{"id": "LocalText/modFunctionTitle_itemSelectLevel2", "revision": "e8a4e39a36e27869af6d9478c030ee1baff771f71876bcb2edc45c66d199894f", "ptbr": "Abre a interface de seleção de itens, mostrando todos os itens de nível 5 a 6 nas categorias 1 e 2, para que o Jogador escolha 3 deles. O texto de dica exibido está em [tipsText] (as categorias de item podem ficar vazias, pois não há restrição)"}
+{"id": "LocalText/modFunctionTitle_joinSchool", "revision": "1aca694c424c7e01ded6a0e0055616846de8e43d5663158eb01d2598a3c583c6", "ptbr": "Entra na seita do diálogo atual"}
+{"id": "LocalText/modFunctionTitle_learnSkill", "revision": "81c9c7067087c406c849160d11c531ed63f31311a1b56f0f033196a52fd98a28", "ptbr": "Abre a interface de seleção de itens, seleciona um manual e o aprende imediatamente (precisa atender aos requisitos para aprender o manual)"}
+{"id": "LocalText/modFunctionTitle_lookUnit", "revision": "930a1e2525646519896aedf68f116b25f246bdbca0169688fdb7bf334d1d00eb", "ptbr": "Abre a interface de atributos do personagem especificado"}
+{"id": "LocalText/modFunctionTitle_lootNpcSpecifiedItem", "revision": "a3351a617af94a6e1e2514276cdf0ec86df8e7693d06dafbef1f33c87c39bfcc", "ptbr": "Transfere o número especificado de itens da mochila do personagem especificado para o Jogador"}
+{"id": "LocalText/modFunctionTitle_mapCreateBuild", "revision": "2a98053189c618a6b80e739fb1d957cf35804fa54df41ddb0567cc753c759097", "ptbr": "Cria um portal para (15,12) que corresponde ao portal em (5,5)"}
+{"id": "LocalText/modFunctionTitle_mapCreateCmd", "revision": "d914216fafb922f2841c65573cb7b08cc75f2e61f378f8656e64e58a3d26e0f4", "ptbr": "Ao criar comandos de mapa, consulte a tabela de configuração regional do mapa-múndi [WorldCreateCmd]"}
+{"id": "LocalText/modFunctionTitle_mapTransfer", "revision": "edbe5e4a269c68c94c9e97ebfffb839d42f4230b912f4b634735167b9b934ace", "ptbr": "Chama a função de teletransporte. Abre o mapa regional e toque num ícone para teletransportar"}
+{"id": "LocalText/modFunctionTitle_monthLog", "revision": "e5ba9df6a7d144e24ad64cae4bf0a78866fa013237c67df48ed60a40f4d526c3", "ptbr": "Chama o evento de balanço mensal com ID 1001"}
+{"id": "LocalText/modFunctionTitle_monthLostItem", "revision": "988ab93f017f343009b975ef7065b6f278e86103fee6b45e1d814b00f6535cef", "ptbr": "Remove aleatoriamente um número especificado de itens da mochila do jogador"}
+{"id": "LocalText/modFunctionTitle_moveCam", "revision": "107885d65bd6b4d73ead53efc7c1c9664e8254c029cb67894ad9fbf34972a0fb", "ptbr": "Move para um ponto configurado na planilha de mapa"}
+{"id": "LocalText/modFunctionTitle_moveLastPoint", "revision": "907df75aeb4f5b5a5222831cd2f892a4a9e9665bfc99b282a747e7fff389de91", "ptbr": "Move o Jogador para a localização anterior"}
+{"id": "LocalText/modFunctionTitle_moveToPosition", "revision": "bb9389a08e58a0c744a3a2969e3b84a5f34cacab08d89a061b72b29a7c05deb5", "ptbr": "Move o Jogador para a localização de mapa especificada"}
+{"id": "LocalText/modFunctionTitle_moveTownsSite", "revision": "b44ab918a02504713c2ba31e4101720416c817a85a1e7a860060673df7a33355", "ptbr": "Adquire a localização de uma cidade que ainda não foi descoberta na região atual"}
+{"id": "LocalText/modFunctionTitle_notNextDialogue", "revision": "d745259f9c88710afc9efd1aac8eec3b837ee2127e5839a7b244f003554c687a", "ptbr": "Toque para não entrar no diálogo seguinte"}
+{"id": "LocalText/modFunctionTitle_npcAttack", "revision": "9e11546f95653278ea8e96df32eac66fb7f8e05878d963fce0ac406c940128af", "ptbr": "Ataca o NPC"}
+{"id": "LocalText/modFunctionTitle_npcAttackForce", "revision": "e419930d9665d53db1b361e1ed4cbebfbd1b6e7b004db0edfcd0ca80601c2c45", "ptbr": "Força o ataque ao NPC (sem fuga)"}
+{"id": "LocalText/modFunctionTitle_npcDramaGive", "revision": "c1a38ca8e589020f2e94c7015717265b252c5a9b14f713de805b2acfdd024990", "ptbr": "Copia aleatoriamente itens das mochilas dos NPCs em todos os reinos especificados do mundo para o Jogador até alcançar o valor total"}
+{"id": "LocalText/modFunctionTitle_npcDungeonReward", "revision": "943ba7a3f74074d59befe9be33aaf53fde49af23161b5bc4e03d91a41a22fdfd", "ptbr": "Simula os itens gerados por limpar uma masmorra aleatória na região especificada"}
+{"id": "LocalText/modFunctionTitle_npcItem", "revision": "395d0eb3a3b5e0ed4a7ac0c5ecd0fbdeb738a283204057e1f29ae8cbe298da63", "ptbr": "Seleciona aleatoriamente N itens do valor especificado da mochila do NPC e os gera para o Jogador"}
+{"id": "LocalText/modFunctionTitle_npcMapPositionClose", "revision": "b67fad30b158f7b6af91ac4a17ebee0c4cfabbee35282ce9fbf553020b11d19c", "ptbr": "Todos os NPCs que atendem à condição de ID 1001 dentro de 10 espaços da localização de ID 1001 na tabela de condições ganham de 100 a 300 de rancor pelo Jogador"}
+{"id": "LocalText/modFunctionTitle_openGuide", "revision": "444b7a110e999de930e82e8f111675496d7c16c1553fa6b6fe71fb6a83cef50d", "ptbr": "Abre o tutorial com ID 10101"}
+{"id": "LocalText/modFunctionTitle_openUI", "revision": "5b0c43a5829b2e4d65991a6c548e51735ea2d6681dbd27f979ae1ae0936a13a2", "ptbr": "Abre a interface da loja do mundo (veja a tabela [UI Names] para o nome de cada interface)"}
+{"id": "LocalText/modFunctionTitle_openUIBuilding10005", "revision": "8f0b1e284018ff0a0b2a3e2e331f9c3fc13f935f4e2103a1309f726cc7447138", "ptbr": "Abre os dados da edificação de ID 162101 na [tabela Building10005]"}
+{"id": "LocalText/modFunctionTitle_openVillage", "revision": "f83f80a9e97ee9894d4151225c095959821995ad78fa9de5faa01300137b0fa1", "ptbr": "Abre a Vila da Dupla Perfeição"}
+{"id": "LocalText/modFunctionTitle_pastFilter", "revision": "a06bbba60388679967d51580f48961540c30cd13635a7d530c74392f37337ef1", "ptbr": "Liga o filtro de flash-back"}
+{"id": "LocalText/modFunctionTitle_pilferProbability", "revision": "b59402b575ddc59d1ee0799ca9eca68845fe44056230a400f8bf600af8e7d883", "ptbr": "Aumenta a chance de sucesso da próxima tentativa de roubo deste mês (o Reino do alvo precisa ser mais baixo que o do ladrão)"}
+{"id": "LocalText/modFunctionTitle_playBG", "revision": "28f59ea22117d00353d9117f7e5e5df08270ca0a8e5deee801924ab36ec4f274", "ptbr": "Toca o som de fundo"}
+{"id": "LocalText/modFunctionTitle_playMapEffect", "revision": "71a245bf6290a56dafaab1480e920abce6820b7b3e8979474ac2cf41fc9041b2", "ptbr": "Toca o efeito especial [xingtian] na grade atual"}
+{"id": "LocalText/modFunctionTitle_positionEvent", "revision": "981becaf784cd00e03f6fa3be5b326a03ccd7e97fea395d7f90177fdb41dd26d", "ptbr": "Cria um evento 1001 com a posição do personagem como origem, deslocado por 10,5"}
+{"id": "LocalText/modFunctionTitle_putTask", "revision": "219f4c36614001e69ed025c117ebb5cf756cf40706e729ffac9138ea2d49c3c4", "ptbr": "Entrega uma missão"}
+{"id": "LocalText/modFunctionTitle_regainAttr", "revision": "b7b6ce553fe83bec740c645b3da0e2ddd291201ea7041c8e3af4a5702b319ee3", "ptbr": "Define a Vitalidade, a Energia e o Foco atuais para os valores de antes da última batalha"}
+{"id": "LocalText/modFunctionTitle_releaseUnit", "revision": "99dbae3fa92756df47b8d912d736a2206572c5583b31216b58ee6f6c6cc498e4", "ptbr": "Solte o urso e garanta que o urso esteja morto antes de usar"}
+{"id": "LocalText/modFunctionTitle_removeFeature", "revision": "957622db078e973155b69731dedf8f01690f63c535d2104fe2ca5ab521e54ca2", "ptbr": "Abre a interface de remoção de destino (criação) que permite ao Jogador selecionar e remover um destino"}
+{"id": "LocalText/modFunctionTitle_revive", "revision": "0cd037ecb6c6b7069c3f0bddf4ac3644d0e48c04298930843ef06757dac61581", "ptbr": "Revive o personagem no lugar (só quando o Jogador morreu em batalha)"}
+{"id": "LocalText/modFunctionTitle_reward", "revision": "6807868aaaaa3104e54067767c0ef546422d04574712a44bcd1515dfb37e1ae7", "ptbr": "Gera item"}
+{"id": "LocalText/modFunctionTitle_rewardCount", "revision": "688e2f286919311fad1c086567a94d03584a5b899113bf9d596a1a9bd9cbb630", "ptbr": "Gera item"}
+{"id": "LocalText/modFunctionTitle_rewardGridArrtRange", "revision": "9920bf7f3512f34895d6d82b6af167b66e57c1c3637045d850f4b07c5d6a60bd", "ptbr": "Gera atributos especificados na grade sob os pés do Jogador (cultivo, mineração etc.)"}
+{"id": "LocalText/modFunctionTitle_rewardNPCBegMercy", "revision": "1f34858b8cced76a97312c599508479e1fbc3d5d498f4f1beda48f933af76198", "ptbr": "Chama o pacote de itens para implorar misericórdia. Quando o Personagem 1 implora misericórdia ao Personagem 2, gera diretamente os itens da mochila do Personagem 2 para o Personagem 1"}
+{"id": "LocalText/modFunctionTitle_rewardUnitArrt", "revision": "da1e380740306dde11c9e0a292e6cb86e1903aa971df76d2ee5fc429553fa7e7", "ptbr": "Gera lista"}
+{"id": "LocalText/modFunctionTitle_saveData", "revision": "9e53d4a1ca263a99984f7ad495269b6cbe782cb0191cc8520bac38962e619268", "ptbr": "Salva o jogo atual"}
+{"id": "LocalText/modFunctionTitle_setAttr", "revision": "1b8195c327b592dca95320f3ac3519e192a060679c303cd62ddbf7fd15d71eaa", "ptbr": "Define um atributo especificado para um valor especificado"}
+{"id": "LocalText/modFunctionTitle_setBuild10002NPC", "revision": "7ce2685247749a5178c68a085e71b6dd12ab0cec07125730b44ed87b67cab39c", "ptbr": "Substitui o NPC à esquerda na Vila Yukong pelo NPC 1001. Clique nele para abrir o enredo com ID 10001"}
+{"id": "LocalText/modFunctionTitle_setDramaUnitData", "revision": "afa1304435aeff4be2177ee6e319f5ba30ca4ffe66e7814ddc47e9f8a05e465c", "ptbr": "Define os personagens do enredo à esquerda/direita (NPC-A, NPC-B)"}
+{"id": "LocalText/modFunctionTitle_setEventObjData", "revision": "8b62c3fc52de105b3d9d5452bd6b540d0f9a89c257b6a9fe44b9aa9ed61708c1", "ptbr": "Configura os eventos 1001 como 4, sem rastrear o Jogador"}
+{"id": "LocalText/modFunctionTitle_setNPCPoint", "revision": "db4169bd5e5e35ce11844fa081dc8712d13494297216ed529f478b61458c9d3c", "ptbr": "Move o NPC para um ponto configurado na planilha de mapa"}
+{"id": "LocalText/modFunctionTitle_setPoint", "revision": "fd3490f65ac1cd779674108a25da3e8a5e8cecc708b07c2118447df5bd57e560", "ptbr": "Define a localização do Jogador"}
+{"id": "LocalText/modFunctionTitle_setPointInDecorateClassName", "revision": "abf0a2a6d5bfbfbbb8b989212860473d954fe85c9b0ec95732eb02209e03cfe9", "ptbr": "Move aleatoriamente para qualquer grade na classificação de decoração 102"}
+{"id": "LocalText/modFunctionTitle_setTaskData", "revision": "f85a84e55f25dcd74ca4fa440c40e2ccc702d9736f1cf283d9d47cf7f659d781", "ptbr": "Transfere os dados do NPC doador da missão para a missão"}
+{"id": "LocalText/modFunctionTitle_setWorldData", "revision": "558dcd0d0e2bbb03107e40b9f0e07975f487b8cc80b6f8174365ca645101aa83", "ptbr": "Configura os dados da chave especificada no arquivo de save"}
+{"id": "LocalText/modFunctionTitle_showEvent", "revision": "607dce38a12ffd3784979b3fb5ad368bb1b0b39d0b6933f6bccc168213cea3eb", "ptbr": "Mostra o evento do mapa-múndi com o ID especificado"}
+{"id": "LocalText/modFunctionTitle_sight", "revision": "7329b62f1ba7d9bba94eb2899fb2556edcb33526828b66a85a057153b1560949", "ptbr": "Mostra permanentemente o intervalo de visão específico centrado na posição atual"}
+{"id": "LocalText/modFunctionTitle_spriteClose", "revision": "3b08671b0ae87727251746399a2b39ab3c44449f2f91c86b09ff2892ba2d3161", "ptbr": "Aumenta a afinidade do Espírito de Artefato"}
+{"id": "LocalText/modFunctionTitle_systemTips", "revision": "c6b3ed7b4d537e6ce502f4baf89f6a899158637c3f2d40fae97de09e2b06de03", "ptbr": "Abre uma interface de dica"}
+{"id": "LocalText/modFunctionTitle_threatenNPC", "revision": "738f78fb39c89cc1899df0334bea75f0d7b9626abdfba6ca535c0db3f644c209", "ptbr": "O Jogador ameaça B e tem sucesso"}
+{"id": "LocalText/modFunctionTitle_townAuctionAddItem", "revision": "65e52090498f5239b9167ca6f00ce8e27e71d6c1723b45b40d639c072eda219e", "ptbr": "Adiciona itens e manuais especificados à casa de leilões da região especificada"}
+{"id": "LocalText/modFunctionTitle_transmitTaskTime", "revision": "365cf1915e1d37924f6fcfbf503d726a53983cbc572020ae401bdfa3f7c55707", "ptbr": "Transfere o tempo restante da missão 123 para a missão 234"}
+{"id": "LocalText/modFunctionTitle_unitLog", "revision": "1e93217db9a15f7a83119a7b89455563fe011b5bd45ca77bfb39823fde05dc3a", "ptbr": "Registra o log da unidade B"}
+{"id": "LocalText/modFunctionTitle_useAssignBuild10005", "revision": "95776ef1d1731dcc286219fea620959d585e8e091833b66df7af783a5f727b51", "ptbr": "Faz a edificação com ID 162101 na [WorldBuilding10005] ser considerada usada"}
+{"id": "LocalText/modFunctionTitle_useBuild10005", "revision": "3a019066b3f3071c858f052d40e1f85a81b34667008bb0c634da63c8173b82d6", "ptbr": "Faz a edificação de aventura na localização atual do Jogador ser considerada usada, eficaz só para [Building10005]"}
+{"id": "LocalText/modFunction_abClose_value1Name", "revision": "443fc8b4299d3d390f9cd328ec288cd24dbb42ab014062e88f392c4d7b4e8d35", "ptbr": "Personagem 1"}
+{"id": "LocalText/modFunction_abClose_value2Name", "revision": "68e03098ff3e2627413fdb96f46ff08187762312355b1f5c7846f10744184d04", "ptbr": "Personagem 2"}
+{"id": "LocalText/modFunction_abClose_value3Name", "revision": "438087caf0b3788cab0cd411075ebd1a8e158dc4944bcf6d3a8c8f6da36dd288", "ptbr": "Valor mínimo de aumento de afinidade"}
+{"id": "LocalText/modFunction_abClose_value4Name", "revision": "ebc00353f40bef5e21e1fc6ab1e92a329c77e1658412f8471b9dad49c0d3c311", "ptbr": "Valor máximo de aumento de afinidade"}
+{"id": "LocalText/modFunction_addAttr_value3Desc", "revision": "8033f937fb91e8eae456fb380160f5115bb26d8dfeed1e0d2a42683c37c75754", "ptbr": "Número positivo aumenta os atributos; número negativo os reduz."}
+{"id": "LocalText/modFunction_addAttr_value3Name", "revision": "95ca62c7d3204fc81e9fb83566dba7377680ed3e970ca45c590c78d2ddde93c3", "ptbr": "Atributos aumentados ou reduzidos"}
+{"id": "LocalText/modFunction_addExp_value2Name", "revision": "5186c63fdc707c09ba9994fca3bd56babd18012bae4c75c7343c1a62048ad486", "ptbr": "Valor mínimo aleatório (valor/porcentagem, pode ser negativo)"}
+{"id": "LocalText/modFunction_addExp_value3Name", "revision": "578f2b496e27e282eca4105b7ac70abb73636ab69345f2e8303d0a2dfcb9cba6", "ptbr": "Valor máximo aleatório (valor/porcentagem, pode ser negativo)"}
+{"id": "LocalText/modFunction_addGridArrtRange_value1Name", "revision": "af60c442ef1016d720a1f7b8d42d8d6cbbe8c806f7b8f4d81412bec932b55501", "ptbr": "Intervalo aleatório"}
+{"id": "LocalText/modFunction_addGridArrtRange_value4Name", "revision": "92329ca48facf3f47c0a796d610a2fa20c6b1d75471c90029b53d1ed12831b5e", "ptbr": "Valor a aumentar"}
+{"id": "LocalText/modFunction_addMastery_value2Name", "revision": "5ac9091653a8ddb332fe426c74218c026c491879ea2c4cabbd36d36f0ce64760", "ptbr": "EXP de proficiência a aumentar"}
+{"id": "LocalText/modFunction_addTargetAttr_value4Name", "revision": "f269a06f6bc0e884d5d2b2c45afe83f82551efafc8b9e669776fb7e3b2f70126", "ptbr": "Valor a aumentar"}
+{"id": "LocalText/modFunction_areaDungeon_value4Name", "revision": "d14fd18d5ff77d8f4b916a3b4ee130eace79ffbfa0a54cda1446783c46da65f4", "ptbr": "Deslocamento do nível da masmorra"}
+{"id": "LocalText/modFunction_battleSkillTrainUp_value3Name", "revision": "459d2371b0b8175e67e0a9f4e8239fcdd048a8bfd73aa5d52988c174f1d81457", "ptbr": "Valor a aumentar (EXP/nível)"}
+{"id": "LocalText/modFunction_callDrama_value1Desc", "revision": "0a46c85c731a1697a95dbbf67bf57b15a1a0961678852deb4f5275ad93637acf", "ptbr": "Você pode adicionar vários IDs de enredo. Entre todos os enredos cujas condições são atendidas, um aleatório será lançado conforme o peso."}
+{"id": "LocalText/modFunction_callDrama_value1Name", "revision": "caaef061262761562ca42bf296a5140bb6b1364ef22fde5cfdadef7ad6305383", "ptbr": "ID do enredo"}
+{"id": "LocalText/modFunction_chatUpClose_value1Name", "revision": "ba38346481c7ba70c4eb07a40553dd7b77699febe8677ecc09a66c59ad4ad198", "ptbr": "Bônus de afinidade a aumentar"}
+{"id": "LocalText/modFunction_clearEventID_value1Name", "revision": "b02e0b4c8b7ae43c1154b96b34090c46d98d92a264c9f4746ee3b67de144d648", "ptbr": "ID do evento a apagar"}
+{"id": "LocalText/modFunction_clearEventID_value2Name", "revision": "9b7ef6724a96f8bb6a1fde8f19d03c1c9256167f62b79c44bbf55569917230ea", "ptbr": "ID do evento a criar"}
+{"id": "LocalText/modFunction_clearFeature_value1Name", "revision": "5f2931d76b36a0bf45e0a4c8feacc665f74d9a8b6ccc0a8f6174b0205a59beec", "ptbr": "ID do Destino a apagar (-1 apaga todos os destinos negativos)"}
+{"id": "LocalText/modFunction_clearInEventID_value1Name", "revision": "34c0f1e93559e3c65600fb6ea6434b4ba7fcf214b954faf2815e61b2c1902381", "ptbr": "ID do evento sob os pés do Jogador"}
+{"id": "LocalText/modFunction_clearWorldData_value1Desc", "revision": "ab6cc75fc991f81f7583ef75cf59b5ae5446754a9de5724b374a6daa66bcb69e", "ptbr": "Frequentemente usado para marcar dados. Por exemplo, na [Aventura A], há um [Botão X], que carrega um comando que marca o Jogador com [Chave Y].\\n\\nEntão, você pode adicionar [Chave Y] à condição de acionamento da segunda [Aventura B], tornando-a disponível só quando o Jogador completou a [Aventura A]."}
+{"id": "LocalText/modFunction_clearWorldData_value1Name", "revision": "40f11ce7dd867979be399e28a8aa064b399d23bb9642b738b459b21503302a2d", "ptbr": "chave"}
+{"id": "LocalText/modFunction_createDungeonInRange_value1Name", "revision": "ced85797508913c37350feddca7f7cbc2842c1fa8f33680cd8daabcd2232b3c9", "ptbr": "Intervalo mínimo aleatório"}
+{"id": "LocalText/modFunction_createDungeonInRange_value2Name", "revision": "491609db2349b627d0a1493e45075622c591b60dc23b18d68d7a6375808e1b31", "ptbr": "Intervalo máximo aleatório"}
+{"id": "LocalText/modFunction_createDungeon_value3Name", "revision": "9f4c066ad5868a02c9886e5ea235173ab8e73b23548b4a797162511b6b34cef4", "ptbr": "Valor mínimo aleatório de deslocamento do nível da masmorra"}
+{"id": "LocalText/modFunction_createDungeon_value4Name", "revision": "40c30e1651a1d86ed2730a6396d657e3d825918f8284b701464faccf02be9fe4", "ptbr": "Valor máximo aleatório de deslocamento do nível da masmorra"}
+{"id": "LocalText/modFunction_createDungeon_value5Desc", "revision": "81ae2d5ea18db2ca8a30dde1ae46290ffbdb7253a0116f9cfb33b19d5570374b", "ptbr": "Quando o tempo se esgota ou a masmorra é limpa, a masmorra será apagada."}
+{"id": "LocalText/modFunction_createDungeon_value5Name", "revision": "4a596220fa070d6c08839dde092616d9274bf5f550b39f37e3d0555ac4e5ebaa", "ptbr": "Duração da masmorra (meses; -1 significa infinito)"}
+{"id": "LocalText/modFunction_createEventArea_value3Name", "revision": "f3056a00eb429c41a6093621ae25a0d773f6dfb42cf0e5603489b45f54b2dfad", "ptbr": "Distância mínima entre o evento e a edificação"}
+{"id": "LocalText/modFunction_createEventArea_value4Name", "revision": "38cfecef8ba3580310e7a1cedcfecb443f4551357e8736c57c6a7d790b72fe87", "ptbr": "Distância máxima entre o evento e a edificação"}
+{"id": "LocalText/modFunction_createEventInRange_value1Name", "revision": "c01354adeb8ed4951c2de365caa2e4f7def942c6ee04ef84c3cb5cda7760219c", "ptbr": "Intervalo mínimo aleatório"}
+{"id": "LocalText/modFunction_createEventInRange_value2Name", "revision": "7715dee3cb0f16c759994ee26209b8b7662b90b84059057ebdf4f7593027329a", "ptbr": "Intervalo máximo aleatório"}
+{"id": "LocalText/modFunction_createEventPointIngoreTree_value2Name", "revision": "11edf454ac8804c3f5804fcc20ff7033667849aa1b9b66b97af2aa63874d0de0", "ptbr": "Coordenada x do mapa-múndi"}
+{"id": "LocalText/modFunction_createEventPointIngoreTree_value3Name", "revision": "93dc992bf5e51ca670dea9a145afec160bdfcb99f6c30c99b7af908ed60a0bbd", "ptbr": "Coordenada y do mapa-múndi"}
+{"id": "LocalText/modFunction_createEventPointIngoreTree_value4Name", "revision": "efa627d2b7429a30c205963e86a9c67b40b59a761e029d414f06cc1537946b35", "ptbr": "Raio (formato de losango)"}
+{"id": "LocalText/modFunction_delItemID_value2Name", "revision": "4c2a94dc470933cf8542a139c36449dcbf11fc118fa1bd1f5ca223db423218bd", "ptbr": "Número de itens a apagar (0 significa apagar todos)"}
+{"id": "LocalText/modFunction_die_value1Name", "revision": "2e6898c484eafe36efcbfb9396d86ecd33151492422eaa263e97f351aea1768f", "ptbr": "Informação de morte"}
+{"id": "LocalText/modFunction_fleeNPC_value2Name", "revision": "fbcf908a4519d68e24b5e2558895895cc4bd5a91cad9a254b89fd40716f193f0", "ptbr": "Distância mínima aleatória"}
+{"id": "LocalText/modFunction_fleeNPC_value3Name", "revision": "ec2ba4d9b7bcfd1ac34cdc29b125e1ed831d01482329f8adb1aed303dc766446", "ptbr": "Distância máxima aleatória"}
+{"id": "LocalText/modFunction_forceTrains_value1Name", "revision": "fe6d3967fe35b4f76432d4514f3281f4fc8d63b645066dcd765923fc909d73df", "ptbr": "Personagem 1"}
+{"id": "LocalText/modFunction_forceTrains_value2Name", "revision": "405ece3bb79fe189fdee1becc2e5da1ad46956fd028b3208e261bd3dd5a55e7e", "ptbr": "Personagem 2"}
+{"id": "LocalText/modFunction_forceTrains_value3Name", "revision": "550444271d36a90e5c3533d075bc1d0d6945a892c0fe9e217d8d46660c36e450", "ptbr": "Afinidade a aumentar"}
+{"id": "LocalText/modFunction_intoDungeon_value3Desc", "revision": "304de2e2d785d623c4fa49f1932ae076616523dabdbd3ee0d49ac102b2d8e993", "ptbr": "O nível da masmorra é limitado entre 1 e 50. Cada reino corresponde a 5 níveis. Por exemplo, no reino de Fundação, o Nv. 10 é o mais difícil, e o Nv. 6 é o mais fácil.\\n\\nInformações do tipo de nível da masmorra\\n0- Nível fixo: digite um valor de deslocamento entre 1 e 50 para definir o nível da masmorra como um valor fixo.\\n\\n1: por exemplo, quando o Jogador está no reino de Fundação, o nível base da masmorra é 10. Se você digitar um deslocamento de -4, o nível da masmorra será 6.\\n\\n2: por exemplo, quando o Jogador está em Bai Yuan (Refino de Qi), o nível base da masmorra é 5. Se você digitar um deslocamento de -3, o nível da masmorra será 2."}
+{"id": "LocalText/modFunction_intoDungeon_value3Name", "revision": "5be847460d8311c65c8bdbaf3d9e5ab1d7f3cd856c1f64193fb4c6535b145bf6", "ptbr": "Deslocamento do nível da masmorra"}
+{"id": "LocalText/modFunction_itemQuantityTimes_value2Name", "revision": "6a38f3ea6c33f69f2d209c9cd699b9e0b8ed28ad1e397cbb9587531ec6916127", "ptbr": "Porcentagem a definir"}
+{"id": "LocalText/modFunction_itemSelectAll_value1Name", "revision": "19bf2478ce2def28734299ce3d2a55fdf9ae2047969b56d0f7bf5dfd289740f6", "ptbr": "Texto de dica da interface de seleção"}
+{"id": "LocalText/modFunction_itemSelectAll_value2Name", "revision": "58ed3a8b141bb9df09905b4eb6918c51ed151b0a8b37e100011d6db631cb250e", "ptbr": "Quantidade a selecionar"}
+{"id": "LocalText/modFunction_itemSelectAll_value3Name", "revision": "a19649ac5595715c1db01908fe628a89e8267bdec2ae6f62dbc6ccb17911d48a", "ptbr": "Se consumido após selecionado"}
+{"id": "LocalText/modFunction_itemSelectElement_value1Name", "revision": "1d6c7b7223e64eca20f17b860b1a43cc28dbc397d8a494b602059fa28933bb56", "ptbr": "Texto de dica da interface de seleção"}
+{"id": "LocalText/modFunction_itemSelectElement_value2Name", "revision": "fce90b0e0fba245545f3a1b7164174683f1c36943a03b047327ee03759e2347b", "ptbr": "Quantidade a selecionar"}
+{"id": "LocalText/modFunction_itemSelectElement_value3Name", "revision": "696ed5b1cf41a97e0293d4039da11e4670b3b7ca553eff8067958894a364e36f", "ptbr": "Nível mínimo do manual"}
+{"id": "LocalText/modFunction_itemSelectElement_value4Name", "revision": "00417f73d32562b244f4cf490ec44cbcc19cac85d512bf961052045a4995bc93", "ptbr": "Nível máximo do manual"}
+{"id": "LocalText/modFunction_itemSelect_value1Name", "revision": "d5adc47c4f42a1c5e0c3a554883b10f3bbd81f42acf1c81da493e57a391ec2be", "ptbr": "Texto de dica da interface de seleção"}
+{"id": "LocalText/modFunction_itemSelect_value2Name", "revision": "c2795262debffee9d0374de497d7806270e99d073a443b5e7e9a18227a9c5289", "ptbr": "Quantidade a selecionar"}
+{"id": "LocalText/modFunction_itemSelect_value4Name", "revision": "6bf38cedcd11aa8f4e88908f986a45b0c2bfffead670ceacdfe61275ab5dbfc6", "ptbr": "Classificações a restringir"}
+{"id": "LocalText/modFunction_itemSelect_value5Name", "revision": "cc31c9069049b8c91f119b365eb4ce5c5db1f51d34ae568689922dda4f5a44bb", "ptbr": "ID do item restrito à seleção"}
+{"id": "LocalText/modFunction_lookUnit_value1Name", "revision": "3d4dc073deea28328131d38cde3208a88df7d38b288c484711004a156ff66a2d", "ptbr": "Personagem a inspecionar"}
+{"id": "LocalText/modFunction_lootNpcSpecifiedItem_value4Name", "revision": "27396dddf828bd37dc883c0fca251a801c788e7112e366892456dd86d4ef69e2", "ptbr": "Valor fixo/porcentagem"}
+{"id": "LocalText/modFunction_lootNpcSpecifiedItem_value5Name", "revision": "7cc0ae792ab89458dc255fb219164fedabf58471906601b28e8bd855b354dbf4", "ptbr": "Limite de quantidade (-1 sem limite)"}
+{"id": "LocalText/modFunction_monthLostItem_value1Name", "revision": "e5c8370610f62e397b71746de9e014632fe25cd29b8843ce67feccdc0f0484b4", "ptbr": "Valor mínimo do número de itens perdidos"}
+{"id": "LocalText/modFunction_monthLostItem_value2Name", "revision": "f12621d2741aa9f86b97248233383632135c5d7fbfa07ef3c33f03b6a109ca3f", "ptbr": "Valor máximo do número de itens perdidos"}
+{"id": "LocalText/modFunction_monthLostItem_value3Name", "revision": "82c7475da67b8fc9b4ff4c3a0f2db9d21f62c3151cf3376e7e99d65848d0eff5", "ptbr": "Porcentagem mínima de itens perdidos"}
+{"id": "LocalText/modFunction_monthLostItem_value4Name", "revision": "412e47b17d289a5541c9febb7e77b0a7cb69866c99bb7fdf0e5f0bde7ff49165", "ptbr": "Porcentagem máxima de itens perdidos"}
+{"id": "LocalText/modFunction_moveTownsSite_value1Desc", "revision": "0956af42886907c1b65b50e43019e1b078cb0791e19ea784458f8e3d67e51beb", "ptbr": "O texto de dica que aparece depois de todas as cidades da região atual terem sido desbloqueadas"}
+{"id": "LocalText/modFunction_moveTownsSite_value1Name", "revision": "9cb35ddda50f883ccf7f780be56b84b1c364cd03c246903bd13563fd8f24fedf", "ptbr": "Texto de dica: falha ao abrir o campo de visão"}
+{"id": "LocalText/modFunction_npcDramaGive_value2Name", "revision": "1882d810365b4342146935dbcae381257a15398162ee4af3097e0a71b1b0330b", "ptbr": "Valor total (Pedra Espiritual)"}
+{"id": "LocalText/modFunction_npcDungeonReward_value2Name", "revision": "ad0775c2338d09be1dc112fe04cb81ac86fc1c505e9e7ffa32e8e1c31494c634", "ptbr": "Quantas vezes gerar"}
+{"id": "LocalText/modFunction_npcItem_value2Name", "revision": "5ad3c5b4e5d7e906172f3023792708b117b08deac09e82004d42beb58219b585", "ptbr": "Valor total (Pedra Espiritual)"}
+{"id": "LocalText/modFunction_pilferProbability_value1Name", "revision": "6fd0c2329aad2bd8683b9933ab96530bd9eee53fd10e9a30dae78bb422d60fe8", "ptbr": "Probabilidade de aumento (‱)"}
+{"id": "LocalText/modFunction_rewardCount_value1Name", "revision": "1e799aeee3dd8552d3f9a096c2153271cae2049672f674d93641815db170fe31", "ptbr": "Gerar item"}
+{"id": "LocalText/modFunction_rewardCount_value2Name", "revision": "057e5665258344eb264a57544b6b0631ddb48b59b8aa0723f9f138c854b42b73", "ptbr": "Quantas vezes gerar"}
+{"id": "LocalText/modFunction_rewardNPCBegMercy_value1Name", "revision": "fa845215975f81b966a434584c13cb2d5535f5f83a4b190454d824f423425e26", "ptbr": "Personagem 1"}
+{"id": "LocalText/modFunction_rewardNPCBegMercy_value2Name", "revision": "06555ce5f81f5d51239d92ca4a6fd4efa7f9a9a720f769ff121f490a21764f4e", "ptbr": "Personagem 2"}
+{"id": "LocalText/modFunction_setAttr_value2Name", "revision": "5285c8fc8ccfbcfe51f4b3288df74ecc8946c56bb603719e0713de6e624f4433", "ptbr": "Definir para um valor especificado"}
+{"id": "LocalText/modFunction_setWorldData_value1Desc", "revision": "a2aa9c7e501ff5d9103885a99fda9a3e98ff68872acbf82d43c5d41c36a4ee47", "ptbr": "Frequentemente usado para marcar dados. Por exemplo, na [Aventura A], há um [Botão X], que carrega um comando que marca o Jogador com [Chave Y].\\n\\nEntão, você pode adicionar [Chave Y] à condição de acionamento da segunda [Aventura B], tornando-a disponível só quando o Jogador completou a [Aventura A]."}
+{"id": "LocalText/modFunction_setWorldData_value1Name", "revision": "f6757987c512a45af4879238256596342332626983839308e660b6c0ddce7e8d", "ptbr": "chave"}
+{"id": "LocalText/modFunction_setWorldData_value2Name", "revision": "fb79fb8e8482f40ba8af0a480a89e2965fe0e18e96208592170d0f610662a82e", "ptbr": "valor"}
+{"id": "LocalText/modFunction_sight_value1Name", "revision": "0631ccce90f5b9ec54bb74cbbe60266bffb252a1d39e5392f31e62c157f2d11e", "ptbr": "Campo de visão"}
+{"id": "LocalText/modFunction_spriteClose_value2Name", "revision": "07ffb5d47063401eb3d1a6ac2264fa621083e580659c7cc44fb3c8864301fca6", "ptbr": "Valor mínimo de aumento de afinidade"}
+{"id": "LocalText/modFunction_spriteClose_value3Name", "revision": "55834171c38483b9d1059696a17772771aaf88dd18ae487886523981c511a9a0", "ptbr": "Valor máximo de aumento de afinidade"}
+{"id": "LocalText/modFunction_systemTips_value1Name", "revision": "abfe5fe7ab84c31a4e581559c622ece36f05605688a3a5520662e9e4a9a32af3", "ptbr": "Texto de dica"}
+{"id": "LocalText/modFunction_systemTips_value2Name", "revision": "35305c3ba1a7fbe0a415e6c16be47b26ac0844779474c9758c93065867d5ea12", "ptbr": "Duração (milissegundos)"}
+{"id": "LocalText/modFunction_townAuctionAddItem_value2Name", "revision": "40e7448e456084e3aa18195094ccac026a10fc440c61fcf35378984a00684b74", "ptbr": "Item"}
+{"id": "LocalText/mod_budakaijuqing", "revision": "533085315984340b5a7917943930629442ce30ed8ed520e666e7eceda67c368f", "ptbr": "Não lançar enredo"}
+{"id": "LocalText/mod_buxuanzheshijian", "revision": "b02b87ecf716d1c69a3bb8e653bd5da40b639927cef4823788f096bbba550281", "ptbr": "Nenhum ponto de história selecionado"}
+{"id": "LocalText/mod_buzhuaqunpc", "revision": "e1aab95448265f81a8dd90e303161dfc636f79f342ca4e31abb95c1f68611d56", "ptbr": "Não extrair NPC"}
+{"id": "LocalText/mod_danyao1", "revision": "7cceb7440bb9609866de24a6f2798a86371b382cb3d47b238d0ed3d54aa9f5bc", "ptbr": "Efeito do Elixir"}
+{"id": "LocalText/mod_danyao2", "revision": "50e7c32e17717e8c74d66129b4be9983bd1889c4f317ff609dfa906143974c87", "ptbr": "Efeito aplicado ao jogador depois de usar o Elixir."}
+{"id": "LocalText/mod_danyao4", "revision": "9b9dc6bec956aecbbe34065acfb2b0432845aac8f42d598ba993f75bce3ee02b", "ptbr": "Requisito de atributo para usar o item"}
+{"id": "LocalText/mod_daoju1", "revision": "edf809e7c6b4a21d6146dc56fc11d1376b374fadac3960a415f289d9aa5b94f2", "ptbr": "Item"}
+{"id": "LocalText/mod_daoju2", "revision": "5afb2fdc78202836f8aa214bf61f1e0c4cdc7d6d8d09cf5edebc4377d95259f7", "ptbr": "Nome do item"}
+{"id": "LocalText/mod_daoju3", "revision": "55006e2a78f6d85db8e7206532737c63196d6415b0180cf9c6631039b2fe831b", "ptbr": "Categoria principal da interface"}
+{"id": "LocalText/mod_daoju4", "revision": "c6017b08e97e2a6bdfad63b85f8d79a5b754832208978e95cae5c21498f55ea7", "ptbr": "Geralmente usado para exibição na interface e classificação de busca"}
+{"id": "LocalText/mod_daoju5", "revision": "f2d18c580974c207041a5b92085228b6d64cfde9f90be669b1eddfc3d099bc94", "ptbr": "Subcategoria da interface"}
+{"id": "LocalText/mod_daoju6", "revision": "a658dfe58e5daba67a215ace9e8c7794e08cf6c164bb52ec1625016259c9ce23", "ptbr": "Geralmente usado para exibição na interface e classificação de busca"}
+{"id": "LocalText/mod_daoju7", "revision": "6a13e7d285ac53c1e243d42604fadf756d9f2d0ef5f421f49c5e028cccdc8395", "ptbr": "Ícone do item"}
+{"id": "LocalText/mod_daoju8", "revision": "e50498ee8db1514854446c7f98f65ca908e5213bf7bf551e55638b53828410e8", "ptbr": "Raridade do item"}
+{"id": "LocalText/mod_daoju9", "revision": "47598afaad6c1d5f57c458b716dbe35fb5319f104c0d5c4e3e5b5b77b8ab72ec", "ptbr": "Descrição do item"}
+{"id": "LocalText/mod_daojubiaozhunchicun", "revision": "195c797423118b6a71d023a3a4604dee0795ba68204bf42f9453d73bc9d8c5c0", "ptbr": "O tamanho padrão do ícone do item é 60×60"}
+{"id": "LocalText/mod_daojutubiao", "revision": "9b6db4b78c8ffb932a52829162fcec6d79dde6db65f24fe9f4ff727a080197e2", "ptbr": "Ícone do item"}
+{"id": "LocalText/mod_ditudian3", "revision": "9e36cb2787cac63ac481efdb518c07fc52c0dba4be8f7dcf281341bb71ad3a84", "ptbr": "Região a buscar"}
+{"id": "LocalText/mod_ditudian4", "revision": "115bda86b6ceca95cca13238aff0d6d6e57079f143008048d8712c391d6f65d5", "ptbr": "Por exemplo, se você quer buscar todas as cidades, pode adicionar uma restrição para buscar só cidades numa região especificada."}
+{"id": "LocalText/mod_ditudian5", "revision": "8f19de54ba119fe66fef2eb53dcf9c96112d1de4d2ad66cee529df9537466529", "ptbr": "Coordenada x do mapa-múndi"}
+{"id": "LocalText/mod_ditudian6", "revision": "7c0e2eb88c4c94c8f5dc35ef402fa1e59fc0fab0d48693dd41db8653a7712626", "ptbr": "Coordenada y do mapa-múndi"}
+{"id": "LocalText/mod_dituweizhishuoming", "revision": "b792020fb7d1a2e5b663f4173d287daed91906e59e1356637d1d9ec6d5c2578e", "ptbr": "A localização do mapa-múndi é frequentemente usada em missões e aventuras, como a localização do alvo da missão (use a função de localização do mapa-múndi para achar a localização do evento especificado)"}
+{"id": "LocalText/mod_dituweizi", "revision": "007ee5bfa7f9e5b612d9aa2fc3682c1206038d82afb0847a28fc32efdb17f555", "ptbr": "Localização do Mapa-Múndi"}
+{"id": "LocalText/mod_duoxuan", "revision": "ac04beb05cd22ca73d4f7782d2be2110a559da0f9a8364398eccbea716100356", "ptbr": "(multiseleção)"}
+{"id": "LocalText/mod_jingjieid", "revision": "4f834418733a7f999f5548e65d2f2d217dd0671545277d50689983bf139b06a7", "ptbr": "Reino do personagem"}
+{"id": "LocalText/mod_jueshetiaojian", "revision": "3894db882abe3e8a4e36b7f363081b22b25703b525172399d1e5777d538ba51a", "ptbr": "Condição de personagem"}
+{"id": "LocalText/mod_jueshexiaoguo2", "revision": "c383b633fc6cee736de4e3a4c9dc8f63c8a2582c1f4da5d00b880c651d8dfb3f", "ptbr": "Efeito de personagem"}
+{"id": "LocalText/mod_kuangcaijiyi", "revision": "c99adae5844ec95646d2717a1392e934871f2dd5379cafff79a6cf6a52e029e4", "ptbr": "Artesanato de Mineração"}
+{"id": "LocalText/mod_kuozhangpeizhi", "revision": "7a7d38e1a476ec2119f06927e789ba6966e2f14b0af9117dca6f3c0137071b5b", "ptbr": "Expandir configurações"}
+{"id": "LocalText/mod_minglingliebiao", "revision": "be3629f7ce48072a3703835a57e3feae774a875201b1294fd6849cc739040792", "ptbr": "Lista de comandos"}
+{"id": "LocalText/mod_minglinglieboap", "revision": "e27a8b4ee2019f0837e69a4cbfbd62b7e1d14447f7129a0648e4b5ff90d9c6f9", "ptbr": "Lista de comandos"}
+{"id": "LocalText/mod_minglingshuoming", "revision": "fc98405fba57d5aff6f9de889d21c80584267d171ae3d028e71a4f633079b0c2", "ptbr": "Comandos são funções que podem ser usadas para lançar enredos, criar eventos do mapa-múndi, aumentar atributos, gerar itens e executar outras funções."}
+{"id": "LocalText/mod_npc", "revision": "2ba0a52f739a229b433b49bf0cf237d96554f3b6099a20a9058b6cac9491c2c1", "ptbr": "NPC"}
+{"id": "LocalText/mod_qilingid", "revision": "6676afcece89fc4e17a5d4a9a42e6d33b1fb049b97c7d19b4e04d5c54e98739a", "ptbr": "Espírito de Artefato"}
+{"id": "LocalText/mod_qiyushuoming", "revision": "404eedb6cd1edd8d821a42de2bccad1070c9ec6be09d8be7c1716885be281582", "ptbr": "Você pode usar Aventura para lançar enredos ou criar eventos do mapa-múndi e executar outras funções"}
+{"id": "LocalText/mod_qiyuzhuaqunpc", "revision": "cc437a26c4e5d6606488ae0ebcfa0ddeb96bdffce9469b251d5224a4d4da5423", "ptbr": "NPC extraído pela aventura"}
+{"id": "LocalText/mod_shijian1", "revision": "382e94a8541980be1542f5cf683f07db2aa0b57842ed072d50581382626a5ed9", "ptbr": "Nome do evento"}
+{"id": "LocalText/mod_shijian10", "revision": "af6471927ed84ebfe64213e7d3bdb63403deb904f6077269e5df2621decf98b9", "ptbr": "O comando a rodar quando o Jogador se move ao ícone"}
+{"id": "LocalText/mod_shijian11", "revision": "eb3318222ef0f9b528822e9d2a061a1b9217df9b5772c28d43aa6bb25d9370f8", "ptbr": "Enredo a lançar quando o Jogador se move ao ícone, mas a extração de NPC falha"}
+{"id": "LocalText/mod_shijian12", "revision": "8a4f439fedc39ac65b0e495dc62e7ad9ed8dba35bf8c792f1dbd8846e186a2b8", "ptbr": "Número máximo do mesmo evento (0 significa ilimitado)"}
+{"id": "LocalText/mod_shijian13", "revision": "1fd585fa202b94509ab64de76bccba561100cd6c7e9403dfdd40b67ffb86a48b", "ptbr": "Ícone exibido no mapa regional"}
+{"id": "LocalText/mod_shijian2", "revision": "cceef202aea23996e8f37da8739fc07ade8d57cbda21358399cee2f33a8b3295", "ptbr": "Ícone do evento do mapa-múndi"}
+{"id": "LocalText/mod_shijian3", "revision": "92911025cd05d4e20cf400263d068caf635523ee541cd663d3127b6224d4b47d", "ptbr": "Comando a rodar ao gerar o evento"}
+{"id": "LocalText/mod_shijian4", "revision": "6adef4096ca875802f01efd9e55b3192a5e185db759c9efd1fa92f5d8d38f08e", "ptbr": "Duração (meses; -1 significa infinito)"}
+{"id": "LocalText/mod_shijian5", "revision": "38576b1db2b76412c2a10928f5ddc87477ce5f5bc2767df0d194e038d44a6e35", "ptbr": "Quando o evento expira, é apagado automaticamente."}
+{"id": "LocalText/mod_shijian6", "revision": "aba81a6fb68057e1e6a0208dfbbc534d25283a722a5892261969cc77ed1d8a7d", "ptbr": "NPC extraído pelo evento (NPC-A)"}
+{"id": "LocalText/mod_shijian7", "revision": "18562ce8db4c2c4667090a824914296ba1356aac0bfd4d4fb42573c2fe1bd8d1", "ptbr": "NPC extraído pelo evento (NPC-B)"}
+{"id": "LocalText/mod_shijian8", "revision": "45971bc5b93a25c9e1f7eac80e0c765b60cc7349d29a0233c992a25ceb129d2e", "ptbr": "Quando a extração de NPC foi configurada, é preciso extrair o NPC com sucesso e movê-lo ao ícone para lançar o Enredo.\\n\\nExemplo 1: depois de extrair o NPC, você pode conversar com ele.\\n\\nExemplo 2: depois de extrair o NPC, ele entrará no Enredo. Você pode usar comandos para aumentar os atributos, Destinos etc. dele."}
+{"id": "LocalText/mod_shijian9", "revision": "e370d943da1d130021c1ec2aefd54e9b1276f275d2be845f441068618ebc7e83", "ptbr": "O enredo a lançar quando o Jogador se move ao ícone"}
+{"id": "LocalText/mod_shijiansuoming", "revision": "db20b30c6b102aa03c808984d9563a423930e513c37b23a2003672c4fed80535", "ptbr": "Os eventos do mapa-múndi são frequentemente aventuras (como [Garota Fugitiva] e [Vila Abandonada]). O Jogador pode se mover à localização do evento para acionar o diálogo."}
+{"id": "LocalText/mod_shijiantubiaochichun", "revision": "697a2929aca43287918e6ca963a876c0b5163b119dfbd7ce95d7f9b5ad62e6d6", "ptbr": "Só ícones de evento que ocupam um espaço podem ser adicionados (um espaço no mapa, tamanho padrão da imagem 120*120)"}
+{"id": "LocalText/mod_tianjiaxinde", "revision": "9dca556d7a31322aece9ceaa7d2b90345291b471dde0c12a35e4e0f5d4c892d3", "ptbr": "Editar configuração"}
+{"id": "LocalText/mod_tianqiid", "revision": "aa7eaaf7bed3ba445f62de3dcac46b52f56623c80cff1c70de7e6da2255d984d", "ptbr": "Clima do mapa-múndi"}
+{"id": "LocalText/mod_wenben", "revision": "0eeeb221047c7b329c27214998b1ca017bc032b37cfb496924825f8e6cf143cc", "ptbr": "Conteúdo de texto"}
+{"id": "LocalText/mod_wu", "revision": "e146ab35a590fe741f7a10fc35c63b9a53323ae8278c374720cf5ab62bf6f5d8", "ptbr": "N/D"}
+{"id": "LocalText/mod_xiaoditutubiao", "revision": "f9ef20db816e5fc47547d2d78bab6bf218b694730185b31bd9cdf27c1dc03e70", "ptbr": "Ícone do mapa regional"}
+{"id": "LocalText/mod_xiaoditutubiao2", "revision": "7b73d5570c2e9fcc8d328f046efa42dacb02f4eaa136ec309e86cc1640bc0743", "ptbr": "Depois de selecionar um ícone do mapa regional, a localização do evento será exibida no mapa"}
+{"id": "LocalText/mod_xingquid", "revision": "1d9d4db9b1da3f9efca5b308bca9ab72fabcaca648ac825c3dfc5b396a3b68bf", "ptbr": "Interesses"}
+{"id": "LocalText/mod_yaocaijineng", "revision": "153514a5d1945f57bf3c2f07c5bf274b41ddb055d9da8ff03e1bae9c579f8df3", "ptbr": "Artesanato de Ervas"}
+{"id": "LocalText/mod_yulanbiaoti1", "revision": "8fe7e4b8c9cc2cf752d5c988ff7bdeeb576606cd704aec3cd783a43636f36f7f", "ptbr": "Artefato"}
+{"id": "LocalText/mod_yulanbiaoti10", "revision": "d2508e564c42fe5d49492f787c96e137dd147521196645dafde9291fed7eeac9", "ptbr": "Técnica marcial"}
+{"id": "LocalText/mod_yulanbiaoti11", "revision": "07d5b393aad3f4efe565c84d0074680889cec763652105c9e3c7ec359e7c1da4", "ptbr": "Técnica de movimento"}
+{"id": "LocalText/mod_yulanbiaoti12", "revision": "33a8cc52c9b151dafd5716ccce09c0aedc0e46085e1b7da1e0f0798df505df6b", "ptbr": "Evento do mapa-múndi"}
+{"id": "LocalText/mod_yulanbiaoti13", "revision": "bb0a73e0b95dd7647570e3ca818447806151d8ff40fef0317df6b8e084dd9f1e", "ptbr": "Traços de caráter"}
+{"id": "LocalText/mod_yulanbiaoti2", "revision": "d23e87490915eb9316546a0f3fa5a5a842048419820c54359e44643e3fa8d659", "ptbr": "Monstro"}
+{"id": "LocalText/mod_yulanbiaoti3", "revision": "f110b3700e80cf9370e3ab4c74d6c55fdcda0442a7b8b033a09209786b5a2424", "ptbr": "Masmorra"}
+{"id": "LocalText/mod_yulanbiaoti4", "revision": "49871f5a6127845e08ec4f5c0f11f8bbc20032ab15f15f2bbd860d5fde2a819e", "ptbr": "Destino"}
+{"id": "LocalText/mod_yulanbiaoti5", "revision": "b5c8130dfcc482d9773475a84dc813e4c77bd64ee4b27d2b39a9a4631cb85438", "ptbr": "Missão"}
+{"id": "LocalText/mod_yulanbiaoti6", "revision": "f0bac8ecad605d4fba085c566e640d95394377ef34bbbe1312672eab101d3f03", "ptbr": "Região do mapa-múndi"}
+{"id": "LocalText/mod_yulanbiaoti7", "revision": "bf2d32755053075dd79402d9003395f69d3adddb156180dd0b1a8d07adb23b33", "ptbr": "Item"}
+{"id": "LocalText/mod_yulanbiaoti8", "revision": "3ccc2f715484d2810084061f19dc35316434aee696b3ca03b16593ea6789a4fb", "ptbr": "Enredo"}
+{"id": "LocalText/mod_yulanbiaoti9", "revision": "f0918e4851c3123e7627fe60791b7effa923b7e55d4e30fc3b9515176aab887f", "ptbr": "Técnica mental"}
+{"id": "LocalText/mod_zhiweishuoming", "revision": "d9163071c16c6c2bd50a85a9e0f30834de22491560135a3c38110cd2ead8d5b4", "ptbr": "0- Nenhum\\n1- Líder de Seita\\n2- Grande Ancião\\n3- Ancião\\n4- Discípulo Real\\n5- Discípulo\\n6- Discípulo Novato"}
+{"id": "LocalText/mod_zhuaqunpc1", "revision": "fcf87967eb29385405da768a431149b32bc5f4e4a35eba9603b60f640499631c", "ptbr": "Região atual do NPC"}
+{"id": "LocalText/mod_zhuaqunpc2", "revision": "2c3520e78360ff47469945840e570326b5d1d4bc037b922f7d214a4de2d5fcc7", "ptbr": "Requisito de Reino do NPC"}
+{"id": "LocalText/mod_zhuaqunpc4", "revision": "ec92a442f326f258b2f00bb8cd8950535ce99ba17ebd9d185cbad3475ec3a2d8", "ptbr": "O NPC precisa estar nesta região para ser extraído com sucesso."}
+{"id": "LocalText/mod_zhuaqunpc5", "revision": "cabd2d47e9e0cc47336d43a1b81000eb1b7f921e448f748cf8ee9cab69265780", "ptbr": "O NPC precisa estar neste Reino para ser extraído com sucesso."}
+{"id": "LocalText/mod_zhuaqunpc7", "revision": "a7cceafeed37d1f45bd0c30fd488ce63bf7706c6195e7f660bef162b74012886", "ptbr": "Condição de extração"}
+{"id": "LocalText/mod_zhuaqunpc8", "revision": "09373f31d29c9a7c70d268305fed54864ac14ed1896a0979cf738a4d9b59c030", "ptbr": "Exemplo 1: se a condição for [especificar a relação entre dois personagens], você pode configurar o requisito e buscar o par do jogador.\\n\\nExemplo 2: se a condição for [especificar o Reino do personagem], você pode configurar o requisito e buscar jogadores Transcendentes.\\n\\nNota: [Especificar o determinante XXX do personagem] refere-se aos NPCs que você extrai, não aos jogadores."}
+{"id": "LocalText/mod_zhuaqunpcmiaoshu", "revision": "dd11dbb60b7592fdfe20c192de72bf61a7ec38f2ff8286b9bdf6ca6625344440", "ptbr": "Extrai o NPC especificado. Frequentemente usado em aventuras e enredos.\\nPor exemplo: extrair os inimigos ou pares do Jogador."}
+{"id": "LocalText/mod_zhuauqid", "revision": "06f97392c2540c10df2771c7fb45e1e3bb64c9c03f95cc9754250c309aeb3c3f", "ptbr": "Extrair NPC"}
+{"id": "LocalText/mod_zhunbeizhuaqu", "revision": "c13575e80b6cc8e5b797a0f5b9d6d1592471ff483e0a3b5ef708575ce39b41af", "ptbr": "O NPC a extrair"}
+{"id": "LocalText/modditudian1", "revision": "16659490bf84771df51819cba63f63a60a6b7c0b769c81b34b02dbd2c2de270d", "ptbr": "Região atual do jogador"}
+{"id": "LocalText/modditudian2", "revision": "1366a902e1f8a05f829e19c210177af33e3388187fade0a22b031904ecf37c64", "ptbr": "Sem restrição de região"}
+{"id": "LocalText/modwu", "revision": "bba0e885ab9a3fd00d28a9db3cb096c4e51643ce783e6acaa7a03d23e677ed36", "ptbr": "N/D"}
+{"id": "LocalText/modwutubiao", "revision": "0e80da0ce487a53ea11a93b46b06bf4e66ecf7a98c614df0dc3c768970b7f1f3", "ptbr": "Sem ícone"}
+{"id": "LocalText/modwuyaoqiu", "revision": "45c7850c74f4e285fbb521b2a02a0d46e584ce544cb172d048164318383084e2", "ptbr": "Sem requisitos"}
+{"id": "LocalText/modwuziziyaoqiu", "revision": "9ce18ac28d1484694027359a68dd73b508eb380d349155dd90f2da3c22c7cf7d", "ptbr": "Sem requisito de atributo"}
+{"id": "LocalText/modzhuaqunpc11", "revision": "814b4c52a15e5496e18d07aa1268277e395ef231bed5bc31ccd1a1203f05fe66", "ptbr": "Sem requisito de região"}
+{"id": "LocalText/modzhuaqunpc12", "revision": "f068e0ef0aafa583d1af51eeb15b73dd94fffbc5fbce4bd6df94add1248968e2", "ptbr": "Mesma região que o jogador"}
+{"id": "LocalText/modzhuaqunpc13", "revision": "a16f5c4f6712896be0704706165cf64bac27032e92421dd8cd2e412f5999a260", "ptbr": "Sem requisito de Reino"}
