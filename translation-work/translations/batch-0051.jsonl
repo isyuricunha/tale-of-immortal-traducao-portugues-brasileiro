@@ -1,0 +1,500 @@
+{"id": "LocalText/mdo_debug1", "revision": "7a4699984e2287cdedce4f35689c0d547024116cff2d653a8cf7227f4d866fbf", "ptbr": "Ativar modo de depuração"}
+{"id": "LocalText/mdo_debug2", "revision": "8d05af568fd2a2c386bea2069da5351bbfd8b06914c1f2ef2200b50433bd20b7", "ptbr": "Depois de ativar o modo de depuração, mensagens de erro serão exibidas para depuração."}
+{"id": "LocalText/mdo_duogebiaotishi", "revision": "aa419d106aa2f41ed828ef7a2d9e5781f57186e09451767c2ce4a1e28ca5aad0", "ptbr": "A tabela de configuração [{0}] está aberta. Não é possível abrir várias tabelas ao mesmo tempo!"}
+{"id": "LocalText/mdo_tianjiaxinshuju", "revision": "20cf8d585bd83b964fcc0f41683e52ded133f8b85bdd8368a58f4f1e1b78a726", "ptbr": "Adicionar dados"}
+{"id": "LocalText/mdo_tianjiaxinshuju1", "revision": "530bbdd0f409f10549658e1150489e9ddf11e327eaa0161594d4d7078cc1a0b9", "ptbr": "Nova personalização pode ser criada para o conteúdo relacionado ao Mod"}
+{"id": "LocalText/modConditionTitle_abSchoolArea", "revision": "10d8b14c71c76bddbd4c9ff1d20c5a698f15ae3a660acc7f399844e2270fbc97", "ptbr": "Determina a região das seitas do jogador e do NPC-A"}
+{"id": "LocalText/modConditionTitle_abTroubleType", "revision": "3d5f8dc30401d0f914f2450503ed9f82d40c38445a1c8d6a694a6dcc5c27230c", "ptbr": "O personagem especificado tem as preocupações específicas?"}
+{"id": "LocalText/modConditionTitle_areaEvant", "revision": "19b0852c3bf0b3793da80bd87cdfb5953a081eaf3ef6da2c3a11cc76d4ea5c41", "ptbr": "A região especificada tem os eventos específicos?"}
+{"id": "LocalText/modConditionTitle_askRelationship", "revision": "5ddb826f21301d9643b99651517f8274742b8ff1d09a6bb9b0f0308777161537", "ptbr": "Determina quantos meses se passaram desde que o personagem especificado aceitou ou recusou o pedido de relação do jogador"}
+{"id": "LocalText/modConditionTitle_attrCompareItem", "revision": "baf93199a696adefc803b9196f2da0b89a9bbd9432772ea951300e6484866760", "ptbr": "Determina se o Reino da Montaria e o Reino do Anel do personagem especificado são mais baixos que o próprio Reino dele"}
+{"id": "LocalText/modConditionTitle_compareAttr", "revision": "fc3fc306caaf0b6f9692439312ccb9d30c6dfaab341bd10504c6c85b5b7ce105", "ptbr": "Determina os atributos básicos do jogador (Vitalidade, Energia, Foco, Saúde, Vigor, Humor)"}
+{"id": "LocalText/modConditionTitle_doubleTrain", "revision": "616655cbf14cfedd634b18909c726233b74f8fb8a1f92878d25282b6525037be", "ptbr": "Determina quantos meses se passaram desde que o personagem especificado aceitou ou recusou o pedido de Cultivo Dual do jogador"}
+{"id": "LocalText/modConditionTitle_downFeatureNum", "revision": "c10344c50d8ef6ed9e5b9587d8a925c71253e03f7646706433a0854f3b1a3fb1", "ptbr": "O jogador tem um número específico de Destinos positivos e negativos?"}
+{"id": "LocalText/modConditionTitle_inFlyBoat", "revision": "8d51ae3c9de893bea6bb74f96114de038605a6329df7a03d4fb4144012805503", "ptbr": "Determina se o personagem está no Barco Voador"}
+{"id": "LocalText/modConditionTitle_isRelocating", "revision": "6c37312fa27e261be40a55169545bdf84b4dc00570e8a1db89409e980719d7b8", "ptbr": "Determina se a seita está em realocação"}
+{"id": "LocalText/modConditionTitle_isSchoolPoint", "revision": "f44bae52709eb7c87c10966d600a926d7a01a391e55c5258bd79e25d4c62f595", "ptbr": "O jogador está na própria seita dele?"}
+{"id": "LocalText/modConditionTitle_nearSchool", "revision": "0d1efa788ecb5c5263d80088927273d613c20eb0515dc20fa191830418281bce", "ptbr": "Qual a distância do jogador até a seita dele? (em espaços)"}
+{"id": "LocalText/modConditionTitle_npcConditionExamine", "revision": "fe7d1b9f2676aea3ed8879d94e0cb2cda2dfc756687aa491f0c88bc54b60c8c4", "ptbr": "Captura a tabela de configuração de NPC e verifica se o NPC pode ser capturado"}
+{"id": "LocalText/modConditionTitle_postUnit", "revision": "cf7c3b881e1d4399929ff1bc2a76ec702b1615fd2ae80a6d38fb9eff3a92fb33", "ptbr": "Determina o cargo do personagem na seita"}
+{"id": "LocalText/modConditionTitle_roleFate", "revision": "79388cabce0c64ee7cbc98c8ba2b34bb7992055ecbef8852a2789658e85425c1", "ptbr": "Determina o estado do personagem especificado (Vivo, Morto, em Último Fôlego)"}
+{"id": "LocalText/modConditionTitle_sectLeaderClose", "revision": "fb4d65570439bf8368828086ed2a641884ce545d7393a8fff721b65aab285f9e", "ptbr": "Determina a Afinidade do Líder de Seita do jogador pelo jogador"}
+{"id": "LocalText/modConditionTitle_sectLeaderRelation", "revision": "1a8edc42bd4c6a4f7b6189ba9e518217de80c1f4955e7403c41d5a5cc5c5bd24", "ptbr": "Determina a Relação entre o jogador e o Líder de Seita dele"}
+{"id": "LocalText/modConditionTitle_superHero", "revision": "790845174e293cb104de9891e1c3e926257f148a7eaa5698ffc50746f183ae8f", "ptbr": "Determina se o personagem especificado é um Escolhido pelo Céu"}
+{"id": "LocalText/modConditionTitle_xxPost", "revision": "6ab0dd25d26ede360d60f4b7d1e57383d0f69d139b7f41c32e36377efabf751b", "ptbr": "Compara os cargos de seita dos Personagens 1 e 2"}
+{"id": "LocalText/modCondition_appellationNum_value3Name", "revision": "dd05fc3f3c1d32c4968c14fd0c1127a51897e6aa32d1401355985c9c861a5442", "ptbr": "Número de Títulos Taoístas a comparar"}
+{"id": "LocalText/modCondition_appellationUnlock_value3Name", "revision": "cad38b3f33f181297302b951bd1026f98d645de32dd12d706d14c3dda246ad25", "ptbr": "Já teve o Título Taoísta?"}
+{"id": "LocalText/modCondition_askRelationship_value4Name", "revision": "7116502bf76cb6edab1b005dcb1a93ec89b4756832c99fd71d41c445bd28fc8d", "ptbr": "Depois de quantos meses"}
+{"id": "LocalText/modCondition_asrtificeCount_value4Name", "revision": "39ae08423c36132fbec6bcdd3bca7058a7c0bf3b9ea0028f39ab919b3a83e281", "ptbr": "Número de vezes a comparar"}
+{"id": "LocalText/modCondition_championCombo_value3Name", "revision": "c01185412966454adefe761fbdab7c8c993c116487f95242e80b54009fac7759", "ptbr": "Número de mortes a comparar"}
+{"id": "LocalText/modCondition_checkAnimaWeapon_value2Name", "revision": "b273d6fb4c8f810436a6f1943ffa1b93de1f639b1ea93de696dc735e8709b5a6", "ptbr": "Possui?"}
+{"id": "LocalText/modCondition_doubleTrain_value3Name", "revision": "1ed4adc378d7f63dde00a3d8cfe74a2e0116e5f5a3af43b915cb63cd3c35a73e", "ptbr": "Depois de quantos meses"}
+{"id": "LocalText/modCondition_downFeatureNum_value2Name", "revision": "3c1e249a7c24070d4202fe907db8759f015c6b803050f7770e7ae9f795745b4f", "ptbr": "Número de Destinos possuídos"}
+{"id": "LocalText/modCondition_dressCount_value3Name", "revision": "b01f7f0180f7995fb2d82172410737d6b66270c459b4af9e6b6236429d9113e7", "ptbr": "Número de trajes a comparar"}
+{"id": "LocalText/modCondition_heresyCloseCompare_value1Name", "revision": "52304103ab8e94318e480ff0609a145a7c9fa9e988c3e06dd40fdb0f03361569", "ptbr": "Ordem Secreta 1"}
+{"id": "LocalText/modCondition_heresyCloseCompare_value2Name", "revision": "09e19daff300a9c47a8ff35fea89865b800fde56f7409ec9740cb725b009239d", "ptbr": "Ordem Secreta 2"}
+{"id": "LocalText/modCondition_heresyCloseCompare_value4Name", "revision": "374e923df1903fa8c05bb9423186d2059a897b6d10372a455d1460b1a66da2ee", "ptbr": "Valor de afinidade a comparar"}
+{"id": "LocalText/modCondition_heresyClose_value3Name", "revision": "a69b511889d182d36d3b6445fea020e6d26f9795ced6edb0e54f5642d474f4a2", "ptbr": "Valor de afinidade a comparar"}
+{"id": "LocalText/modCondition_isRevealHeresy_value2Name", "revision": "b0a3bc7a2109d1766257ae17206e22d8bf1d37eced9781e7a48ef6b60d44df2e", "ptbr": "Foi revelado como membro de Ordem Secreta?"}
+{"id": "LocalText/modCondition_isSchoolLevel_value1Desc", "revision": "5f3931dbb78bcc7d52154e618b1eab326cef5bd126dca04c876c741c7368c7b8", "ptbr": "A escala da Seita Pequena é sempre Nv. 1."}
+{"id": "LocalText/modCondition_isSchoolLevel_value1Name", "revision": "091f5764966d7dbcbbdca9c9392bc583ba46e5316417759eeef81ddfaca7f03e", "ptbr": "Escala da seita (Nv. 1-5)"}
+{"id": "LocalText/modCondition_moneyUseCount_value3Name", "revision": "fc8cfc24040c9242a3d0e6e1a9eae2b9d18a4d248b16818a558929f13bcd1f66", "ptbr": "Número de Pedras Espirituais gastas a comparar"}
+{"id": "LocalText/modCondition_nearSchool_value2Name", "revision": "d0bb9ff66dbe591d62ba8470bca43c65ef0c503f0aed87b461a03d6b6394c295", "ptbr": "Alcance"}
+{"id": "LocalText/modCondition_readBookCount_value4Name", "revision": "cccd4b7101812384fba6ff3327869e01a19f24713c06002207373d5ce7304c3e", "ptbr": "Número de livros aprendidos a comparar"}
+{"id": "LocalText/modCondition_readBook_value3Name", "revision": "6139b3176a2c3652237982267b224522af3ab825b8eeb782a993378189c3c46c", "ptbr": "Já estudou?"}
+{"id": "LocalText/modCondition_relationCount_value4Name", "revision": "b310f031af6e32264904391bf17213a04de6716ac46ee3108964d9e227a34de2", "ptbr": "Número de NPCs a comparar"}
+{"id": "LocalText/modCondition_schoolAttr_value4Name", "revision": "d014ba63c973caa47a3b7f8e52bab4e8e131ae9888739b3e540d2229d4680c39", "ptbr": "Valor a comparar"}
+{"id": "LocalText/modCondition_schoolBranchCount_value3Name", "revision": "df419374dc8bf94163282ebc36da7fb5f3a1e4d882c7c04c8c6de967751140ef", "ptbr": "Número de filiais de seita a comparar"}
+{"id": "LocalText/modCondition_schoolJoinCount_value3Name", "revision": "480215c6d916d2d5e9e75469c80a62715ca13b7c94d993fe663f8edc423674cc", "ptbr": "Número de seitas diferentes em que entrou"}
+{"id": "LocalText/modCondition_schoolLevel_value2Name", "revision": "b4499b80a5da5fbf55d66d4bddd58c3a0cb606122109e3f2b2c4acb02475f72d", "ptbr": "Valor da escala da seita a comparar (Nv. 1-5)"}
+{"id": "LocalText/modCondition_sectLeaderClose_value2Name", "revision": "030ad63642aeea8bc5f4832a436e62e102b74d21a556b9339adcfbef8074e85d", "ptbr": "Valor de afinidade"}
+{"id": "LocalText/modCondition_taoistHeartExist_value3Name", "revision": "2c8c2b27fc29a6c7b7643afbfc00e9e5982903fff399fa18e496f65f476a96a2", "ptbr": "Mente Taoísta quebrada por último por?"}
+{"id": "LocalText/modCondition_unitHasPropsItem_value4Name", "revision": "031f13521e82bfba523b81b62a657c8c2461eeda9af052c27ed67df88789879f", "ptbr": "Quantidade de itens a comparar"}
+{"id": "LocalText/modCondition_worldData_value1Name", "revision": "821434ed305ef9f624960e18f4c84cc790e8e7c59c79df61758811d8086577a0", "ptbr": "String única para “chave”"}
+{"id": "LocalText/modCondition_worldData_value3Name", "revision": "89e4236a028e8e960e795f5a1cdf31c76c4183491aa606ff51fd57f76a9d3837", "ptbr": "Valor a comparar para “valor”"}
+{"id": "LocalText/modEffectType3Title_boutExhausted", "revision": "b16b08ad9e780ee2953ef40d67433b2871d36ab95c69176941984c9e31bcf310", "ptbr": "Quando o turno se esgota"}
+{"id": "LocalText/modEffectType3Title_doubleReduceDaoxin", "revision": "37c54568188951fb0d7a701c3117478542ef6091861037c15b87c5fe22725591", "ptbr": "Perda de Mente Taoísta dos NPCs Escolhidos pelo Céu ao serem Humilhados (em %)"}
+{"id": "LocalText/modEffectType3Title_equipSkill", "revision": "837f39b000256af8537011144ac9c40815d3a1beae8ba28fcd0b2eac8f001def", "ptbr": "Cada técnica equipada do tipo especificado aumenta o Atributo especificado"}
+{"id": "LocalText/modEffectType3Title_giveCloseStable", "revision": "b712e5445699b192240e4774b85d506370b8de4e59f8ffc5b44c800db5442df7", "ptbr": "Acelera a Velocidade de Mudança de Afinidade quando NPCs aceitam presentes"}
+{"id": "LocalText/modEffectType3Title_killNpcReward", "revision": "2c01845eca82d1661d973214a132feda8e756fcd02372b794fb56938d5d007c0", "ptbr": "Concede uma chance de ganhar itens da lista de produção quando o personagem mata um NPC"}
+{"id": "LocalText/modEffectType3Title_monthProbableReward", "revision": "19efaea2bb825672ad9d8d34fe53c6c7e763830e94a46712fd9574a91f0756be", "ptbr": "Concede uma chance de ganhar itens da lista de produção todo mês"}
+{"id": "LocalText/modEffectType3Title_notTopUpGrade", "revision": "f863201e600998387e85671ad43f065231b04e8ac15ea7932c83b5778a25c1e7", "ptbr": "O personagem não poderá fazer Rompimentos pelo Caminho Celestial, mas as escolhas de Destino Reescrito disponíveis nos Rompimentos serão sempre do nível mais alto. (por exemplo: Fusão de Espírito III estará disponível sem precisar de Fusão de Espírito I aparecer primeiro)"}
+{"id": "LocalText/modEffectType3Title_schoolMoneyAdd", "revision": "4f1f85fe2e79e1d923e81d9e1ffb20b21316797fc8eede88e3dc96fa64a614d0", "ptbr": "O Salário mensal da Seita aumentará em uma certa porcentagem"}
+{"id": "LocalText/modEffectType3_doubleReduceDaoxin_value1Name", "revision": "a94eeac08d258698adea89919ba0e4f9f305c912fef5e90651a24bbf0c604557", "ptbr": "Mudança de atributo (em %)"}
+{"id": "LocalText/modEffectType3_giveCloseStable_value3Name", "revision": "10e3aff8e60b0101a448cdf1711c09a7ecc59b3b62ee0f539e711b5ded75c1ee", "ptbr": "Valor aumentado"}
+{"id": "LocalText/modEffectType3_killNpcReward_value2Name", "revision": "ba49701c9ead2b4afa22876bdef653104e4f6342df669cec88ae25f05cd7b070", "ptbr": "Chance de acionamento (em %)"}
+{"id": "LocalText/modEffectType3_killNpcReward_value4Name", "revision": "69946e84ea572987979514e4feb201f10d5e4ab3906099fc683763a19c8f6394", "ptbr": "Número de produções"}
+{"id": "LocalText/modEffectType3_killNpcReward_value5Name", "revision": "1d84793093368d89d3f4833618224d3aa6c56de9a3da94a5a85dd9e28f1f9bcd", "ptbr": "Intervalo de acionamento (em meses)"}
+{"id": "LocalText/modEffectType3_monthProbableReward_value1Name", "revision": "779130f131b8dc870e80e04e81b866dd36a11c29484846aa24520cc03ec3fa36", "ptbr": "Chance de acionamento (em %)"}
+{"id": "LocalText/modEffectType3_monthProbableReward_value3Name", "revision": "20d6cead7280e3938f1cf7ecfe097d8fcc50f9654f282404b29f4b03a1f3eed7", "ptbr": "Número de produções"}
+{"id": "LocalText/modEffectType3_monthProbableReward_value4Name", "revision": "2e52ac8ec286c3af09c60488dd915a24e0693bffabffadb3a88e57d3391ed5ad", "ptbr": "Intervalo de acionamento (em meses)"}
+{"id": "LocalText/modEffectType3_notTopUpGrade_value1Name", "revision": "5979401c7869276f5b83f42a6bacd206a40d2e66065fa00e6b10eda483088438", "ptbr": "Reino mínimo eficaz"}
+{"id": "LocalText/modEffectType3_schoolMoneyAdd_value1Name", "revision": "79538e699a341c6bc61565347d0029f9f77b55b0c47255b5ff8ff3454ba3bc10", "ptbr": "Aumento do salário (em %)"}
+{"id": "LocalText/modEnum10080EnumName1", "revision": "585ecfd5f51e179fd6fdf454739bca8fa4e9d91e27e70b1b810a7dc4c76ef91d", "ptbr": "1-Localização fixa, evento criado aleatório"}
+{"id": "LocalText/modEnum10080EnumName2", "revision": "a2309eba70c1efb817cf10397b092209b95c2219de6c3289c48d5e4dee277376", "ptbr": "2-Evento criado aleatório na região"}
+{"id": "LocalText/modEnum10080Title", "revision": "c39adc9333fbeff2165ae31a9aac44f1ceac0d07243b69fcbf0f054eeade2a42", "ptbr": "Tipo de renovação do evento"}
+{"id": "LocalText/modEnum10081EnumDesc1", "revision": "2c8a6c2726507fab2c82c39d36d216a93910820dbe675723ad4d92665a722a66", "ptbr": "Normalmente não é preciso configurar Missões Principais, a menos que você queira personalizar a Missão Principal por meio de Aventuras."}
+{"id": "LocalText/modEnum10081EnumDesc4", "revision": "e49c0f8ec7980e7b39c456c005fecf00b55901f113b2fc78b308de7615e4337c", "ptbr": "Missões de Aventura são Missões Secundárias, e este tipo de missão é normalmente usado para Missões de Aventura."}
+{"id": "LocalText/modEnum10081EnumName1", "revision": "468ab53f0eaaab8be0dad8cdd8dae6f42b0e18f16364d4817d91e0b36adee3a1", "ptbr": "1-Missão Principal"}
+{"id": "LocalText/modEnum10081EnumName110", "revision": "557d83a1f33066fab74c98c4a69a8ec77b97a438f730dc092cffa68acd328c0f", "ptbr": "110-Missão de Enredo"}
+{"id": "LocalText/modEnum10081EnumName4", "revision": "ec0961b3a6ad3715469fdb1461765711b21e07d40745e198ff000ae479243f1d", "ptbr": "4-Missão de Aventura"}
+{"id": "LocalText/modEnum10081Title", "revision": "aa81d02ad24bfd1ebab9842650f73c198e20565aded7f13b986fe08f0420fbad", "ptbr": "Agrupamento de missões"}
+{"id": "LocalText/modEnum10082Title", "revision": "31bfbfb74e17d05a65ef20b8b8293d473d14cff2695c1cede65b0527a73ede7b", "ptbr": "Tipo de missão"}
+{"id": "LocalText/modEnum10083EnumName1", "revision": "bd0dc4ed319674468972fbd0b01c7ed15d7ef1d15b804e2259703c97fdc0b5c8", "ptbr": "1-<g>Fácil</g>"}
+{"id": "LocalText/modEnum10083EnumName2", "revision": "3c0d0a97bc536e790b5b05d223f5adab38d6f53f26675a8187d75fbe1ab47217", "ptbr": "2-<b>Normal</b>"}
+{"id": "LocalText/modEnum10083EnumName3", "revision": "6303f0c351d939245a704502f6e94c98128470d2b52c47bbdca6d1e0c0dcdf77", "ptbr": "3-<p>Difícil</p>"}
+{"id": "LocalText/modEnum10083EnumName4", "revision": "a49ce8b7bb76d3f1b808fb66fec01f5f9e44deb8abc85fa1ea9b8c5725367135", "ptbr": "4-<y>Pesadelo</y>"}
+{"id": "LocalText/modEnum10083EnumName5", "revision": "d5f1a7f8315d39fb686efe8d5151528b295ba794d9901796760b6b17c8fcf6e5", "ptbr": "5-<r>Inferno</r>"}
+{"id": "LocalText/modEnum10083EnumName6", "revision": "989e798739756e5082fdcaae2a5bbc73c17a24152b9aa760c5546347ed763571", "ptbr": "6-<r>Inferno</r>"}
+{"id": "LocalText/modEnum10083Title", "revision": "8098722ce1c73ffa5cb4d721cdcac314913bd9c817e466044cec6fad55eb8631", "ptbr": "Nível da missão"}
+{"id": "LocalText/modEnum10084EnumName0", "revision": "f8ab7bd727840a8fc9858dccbcb1fc6bd64e835db2e39a72eeaa9ca28703b6bb", "ptbr": "0- Falso"}
+{"id": "LocalText/modEnum10084EnumName1", "revision": "0f4968e97bc1fbb44f31f508583fefffa617c125eb860b576d3cd4470e1305d9", "ptbr": "1- Verdadeiro"}
+{"id": "LocalText/modEnum10084Title", "revision": "5ca9239db8c72aadbbe4b286d9875d562a1f11b38524c2d275fc5a1fe8e187e3", "ptbr": "Desistir?"}
+{"id": "LocalText/modEnum10085Desc", "revision": "1a0a45c394a9a4bfbfb3db12f904839e01d6055afdccc1573b7ac1bdcfbbbed7", "ptbr": "Quando um pop-up é configurado, um aviso de interface aparece ao aceitar uma missão: Missão aceita XXX"}
+{"id": "LocalText/modEnum10085EnumName0", "revision": "3d163effc52818d1bae8c45b7d638fbd07e217794b393cb3c12970729237ea38", "ptbr": "0- Falso"}
+{"id": "LocalText/modEnum10085EnumName1", "revision": "5807882c3770657a78b16abe40a5e0df02c35e1498e9486d5d996a2141487db2", "ptbr": "1- Verdadeiro"}
+{"id": "LocalText/modEnum10085Title", "revision": "a8373eccfece356a146c0e28f46bd08c60afbe352bbe3fe313023dec54d011b4", "ptbr": "Se o aviso da interface aparece ao aceitar ou completar uma missão"}
+{"id": "LocalText/modEnum10086Desc", "revision": "1d65988fcf737b8a4035e746a8f18994472d5b85f09afc0036348f05a25d1cf2", "ptbr": "Define qual interface usar ao abrir o enredo. Por exemplo: interface de diálogo de personagem, interface de pequena ilustração de Aventura e assim por diante."}
+{"id": "LocalText/modEnum10086EnumDesc1", "revision": "1a83f2ef72a130c10e891628fe53bf16816383f4ad33529eae4467fad9b07036", "ptbr": "Interface de diálogo com personagens à esquerda e à direita, normalmente usada para Enredos de personagem."}
+{"id": "LocalText/modEnum10086EnumDesc2", "revision": "4d4c70e8c2553324baf82948d0da0fefe9a475aebecb31f3e2d0ccf8ccf0756a", "ptbr": "Interface com pequenas cenas, normalmente usada para Aventuras"}
+{"id": "LocalText/modEnum10086EnumDesc3", "revision": "104c09360216d6c2f63bea07a9cef432555fd0d13a421382608beb0199fc2ae3", "ptbr": "Interface de fundo grande em exibição total, normalmente usada para grandes enredos"}
+{"id": "LocalText/modEnum10086EnumDesc4", "revision": "941b1782e86bb1ebf17d1dfd404ce6644692bc4609edeeed9f5f254a14306907", "ptbr": "Interface de diálogo com personagens à esquerda e à direita, normalmente usada para Enredos de personagem."}
+{"id": "LocalText/modEnum10086EnumDesc5", "revision": "a5437d1a7b5b889278f5aa34a18cf1766c1f289dbb8c9e25477e1b362d073dcf", "ptbr": "Interface de diálogo com personagens à esquerda e à direita, normalmente usada para Enredos de personagem."}
+{"id": "LocalText/modEnum10086EnumDesc6", "revision": "6b51b9a04f29b0ca0789c189da0cbb9f66bc11ca4bebc090cca942edfe0dc716", "ptbr": "Interface de carta, sem opções aparecendo"}
+{"id": "LocalText/modEnum10086EnumDesc7", "revision": "0cada884d838ca78e950b61f3aab339473979d352e514d1a481a486eb6d4fcb3", "ptbr": "Interface de diálogo com personagens à esquerda e à direita, normalmente usada para Enredos de personagem."}
+{"id": "LocalText/modEnum10086EnumDesc8", "revision": "d092dd1b8667f965b4e877e3f9f87d05a4ecab1e13fe9e4c1cff0daabc09c030", "ptbr": "Interface de carta, sem opções aparecendo (textura de seda)"}
+{"id": "LocalText/modEnum10086EnumName1", "revision": "63dd92f4755c73409a9c27fb4d74b842f3a6419cfecd3d04b37ca5fea0cae5ce", "ptbr": "1-Caixa de diálogo normal"}
+{"id": "LocalText/modEnum10086EnumName2", "revision": "ce8db453410f4f2c192386cdde1deb1c1e71cf0a91d5f2c05865144a6d68a679", "ptbr": "2-Cena de Aventura"}
+{"id": "LocalText/modEnum10086EnumName3", "revision": "cd7a74084fec555b67299e664b8437f51cb05549dd9403df858e56e1e35121c5", "ptbr": "3-Imagem de Enredo em tela cheia"}
+{"id": "LocalText/modEnum10086EnumName4", "revision": "9d396c70d9818727cbdecdfe6fbe3d20b8596f137623b07c5ceaad4006e16f26", "ptbr": "4-Caixa de diálogo de Espírito de Artefato"}
+{"id": "LocalText/modEnum10086EnumName5", "revision": "ce94d651a079f08a58ce8a5236ddb2353dca25e94ced07dcd6732a45e953a588", "ptbr": "5-Caixa de diálogo de Espírito de Artefato (sem personagem, sem botão)"}
+{"id": "LocalText/modEnum10086EnumName6", "revision": "d308f5ca1812a7e7055bb35fa58252c09d00f793857d5af189830f4e4417389d", "ptbr": "6- Carta"}
+{"id": "LocalText/modEnum10086EnumName7", "revision": "04d5feab6d613fca2c837de47cafef184cf45da1abf335be1b1ffdcf2421e8bd", "ptbr": "7-Caixa de diálogo de Ordem Secreta"}
+{"id": "LocalText/modEnum10086EnumName8", "revision": "3f598163669679704ebba963363fdb2af4823faed07f9be0af742f00f88f0af5", "ptbr": "8- Carta (textura de seda)"}
+{"id": "LocalText/modEnum10086Title", "revision": "8540b962c518af7b18694cc29edd9ea05ea56525435228976060f913286c48c4", "ptbr": "Tipo de interface para o Enredo"}
+{"id": "LocalText/modEnum10087Desc", "revision": "4cf1b6bdfc173e513aa05d892514c9dae99fa549c4a745cf2db87d29ccb8951e", "ptbr": "Os personagens que falam serão destacados, e os que não falam ficam em meia-luz."}
+{"id": "LocalText/modEnum10087EnumName1", "revision": "4ff9d7fb24b3627861532d228ed3425f498ca1be6d30300d3f48a314cbc5eecc", "ptbr": "1- Personagem à esquerda"}
+{"id": "LocalText/modEnum10087EnumName2", "revision": "514fdfdf9be8ee29c2af0a81ff2773d5d12669264316a1653678d50f14dd08cb", "ptbr": "2- Personagem à direita"}
+{"id": "LocalText/modEnum10087Title", "revision": "e02df66966657f8ad00c4fe05ddad5d8afcdb69fcb97ef572fb60954ff4e5b25", "ptbr": "Personagem falando atualmente"}
+{"id": "LocalText/modEnum10088EnumDesc11", "revision": "6d1818977ae730e0f5392cafcfab4f870609b285717809c6e90e00a145eea8f5", "ptbr": "Esta opção só pode ser usada se NPCs extraídos forem importados, como NPCs extraídos de Aventuras e de eventos do mapa-múndi."}
+{"id": "LocalText/modEnum10088EnumName-1", "revision": "1ccecd6e82d78f1e9ad5061fa82ff7c1079595af7bc2e3b46958af16f8ec8fa6", "ptbr": "-1 Personagem não exibido"}
+{"id": "LocalText/modEnum10088EnumName1", "revision": "607d1bb376ffd935fd82504456da8e355fc600a26c0fcc40cdcbf25121a16d1a", "ptbr": "1 Exibir jogador"}
+{"id": "LocalText/modEnum10088EnumName11", "revision": "4df724da4e4b6e3e177485e0df84ffb1c814f346e7afada13fef96a931bc9384", "ptbr": "11 NPC extraído pelo evento (NPC-A)"}
+{"id": "LocalText/modEnum10088EnumName12", "revision": "d198fa861582f11cff86b39036f2e8d1a77e59da59eda58615b894f8036c0041", "ptbr": "12 NPC extraído pelo evento (NPC-B)"}
+{"id": "LocalText/modEnum10088Title", "revision": "438bdad095b0eb004368fe59ce5be6f867a47aa15c82441c274000b21deae2e6", "ptbr": "Desenho de corpo inteiro em pé do personagem"}
+{"id": "LocalText/modEnum10089EnumName1", "revision": "8795da680a9e1c629d62489df1e84420ce1825f72b68b4e02866dd7042f92357", "ptbr": "1-Desenho de corpo inteiro em pé de personagem (Jogador, NPC)"}
+{"id": "LocalText/modEnum10089EnumName2", "revision": "b506f743925a6986e194685ec3e9f2d2f94eaedbc20db5bd600dd07b66a85b08", "ptbr": "2-Desenho de corpo inteiro em pé de Enredo (Jingwei, descendentes etc.)"}
+{"id": "LocalText/modEnum10089Title", "revision": "8c66c717ee9788226db7fb727fd3d74a69936f1cc74125f2c00e3d63d310bd77", "ptbr": "Tipo de exibição do desenho de corpo inteiro em pé"}
+{"id": "LocalText/modEnum10090EnumName0", "revision": "5f61fc5abfe172cb2241d65ec45e2eea884f97859f67c88d763aed886756d7b3", "ptbr": "0- Uma localização aleatória na área correspondente ao Reino do NPC."}
+{"id": "LocalText/modEnum10090Title", "revision": "90d6456e17680db752de994326a666c7ec9771c54ff46591b5e57e726610ec9a", "ptbr": "Tipos de localização de inicialização"}
+{"id": "LocalText/modEnum10091EnumName0", "revision": "ae4aa1161293afe186a6969aae2bbdb544c7b90a948abb612785f319384adf23", "ptbr": "0-Mesmo Reino que o jogador"}
+{"id": "LocalText/modEnum10091EnumName1", "revision": "0d7cf94c36c7412cd02630ba0f91d3794bfb11ec6a51bb4430657b5074a49988", "ptbr": "1-Numa área fixa ao redor do Jogador"}
+{"id": "LocalText/modEnum10091EnumName2", "revision": "5a20ad1ff1acb1808edaeca0d908f4db2edefa8170018afe113317ed659afcc2", "ptbr": "2- Uma localização aleatória numa área especificada"}
+{"id": "LocalText/modEnum10091EnumName3", "revision": "9ed30597260e3c99a75f108a118dd93aa7339a18ee0189561c05fd47a49da156", "ptbr": "3- Na Seita, se houver uma"}
+{"id": "LocalText/modEnum10091Title", "revision": "52b6684fc2ff2b2a1e357894e87091c593cf5dc3dc7c6481bc341fbce55ae40e", "ptbr": "Tipo de Reino"}
+{"id": "LocalText/modEnum10092EnumName0", "revision": "8da2106c3362c353e820012e9ec259cd70d36b1c4277426beb06d2bb782cb762", "ptbr": "0-Aleatório"}
+{"id": "LocalText/modEnum10092EnumName1", "revision": "13c745ea6df22678a9f3c265796cba3b2144fa69a898658fda702a567d657317", "ptbr": "1-Masculino"}
+{"id": "LocalText/modEnum10092EnumName2", "revision": "b9d2e4f15b1893d5bf3bbe7efc19b2cc5bf6e5648f2607deb4864f6219afd6df", "ptbr": "2-Feminino"}
+{"id": "LocalText/modEnum10092Title", "revision": "3ea683c677f910043d282751ff0347e302e25cdbeaf1a8a52395807a8b31ff5c", "ptbr": "Gênero"}
+{"id": "LocalText/modEnum10093EnumName1", "revision": "4646f5395618fba457e43490a401c01b26f6014bd4e87d540231f72aef34542c", "ptbr": "1-Pai"}
+{"id": "LocalText/modEnum10093EnumName10", "revision": "a3aac729d92695b6481d7cd3e512321b4521472970157c07112c4cf44c4074fd", "ptbr": "10-Mestre"}
+{"id": "LocalText/modEnum10093EnumName11", "revision": "cf7e0d28b57d24d7f637c30c6237f1c61818bc140cabeaaf195a98f6472146af", "ptbr": "11-Aprendiz"}
+{"id": "LocalText/modEnum10093EnumName2", "revision": "a564115228b0e6fa43bbb0df326f5443978d6f5d3c66108de27363345c0e44fe", "ptbr": "2-Filho"}
+{"id": "LocalText/modEnum10093EnumName21", "revision": "dca4d6f2d4d960b2d9c13e17745cec435523f0faee5d183523a3e52e5a931033", "ptbr": "21-Amigo/Inimigo (controlado pela Afinidade inicial)"}
+{"id": "LocalText/modEnum10093EnumName5", "revision": "08fada6b9cb4bdb1728b83dd53a0c1803b3b55e780ac69cb98bae6013e992405", "ptbr": "5-Pai Adotivo"}
+{"id": "LocalText/modEnum10093EnumName6", "revision": "b6b2eb8282193627d066de194af9ea6e78a4052ae0ffe31c162041a91d68d6cd", "ptbr": "6-Filho Adotivo"}
+{"id": "LocalText/modEnum10093EnumName7", "revision": "e96f90b407d91c301975cf17f74c503ec125a73929b5fe74fa1b56e0017fa401", "ptbr": "7-Irmão Jurado"}
+{"id": "LocalText/modEnum10093EnumName8", "revision": "7b3df8b695e92c3b91bd3d724a37d53bc3ddf5d2bb17dbb3f271f1a57dbcc398", "ptbr": "8-Cônjuge"}
+{"id": "LocalText/modEnum10093EnumName9", "revision": "facb0a0146a04093e173321851b1978390de8953a08ef395be99d182241d3ca7", "ptbr": "9-Par"}
+{"id": "LocalText/modEnum10093Title", "revision": "28ace03b8aaa19dee31fafcc215b27b18f49585bd8222ce8dc43c7c1fadb2b92", "ptbr": "Tipo de relação"}
+{"id": "LocalText/modEnum10094EnumName0", "revision": "fe708fafabd66befd945bcc1b8af4b681122984fa8aeab02ff79b7198eea78fd", "ptbr": "0- Sem requisitos"}
+{"id": "LocalText/modEnum10094EnumName1", "revision": "cd69b7e8d492f0999cab2fd78acc8d0e6dbed32c96d5275f607fa0c9cab02574", "ptbr": "1- Masculino"}
+{"id": "LocalText/modEnum10094EnumName2", "revision": "6419fd9951ef3b388b3299c0de06e6d15de32270eff25182adb2210f8b58e371", "ptbr": "2- Feminino"}
+{"id": "LocalText/modEnum10094EnumName3", "revision": "6e5266aafc04bdbbeeab4e4146f9c88bbe86e7d338886e43c902ec0b89caaad6", "ptbr": "3- Gênero oposto ao seu"}
+{"id": "LocalText/modEnum10094Title", "revision": "f1df341bd0976a35e89ce932a8e885f243cd1f0944d365bd31be4e20ddcbfc44", "ptbr": "Requisitos de gênero do personagem"}
+{"id": "LocalText/modEnum10095EnumName1", "revision": "0779cba526928d230dc57c5169886aaf6e94d13d853ab848460698a37a4ef36a", "ptbr": "1-Elixir"}
+{"id": "LocalText/modEnum10095EnumName2", "revision": "5f589d6b4bf533149354be2e4db4596588b9d7abf529eb0776af63ca2363abe3", "ptbr": "2-Artefato"}
+{"id": "LocalText/modEnum10095Title", "revision": "1c30c9e5ff8c33b390f18ac36fd6f3ab18db3bd42a46c43947de60d81c34ceab", "ptbr": "Tipo de item"}
+{"id": "LocalText/modEnum10096EnumName0", "revision": "8dd4e7ec0d880b2644b16e7964869c1b5d33c1ea7dab37cafcd8991040859484", "ptbr": "0-Qualquer"}
+{"id": "LocalText/modEnum10096EnumName1", "revision": "3c08ad5053cc65730967ccf13c22cc337afdffd6060732a836ea3a73a7dcc751", "ptbr": "1-Escolhido pelo Céu"}
+{"id": "LocalText/modEnum10096EnumName2", "revision": "b49d9e0ead83b6683c1ac2d933b7795d2d1d0241aab844a95aedd6771efa3f33", "ptbr": "2-Ilustre"}
+{"id": "LocalText/modEnum10096EnumName3", "revision": "3f3d8f0211dda4cd2ca1c0acf4a0f0255556a2426d6496820f205afc94cd09ce", "ptbr": "3-Normal"}
+{"id": "LocalText/modEnum10096Title", "revision": "221a2ed4ba986eee2eda93edbfd4560ddf65cc78534b038a90b4a2b83cce3952", "ptbr": "Tipo de NPC"}
+{"id": "LocalText/modEnum10097EnumName0", "revision": "a0c9950a605bac7c75f9e21b82979e9b2af3e13ea9a02b0607ad4bfa1622face", "ptbr": "0-Menor ou igual a"}
+{"id": "LocalText/modEnum10097EnumName1", "revision": "9621a428923d986c94688fe2c0d017468ae97fd2bf93f28325f7c2944cacf808", "ptbr": "1-Igual a"}
+{"id": "LocalText/modEnum10097EnumName2", "revision": "b638aa4e0c798f9002c294b5ff39de7f345549b113d2f24561c0bab9ce447311", "ptbr": "2-Maior ou igual a"}
+{"id": "LocalText/modEnum10097EnumName3", "revision": "f0d3289bbe4ec2227db8f7750cddb8f4b810fd49c62168b1fc7f08ebacf0782e", "ptbr": "3-Menor que"}
+{"id": "LocalText/modEnum10097EnumName4", "revision": "f08cb101218c63dd76c6f4d309284de14a312c77aa25dfc4c9fde76b2ce7cc36", "ptbr": "4-Maior que"}
+{"id": "LocalText/modEnum10097Title", "revision": "e5f9478e66336776f2c9b7d65372a7a53f7003f7ff62df699afffb126dad1967", "ptbr": "Tipo de comparação"}
+{"id": "LocalText/modEnum10098EnumName1", "revision": "7084bcf12d7acfbd61484f16ef90089cbcf64cf323c54e3e65382974c4c4635f", "ptbr": "1-Vitalidade"}
+{"id": "LocalText/modEnum10098EnumName11", "revision": "b5fe11b9aedbc19a0effc79a90c0a7201ff0e0bb406e44bc6ceacde42cf1e747", "ptbr": "11-Saúde"}
+{"id": "LocalText/modEnum10098EnumName12", "revision": "19fe27acbf69e1b5d1d951eda26c7752d5247e999164f786042a16deeb23463f", "ptbr": "12-Vigor"}
+{"id": "LocalText/modEnum10098EnumName13", "revision": "8c7ad1b7478174e42f3ed262d84ab8d5e492233d65ff1667d9ef24f4bd14ef86", "ptbr": "13-Humor"}
+{"id": "LocalText/modEnum10098EnumName2", "revision": "abd959739d8c0bad3c7e28197b62294ac182d3ab5549c7ce53ee1d02e23195f9", "ptbr": "2-Energia"}
+{"id": "LocalText/modEnum10098EnumName3", "revision": "705c79d5ca2c48ba049c8ba6c79b1e04cf4b2f89295599860a33603545ac94e6", "ptbr": "3-Foco"}
+{"id": "LocalText/modEnum10098Title", "revision": "57db463ec45c9ec3c3a0f3696774712a13e6684f2cf38de2b7471097ae973ef1", "ptbr": "Tipo de atributo básico"}
+{"id": "LocalText/modEnum10099EnumName0", "revision": "63313bf93fe486c444f452bfcddfa120e2e76f59668867d2b9ead2e52a23a29c", "ptbr": "0-Destino positivo"}
+{"id": "LocalText/modEnum10099EnumName1", "revision": "973423b40af247fdda5019ddd23603bbd78bcd733ebe1848b9f4debb428b6ec8", "ptbr": "1-Destino negativo"}
+{"id": "LocalText/modEnum10099Title", "revision": "f1d60e2d02e7595f407f19f83de2eb976a8e200b73bb9a39e93180d834821470", "ptbr": "Tipo de destino"}
+{"id": "LocalText/modEnum10100EnumName0", "revision": "b766703f496b601e528abcad4101ad10d122d840390c2ee5eaa8fd1b30aab92f", "ptbr": "0-Aceitar"}
+{"id": "LocalText/modEnum10100EnumName1", "revision": "8462ee5efd4633d8ffd8bf1394ac9793ddcdff9ac32eedf34b25701578008853", "ptbr": "1-Recusar"}
+{"id": "LocalText/modEnum10100Title", "revision": "ccdcfe93cb6c0646213e7aef3adf9077fbb0f65374f61ea7d83efcb0efce7190", "ptbr": "Tipo de resposta"}
+{"id": "LocalText/modEnum10101EnumName0", "revision": "0f91e17b9fb30bcfc9fa511311a459e159f5e9cad42cfcfe88cdb7a160f7d3d7", "ptbr": "0-Montaria"}
+{"id": "LocalText/modEnum10101EnumName1", "revision": "de1ae24dd78283d3d91366c959323a2cf41d0443c9ddec2a5272aa44d8dc957a", "ptbr": "1-Anel"}
+{"id": "LocalText/modEnum10101Title", "revision": "a5efc2e0ed8660951497ee69fc605fbe09cce1c1daeb24aa6c270a7a6a7a3a70", "ptbr": "Tipo de equipamento"}
+{"id": "LocalText/modEnum10102EnumName0", "revision": "4a992da41befa9b180e54de0281c8d0da12a27a699eb18cddfeb7b93c1302aac", "ptbr": "0-Recusar"}
+{"id": "LocalText/modEnum10102EnumName1", "revision": "22f7c5878ea0ec09ee16653467f4b2486f2712ddc1ea0cd2ea7e82d6a7d9103d", "ptbr": "1-Aceitar"}
+{"id": "LocalText/modEnum10102Title", "revision": "5ec0ccdcccf06052bbe95d654fbd0b387595bcc59162996fb9720b11bf824332", "ptbr": "Tipo de resposta"}
+{"id": "LocalText/modEnum10103EnumName0", "revision": "ab09ca8a15bfc5fc73fb134fc044d8dc96a5e39c779991397dfbd5f65c7218e1", "ptbr": "0-Vivo"}
+{"id": "LocalText/modEnum10103EnumName1", "revision": "fbaf45d2de2c444f7c5a73fe12196a518b04b5bcc017d287eeb82b120131f8dc", "ptbr": "1-Morto"}
+{"id": "LocalText/modEnum10103EnumName2", "revision": "0da90bf8f58151ef978379004fd24986b116706eb054d8bbd762872a6e00db25", "ptbr": "2-Em Último Fôlego"}
+{"id": "LocalText/modEnum10103Title", "revision": "37d53e9732f1944f8ca860db995053b5f63645de4db45c1c32638248611f3517", "ptbr": "Estado da alma"}
+{"id": "LocalText/modEnum10104EnumName0", "revision": "e0fb42770bed15dcc268ff4835b2e0409bc5abec228bd732c30be7a5a3b74672", "ptbr": "0-Menor que"}
+{"id": "LocalText/modEnum10104EnumName1", "revision": "355e6d47fd3fd96cc8699fe83ca2e66ca6d6f807a02d10ec36d5b864d2a85da6", "ptbr": "1-Igual a"}
+{"id": "LocalText/modEnum10104EnumName2", "revision": "ac1795e535a280a20124085442579aa6ac7d88b4b15f17e20cd70295562a2c6b", "ptbr": "2-Maior que"}
+{"id": "LocalText/modEnum10104Title", "revision": "caee4f863fb36c95d5ae085ea77439048324add11cb961043f2174848a78718b", "ptbr": "Tipo de comparação"}
+{"id": "LocalText/modEnum10105EnumName0", "revision": "99cb1a6f35793bc2a0f81189ff0f4046d54d1ef3be2cadde785f70c76890e2b0", "ptbr": "0-Não"}
+{"id": "LocalText/modEnum10105EnumName1", "revision": "c3447231c0cfce39dd9737325564f5d8382d933e6713ac5f8043818b43d0810b", "ptbr": "1-Sim"}
+{"id": "LocalText/modEnum10105Title", "revision": "75cba92ccec57aed9abe8750a902bc821b4c33bb9ad298a23ed1c1c5a221277c", "ptbr": "É um Escolhido Mutilado?"}
+{"id": "LocalText/modEnum10106EnumName0", "revision": "a9a896b0eb1083b1a232dedddb729139ed92bb2ee03495dbb9df4bd937a98be3", "ptbr": "0-Não"}
+{"id": "LocalText/modEnum10106EnumName1", "revision": "eb997a5f0b6a50da1fe7cba104e0a572f38f34b8626e15b8edb12ce4c424dd0b", "ptbr": "1-Sim"}
+{"id": "LocalText/modEnum10106EnumName3", "revision": "49b98dd6fbe57273afdfb320f1efe71c0fa205836d19a9e46b8cc19bf73725f0", "ptbr": "3-Qualquer"}
+{"id": "LocalText/modEnum10106Title", "revision": "d266c2c01fbd3b7f6f89e71d8f80978889e5fc3c5a846abb9a1476407fe25077", "ptbr": "É um Campeão?"}
+{"id": "LocalText/modEnum10107EnumName0", "revision": "7ad72e98f0b4c2c150cdf5f6451ab95385e7a2c92d37abf82770d3971c4309d8", "ptbr": "0-Não possuído"}
+{"id": "LocalText/modEnum10107EnumName1", "revision": "951f12aedfee5cfd58164cb98195e4e9a31c282c87ccc257f5c9e0c3202c1dc6", "ptbr": "1-Possuído"}
+{"id": "LocalText/modEnum10107EnumName2", "revision": "092e6ceb190a269eeaf11736ffe414ce27b7968e6fa58493d21d8939aa4252da", "ptbr": "2-Possuído e equipado"}
+{"id": "LocalText/modEnum10107Title", "revision": "9bc1a1167111cfc7b71c96aab7f4e87dee39cc382057b4d1e834c1f92b4ab0d6", "ptbr": "Tipo de posse"}
+{"id": "LocalText/modEnum10108EnumName1", "revision": "0c493797bf67a52e785f6d21ad32d3cf3d7ac49676d42862d08ab40a4c327d41", "ptbr": "1-Alquimia"}
+{"id": "LocalText/modEnum10108EnumName2", "revision": "2edc3f07057b239e941b3b403ff6cb53fa09d51073ef88d352f242b4e50cfd4e", "ptbr": "2-Forja"}
+{"id": "LocalText/modEnum10108EnumName3", "revision": "df3a13b96cd8389e5efe663e554e7f5ee5dca831c673396bfc6a772a6ea45acd", "ptbr": "3-Geomancia"}
+{"id": "LocalText/modEnum10108EnumName4", "revision": "76a80059b3a4bdb8b41d80f14c0a69aa12e8b1f4cc662febdb0ebd6125c92e0d", "ptbr": "4-Talismãs"}
+{"id": "LocalText/modEnum10108EnumName5", "revision": "fa9a50e7fe43d9e5af0e3cd3c3d31fcd806a1faf3c9f4eb9d746babdd12fc659", "ptbr": "5-Coleta"}
+{"id": "LocalText/modEnum10108EnumName6", "revision": "6f458d1fb1533df36ae8988a11f7cd2ff49dd68ecfa9b0949e17813d3ea89291", "ptbr": "6-Mineração"}
+{"id": "LocalText/modEnum10108Title", "revision": "246862c363b82a83bc0dadec707acc91377ce97e010492c731b62a6c87ced70e", "ptbr": "Tipo de ação"}
+{"id": "LocalText/modEnum10109EnumName1", "revision": "e11709a79bb0622f41929bdc824780609ad7ef3d676313c824355cd4d200def3", "ptbr": "1-Receita de Elixir"}
+{"id": "LocalText/modEnum10109EnumName2", "revision": "78dd4c0beedf8336ca1b2d4e1931d4aa6df48f1f21f2aa9cebd086391d6b0422", "ptbr": "2-Projeto de Artefato"}
+{"id": "LocalText/modEnum10109EnumName3", "revision": "6b177672114b6e2920887c23b02d5efd85cd1f6c040a0a2585c2851053a696c6", "ptbr": "3-Livro de Feng Shui"}
+{"id": "LocalText/modEnum10109EnumName4", "revision": "5e358c95c8a3ad9b766256d576eb11f159235bc5931e6bcc901159079bcc6691", "ptbr": "4-Livro de Talismãs"}
+{"id": "LocalText/modEnum10109EnumName5", "revision": "b9e2438b3681871d8b6687aa40cdb60a1b35f3fb7cf4b9b6fb1b8e4eb3f0e965", "ptbr": "5-Prescrição"}
+{"id": "LocalText/modEnum10109EnumName6", "revision": "72e2cfdc8325f107ead6d4e78093757c1406ae890dfff5acd4767830afce7dd0", "ptbr": "6-Quadro de Minérios"}
+{"id": "LocalText/modEnum10109Title", "revision": "81d58af6a6338642660236e1d9246e29a5e908e9f1fe4c06618b9fc33d9d8c26", "ptbr": "Tipo de livro de artesanato"}
+{"id": "LocalText/modEnum10110EnumName1", "revision": "ab48d5b02b63bc8543e24ce3919b14eee6fbf304e9fbf14df0b0b71c898c97a2", "ptbr": "1-Início"}
+{"id": "LocalText/modEnum10110EnumName2", "revision": "edd07e3d632123a621a4946c1ac6df6fd819befdfb6a1d17c0b80512a82b69f6", "ptbr": "2-Meio"}
+{"id": "LocalText/modEnum10110Title", "revision": "9a1509e9da4fa2652c85f8995e15c0871844ef794d84362895ba50a64ee4df5b", "ptbr": "Tipo de gargalo"}
+{"id": "LocalText/modEnum10111EnumName1", "revision": "07800c1c5be18c0aee15dd0b24e534de00a3fcd22900f9b2f798f3fb542db364", "ptbr": "1-Estabilidade"}
+{"id": "LocalText/modEnum10111EnumName2", "revision": "0cc63f80cb2d11e5f57d91cc8bd35d6ef07354298036c726da49d00dd5481677", "ptbr": "2-Prosperidade"}
+{"id": "LocalText/modEnum10111EnumName3", "revision": "47004cf5dd023cb7b4014cc0d8df98fdc4ae0e30cf3456ace900036a7a01addb", "ptbr": "3-População"}
+{"id": "LocalText/modEnum10111EnumName4", "revision": "d6bd310bb780e5a2b493116cef9ec30bc2addd33cf37711f5ef0fb6c8132e69c", "ptbr": "4-Placidade"}
+{"id": "LocalText/modEnum10111EnumName5", "revision": "c9ca2d76400ba0b2801707acec194e709fcd5e7828a27721d9fa73ce300651b9", "ptbr": "5-Lealdade"}
+{"id": "LocalText/modEnum10111EnumName6", "revision": "38e3c47ab27e251fcc40fceb2797435477598d6136349e09455c536b55a6999b", "ptbr": "6-Durabilidade da Matriz da Seita"}
+{"id": "LocalText/modEnum10111EnumName7", "revision": "8976d1f9aac57145d50189c79fc4a100287fd206cf4433a654fbf2a930cf1d86", "ptbr": "7-Pedras Espirituais"}
+{"id": "LocalText/modEnum10111EnumName8", "revision": "b0975d02cc6c94b54eaa4ddc4cf9b439487e67be2393e896b50dcdd508bb5096", "ptbr": "8-Ervas"}
+{"id": "LocalText/modEnum10111EnumName9", "revision": "7563a72ac76937cebf642224ced3395fe9da461acb8800f560d478b10eaf8005", "ptbr": "9-Minério"}
+{"id": "LocalText/modEnum10111Title", "revision": "14c601d318135fe7b5ab5944160141d9edb793f2a93cb8b0a993a2a9d7499b8a", "ptbr": "Tipo de atributos da seita"}
+{"id": "LocalText/modEnum10112EnumName0", "revision": "89ecf4098b13ada4f8a8e0e0d2e3be3e529b09e34403836e67dd6df56377d389", "ptbr": "0-Não"}
+{"id": "LocalText/modEnum10112EnumName1", "revision": "c604ca58a7f389004669d6972ed541708f4510fe398a1d8b7bd08399a6c71e5c", "ptbr": "1-Sim"}
+{"id": "LocalText/modEnum10112EnumName3", "revision": "d568dc0327c30458477904a65e6319c3c691c8ab535cea7497779292ba2f164b", "ptbr": "3-Qualquer"}
+{"id": "LocalText/modEnum10112Title", "revision": "0064edbfade4e330d1f73158a23a69389212757289246b9a40704632f07f39d9", "ptbr": "Em Último Fôlego?"}
+{"id": "LocalText/modEnum10113EnumName0", "revision": "e0944eec0e6452513dedc216daee8934d5af54a41b6af977aaa7ddf2927430cf", "ptbr": "0-Não"}
+{"id": "LocalText/modEnum10113EnumName1", "revision": "71264f011ad9de964e399005dea0bd31ec2cffd3147b19098fb98dc4c2737791", "ptbr": "1-Sim"}
+{"id": "LocalText/modEnum10113EnumName3", "revision": "503979100067d6300edf1fa45ef0d23ae46d59765d424440737bdd0b886051ad", "ptbr": "3-Qualquer"}
+{"id": "LocalText/modEnum10113Title", "revision": "4722df9bdeba1677546953b4dfbe92bac86e505fd6c960b39e7fbb326eb9d7fb", "ptbr": "Em Reconstrução Corporal?"}
+{"id": "LocalText/modEnum10114EnumName1", "revision": "bb40f8920f3be280e3b8a3f634af116b3e8198b91ea61ac9d39b903922d46258", "ptbr": "1-Jade Bagua"}
+{"id": "LocalText/modEnum10114EnumName2", "revision": "3fc76c4d639cfc11f5a298f27ba0d90ca06f14bb4bcaf53b10ef8e6d574a272b", "ptbr": "2-Olho da Providência"}
+{"id": "LocalText/modEnum10114EnumName3", "revision": "94f0df1ec64dc0b763a8f8b42b40ec10c008f39f2b042a87e1b6a703634edb09", "ptbr": "3-Cabaça Mítica"}
+{"id": "LocalText/modEnum10114Title", "revision": "0775f15e702db8d7894456f607c2b732b23fafc6ae147a3c278566977c9e5a47", "ptbr": "Tipo de Artefato"}
+{"id": "LocalText/modEnum1019EnumName1", "revision": "4c3696702741f3232dfa27411762a0a8358acc0509a6d4bff9de5caff23ac5c0", "ptbr": "Sabre"}
+{"id": "LocalText/modEnum1019EnumName11", "revision": "b18de191411f879a26c3c5b887c6093ede1b59a971a0aa5bc71adfc0493dfcd9", "ptbr": "Fogo"}
+{"id": "LocalText/modEnum1019EnumName12", "revision": "310b820296f3708b917baefc84890696ff9c27d004658a8e7bb83a005fdda199", "ptbr": "Água"}
+{"id": "LocalText/modEnum1019EnumName13", "revision": "0fab4abd8e5b7f55a02161ad06ffceadc914128959532f9507b82d9331f2a992", "ptbr": "Raio"}
+{"id": "LocalText/modEnum1019EnumName14", "revision": "86d357fafb363a72f0c8a6db7f03255dfedf77df7219b36aed30e5e5f3596ab0", "ptbr": "Vento"}
+{"id": "LocalText/modEnum1019EnumName15", "revision": "36985b54cb24630b04956ee74ae9f0de6a234ed2ce30522e79aab84b053a222e", "ptbr": "Terra"}
+{"id": "LocalText/modEnum1019EnumName16", "revision": "fc06a741e5e9bf78839d237e51432d097479ad03ab0d3837bfeea44e2dc9b35b", "ptbr": "Madeira"}
+{"id": "LocalText/modEnum1019EnumName2", "revision": "74e38225ff323b7f171ec62bc9e750a52d556d9a7fa16c8f5bb98b19d00abcaa", "ptbr": "Lança"}
+{"id": "LocalText/modEnum1019EnumName3", "revision": "c5f326cc38354849b28999ea7926d09412dd70389418834d9f8f55ee16f6f88b", "ptbr": "Espada"}
+{"id": "LocalText/modEnum1019EnumName4", "revision": "e0aeba11d9e44b46cb9f396509524b47c94388ed9806fadd4ce0c1126f002101", "ptbr": "Punho"}
+{"id": "LocalText/modEnum1019EnumName5", "revision": "5a84dc3aae1deca3079d6cb8cff05be3289ee65e0c30acaf879992ba4ed724a4", "ptbr": "Palma"}
+{"id": "LocalText/modEnum1019EnumName6", "revision": "b7d477917795c0e2d6b1ababa1672fa85a938be9053bd3015adc294528999ef9", "ptbr": "Dedo"}
+{"id": "LocalText/modEnum1019Title", "revision": "dbcbf628fb424baa048d443b40ba022f7336e764b079e2aa296d5b46059c2bd0", "ptbr": "Tipo de Artes Marciais"}
+{"id": "LocalText/mod_beijingyin", "revision": "2714839091e72d70b46d191dd0ea84a490bebd21091c010a97c3cfbee70eb1fd", "ptbr": "Som de fundo"}
+{"id": "LocalText/mod_biaoqian1", "revision": "369ac83a21f4e513c17511762fda6ba765c8e70cb2a80bf31b4ba8abb1fca6e7", "ptbr": "Sorte de Nascimento"}
+{"id": "LocalText/mod_biaoqian2", "revision": "2565ad3a1917b31f66887e688f55d8ba0d2ca023fa85a77026906339c7445990", "ptbr": "Mudança de Sorte de Vida"}
+{"id": "LocalText/mod_biaoqian3", "revision": "36414374eb6e9b97c34d5306c9333d57aec549f1db67d3c8d900dcb16f17e01e", "ptbr": "Item"}
+{"id": "LocalText/mod_biaoqian4", "revision": "6eadd82f5945239df88932e4070df211a4d4762ff848ff104e9af13108185225", "ptbr": "Fortuitíneo"}
+{"id": "LocalText/mod_biaoqian5", "revision": "b146301cce9ed0c29406b35964e87dbc4f5c25774b509b511310a73daffdd20e", "ptbr": "Enredo"}
+{"id": "LocalText/mod_biaoqian6", "revision": "6616d0ebc239fea4dd41233c1662fcb1d2c5a9f39128dac89b5c96825e7996e8", "ptbr": "NPC"}
+{"id": "LocalText/mod_biaoqian7", "revision": "484f00a08099af09698bddce16efbc5dd55c7cd759ca9a3080040d4cafa9e5aa", "ptbr": "Traje"}
+{"id": "LocalText/mod_bunengxuan0", "revision": "d86e4cd965f81977f9d09951e9de04089265465189ca9291a3abc9e6a24af60f", "ptbr": "Não pode ser selecionado ao mesmo tempo que 0!"}
+{"id": "LocalText/mod_cangbaotu1", "revision": "b8ef6d1f3101e91efc5c9ea6e034ccdeeae2d61334e62466745a936d29f1dc85", "ptbr": "Criar evento do mapa-múndi"}
+{"id": "LocalText/mod_cangbaotu2", "revision": "2bc402ea3476f19689506a1b7bfd6ea1fc6f99713c90fcb8936f293daeb98483", "ptbr": "Quando um Mapa de Artefato é usado, um evento do mapa-múndi é criado numa localização especificada."}
+{"id": "LocalText/mod_cangbaotu3", "revision": "d13afc747355bda7614350bb6831fbffac7f3b2cf549d2e235cce36b9081c54a", "ptbr": "Coordenada X do mapa-múndi"}
+{"id": "LocalText/mod_cangbaotu4", "revision": "112c7aa554f73a1e35fad35bb2970288d0a45931be389e2496e964eec3e8c69d", "ptbr": "Coordenada Y do mapa-múndi"}
+{"id": "LocalText/mod_cangbaotu5", "revision": "df2f61910b6f3c7ec4548e5b8dcb71a1e068983f43bcb72992944a32f4da30fa", "ptbr": "Raio aleatório"}
+{"id": "LocalText/mod_cangbaotu6", "revision": "fe1c9c2161eda0a203b546c2276e9610adab79acbeea730c55f194634244b1e8", "ptbr": "Custo em itens"}
+{"id": "LocalText/mod_cangbaotu7", "revision": "256d9129d9cd915d5fd9218b7db6648cef1daee02f8cffd851deb677c67f8087", "ptbr": "Quantidade do custo em itens"}
+{"id": "LocalText/mod_chuangjiannpc", "revision": "91d8d0bd6fb7436e3991898990e8a7cd644381092bc0732c50e47b0ebc579708", "ptbr": "Gerar NPC"}
+{"id": "LocalText/mod_chuangjiannpc1", "revision": "3dce6d2bbe4dcc3a6fdc9265c0499c5b687dc74ba456fb447343eb90a8df6a85", "ptbr": "Idade inicial (em anos)"}
+{"id": "LocalText/mod_chuangjiannpc10", "revision": "330579f42a55a48a8eab79af73f46ff290d0172b70c1e0f39f560a85e7fe5abc", "ptbr": "Personalizar número de relações"}
+{"id": "LocalText/mod_chuangjiannpc11", "revision": "a617794afb8823119b600cc568b85ece841d026f7cb8c7f8bf1bf2dc431c7bfd", "ptbr": "Quem sou eu para “{0}”?"}
+{"id": "LocalText/mod_chuangjiannpc12", "revision": "44719ee549407793f996ce6134f36e79c94677089bc101797f036801d08265dd", "ptbr": "Você pode personalizar o número de relações deste NPC, o estado dele em relação ao jogador ou o estado dele com outros NPCs."}
+{"id": "LocalText/mod_chuangjiannpc2", "revision": "d02fad55c8f6883bcff25d0ea32ac05445abbcc412a3e96e4020ab7ab6ce7a49", "ptbr": "Sobrenome"}
+{"id": "LocalText/mod_chuangjiannpc3", "revision": "4f98323c469840e608c893691c04204d9a49d083e7dc4fd82eafc0059fd3e6dd", "ptbr": "Nome"}
+{"id": "LocalText/mod_chuangjiannpc4", "revision": "b3867dc396947cb4a12ac0cf07806252d7587f6c8a5c6456275cc01f3cba14fd", "ptbr": "Destino (Natureza)"}
+{"id": "LocalText/mod_chuangjiannpc5", "revision": "9727e24b984dad4211c5cbdbfba4cf3d04c06c62a51a328eedd29f2d008c693b", "ptbr": "Traços internos"}
+{"id": "LocalText/mod_chuangjiannpc6", "revision": "68ab41844f1a7e8f2e5d6328a049de177766623e7b484d15871095ad641f3c86", "ptbr": "Traços externos"}
+{"id": "LocalText/mod_chuangjiannpc7", "revision": "0ec5db5520eacfb1b0c2cae828572173f7b1410034e814332916915b60574a3a", "ptbr": "Personalizar aparência masculina"}
+{"id": "LocalText/mod_chuangjiannpc8", "revision": "a42340f2d05c678199f5810b0998b48ab8009ae0b61fe47ca64a2582836720e2", "ptbr": "Personalizar aparência feminina"}
+{"id": "LocalText/mod_chuangjiannpc9", "revision": "e845dbbf4b7277e3a4097936ed6e927bb0c3246e641be1a2953680674b5d9979", "ptbr": "Personalizar atributos"}
+{"id": "LocalText/mod_chushiqinmidu", "revision": "07623ed41c05d5f46f43c1c0caedb1f303b3ccb42e246bd0a21d849c4613dcca", "ptbr": "Afinidade inicial (Afinidade negativa = Rancor)"}
+{"id": "LocalText/mod_danyao5", "revision": "0462ac6bd5c8a311cee3029a45fb0175415a81073e4a2fbfee4980add0b65f12", "ptbr": "Requer que atributos alcancem um certo valor para usar o item"}
+{"id": "LocalText/mod_danyao6", "revision": "d5926dcd95be3cce23214c9f39ace7f901e37991872a3b84da246a9412cce4bd", "ptbr": "Os atributos precisam estar abaixo de um certo valor para usar o Elixir"}
+{"id": "LocalText/mod_daohao", "revision": "353c2d4a63426bcd558240bb2113559be684924d53be04fbcff39b918d51ebdf", "ptbr": "Título Taoísta"}
+{"id": "LocalText/mod_daojujiazhi", "revision": "5518fd246a22924377bce93e765e7ad798de65651c98d5737452f2535d79b6f7", "ptbr": "Preço de venda do item (-1 não pode ser vendido)"}
+{"id": "LocalText/mod_daoxin", "revision": "c55e74c482122fc5dbe6bf0f6c3b47fcdf3a9e680c75578fa6219107ed225f3a", "ptbr": "Mente Taoísta"}
+{"id": "LocalText/mod_dianjishurutishi", "revision": "bef95597cd2534ebbac88086fff7d3c05af0182c935efa5d67dacb73864aff46", "ptbr": "Selecione os dados que deseja editar e insira os atributos desejados. Os atributos mais altos podem afetar as técnicas iniciais dos NPCs"}
+{"id": "LocalText/mod_dingyuechenggong1", "revision": "f0a7da1abcb46ac400193b5d82bcb79e922c8600260ec1c797bbba284f105d17", "ptbr": "Assinatura bem-sucedida!"}
+{"id": "LocalText/mod_dingyuechenggong2", "revision": "a2594ab1a44951a032d2c012d0e54e9e577f2ed50ad1f9421dda1b82d262b136", "ptbr": "Navegue até “Mods locais” para ativar este mod manualmente!"}
+{"id": "LocalText/mod_fanweisuiji", "revision": "53897e2d42e7871f0a8428e73ff8aa7075306574e88e5b9f4b8248e3788de153", "ptbr": "Aleatorizar numa área aproximada ao redor do Jogador"}
+{"id": "LocalText/mod_fanweisuiji1", "revision": "fcf47b0e891efc5fca1f3ed4670dd0fbc5669c7c1a68d7ce3bcc40cce44619bd", "ptbr": "Por exemplo, se você preencher 1, o NPC surge sob os pés do jogador. Se preencher 3, o NPC surge numa localização aleatória dentro de 3 circunferências do jogador."}
+{"id": "LocalText/mod_fenbianlvtishi", "revision": "38da956af801b1aead124f917d51e243cda2d45d916db387b4317f8025001dc5", "ptbr": "16:9 (resoluções comuns 1920×1080, 960×540, 480×270)"}
+{"id": "LocalText/mod_gengxin", "revision": "c539771bfdafab7b9292c5d56ce00fd4c17f6f097f65d45b59c2db314ec87c1c", "ptbr": "Atualizar"}
+{"id": "LocalText/mod_idkefuzhi", "revision": "f855797049c8eff76b9c5ea60050dc032cd808ea5c38950a92d247f0f63c6dc7", "ptbr": "ID (pode ser copiado e colado)"}
+{"id": "LocalText/mod_jiazai1", "revision": "5848ca1fda9d5ba1897fc0e366facf0e2fe6ba57439e183d59e0dae967efd840", "ptbr": "Assinatura cancelada!"}
+{"id": "LocalText/mod_jiazai2", "revision": "b8de32261436300d0c4e008af4e6729f24c1441ddc6e027d568f08cb7da94bfd", "ptbr": "Adicionado ao jogo com sucesso!"}
+{"id": "LocalText/mod_jiazai3", "revision": "44155a4ab3a9497e8cd021eee2ec7e48821294b6b62180f2a14ec66d21995e92", "ptbr": "Não foi possível achar os arquivos do mod local. Confirme se o download está completo, ou tente assinar de novo!"}
+{"id": "LocalText/mod_jiazaidaoyouxi", "revision": "1b64e7489c28731319eea3556c7acf22c474f4ce614a26fd569010480080de63", "ptbr": "Carregado ao jogo"}
+{"id": "LocalText/mod_jiyishuji", "revision": "538b9f2b018174216e4ff7ad676e9b182d671d62ba6121e15d4ee09adfbcbc8d", "ptbr": "Livro de Artesanato"}
+{"id": "LocalText/mod_juqing", "revision": "5543f08aba7c40a0761efed8ab0298b1de92db81796b176ecd8ade83f4d44530", "ptbr": "Enredo"}
+{"id": "LocalText/mod_juqing1", "revision": "b3a720572a8bca11dc33de4495b55446edb012878307e66d1597f772503ca039", "ptbr": "Requisitos de abertura do enredo"}
+{"id": "LocalText/mod_juqing10", "revision": "708f55907e2fdc6682af6a395a1cdb3e3bc68043ec833a4816d22b0a92b7875b", "ptbr": "Próximo enredo"}
+{"id": "LocalText/mod_juqing11", "revision": "c122df7a888f254776d18c5a8bae01d9b853e6fb4bdded9870b34d712267369a", "ptbr": "O próximo Enredo (você pode usar opções de Enredo para definir ramos diferentes de Enredo)"}
+{"id": "LocalText/mod_juqing12", "revision": "7ae12924bf0e6f55fe954b47d1ae7bc513cfe52f057bde5f1d75060c0a65333d", "ptbr": "Opções de enredo"}
+{"id": "LocalText/mod_juqing13", "revision": "f7269e23b04731c3524cba0617ec06d459a553ae03ef914212553380f58e3902", "ptbr": "Use as opções de Enredo para definir os ramos do Enredo. (Pode-se deixar vazio. O Enredo será redirecionado por “Próximo enredo”)"}
+{"id": "LocalText/mod_juqing14", "revision": "1b8571b4d546e64dbfd75550ef9b2f7d006fcff98274e881924ff01d9ed1a257", "ptbr": "Personagem à esquerda"}
+{"id": "LocalText/mod_juqing15", "revision": "fbb738b56415bc50fc42074e88d2e1674735da8d9a935e890fbd6b6796208d12", "ptbr": "Personagem à direita"}
+{"id": "LocalText/mod_juqing16", "revision": "ada7223f28f03202b55dffa5ddb8748f5ef26e14fe146003228db59dcaecbe2a", "ptbr": "Personagem não exibido"}
+{"id": "LocalText/mod_juqing17", "revision": "3dd6e94614c2501a3a4c2ca277e0067bf5f3badcefb54d67775e426a1aec9b5d", "ptbr": "Exibir jogador"}
+{"id": "LocalText/mod_juqing18", "revision": "b5f01c1d189c89463a6702308c3dacb1ff62cfa7162d369dc5a9ebf434bdeb93", "ptbr": "Título do Enredo"}
+{"id": "LocalText/mod_juqing19", "revision": "4d03894f3e6fb988e6d2b1a3fcb41f99740c90762a46aead9f338b55b9d360a9", "ptbr": "Ilustração do Enredo"}
+{"id": "LocalText/mod_juqing2", "revision": "04fc408297b2e724b159f9f3456a6aa4c22d4951f7e90f160fe917e316cb550d", "ptbr": "Preencha um ou muitos IDs ao abrir o Enredo. Primeiro, exclua os Enredos que não atendem aos requisitos; depois, abra aleatoriamente um dos Enredos com base na importância."}
+{"id": "LocalText/mod_juqing20", "revision": "35421a7c9adce9dc9bee9bf9224308d36e594cd6313e7144532ea33332673f0e", "ptbr": "Tipo de personagem à esquerda"}
+{"id": "LocalText/mod_juqing21", "revision": "d7510bfcbdca4f221eb8219637104071d458825ed73563b9f7828475d1a0ffc7", "ptbr": "Tipo de personagem à direita"}
+{"id": "LocalText/mod_juqing3", "revision": "7454c1dcf8181f8a89fcc6bf4f53547f30673a109ac854c0ceb33ead4130851f", "ptbr": "Peso de abertura do enredo"}
+{"id": "LocalText/mod_juqing4", "revision": "3343a28e07f42431faf86eb8917d1abfc216d00b5a5752f725303c13f1a92fe1", "ptbr": "Abre aleatoriamente um dos Enredos com base na importância quando vários Enredos estão abertos ao mesmo tempo."}
+{"id": "LocalText/mod_juqing5", "revision": "8389c6787769b85381e890d4d9e74316cc51d7d289904e04b8b41f0b0e14b165", "ptbr": "Conteúdo de texto do Enredo"}
+{"id": "LocalText/mod_juqing6", "revision": "99769006f35266d63f2ad681903249f5dc950f4b0408b5ba44e0335e6333d5c6", "ptbr": "Música de fundo do Enredo"}
+{"id": "LocalText/mod_juqing7", "revision": "1cc42f0fb23432eafe474aaa46770ccbb5c3744759c11693a6afaa03dd50780b", "ptbr": "Troca a música de fundo ao abrir o Enredo e, depois de o Enredo ser fechado, restaura a música de fundo."}
+{"id": "LocalText/mod_juqing8", "revision": "b36519b10889282c8bdd57f90c56e2129e4ef8f98de05f1a50c3a880e006f106", "ptbr": "Efeito sonoro do Enredo"}
+{"id": "LocalText/mod_juqing9", "revision": "6723447171563a30fb2cc3f789cf94b6843aed0f9580f3a7dcc2dc8350c20369", "ptbr": "Efeito sonoro tocado ao abrir o Enredo (como o conteúdo de voz do texto do Enredo)"}
+{"id": "LocalText/mod_juqinganniu1", "revision": "21c983a9f3638f6a64366009baa59a414640e0efe72ca8cbd55df7fbae7e38eb", "ptbr": "Requisitos de aparência do botão de opção"}
+{"id": "LocalText/mod_juqinganniu2", "revision": "12fc3c3e94e149ffb88a15fa142210f314466f1e29e51979f4ea5d06b20bbf73", "ptbr": "Requisitos para o botão aparecer. O botão não aparecerá se o requisito não for atendido."}
+{"id": "LocalText/mod_juqinganniu3", "revision": "e660fd6d056438a03e87f575d289d8a98e27be83467db13d08c0fe1413de9630", "ptbr": "Texto no botão de opção"}
+{"id": "LocalText/mod_juqinganniu4", "revision": "2db0d949ecb88ace9efa99a4c5aca1f5942a2a666c110527aed605d3b975d538", "ptbr": "Custo em itens ao tocar no botão de opção"}
+{"id": "LocalText/mod_juqinganniu5", "revision": "a6c5c71f3c35660611f4c7da9f0a0f0eabb5d59d284fd31105456db004d09f4c", "ptbr": "Comando executado depois de tocar no botão de opção"}
+{"id": "LocalText/mod_juqinganniu6", "revision": "2c3f313cf0411e9b550148a7a85f715add689408ac6de343d2e4ef7857551b4f", "ptbr": "Próximo Enredo a seguir depois de tocar no botão de opção"}
+{"id": "LocalText/mod_juqingleixing1", "revision": "6d3f3eb87dfbffdd018add6a2bcbf96fb3df057c9546b1d529927300d3e2d16b", "ptbr": "Lado esquerdo do desenho de corpo inteiro em pé de um personagem para o Enredo"}
+{"id": "LocalText/mod_juqingleixing2", "revision": "d7d0c1c04b2480bc372a1c33d0caa049da8bb5fbe818333aad6e19c93269881d", "ptbr": "Lado direito do desenho de corpo inteiro em pé de um personagem para o Enredo"}
+{"id": "LocalText/mod_juqinglihui", "revision": "9bcc6b20e297e0960725de23c084922acdc93465c66b09d2e6ca8dd2ddfa5ab3", "ptbr": "Modelo do desenho de corpo inteiro em pé do Enredo"}
+{"id": "LocalText/mod_juqingxuanxiang", "revision": "7f93b327aa17b5a9324b377f35b0bd0dcb8ab2641391e5dd26fd2573d68178fe", "ptbr": "Opções de enredo"}
+{"id": "LocalText/mod_kaiyuanmozutishi", "revision": "77381f700f47b1b7f36d774644957da70992e71734ceb2d3c7e243884a7829a7", "ptbr": "Este Mod é de código aberto. Clique para abrir o diretório do Mod e copiar a pasta ModProject do projeto de origem do Mod para o diretório de trabalho local."}
+{"id": "LocalText/mod_lihuichicun", "revision": "f53b25ec309d30a887d5c91b3f4e039422a3c72eec8ddb8fa90830573575479d", "ptbr": "Medições padrão do desenho de corpo inteiro em pé: largura 700, altura 900"}
+{"id": "LocalText/mod_lihuimingcheng", "revision": "d038c5c25b024fff95425424527a503cf8f94111221c210e949078347a7f933f", "ptbr": "Nome do desenho de corpo inteiro em pé"}
+{"id": "LocalText/mod_lihuimoxing", "revision": "b28f5f5a4a1eecd1d460baaf2f4b31a9c702897fcf6beba421faa45cf0402afa", "ptbr": "Modelo do desenho de corpo inteiro em pé"}
+{"id": "LocalText/mod_mozu", "revision": "80e63d2e59b6a434b62161a42b4a298a433a6da201166ce5fb51e3fd074ca0d2", "ptbr": "Mod"}
+{"id": "LocalText/mod_mozuguanli", "revision": "7bf48a9dc0074a9d18df391f79e24a7c254942f0af5794ae09b6c2217e701984", "ptbr": "Gerenciamento de Mods"}
+{"id": "LocalText/mod_mozukaifa", "revision": "b885eba417102c1fa53db3a290e8519510a277066ba0ad28d942c3caaf981de9", "ptbr": "Desenvolvimento de Mods"}
+{"id": "LocalText/mod_mozuleixing", "revision": "448e7c3f60743b756e86b0adca45d8e784faf534f3808ada3ce69c5fe6374c90", "ptbr": "Categorias de Mods da loja"}
+{"id": "LocalText/mod_mozushangdian", "revision": "ef55b5e9551ecc51d12b3c2e7782ef320f80c5d18016d91d0462f2d439040c6e", "ptbr": "Loja de Mods"}
+{"id": "LocalText/mod_mozutiaoshi", "revision": "0b745331761eb139629a8391978669b2422213849d8415b680aae64e3ada5a31", "ptbr": "Não é preciso exportar ou importar os dados do mod com frequência para um mod em desenvolvimento. Basta entrar no jogo para ajustar o mod."}
+{"id": "LocalText/mod_npc2", "revision": "c5f91ec2e6b0fc49201bb2e2399d22636e05b9049d2cfee78b35566effcc3700", "ptbr": "NPC"}
+{"id": "LocalText/mod_npcfannao", "revision": "8d2f05d4c83af672c2311b51ac288a7bad348af82ed46e0a2b8bccfebef58a8d", "ptbr": "Preocupação do NPC"}
+{"id": "LocalText/mod_npcfannaoleixing", "revision": "667aa4b8c4b24b3829caa6ae73148d5ceccbaae38a5ce8d27df9255a3f19180f", "ptbr": "Tipo de preocupação do NPC"}
+{"id": "LocalText/mod_paixu1", "revision": "336663da32d5acf8623c8a5229770574b4c71676198f541ce297c7ef27e2e8e4", "ptbr": "Mais assinados"}
+{"id": "LocalText/mod_paixu2", "revision": "e1b37b436a82eebfc3ff80b0641255ae89ac09fde3f414b1b78df1fa8ab822f7", "ptbr": "Mais bem avaliados"}
+{"id": "LocalText/mod_paixu3", "revision": "2da30e16266eb7df948975141892fa89fd77ca3a9571615bd2d3f69a6627185b", "ptbr": "Criações mais recentes"}
+{"id": "LocalText/mod_paixu4", "revision": "c04e8838cb755c2da974b44d764b449268de4d278cdd44894ac7b4d5df021e9f", "ptbr": "Mais curtidos"}
+{"id": "LocalText/mod_pingjiaguoshao", "revision": "6d787bc8f5907c56690d43d7286660f21a29b82f052aa2055c55dcbc109d2d53", "ptbr": "Comentários insuficientes"}
+{"id": "LocalText/mod_qiyujuqingnpc1", "revision": "094d29ef66027f3bdd3f58aadfc4e033ebb132931bd2a1a9445d7169398950c9", "ptbr": "NPC extraído"}
+{"id": "LocalText/mod_qiyujuqingnpc2", "revision": "bffcbf11f7d8a3bc2639410a3acacbc867ffbb6785abe2536b31adb8e835a6fe", "ptbr": "NPC extraído"}
+{"id": "LocalText/mod_quanbo", "revision": "0c1be8ae230c7ac06f9e6c9995e781af92e6e094d2160250dac6f066a3012e1f", "ptbr": "Tudo"}
+{"id": "LocalText/mod_quxiaodingyue", "revision": "2a48edd93b01e34e92aa7e445c8300d753d39d2601e3c542c1a6c4b8ba45e12b", "ptbr": "Assinatura já cancelada!"}
+{"id": "LocalText/mod_renwu1", "revision": "592e1aefc8f07485a29762426fd2e48d9bfc852ae646e416520264db51229494", "ptbr": "Missão"}
+{"id": "LocalText/mod_renwu10", "revision": "5fe61e45819aabd82e3bbdb89865b234e807d417effe379e6c5ad25f935a10ef", "ptbr": "Destino da missão"}
+{"id": "LocalText/mod_renwu11", "revision": "ec4ea24e534e7ca9a36bc2422597d8a01456ef91b17428b4ab3b44c1954bf071", "ptbr": "Depois de definir o destino, a rota da Missão pode ser rastreada na interface de Missões."}
+{"id": "LocalText/mod_renwu2", "revision": "1feb89ccad495b67cffdc37cc56d925abe06401d5f68c0ecf192422b69176c95", "ptbr": "Nome da missão"}
+{"id": "LocalText/mod_renwu3", "revision": "2e3f51222d85006b69372e87250b6af320f57c65f70bb1e748c5ddda41a25c51", "ptbr": "Descrição da missão"}
+{"id": "LocalText/mod_renwu4", "revision": "85bf3c608a68a21f956133806735bb0bda7969c97d583627089f142f937f25b4", "ptbr": "Duração da missão (meses; -1 significa infinito)"}
+{"id": "LocalText/mod_renwu5", "revision": "2495f157f19fa43868d4ea9e78068466c5243d546d29c5e9af16b86a9d44701e", "ptbr": "Quando a duração acaba, a Missão falha automaticamente e é apagada."}
+{"id": "LocalText/mod_renwu6", "revision": "4786022f6814b5459cd14a9436bd627f3be6d9b9396273ec969ef9511efb8efe", "ptbr": "Chamar comando depois de a missão ser concluída"}
+{"id": "LocalText/mod_renwu7", "revision": "0355636425aaeac7b1fcdc803ced73d042e407ca638fa4df579a52f78e540bca", "ptbr": "Pode ser usado para comandar a distribuição de recompensas, a aceitação de missões novas, a abertura de Enredos e outras funções."}
+{"id": "LocalText/mod_renwu8", "revision": "470836ef01a793373cfe373f51368bac01a26942527fa2bab4abfb585286ea77", "ptbr": "Requisitos de conclusão da missão (abriu um certo Enredo)"}
+{"id": "LocalText/mod_renwu9", "revision": "462ad7f634bdd09b0ee698ad01440403e35a0f1c930c270446441fd5f2fb5a51", "ptbr": "Quando um dos Enredos é aberto, a Missão será concluída automaticamente. Também é possível usar o comando finishTask para completar uma Missão sem preencher o Enredo."}
+{"id": "LocalText/mod_resmulu", "revision": "cc0766a458482015e3b7a5c859db4a9b160559c3fe67b37f5c345fa920105082", "ptbr": "Clique para abrir o diretório Res. É recomendado colocar a imagem de pré-visualização adicional no diretório Res."}
+{"id": "LocalText/mod_shangchuan1", "revision": "45cce7c636105cf931ab5d0f73d3e55a7f2810af61891d32039fc03f76eea494", "ptbr": "Estado de visibilidade"}
+{"id": "LocalText/mod_shangchuan10", "revision": "b97c9985084ac278f4f550b768cd777f45ffe05fc8f1945f6827246e7e85ad44", "ptbr": "As medições da imagem de pré-visualização devem ser 200 de largura × 200 de altura"}
+{"id": "LocalText/mod_shangchuan11", "revision": "60a8003d0ddc44a8a5f2234bb89519c70762fa2445d30c3b6718d8c1b9c13925", "ptbr": "Descrição desta atualização"}
+{"id": "LocalText/mod_shangchuan12", "revision": "514f8c6703fcab73d09988e4800599fa7b35a578310b594f21e77329824018e5", "ptbr": "Etiquetas do Mod"}
+{"id": "LocalText/mod_shangchuan13", "revision": "30d66fb5e323f76eeb8ed81e3b50ab9ffc648e61972b3d94e1e67a2469cd815a", "ptbr": "Destino (Natureza)"}
+{"id": "LocalText/mod_shangchuan14", "revision": "09cce02c48c794b22bb8e1818666a0f65eb7627e94f7513abfee977410e410fc", "ptbr": "Destino Reescrito"}
+{"id": "LocalText/mod_shangchuan15", "revision": "749a3639e5feb8851dd940e64da45788d806f0d42fc04c31ae4e59ffef1b2252", "ptbr": "Item"}
+{"id": "LocalText/mod_shangchuan16", "revision": "b67d341b9dff6df959bf0b537cc16ae336ba9ae53341390c4aa43ff7cd181cfa", "ptbr": "Aventura"}
+{"id": "LocalText/mod_shangchuan17", "revision": "77abc80da2e11f06f856c9afa5789fb9bd8f3ecd26debb42ad464b601c569a86", "ptbr": "Enredo"}
+{"id": "LocalText/mod_shangchuan18", "revision": "f6facf8039861e2fac532755694cf7c65edf9e3927dce97b058ffb0863e4c2c7", "ptbr": "NPC"}
+{"id": "LocalText/mod_shangchuan19", "revision": "bbdd5bea98bd160886bba522d86ddeafa3024d8317a2cf8f3ad5c1e93be3397b", "ptbr": "Desenho de corpo inteiro em pé"}
+{"id": "LocalText/mod_shangchuan2", "revision": "e87ccc25786678ae4c913abc151f36d3f4eb23913b57c2fcf4dcc90aea5ba2fe", "ptbr": "Visível só para si"}
+{"id": "LocalText/mod_shangchuan20", "revision": "5e191ce78ec731ff090ffb76ce4d637f5e42c480d4bccd5b82d6ebd4a9620c4f", "ptbr": "Iniciar envio"}
+{"id": "LocalText/mod_shangchuan21", "revision": "1717077ab7745d39b6fde9b7e5a3105804c811fc02c2b13ea7c100465820625b", "ptbr": "Envio falhou. Tente de novo."}
+{"id": "LocalText/mod_shangchuan22", "revision": "615b415c6612de01b46d95f51f76da5d47b5b8ff0dfb65321a568883406783b3", "ptbr": "Enviado!"}
+{"id": "LocalText/mod_shangchuan23", "revision": "4d3763415d1918a6813190d8d8eac09aa8708e3fe4d83125a0b50fdf410969fe", "ptbr": "Envio falhou. Aceite o Contrato Legal da Oficina Criativa antes de reenviar!"}
+{"id": "LocalText/mod_shangchuan24", "revision": "fe69ad6832d0dfae9df2a44f0beeec60b559f0719eee78e87903325a3c90bd18", "ptbr": "Ferramenta de envio de Mods"}
+{"id": "LocalText/mod_shangchuan25", "revision": "23d415985f2a46731e629f1f6e6df57566c46874432199fd13e6469f57f0971b", "ptbr": "{0} (Progresso {1}%)"}
+{"id": "LocalText/mod_shangchuan26", "revision": "7c49f09a97f0b011dc465aee0bea5e3573c79c3593b039ca71dfd8229b00e882", "ptbr": "Defina primeiro a imagem de pré-visualização!"}
+{"id": "LocalText/mod_shangchuan27", "revision": "060fdc42d03b874a5bb3b34c7e9fc84cb69e954df657a89ed3d0852d34e7ffb5", "ptbr": "Digite o conteúdo da atualização!"}
+{"id": "LocalText/mod_shangchuan28", "revision": "90a1233e6673f10828e800cd0f2489d582d7cdac0c7830069426634905d3516e", "ptbr": "Sem etiquetas definidas. Continuar o envio?"}
+{"id": "LocalText/mod_shangchuan29", "revision": "19da44da89fa868598f9211fa61f2ba180bc50d25758cdeec0df8734848391ef", "ptbr": "Diretório raiz de trabalho"}
+{"id": "LocalText/mod_shangchuan3", "revision": "d277a129a393fb802d99fdf896fcbdb9ee1d76b77459efe9525a808c2c150c97", "ptbr": "Visível só para amigos"}
+{"id": "LocalText/mod_shangchuan30", "revision": "199a54e64e24259861b9ecf13345f0b35f64f6e3ca6ad16e97fc1587d8c43b8a", "ptbr": "Nenhum diretório de projeto definido. Selecione uma pasta como diretório de trabalho do projeto. Todos os projetos de Mod serão salvos neste diretório."}
+{"id": "LocalText/mod_shangchuan31", "revision": "745b3d1afe3b0749e28e0bf49dcd2d00c7d177eaefcfd4757ad77c311fc81451", "ptbr": "Mudar diretório"}
+{"id": "LocalText/mod_shangchuan4", "revision": "043d440cc28f1b5a0dbbc1b5e5d7c97627b4a6fadee2ee562362c21351450228", "ptbr": "Visível para todos"}
+{"id": "LocalText/mod_shangchuan5", "revision": "9a02f1f482d5aa1f87b192cc40c2004d1ea7b6918e24b4bfdf8c2bfb9372f2c4", "ptbr": "Código aberto?"}
+{"id": "LocalText/mod_shangchuan6", "revision": "df5e33719dbbc6db97ce3c0ff013719f6064984b55b53ebc155178fd327d4db3", "ptbr": "Depois de abrir o código, o projeto do Mod será enviado à Oficina Criativa, e outros jogadores que baixarem o Mod terão o projeto de origem incluído."}
+{"id": "LocalText/mod_shangchuan7", "revision": "d1a72c1768146f85e195d3e02dfe9742b0a00ca2b70bd46e68099b7320ae4fc8", "ptbr": "Não é código aberto"}
+{"id": "LocalText/mod_shangchuan8", "revision": "fc2c3ced2c7bd5d8871fccd61e264f8319e85f51216cab190dddef3a0e248de3", "ptbr": "Código aberto"}
+{"id": "LocalText/mod_shangchuan9", "revision": "352ff603c0678a6733348740e265f66a010070ccc9c407e2477a838e2776eedc", "ptbr": "Imagem de pré-visualização"}
+{"id": "LocalText/mod_shangchuanchuangyi", "revision": "f8e01d9af949dee09e303cccdf9efab872224114abba6ed2d9546a75c5189c86", "ptbr": "Enviar à Oficina Criativa"}
+{"id": "LocalText/mod_shangchuanzhong1", "revision": "9edb1444602fdf7b92ed855fac4982fbaa982c8ebf631100a05917b1a68f045a", "ptbr": "Processando dados de configuração"}
+{"id": "LocalText/mod_shangchuanzhong2", "revision": "037f44e8bf8bbf9ae0209addfefbbd5d777acf933dcf8532de7cd141a5d106ff", "ptbr": "Lendo e processando arquivos de conteúdo"}
+{"id": "LocalText/mod_shangchuanzhong3", "revision": "71d193d84edc40f4e19877cd5fa9234db39bef11e265d45026fc186b7639ae9d", "ptbr": "Enviando mudança de conteúdo ao Steam"}
+{"id": "LocalText/mod_shangchuanzhong4", "revision": "73b429ed640c41663def7e086848ebb4c8fe88271c300d4c1b463863d0f7b6b8", "ptbr": "Enviando novas imagens de pré-visualização"}
+{"id": "LocalText/mod_shangchuanzhong5", "revision": "7927d2120d615a1dad582559bb6bac4a1f3eba689a1a8a81ca9037ff9b7f127c", "ptbr": "Confirmando todas as mudanças"}
+{"id": "LocalText/mod_shangdian1", "revision": "3fab048d073d159baee84f68e71c73ddd5e332d70ba98aa854698d54de7481b3", "ptbr": "Loja de Mods"}
+{"id": "LocalText/mod_shangdian10", "revision": "1659e423d8317e8db4c5cd87bf9ea9f00e76ab2d99989bf69b82e36840a09ace", "ptbr": "Página {0}/{1}"}
+{"id": "LocalText/mod_shangdian11", "revision": "80c06d5d187ad0dcea2e60497b7255723d6db56f4486e906430d6db24c666efb", "ptbr": "Baixando {0}..."}
+{"id": "LocalText/mod_shangdian12", "revision": "b1a8ec804949da2c5f621dda46ef97dd2de0076d015f013fb0f591698683a4fd", "ptbr": "Cancelar todos os Mods em download"}
+{"id": "LocalText/mod_shangdian13", "revision": "f141c128445444e6c342d9cd6e44098d4c974f8f7a960af8238e9a74007188f1", "ptbr": "Autor:"}
+{"id": "LocalText/mod_shangdian14", "revision": "b5fcaa6ed678d084e72d703a31dac17e4e9c0cb7d2985e791c818325f9fb98e5", "ptbr": "Tamanho do Mod:"}
+{"id": "LocalText/mod_shangdian15", "revision": "b0b40f5524af05ee0e7832ec91b3041792c3989384d7b5932b8fa145665f2ea1", "ptbr": "Curtir este Mod!"}
+{"id": "LocalText/mod_shangdian16", "revision": "77bfe747d98857b416ea56a2badf8e95582fed3710e5a65aad480e1dd75ddcf8", "ptbr": "Dar aval negativo a este Mod!"}
+{"id": "LocalText/mod_shangdian17", "revision": "1948daa25c92b36fec88ecd2adaa81ad4b0ab60866ec4b02141b64cabb3fdd93", "ptbr": "Assinar"}
+{"id": "LocalText/mod_shangdian18", "revision": "650d12f045c334f2cf7b92cd9afd776147a8832ae87c340cc17efef2af4433ab", "ptbr": "Cancelar assinatura"}
+{"id": "LocalText/mod_shangdian19", "revision": "8e8684ab37ea75fcbebf95c78134d949bc163e4f3896f0cafd9f5d1c9b7c153f", "ptbr": "Etiqueta:"}
+{"id": "LocalText/mod_shangdian2", "revision": "ab4b23532048a8d5e4fc8e351c55ab620fb36ada34a8f450b0df7f5ba47a39f4", "ptbr": "Mod local"}
+{"id": "LocalText/mod_shangdian20", "revision": "f7d0b82a39fe6f545607127c3c86d272107cceb316b59eb65a685ba1afa26e33", "ptbr": "Assinaturas:"}
+{"id": "LocalText/mod_shangdian3", "revision": "4fa1e5c15e03a930aff9e799aac5fc7c8d0d20a20a192ec1c30770a0e82f347f", "ptbr": "Nome"}
+{"id": "LocalText/mod_shangdian4", "revision": "715daf68d9d6fc8a7f55f05d0616bbeb53c68deaee3a623d5f45923aa93507ea", "ptbr": "Etiqueta"}
+{"id": "LocalText/mod_shangdian5", "revision": "3bbe46ef03a0332612530d1a3302fb6318335c14effcbe4204bbcf51eef03342", "ptbr": "Assinaturas"}
+{"id": "LocalText/mod_shangdian6", "revision": "6f76234415d00e39d9a3dbec9812ec66dbfdfc137f52a56ef27ab550d322020c", "ptbr": "Avaliação"}
+{"id": "LocalText/mod_shangdian7", "revision": "5d6f7959a876bb1f7a9a979b05c8a2dff7f03c4e0c2f3e7fc224699401bdb43b", "ptbr": "Código aberto"}
+{"id": "LocalText/mod_shangdian8", "revision": "41ea3db29f9c7e630ba289dbf7c03387f317d87d38ac27a2f36479d6132c771a", "ptbr": "Carregar ao jogo"}
+{"id": "LocalText/mod_shangdian9", "revision": "606eb84480289143ff86c7935948ec3d0b23f2a35437ad315870de5ee7aee993", "ptbr": "Atualizar"}
+{"id": "LocalText/mod_shezhiguanxi", "revision": "aaaf7d85c3c6efd9bc79bdaea1acc1026f20d2286d8c8a7ca056054b72ccaf6c", "ptbr": "Alvo da relação"}
+{"id": "LocalText/mod_shezhiguanxitishi", "revision": "58c35fe17937c1602e3d34b29f50e1ca7a7cfeeb846a0a48f21cc4899048cba7", "ptbr": "Você só precisa ajustar as Configurações de Relação para uma das partes, não para ambos os NPCs."}
+{"id": "LocalText/mod_shifoudingyue", "revision": "3cfef46bd8ab6e5106d1cee4aee0ac4596d56235c74b5aa0ef84ca563185f668", "ptbr": "Assinar?"}
+{"id": "LocalText/mod_shiyongxiaohao", "revision": "ec6890ccd641bb67cf0eb29f0f350b783ae3e69aed5e65b71e172c7eafe35631", "ptbr": "Custo em itens ao usar o Mapa de Artefato"}
+{"id": "LocalText/mod_shuaxin", "revision": "2582253efda6c4b46fe4953905c33be42026ed71a0cd7c34b1df7eb1cfcf9fae", "ptbr": "Atualizar"}
+{"id": "LocalText/mod_shuaxinshuju", "revision": "5a1bbcdb36722221ed78d49502048ffa8026aad2d31c5d3e69edc849352407b5", "ptbr": "Atualizar dados"}
+{"id": "LocalText/mod_shuaxinshujutishi", "revision": "ae302ac8ba8d96d1255d9dc859194129a1ca57c785ed89582e50cc53df53fd5b", "ptbr": "Se o projeto do Mod foi editado com conteúdo novo, é preciso clicar em “Atualizar dados” para que o conteúdo mais recente do Mod seja aplicado ao jogo!"}
+{"id": "LocalText/mod_shuaxintishi", "revision": "a96d8d1291dc4d7603f40836a491578034b8c0dc94c262fe11eea3e489fdea62", "ptbr": "Quando o projeto de origem do Mod for copiado ao diretório raiz de trabalho (note a estrutura de diretórios), clique em Atualizar interface para exibir o projeto novo."}
+{"id": "LocalText/mod_shuji1", "revision": "df0a18a4fee2b2e97bf9112bada0da50b802e67b9fdacff8afe69625af022c5c", "ptbr": "Quantas páginas o livro tem"}
+{"id": "LocalText/mod_shuji2", "revision": "e4e93ebf93e3becea51b218f28f98aa6ea4e182d63b02bfd075ebf2e1a37a5e7", "ptbr": "Conteúdo na página número {0}"}
+{"id": "LocalText/mod_shuxingshanchutishi", "revision": "57a4da54d55638453848a7a888a83e55f842a9ce53daae92df9aabe5fe120f63", "ptbr": "Tem certeza de que quer apagar os dados de Atributos? Os atributos do NPC serão aleatorizados depois da exclusão."}
+{"id": "LocalText/mod_tianjiashengying", "revision": "dd7290fb343569b41b613053bf1ef75f89f962f634d12adba683d6e8f41da98f", "ptbr": "Adicionar um som novo"}
+{"id": "LocalText/mod_tiaoshi1", "revision": "19dd90bf8dd45cfcef508beb2666f69e98876e1ae3a6d3c14e353d120bb97db0", "ptbr": "Os Mods seguintes estão em depuração"}
+{"id": "LocalText/mod_tiaoshi2", "revision": "7243f79cbcbad4d066d56e9f12d0937689f94e6d15058539f1f2cd39375cc327", "ptbr": "Encerrar depuração do Mod:"}
+{"id": "LocalText/mod_tiaoshi3", "revision": "c238cc23a0fcd2fb6d4153abd9bce7d95ec91287d0b9d4c6abf51dd9607e2aee", "ptbr": "Ir à depuração no jogo"}
+{"id": "LocalText/mod_tiaoshi4", "revision": "8a89aafe7e93cb1cf99073455669d32694abb4728aae4bbf3cffb55c4f5d5dcd", "ptbr": "Caminho:"}
+{"id": "LocalText/mod_tiaoshitishi", "revision": "f19e739d8c97c03787abadd77e24ba850f5aedfbd4874bdf135b7fbed2eb1c43", "ptbr": "Mod importado. Por favor, “adicione um save novo” ou “entre num save anterior”."}
+{"id": "LocalText/mod_tupianchongfutishi", "revision": "5a527da864505ccb5fedeb421fc6a59829a65925624fdd1ff05aa098fe47256c", "ptbr": "Nome de recurso duplicado. Sobrescrever?"}
+{"id": "LocalText/mod_wanjia", "revision": "cba3672e17e37ca4d8891f469e4038548cfd395e022bbbc0b0e27cec4008137b", "ptbr": "Jogador"}
+{"id": "LocalText/mod_weijiazai", "revision": "3af80c5a8fad8da5ee1c8947e48b9e5fc138d72e6dbdaddf36698e995ff3cab6", "ptbr": "(Não carregado)"}
+{"id": "LocalText/mod_wushengying", "revision": "467f1994c996f2cf53603f05926c6129550ec7e89b58307fa9e30a5de948917a", "ptbr": "Sem som"}
+{"id": "LocalText/mod_xiangmu1", "revision": "b9a674e5dc8da8d793185d31299c72767bbd61cfa268617b56a19e5c82cfdf5e", "ptbr": "Engenharia de projeto de Mod"}
+{"id": "LocalText/mod_xiangmu2", "revision": "a3e76a32b859b3cbae2b1c92121fd1861049542ab90a246859d1f6e5b905c332", "ptbr": "Projeto novo"}
+{"id": "LocalText/mod_xiangmu3", "revision": "978135579aae662ee489c6517bf1b0afb0fd7c5b62eaccaba1a9ddf21ada0918", "ptbr": "Apagar"}
+{"id": "LocalText/mod_xiangmu4", "revision": "47e0cd7cba9fed2a494af82e0e8f2d1bf21d2ede1c592865dd178c846d657fb7", "ptbr": "Apagar o projeto? Não pode ser restaurado depois da exclusão!"}
+{"id": "LocalText/mod_xiangmu5", "revision": "8cbc3766a05634b9238701eff6f8583fef5676547b6867e5036fc06066813cd4", "ptbr": "Carregar este Mod ao jogo"}
+{"id": "LocalText/mod_xiangmu6", "revision": "8ea37c6d301c2362cd731ec2b8bca97ec66e2bc0b39a11c989820b733bdf71ab", "ptbr": "Editar"}
+{"id": "LocalText/mod_xiangmu7", "revision": "c2871d4ba6d46b2fdd36ecde73201c29928871916d960c57ccecacfc25ac98ab", "ptbr": "Mod carregado ao jogo!"}
+{"id": "LocalText/mod_xiangmu8", "revision": "67e8627222cd1d05f022e8a669c9cb98bb5fc88b34f7d34813e3046cb8aa9e23", "ptbr": "Falha ao carregar o Mod!"}
+{"id": "LocalText/mod_xiangmu9", "revision": "7fdd107bac28b6d7053ab87eec2c0c36bf27bea1d8d7de5710108020fe44f4a3", "ptbr": "O Mod foi removido do jogo!"}
+{"id": "LocalText/mod_xiangmulujing", "revision": "5bfcb3c9f5a24ad4687ba034b2025695ab43335682e773a5cbfe9f02523eeeaf", "ptbr": "Lista de projetos de Mod:"}
+{"id": "LocalText/mod_xieyi1", "revision": "f3282c32e7507a78056d6472fe1092f93526aef4701e71d866c8283fafc90df7", "ptbr": "Ao enviar este Mod, você concorda com os"}
+{"id": "LocalText/mod_xieyi2", "revision": "3970fb93cbfe0561617a2071e673c7b62db1a87fac38663f184a32014eed513e", "ptbr": "Termos de Serviço da Oficina Criativa"}
+{"id": "LocalText/mod_xingbiebuyizhi", "revision": "9cde85893e0399f66dfb0c590117efe549e1abd58b0c9606361ef8e5205c98b3", "ptbr": "Gênero inconsistente!"}
+{"id": "LocalText/mod_xuanxiang1", "revision": "4f64d9bb65f6aa884be8154dba79a01d733470fb0bd8ed8b143bf18cd6d53ce7", "ptbr": "Requisitos de aparência do botão"}
+{"id": "LocalText/mod_xuanxiang2", "revision": "b1181fbd61cf073b668531f6b130d3cb41db3755641229b9bcd90fa74014309d", "ptbr": "Se os requisitos não forem atendidos, o botão não aparecerá no Enredo."}
+{"id": "LocalText/mod_xuanxiang3", "revision": "7be825a6bda7a176b46365b92eb362718fca7e086020f6ce29afe940ed2594e8", "ptbr": "Texto no botão"}
+{"id": "LocalText/mod_xuanxiang4", "revision": "b51532867d86c1d93b494f5eb0220b95337c50b9bb95e63ccdd20feb96e934a8", "ptbr": "Custo em itens ao tocar no botão"}
+{"id": "LocalText/mod_xuanxiang5", "revision": "41eb0151aeebdd44c80716f2fb79fc01ed24f3c6e134b2c646b8e72bd9bf143d", "ptbr": "Comando executado depois de tocar no botão"}
+{"id": "LocalText/mod_xuanxiang6", "revision": "3ff590badd556d044018b26553edbd3409372586d26b1907fe97c6339582a680", "ptbr": "Próximo Enredo a seguir depois de tocar no botão"}
+{"id": "LocalText/mod_yidingyue", "revision": "19cccd552d4041edebd2c9264ffaeba671297973dcc7f129ac0e77f8627d2e54", "ptbr": "Assinado"}
+{"id": "LocalText/mod_yijiazai", "revision": "333aac76956e11e41ed9b3085681f52720920002ce12e7ec431e44a33804955d", "ptbr": "(Carregado)"}
+{"id": "LocalText/mod_yinxiao", "revision": "ed8b7455f704ba1b0378193d81672482694766573a5108c706d03af7ab9fe0fb", "ptbr": "Efeito sonoro"}
+{"id": "LocalText/mod_yinxiaogeshi", "revision": "916aae5467c52ca20a826d4c6deb5faaf3f9c9bf7e495cbe2ac2c2a872da630c", "ptbr": "Só sons em formato wav podem ser adicionados"}
+{"id": "LocalText/mod_yulantu1", "revision": "5d8b60691e5b525402dcb470ca110100c043345640f3d73fe99e139d191d5182", "ptbr": "Imagens de pré-visualização adicionais (opcional)"}
+{"id": "LocalText/mod_yulantu2", "revision": "5b9529c9c4f78a56f2d6fa4e39bcbad076a64cf84127da61330304770ec33d3d", "ptbr": "Configurações"}
+{"id": "LocalText/mod_yulantu3", "revision": "1ab08131a24cb0fc464a28e4df887b55fdb7717d18dcf643111aa34d1c29af4e", "ptbr": "(Imagem de pré-visualização {0}):"}
+{"id": "LocalText/mod_yulantu4", "revision": "d5c5eb3e099fb3d0ba101b7c1d8e874ccb39a7e01191dbda6eb9bbc18f62a553", "ptbr": "Imagem de pré-visualização {0}"}
+{"id": "LocalText/mod_yulantupianchichun", "revision": "f610ed9f83ced38b0996cf7cb8fb8f2b6cbf79104fecb7588fe8c03417749945", "ptbr": "({0}) não pode ter mais de 1 MB!"}
+{"id": "LocalText/mod_zhengzaigengxin", "revision": "473900536753eb0763ace534b8d05287d2691ecbfb9a47f07244bbd680a7da99", "ptbr": "Atualização em andamento!"}
+{"id": "LocalText/mod_zhengzaijiazai", "revision": "070fff8e7e210d6be1c050d13b44b9a283fb5f54c54d4f46b5f9a0d133da4239", "ptbr": "Carregando..."}
+{"id": "LocalText/mod_zhengzaixiazai", "revision": "095372a2f3f5feb0723a6b0da92845cced9fc24975cfd6a185d9ce177fdc4c83", "ptbr": "Baixando..."}
+{"id": "LocalText/mod_zuoqi1", "revision": "87366caba547678c256b04e3e99bf4242aebc63fda706417bb3942e99b063d76", "ptbr": "Efeito da Montaria"}
+{"id": "LocalText/mod_zuoqi2", "revision": "24ffbb37758bef876004beb3e239c729affdd2116b9647b530cfc00777322ca6", "ptbr": "Modelo da Montaria"}
+{"id": "LocalText/mod_zuoqi3", "revision": "4b12fa5f968cfa2d6bf5de536604f3a88af03bbc2c665b02aa23d5d8021b10dc", "ptbr": "Som de caminhada no mapa-múndi"}
+{"id": "LocalText/mod_zuoqi4", "revision": "e25ae545af25953a28157d75b830aa04203a4358afd27bceef39e340cbd219a7", "ptbr": "História de fundo"}
+{"id": "LocalText/mod_zuoqi5", "revision": "5f62ccde5cff3532401c5f2e5392f5041997d2aa51bcf0b71dc1d2a6d7f9ce7f", "ptbr": "Requisito de Reino para uso"}
+{"id": "LocalText/mod_zuoqimoxing", "revision": "211ccab9b8a7b4dd733a9de5a4915224c4ec4abe44286fff7d00ceb197186922", "ptbr": "Modelo da Montaria"}
+{"id": "LocalText/modbupanduanquyu", "revision": "e18ef234f59bd912200a23cab2eac6b803d1ad8cb2bb1510cc98ffb666dd2cf5", "ptbr": "Todas as regiões"}
+{"id": "LocalText/modchuangjiannpc12", "revision": "f288431926acf916c0d2f6fc1c776c8aac4cb39aabeff184e48091a35ed89dbd", "ptbr": "Aleatorizar destino"}
+{"id": "LocalText/modchuangjiannpc13", "revision": "44a65821fb52869e2b71de6fe196254d5a9cd71313c8e06171d9ba72225c7bca", "ptbr": "Aleatorizar traços de caráter"}
+{"id": "LocalText/moddangqianquyu", "revision": "62098fc1e3270022c4a0470be68b9bd309feadf2429973446f9472749d3e20c0", "ptbr": "Região atual"}
+{"id": "LocalText/modwuxiaohao", "revision": "ee7e5a2d71f4a718756a06511b96be763b1b9300d09f1bed44f1e86e20772cd2", "ptbr": "Sem custo"}
+{"id": "LocalText/troubleName10101", "revision": "b5afef091b44df18342b40de7e9fcc632cf3c72b19cf293c13bdaf86a2263896", "ptbr": "Material de Rompimento"}
+{"id": "LocalText/troubleName10201", "revision": "eef23d205f2b88355c6a99effce2f105e8b3edf7b9d3d0aabacc4735f48c2d99", "ptbr": "Tesouro do Céu e da Terra"}
+{"id": "LocalText/troubleName10301", "revision": "bf055f406af14a7fe29a4a8fa0cb62b42338b3fbe8a5dbd1644def70f474310a", "ptbr": "Artefato"}
+{"id": "LocalText/troubleName10401", "revision": "82af6a752c39b7b638cb92ee4d184a8790c6e32f683fb746b1c10eaf273b7680", "ptbr": "Montaria"}
+{"id": "LocalText/troubleName10501", "revision": "d9d100b5307717a73fc9d891c10d6b87efbb458b8ea2c944cd6efe10d54e1b58", "ptbr": "Anel"}
+{"id": "LocalText/troubleName10601", "revision": "3d5bb384c60423a44397b347669031f816140c924b2b3a0ed8a4b2670c31f2db", "ptbr": "Manual"}
+{"id": "LocalText/troubleName10701", "revision": "9061e20e944a4002bc66493a34fc44a1c9ed901d44ce1c41e04cbbd204f76c18", "ptbr": "Assassinato"}
+{"id": "LocalText/troubleName10801", "revision": "d9bbf04606c0558b72796e78881bdb55ee24b8b9c33240db66ca9015a83bce1d", "ptbr": "Cumplicidade em assassinato"}

@@ -607,3 +607,23 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | Duality Village | Vila da Dupla Perfeição | openVillage |
 | Tile / grid | grade | valores de terreno Qi/Ervas/Minério |
 | key/value (world data) | chave/valor | dados de save marcados |
+
+### Lote 0051 (Enredos, Missões e Loja de Mods)
+
+| Inglês (EN) | Português Brasileiro (PT-BR) | Notas |
+| --- | --- | --- |
+| Plot / Plot Options / Next Plot | Enredo / Opções de enredo / Próximo enredo | editor |
+| Plot full-body standing drawing | Desenho de corpo inteiro em pé do Enredo | — |
+| Main Mission / Adventure Mission / Plot Mission | Missão Principal / Missão de Aventura / Missão de Enredo | modEnum10081 |
+| Mission Destination | Destino da missão | — |
+| Mod Store / Creative Workshop | Loja de Mods / Oficina Criativa | Steam Workshop |
+| Open Source (mod) | Código aberto (mod) | — |
+| Subscribe / Unsubscribe / Subscribed | Assinar / Cancelar assinatura / Assinado | — |
+| Most Subscribed / Latest Creations / Most Likes | Mais assinados / Criações mais recentes / Mais curtidos | ordenação |
+| Taoist Title | Título Taoísta | idêntico ao lote 45 |
+| Heaven-chosen / Illustrious One | Escolhido pelo Céu / Ilustre | modEnum10096 |
+| Maimed-chosen / Champion | Escolhido Mutilado / Campeão | — |
+| NPC troubles: Breakthrough Material, Heaven and Earth Treasure, Artifact, Mount, Ring, Manual, Murder, Assisting murder | Preocupações: Material de Rompimento, Tesouro do Céu e da Terra, Artefato, Montaria, Anel, Manual, Assassinato, Cumplicidade em assassinato | troubleName |
+| Artisanship books: Elixir Recipe, Artifact Blueprint, Feng Shui Book, Talismans Book, Prescription, Ore Chart | Receita de Elixir, Projeto de Artefato, Livro de Feng Shui, Livro de Talismãs, Prescrição, Quadro de Minérios | modEnum10109 |
+| Secret Order | Ordem Secreta | idêntico ao lote 48 |
+| Mail (letter UI) | Carta | — |
