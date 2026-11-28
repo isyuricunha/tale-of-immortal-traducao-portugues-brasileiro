@@ -415,6 +415,25 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | Skill Stats | Atributos de Técnica | Inclui Artes Marciais e Raízes Espirituais |
 | Flower Buds / Flower Petals / Blade Marks / Nether Blast | Botões de Flor / Pétalas de Flor / Marcas de Sabre / Explosão do Submundo | — |
 
+### Lote 0038 (Parâmetros de Técnicas por Elemento/Arma)
+
+| Inglês (EN) | Português Brasileiro (PT-BR) | Notas |
+| --- | --- | --- |
+| possessivos de habilidade ("X's range / cast range / area of damage / duration / pulling effect …") | "Alcance de X / Alcance de conjuração de X / Área de dano de X / Duração de X / Efeito de atração de X" | Nomes no plural usam apóstrofo sem *s* ("Swords' area") |
+| Nomes de técnicas: Breeze Sword, Moonshadow Swords, Serene Fist, Seismic Fist, Palm Wave(s), Cloudshift Palm, Boomerang Finger, Duality Finger, Seven Star Finger, Shadowy Finger, Demonseal Finger | Espada da Brisa, Espadas da Sombra Lunar, Punho da Serenidade, Punho Sísmico, Onda(s) de Palma, Palma que Abre as Nuvens, Dedo de Samsara, Dedo Dual, Dedo das Sete Estrelas, Dedo Sombrio, Dedo Selador de Demônios | — |
+| Icicle / Frostbrand / Ice Storm / Frost Spirit Blast / Soulreaping Formation / Soulreaper / Icy Aura | Estalactite de Gelo / Marca de Gelo / Tempestade de Gelo / Detonação do Espírito Gélido / Formação Ceifa-Almas / Ceifador de Almas / Aura Gélida | — |
+| Dashing Lightning / Lightning Cloud / Dark Lightning / Lightning Crash / Spiritual Lightning Bolt / Lightning Punishment Stone / Lightning Retribution | Relâmpago de Investida / Nuvem de Raio / Raio Sombrio / Colisão de Raio / Raio Espiritual / Pedra de Punição de Raio / Retribuição de Raio | — |
+| Fire Sorrow / Sunfire / Sinful Flame / Fire Ring / Fire Shield / Groundfire / ring of fire | Luto de Fogo / Fogo Solar / Chama Pecaminosa / Anel de Fogo / Escudo de Fogo / Fogo do Solo / anel de fogo | — |
+| Quicksand / Rock Formation / Qi Wave / Poisonous Marsh / Soil Ball(s) / Falling Rock / Meteor(fall) / Earthfall | Areia movediça / Formação de Pedras / Onda de Qi / Pântano Venenoso / Esfera(s) de Terra / Pedra Caindo / Meteoro / Chuva de Meteoros / Desabamento | Earthfall ≠ Meteorfall |
+| Overbearing Blade / Dragon Spear Formation / Skyfall Sword / greatsword / Divinity Sword / Overlord's Shield / Vortex / Demonic Mark Palm / Void Blast | Sabre Dominador / Formação da Lança do Dragão / Espada da Queda do Céu / Espadão / Espada Divina / Escudo do Soberano / Vórtice / Palma da Marca Demoníaca / Detonação do Vazio | — |
+| Blade Possession / Palm Mark / Rainbow Palm / Palisade / Landslide / Tidebreak / Oceanic Palms | Possessão de Sabre / Marca de Palma / Palma do Arco-Íris / Palma Barreira / Palma Deslizante / Palma Rompe-Mares / Palma Oceânica | — |
+| Firebolt / Fire Ball / Water Bolts / Volt Bolts / Wind Bolts / Spiritual Leaves / Spiritual Rain | Esfera de Fogo / Bola de Fogo / Esferas de Água / Esferas de Raio / Esferas de Vento / Folhas Espirituais / Chuva Espiritual | — |
+| Heart-Piercing / Flying Dragon / Splitting Dragon / Crackling Jade / Linebreaking Spears | Lanças Perfura-Coração / Lanças do Dragão Voador / Lança do Dragão Perfurante / Lança(s) de Jade Estalante / Lança Rompe-Fileiras | — |
+| Shadowless / Gale / Brokenstar / Skycleaver / Skyshatter Swords | Espada Sem Sombra / Espada do Vendaval / Espada Quebra-Estrelas / Espada(s) Rasga-Céus / Espada Estilhaça-Céus | — |
+| Mindbender / Hillbreaker / Skyblast / Lion's Roar Fists | Punho Enfeitiçante / Punho Quebra-Montanhas / Punho Estoura-Céu / Punho do Rugido do Leão | — |
+| Storm Palm / Storm(s) / Wild / Reaving / Sweeping Wind(s) / Column of Wind | Palma da Tempestade / Tempestade(s) / Vento Selvagem / Vento Saqueador / Vento(s) Varredor(es) / Coluna de Vento | — |
+| Sword/Blade auras, Spear Thorns, Fist/Finger Shadows, Palm attacks | Auras de Espada/Sabre, Espinhos de Lança, Sombras de Punho/Dedo, Golpes de Palma | — |
+
 
 
 

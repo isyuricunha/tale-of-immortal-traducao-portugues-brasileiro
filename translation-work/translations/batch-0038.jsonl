@@ -1,0 +1,500 @@
+{"id": "LocalText/s_12113_ljgl", "revision": "4214b3d47c165559e7faa9e0975b8208c98d337550baf200150fae7d9f360710", "ptbr": "Esta técnica tem &12113_ljgl&% de chance de golpear duas vezes."}
+{"id": "LocalText/s_12113_range", "revision": "6921c66d04af252a8f36e7ffd5437c575bd1e6a19b5e98d63af8da5e6595d6be", "ptbr": "Área de ataque desta técnica: &12113_range&"}
+{"id": "LocalText/s_13111_cd", "revision": "1eb1aecff2a706a7be8552dae589a052b5878bc2b5ce81b99030806519cfe131", "ptbr": "Recarga desta técnica: &13111_cd&s"}
+{"id": "LocalText/s_13111_ddsl", "revision": "c9a3853f3b6db84c97528ced7e3f937ef1663529841697188c68c85b296ddaa9", "ptbr": "Lanças Perfura-Coração liberadas: &13111_ddsl&"}
+{"id": "LocalText/s_13111_range", "revision": "ec2f897d5172e2ddf0ad1c5ef3db5d19010fc572a4e25b1bb817993da9c403ea", "ptbr": "Alcance desta técnica: &13111_range&"}
+{"id": "LocalText/s_13112_cd", "revision": "87060f77ba386de6483708d42046bd85e7dbf845ebb685f5ad6e71692d167759", "ptbr": "Recarga desta técnica: &13112_cd&s"}
+{"id": "LocalText/s_13112_ddsl", "revision": "589306ad23dd5bbac37d82be41259cdab833b71d026440004eff8f8f71b0f09d", "ptbr": "Lanças do Dragão Voador liberadas: &13112_ddsl&"}
+{"id": "LocalText/s_13112_range", "revision": "c59aa572f80f36de917ce4a79da340f3519417f4e2e93a304015948ad3d9eccb", "ptbr": "Alcance desta técnica: &13112_range&"}
+{"id": "LocalText/s_13113_cd", "revision": "b87d067c73b2abc08e879adfbcb0fa1cf0e09669fc348c0454b3159b876c2834", "ptbr": "Recarga desta técnica: &13113_cd&s"}
+{"id": "LocalText/s_13113_ddsl", "revision": "d2fcb146be4816852e30f6d8166c58e4c720671babbc4324cc225a9c9ed3f6b6", "ptbr": "A Lança do Dragão Perfurante se divide em &13113_ddsl& Sombras de Lança"}
+{"id": "LocalText/s_13113_range", "revision": "fc65783e4a13846c5d9ab2b8ae496dc6cf1b7c987f695210b12b7cf4ed09ac37", "ptbr": "Alcance desta técnica: &13113_range&"}
+{"id": "LocalText/s_14111_cd", "revision": "572ec9bf0065b237efaffd479784b13047b0a15daba216f38793727f384f7070", "ptbr": "Recarga desta técnica: &14111_cd&s"}
+{"id": "LocalText/s_14111_ctcs", "revision": "7d69f3993a1c2189aa08158bdf1d1982f3debe8cb496c27b04e452cb4a43ffd0", "ptbr": "A Espada da Brisa perfura &14111_ctcs& inimigos."}
+{"id": "LocalText/s_14111_range", "revision": "885a58dce5d0b77a4ec13580bf52add735ae7e57b9a217cc48feba820fdb1293", "ptbr": "Alcance desta técnica: &14111_range&"}
+{"id": "LocalText/s_14112_cd", "revision": "03bac94e4bfffb98c94efcef8bf3fa1d0bcad827260dfeaa7bab7d4084c4ca53", "ptbr": "Recarga desta técnica: &14112_cd&s"}
+{"id": "LocalText/s_14112_hfpc", "revision": "288c396e76aad0ffd52cb354dc16e5f181290ee76993997acc093f8358f3c448", "ptbr": "Velocidade de recuperação de precisão desta técnica: &14112_hfpc|x5|f0&%"}
+{"id": "LocalText/s_14112_range", "revision": "ea4bee406f0c643ac4228f244099fa0d60c43fa53f9829599e02b9d88be328cf", "ptbr": "Alcance desta técnica: &14112_range&"}
+{"id": "LocalText/s_14113_cd", "revision": "c6ab770a5f21b19bbc0a8877374096c1c165301c9d128cf802c5333b71eddcfa", "ptbr": "Recarga desta técnica: &14113_cd&s"}
+{"id": "LocalText/s_14113_ddsl", "revision": "8040014472419c24f32c7297e473cfb80bf44f4ca822cbb7de8bb9e19144ee7e", "ptbr": "Espadas da Sombra Lunar liberadas: &14113_ddsl&"}
+{"id": "LocalText/s_14113_range", "revision": "3c28e8f78debf9d8df388702a3cc499d343afd9d0438730bee72dbaf158dd099", "ptbr": "Alcance desta técnica: &14113_range&"}
+{"id": "LocalText/s_15111_cd", "revision": "884d0a430e7d32bbf27001586eff6079540418570f9465d2106effe28fcf976a", "ptbr": "Recarga desta técnica: &15111_cd&s"}
+{"id": "LocalText/s_15111_ddsl", "revision": "a7eb94fc945c4ef5b1dae378cef7b6bce8615deb3f6cb851c5593cb2995eddb6", "ptbr": "Punho da Serenidade liberos: &15111_ddsl&"}
+{"id": "LocalText/s_15111_range", "revision": "c001d1155b550ad7b71b28b82196b5cb3871f24395d6b0d77aa8800f802e36e4", "ptbr": "Alcance desta técnica: &15111_range&"}
+{"id": "LocalText/s_15112_cd", "revision": "db3d93af200fa08e2525af2fd4f044e78bf3a2dc087756e9ebdde614a019448c", "ptbr": "Recarga desta técnica: &15112_cd&s"}
+{"id": "LocalText/s_15112_ddbl", "revision": "14f92bdc9824c7297b8f22a042be8d46b0c6dda09f1e7731e1691eeda3897100", "ptbr": "Área de dano de Punho Sísmico: &15112_ddbl&"}
+{"id": "LocalText/s_15112_fjjg", "revision": "4c5bb183f1627a9a87c9d41a4ac9bd2c17f461c4d34a58c21bc913727fa68c6c", "ptbr": "Ao receber dano, lança um contra-ataque contra quem te atacou. Recarga: &15112_fjjg&s."}
+{"id": "LocalText/s_15113_jlsh", "revision": "467a15b99cc48ad6510aedae63ad1da236b81c9502fe103809585e25b5c6f285", "ptbr": "Completamente carregada, esta técnica causa &15113_jlsh&% mais de dano."}
+{"id": "LocalText/s_15113_speed", "revision": "3f6fbcfe1dd71daa18776056215304b06164b314a61f2bb440ed6d3294e28fdc", "ptbr": "Velocidade de projétil desta técnica: &15113_speed&"}
+{"id": "LocalText/s_15113_xlsj", "revision": "92e80a2c9b6ee05de5c07bb695eefae050bca85bb1e3aa5e0983cf678969683d", "ptbr": "Tempo de carga desta técnica: &15113_xlsj&s"}
+{"id": "LocalText/s_16111_cd", "revision": "881c1035ed031b16653a0551d8598c8af46bebd8cbfdcdb264ef5d951b56b853", "ptbr": "Recarga desta técnica: &16111_cd&s"}
+{"id": "LocalText/s_16111_range", "revision": "1c80b43a61d363d6d70aa62ccabf223ac6b128c189a6b9fbae7feb5f3a7f1db1", "ptbr": "Alcance desta técnica: &16111_range&"}
+{"id": "LocalText/s_16111_zffw", "revision": "187697efdc1b4ddaefb89f9d81a4a99be7b361da1ba540009f1c44a0fa8d26c2", "ptbr": "Área de dano de Onda de Palma: &16111_zffw&"}
+{"id": "LocalText/s_16112_cd", "revision": "d8c3c56044359e950eae3f243cfee452edce369e1740ef40218689481336f2ee", "ptbr": "Recarga desta técnica: &16112_cd&s"}
+{"id": "LocalText/s_16112_ddsl", "revision": "c584a4f0ba4a46dd4e01bf36828820c7cfc6d731a34deac624df99a015adf76c", "ptbr": "Palma que Abre as Nuvens liberadas: &16112_ddsl&"}
+{"id": "LocalText/s_16112_range", "revision": "9613852a55d9a7e0cbeb0853a0ba3e6b9d01b40ac32006089d23922e01f3e145", "ptbr": "Alcance desta técnica: &16112_range&"}
+{"id": "LocalText/s_16113_cd", "revision": "8f1c1db46164f7ac53069ea6e8da47a978a087c611b3094fcab055ab8fd3a8c7", "ptbr": "Recarga desta técnica: &16113_cd&s"}
+{"id": "LocalText/s_16113_ddsl", "revision": "d38e205b789fd9a9827b3ab418a7c6a4637dbb492aa6da7b7cfd13d39dd85731", "ptbr": "Ondas de Palma liberadas: &16113_ddsl&"}
+{"id": "LocalText/s_16113_zffw", "revision": "9d14abd07ba0eb52c5bd084e96e769bed17cb36f6def06507291e4e29e42ec7f", "ptbr": "Área de dano de Onda de Palma: &16113_zffw&"}
+{"id": "LocalText/s_17111_cd", "revision": "0024bbff02d770fe9f6f3e13b7b9a734b09527ff9777a8d72cd329e5ef0c7335", "ptbr": "Recarga desta técnica: &17111_cd&s"}
+{"id": "LocalText/s_17111_ddsl", "revision": "eb23db60eb0aa5348b162747017684c794c09d4a0b2e35993286c989ae6e4b73", "ptbr": "Dedo de Samsara liberos: &17111_ddsl&"}
+{"id": "LocalText/s_17111_range", "revision": "6ceda8d2b7bea264ff1f915ecddb67d2cf4b1c93102fccd5e4fcd3cdf515f95d", "ptbr": "Alcance desta técnica: &17111_range&"}
+{"id": "LocalText/s_17112_cd", "revision": "8a2cae441eb5350e18a9a24b23223a89d29235a562f8830287af80652a4dc50a", "ptbr": "Recarga desta técnica: &17112_cd&s"}
+{"id": "LocalText/s_17112_ddsl", "revision": "b54439e80ec2bc37fea46b56303bd70306a2d79c9468e84d4c1d53c650139ef7", "ptbr": "Dedo Dual liberos: &17112_ddsl&"}
+{"id": "LocalText/s_17112_range", "revision": "80446bb68f1388edf5dddbad4e122ddb45fa5480d4e7229ae3c532dcdac11fc7", "ptbr": "Alcance desta técnica: &17112_range&"}
+{"id": "LocalText/s_17113_bzfw", "revision": "250f049a55ea1a8118d3ddaaf782f3811a9b7e643e75944000460919156049be", "ptbr": "Área de dano de Explosão Sem Forma: &17113_bzfw&"}
+{"id": "LocalText/s_17113_cd", "revision": "902f41d0e5fb392dfe6814c758a92ef91ca06475b79940b27bafcd76fda5ec8d", "ptbr": "Recarga desta técnica: &17113_cd&s"}
+{"id": "LocalText/s_17113_ljgl", "revision": "495cf199ac6145755d6c6a9ba301dfc22341d5cb97b075c55631c9d9603b9ac2", "ptbr": "&17113_ljgl&% de chance de acionar a Explosão Sem Forma 3 vezes."}
+{"id": "LocalText/s_22111_cd", "revision": "c0ac8c8e14c637d80a526c4b1dba46666d6081f80f8723170b019ac1e70506ab", "ptbr": "Recarga desta técnica: &22111_cd&s"}
+{"id": "LocalText/s_22111_jscd", "revision": "85313ef4dc4050efde7fc36a025137bcd86ef6624448dfb5c01646b754451c7a", "ptbr": "Se esta técnica for conjurada com apenas um inimigo, a recarga dela fica &22111_jscd&s."}
+{"id": "LocalText/s_22111_mpCost", "revision": "2ced85e871d5ffdb4a0afa858a5fd353194f26efbd7513c551c9595c91427415", "ptbr": "Custo de Energia desta técnica: &22111_mpCost&"}
+{"id": "LocalText/s_22111_range", "revision": "7eac44587aeb1a0492557d7f3a632a67e9daca747c7704332607d00f214c8f4d", "ptbr": "Área de efeito da Aura Varredora: &22111_range&"}
+{"id": "LocalText/s_22111_xzsh", "revision": "1b128c170ebfb13bc25f498baedb9b3a52cdd37b9d413f72540d7a88ea7eabe7", "ptbr": "Dano do Talho Sanguíneo: &22111_xzsh|x22111_dmg|/100|f0&"}
+{"id": "LocalText/s_22111_xzxx", "revision": "04cf45b7b0e4410d84299dac2904a569c7a83ed16447090d875a5b22ef88e935", "ptbr": "&22111_xzxx&% do dano do Talho Sanguíneo é convertido em Vitalidade sua."}
+{"id": "LocalText/s_22111_zjcd", "revision": "cc24365f230d3d25548c7ebb139178d22328e0f8f4a76a25d5d1cd89a0b3766a", "ptbr": "Se esta técnica detonar &22111_xqcs& camadas de $s_xueren$, a recarga das suas Técnicas Marciais fica &22111_zjcd&% por &22111_zjsj&s."}
+{"id": "LocalText/s_22111_zjgl", "revision": "17dde30dace570981d0eadd4378822e95d0008d99d35c0de1927a6ff81956b3f", "ptbr": "Por &22111_djsj&s após conjurar esta técnica, suas Técnicas Marciais têm &22111_zjgl&% mais de chance de acumular $s_xueren$."}
+{"id": "LocalText/s_22112_cd", "revision": "3cd29c11a684fb1cad5ec3fcabcfae97f712f22e33c6ea95b1c18165155e491b", "ptbr": "Recarga desta técnica: &22112_cd&s"}
+{"id": "LocalText/s_22112_djjq", "revision": "83b78279e26892bc82825e6376c961a6a143c5f27689bf1ca47d6ef153b1fdfc", "ptbr": "Se esta técnica for conjurada com apenas um inimigo, você recebe imediatamente &22112_djjq& camadas de $s_jueqing$."}
+{"id": "LocalText/s_22112_gjsj", "revision": "c524578041f730798c9e25efd1233abbbf9201c2f968da00293d30cdd2691f7f", "ptbr": "A cada camada de $s_jueqing$ consumida, seu ATQ aumenta &22112_jqgj& por &22112_gjsj&s."}
+{"id": "LocalText/s_22112_mpCost", "revision": "6510565bf5bc05679a3ab0798a0a9e000345cadc83a37a2964b484afaa01bda4", "ptbr": "Custo de Energia desta técnica: &22112_mpCost&"}
+{"id": "LocalText/s_22112_range", "revision": "59081df76345aed618945cf2d679659b26fcdf637e111939b9cdba0a2f659c90", "ptbr": "Área de efeito da Aura Varredora: &22112_range&"}
+{"id": "LocalText/s_22112_range00", "revision": "352609a80c37ce53a6af2fc76af481df9de36c4eb73100d34df866f02bb30939", "ptbr": "&22112_range&"}
+{"id": "LocalText/s_22112_tssh", "revision": "cf206285ad917370c2641fdd1f552b7d0116486802eef0157e920e01d102d9e4", "ptbr": "Cada vez que uma Aura Varredora é liberada, pelos próximos &22112_shsj&s, seu dano aumenta &22112_tssh&%."}
+{"id": "LocalText/s_22112_xxbl", "revision": "141c45ee919a28a4ef062171b51d3652f44aa1af63a6f0395def8cb5501f798d", "ptbr": "Se você tiver pelo menos &22112_xqcs& camadas de $s_jueqing$ ao conjurar esta técnica, converte &22112_xxbl&% do dano causado em Vitalidade sua por &22112_xxsj&s."}
+{"id": "LocalText/s_22113_cd", "revision": "143933545a6ace57c04cffc747a1d9528a6528e602d66cd082ab1a09de640a23", "ptbr": "Recarga desta técnica: &22113_cd&s"}
+{"id": "LocalText/s_22113_jscd", "revision": "e443e08ea8f8218969a5361caf246ce8a1d83d3fc2792319fbc632054b9a987c", "ptbr": "Se esta técnica for conjurada com apenas um inimigo, a recarga dela fica &22113_jscd&s."}
+{"id": "LocalText/s_22113_mpCost", "revision": "a1d191b77354244a01f40a2769f0d52730951316745087301f59bc97e5ef4359", "ptbr": "Custo de Energia desta técnica: &22113_mpCost&"}
+{"id": "LocalText/s_22113_range", "revision": "8febde384f4dcb4d6228f678918bb71ea60a26c240b011fea12163b627e6c8a5", "ptbr": "Alcance do Talho: &22113_range&"}
+{"id": "LocalText/s_22113_xzsh", "revision": "690a5bd7dd8983279f66dc1c5a73f12b4b468160b41d2d44c74ac2830ba6da8a", "ptbr": "Dano do Talho Sanguíneo: &22113_xzsh|x22113_dmg|/100|f0&"}
+{"id": "LocalText/s_22113_xzxx", "revision": "64709274ecca3fd28665e578e5b8386a3340b69f38c9fa7b19431a721fdbb6d8", "ptbr": "&22113_xzxx&% do dano do Talho Sanguíneo é convertido em Vitalidade sua."}
+{"id": "LocalText/s_22113_zjcd", "revision": "309d47b9d5ea173fa1db5afb0ee91b2a058f05ae60647d40c9eb7b7d355b79ba", "ptbr": "Se esta técnica detonar &22113_xqcs& camadas de $s_xueren$, a recarga das suas Técnicas Marciais fica &22113_zjcd&% por &22113_zjsj&s."}
+{"id": "LocalText/s_22113_zjgl", "revision": "59f9b628914140332c1e46b3b412b2d20d7aaa1aaeff059c4ddf20b9fdea5a91", "ptbr": "Por &22113_djsj&s após conjurar esta técnica, suas Técnicas Marciais têm &22113_zjgl&% mais de chance de acumular $s_xueren$."}
+{"id": "LocalText/s_22114_cd", "revision": "69e973f80a55f4aecba1b42e015d30986bc13e0d7c183ce88db2439bf9b942a2", "ptbr": "Recarga desta técnica: &22114_cd&s"}
+{"id": "LocalText/s_22114_dhsj", "revision": "dfaa412dfbe41a35233c280c6ac791745a04745af23d5138bf2a7796bafd5eca", "ptbr": "Duração de Marca de Sabre: &22114_dhsj&s"}
+{"id": "LocalText/s_22114_gjsj", "revision": "0366f2823d01cec8d3e13f5cf611adc314eaa67fd224a18d2300531e7c030546", "ptbr": "A cada camada de $s_jueqing$ consumida, seu ATQ aumenta &22114_jqgj& por &22114_gjsj&s."}
+{"id": "LocalText/s_22114_jssj", "revision": "51358f61f5e638e60478547cfa34eeb5b12e74c154ee08cb31e7480964b6bccb", "ptbr": "A Agilidade dos alvos da técnica fica &22114_jdys&% por &22114_jssj&s."}
+{"id": "LocalText/s_22114_mpCost", "revision": "cf7b11d5dd7bef8bf548f21751522df73a5f722e167d2780e28ece011195ca66", "ptbr": "Custo de Energia desta técnica: &22114_mpCost&"}
+{"id": "LocalText/s_22114_range", "revision": "19cbf50fd6dfb300eea2ebbcd9c0cc09573fc69446ef96053506675c1aa33c7e", "ptbr": "Alcance do Talho: &22114_range&"}
+{"id": "LocalText/s_22115_cd", "revision": "9d602d347c2e4e99100a159b4e05982ee988c64de202af2c84132a6cf6c8448f", "ptbr": "Recarga desta técnica: &22115_cd&s"}
+{"id": "LocalText/s_22115_ddsl", "revision": "b53f7d12411b8bc2427e70a95a432fad1c543ddc2f379fc846064e5a7e562e27", "ptbr": "Auras de Sabre liberadas: &22115_ddsl&"}
+{"id": "LocalText/s_22115_mpCost", "revision": "3353b288679f5aa04120255f89df5db810e1df600ffd8d4605f392e4c2dfff8a", "ptbr": "Custo de Energia desta técnica: &22115_mpCost&"}
+{"id": "LocalText/s_22115_range", "revision": "3d6fcb94f521cd9eaab867aaac01a113d017359ccdc91053d4151f095e22980b", "ptbr": "Alcance da Aura de Sabre: &22115_range&"}
+{"id": "LocalText/s_22116_cd", "revision": "6c7c77dcf759a077e93adb10c65d86421ed80f7a973318bc4ed512dd703e5ff4", "ptbr": "Recarga desta técnica: &22116_cd&s"}
+{"id": "LocalText/s_22116_ddsl", "revision": "0271cbbbc503fda7d0eb8273f6b1d69e7b139ab2bb742fc1a174cc343841a49d", "ptbr": "Auras de Sabre liberadas: &22116_ddsl&"}
+{"id": "LocalText/s_22116_mpCost", "revision": "e2dc38d6c5fb169cac69eefd87582603cca69e65c55b6a6e43bf4d722712f2e5", "ptbr": "Custo de Energia desta técnica: &22116_mpCost&"}
+{"id": "LocalText/s_22116_range", "revision": "d5950bda7ff067db7fd7ba91c79adb0b7abde7df3841030af0e1bab6521d4a23", "ptbr": "Alcance da Aura de Sabre: &22116_range&"}
+{"id": "LocalText/s_23111_cd", "revision": "c2b5cce2ef850f0817e39c4242d2d06906d372010bfb5382c0a7c13f24858f5d", "ptbr": "Recarga desta técnica: &23111_cd&s"}
+{"id": "LocalText/s_23111_ddsl", "revision": "62dd25f19804aafdcf27dda9ce979b3cdb4478d780b0bbb0bdb11cf102b9c277", "ptbr": "Lanças de Jade Estalante liberadas: &23111_ddsl&"}
+{"id": "LocalText/s_23111_mpCost", "revision": "aeb6f59a1164383dcaa3185f25f2d252fbab6c001729a3fb652603ff63ac85a0", "ptbr": "Custo de Energia desta técnica: &23111_mpCost&"}
+{"id": "LocalText/s_23111_range", "revision": "b0a6dfb5002df8a661a361847cef295c0d932835eacbd06aa6ebb562e8613904", "ptbr": "Alcance de Lança de Jade Estalante: &23111_range&"}
+{"id": "LocalText/s_23112_cd", "revision": "23fee0b429641634af358f5ddabc396513fad3a2aa176009d203fd7c5055f6f3", "ptbr": "Recarga desta técnica: &23112_cd&s"}
+{"id": "LocalText/s_23112_mpCost", "revision": "19aaa4f6b2bd37c86e3992ef30dc16c20e8c93a6691ea95f7655bdd9763bbd99", "ptbr": "Custo de Energia desta técnica: &23112_mpCost&"}
+{"id": "LocalText/s_23112_shts", "revision": "110633bbfc4f773e32bc2366a058fc8c493d61c1f3d97e0df5da1fc397af67b2", "ptbr": "Bônus de dano de $s_poshi$: &23112_shts&%"}
+{"id": "LocalText/s_23112_tjjl", "revision": "771df3d198a9749bf9fec25e37026b6a8cff2ef624665067e8ed752062ab4296", "ptbr": "Distância de Investida: &23112_tjjl&"}
+{"id": "LocalText/s_23112_tjjl01", "revision": "0811fcb43e1c02432530cca9a750a770b3484383f11d36cae565d76ea49f0679", "ptbr": "Distância de Investida: &23112_tjjl&"}
+{"id": "LocalText/s_23112_tjjl02", "revision": "083c88daa0187bf801da3b64d301cc433f1a1aecf0c5219b80b2fecc4c406653", "ptbr": "Distância de Investida: &23112_tjjl&"}
+{"id": "LocalText/s_23112_tjjl03", "revision": "15c2813f7710ffaf55e0234e927a02a4a271f970dd5b7d99c025ed9461b93a69", "ptbr": "Distância de Investida: &23112_tjjl&"}
+{"id": "LocalText/s_23113_cd", "revision": "456d8e4083ec364818f30b01b2d3bba3cc3252670d0b0d97c859ac0c10feb734", "ptbr": "Recarga desta técnica: &23113_cd&s"}
+{"id": "LocalText/s_23113_mpCost", "revision": "f7d9a274ac0210f0c376df4f348a3057b90bda587d0b2597fafbdbb5b573d8ae", "ptbr": "Custo de Energia desta técnica: &23113_mpCost&"}
+{"id": "LocalText/s_23113_qcsl", "revision": "a5cd920307927daa3b1436fdf41ee1499115dda777aabb9edec8a4eead6c9f32", "ptbr": "Espinhos de Lança soltos: &23113_qcsl&"}
+{"id": "LocalText/s_23113_range", "revision": "3c1a72b044ee6a3eb6faf76837dd39fe9edd5ae0fb9deee545e666e2be27d7f6", "ptbr": "Alcance de Lança Rompe-Fileiras: &23113_range&"}
+{"id": "LocalText/s_23114_cd", "revision": "dd3747d90550e3b99c1e68f615cfb61f0d47c302f811d1246130186a5f5e2548", "ptbr": "Recarga desta técnica: &23114_cd&s"}
+{"id": "LocalText/s_23114_mpCost", "revision": "424990f81e2df69650309d062331001c90b2de2d08c22f0871c25da04f3d8b2c", "ptbr": "Custo de Energia desta técnica: &23114_mpCost&"}
+{"id": "LocalText/s_23114_pxsh", "revision": "ffa27ef128539089f46d75ec2005b1f2cd603be712d6ec7f78e3ab788966797e", "ptbr": "Dano de Bramido: &23114_pxsh&"}
+{"id": "LocalText/s_23115_cd", "revision": "9a88867218a94ff1c78bf4b6a5d194edae3e8681fd6720e9b72e9ec4076d671d", "ptbr": "Recarga desta técnica: &23115_cd&s"}
+{"id": "LocalText/s_23115_ewsh", "revision": "4db1a5f5b2804f6a5a6f52b78c7846dac513b9ef05d7da2fda8b6d882317bb96", "ptbr": "Cada camada de $s_pojia$ detonada causa &23115_ewsh|x23115_dmg|/100|f0& de dano."}
+{"id": "LocalText/s_23115_mpCost", "revision": "e783e92d55fb97e869ed9ebf961d906e669662a0d232b5298237a2250e130169", "ptbr": "Custo de Energia desta técnica: &23115_mpCost&"}
+{"id": "LocalText/s_23116_cd", "revision": "70bb6d39ecff06d3d97194709d9e7d3eadcbe80bea818e847ced81d91ffaa273", "ptbr": "Recarga desta técnica: &23116_cd&s"}
+{"id": "LocalText/s_23116_mpCost", "revision": "1491b7c5ea38bfc9a05305f36ccbedd3dba6aedbbb0b67e5d4074afbe45b5380", "ptbr": "Custo de Energia desta técnica: &23116_mpCost&"}
+{"id": "LocalText/s_23116_tssh", "revision": "e55f66c1c8c5613136449c405d75b2d86499819ed6a0538cb839c6fe64dbbc83", "ptbr": "Cada camada de $s_poshi$ detonada e consumida aumenta o dano em &23116_tssh&%."}
+{"id": "LocalText/s_24111_cd", "revision": "ac162fa1fdaddebbfc990bc73d68f22ca0b28170040aa06bce228452f114c3a2", "ptbr": "Recarga desta técnica: &24111_cd&s"}
+{"id": "LocalText/s_24111_ddsl", "revision": "45dfa850f48b09ace766a848936e7625b9cdb290d95421a576f7815b8779d494", "ptbr": "Auras de Espada liberadas por Espada Sem Sombra: &24111_ddsl&"}
+{"id": "LocalText/s_24111_mpCost", "revision": "fc0aea2b8e117a8942daf33e61e14dcd1f4d49e8479771f85feaf850df34ab97", "ptbr": "Custo de Energia desta técnica: &24111_mpCost&"}
+{"id": "LocalText/s_24111_range", "revision": "ae8d4502ddc3a7e8b434ba1f89226606814ab01e0b554ed04222d83c9c33be2b", "ptbr": "Alcance de Espada Sem Sombra: &24111_range&"}
+{"id": "LocalText/s_24112_cd", "revision": "e5f88e66ad001a370f331dd672fc54dd7c3d7b77a85399bf6a65aceadf31a6d3", "ptbr": "Recarga desta técnica: &24112_cd&s"}
+{"id": "LocalText/s_24112_ddsl", "revision": "f006cd26c634b839fb4beaeeaa7df4925cae7606faa9e8a3efe39ab3246a4b63", "ptbr": "Auras de Espada liberadas por Espada do Vendaval: &24112_ddsl&"}
+{"id": "LocalText/s_24112_mpCost", "revision": "26b852d42acbcf87e69624a6f56a74dce36822374e689c3ab171a6feb3b4bf0d", "ptbr": "Custo de Energia desta técnica: &24112_mpCost&"}
+{"id": "LocalText/s_24112_range", "revision": "7d07a9aa438a29c525a482de3d632dd582797f1cdf17005cdfe541c47ebec264", "ptbr": "Alcance de Espada do Vendaval: &24112_range&"}
+{"id": "LocalText/s_24113_cd", "revision": "424ecce9770b7d27ca25def8a2ace4bc164bc6f367da982a3f62df7bc2fe6288", "ptbr": "Recarga desta técnica: &24113_cd&s"}
+{"id": "LocalText/s_24113_djfw", "revision": "28afda5b42803c27e72a7e331bb49e941c4df8de3acb4088e4a9677800892112", "ptbr": "Área de dano de Espada Quebra-Estrelas: &24113_djfw&"}
+{"id": "LocalText/s_24113_mpCost", "revision": "b3cff54976eb41b7ca862c58c794a1026723f6d270dc8d597b24151b017b2b49", "ptbr": "Custo de Energia desta técnica: &24113_mpCost&"}
+{"id": "LocalText/s_24113_range", "revision": "a19d8c1ac9f63c376cf5d597a48569d33fca0aaf2dea2f3917004c3bd44182df", "ptbr": "Alcance de conjuração de Espada Quebra-Estrelas: &24113_range&"}
+{"id": "LocalText/s_24114_cd", "revision": "b2aae910925d89e7350077e5ea327a5d032a40aa724dfe39584f5e9f9e380684", "ptbr": "Recarga desta técnica: &24114_cd&s"}
+{"id": "LocalText/s_24114_jyfw", "revision": "ed5908bcd404bc3d5878b26daa10a78388943eed2fc7a5b4c2a3ba2afa2869ac", "ptbr": "Área de dano de Chuva de Espadas: &24114_jyfw&"}
+{"id": "LocalText/s_24114_jysj", "revision": "51c7d64c27c5cf41b274e25a77ae1a913c2c4c1dd88ab8f8bcf33b55ca5196d1", "ptbr": "Duração de Chuva de Espadas: &24114_jysj&s"}
+{"id": "LocalText/s_24114_mpCost", "revision": "4593a04e7789166d1b45228eb06eb2b08d6266d3aea074b3f4bb527161f30c6f", "ptbr": "Custo de Energia desta técnica: &24114_mpCost&"}
+{"id": "LocalText/s_24115_cd", "revision": "030e22af8911793b2852e1c56dd5d336b77b46983de89ffcf592c52ba14ab49a", "ptbr": "Recarga desta técnica: &24115_cd&s"}
+{"id": "LocalText/s_24115_jjfw", "revision": "6de38b3ec1977790ab75f9da0184b8293288518577d904552f9541063df933f8", "ptbr": "Área de dano de Espada Rasga-Céus: &24115_jjfw&"}
+{"id": "LocalText/s_24115_jjsl", "revision": "63aec59903a33c6101b0b9d2431403e7c8897e8d6b4113c7c688186b7ecc5722", "ptbr": "Espadas Rasga-Céus soltas: &24115_jjsl&"}
+{"id": "LocalText/s_24115_mpCost", "revision": "1ad73dcb195b2424f7fc7b470f4c0b8b7c3de5982043937cfc6bdb560539a80e", "ptbr": "Custo de Energia desta técnica: &24115_mpCost&"}
+{"id": "LocalText/s_24116_cd", "revision": "50ab817abbbfcd93784d7a7df4865b4172244b4df8377c22c950b70fd63571cb", "ptbr": "Recarga desta técnica: &24116_cd&s"}
+{"id": "LocalText/s_24116_mkfw", "revision": "2c665a98662088d004f0f9bb935b0e9e6e09623817c1256709f4040d1f993ef1", "ptbr": "Área de dano de Espada Estilhaça-Céus: &24116_mkfw&"}
+{"id": "LocalText/s_24116_mpCost", "revision": "1ee5c3c1590e84752b19317b3cc165386ddfdacee417aa0c8f8ab60a09e41b5c", "ptbr": "Custo de Energia desta técnica: &24116_mpCost&"}
+{"id": "LocalText/s_24116_range", "revision": "a03eaac9770969fdafa617ed3522ad2162ba7991cb48f53d42b4c93a8f94f439", "ptbr": "Alcance de conjuração de Espada Estilhaça-Céus: &24116_range&"}
+{"id": "LocalText/s_25111_cd", "revision": "497308bb7f31524cd9b781b62d1ed569a8d216763b9287ddc2ae7047744f8ffd", "ptbr": "Recarga desta técnica: &25111_cd&s"}
+{"id": "LocalText/s_25111_mpCost", "revision": "c4849788296928fada31c37b72a0032d28f9c0e287f8545fb373ebc32606d1d4", "ptbr": "Custo de Energia desta técnica: &25111_mpCost&"}
+{"id": "LocalText/s_25111_qyfw", "revision": "ca306a7b38951df6a944a3946502c6d884e92714e86e9099173e0704fbc3c644", "ptbr": "Área de dano de Sombra de Punho: &25111_qyfw&"}
+{"id": "LocalText/s_25111_qygs", "revision": "655b02d83fef196097769b31dd69e8b56f11b6c0d1cfa674aeb9bcff9238f781", "ptbr": "Sombras de Punho liberadas: &25111_qygs&"}
+{"id": "LocalText/s_25112_cd", "revision": "3b8d8281cf6a6d3d21d26786819a0847d6ebb8c79673b13fdf87d91613654320", "ptbr": "Recarga desta técnica: &25112_cd&s"}
+{"id": "LocalText/s_25112_mpCost", "revision": "c96d328c4882af2ed8c6f5f549a7b48b2d16ef78dd3ddcdf8570578d41ffeaf8", "ptbr": "Custo de Energia desta técnica: &25112_mpCost&"}
+{"id": "LocalText/s_25112_range", "revision": "cb96bd743c9c4060dda3b48aac89975912104919af24526d3f1e6fe2e17815cf", "ptbr": "Alcance do Punho do Rugido do Leão: &25112_range&"}
+{"id": "LocalText/s_25112_ybcs", "revision": "6641341682c0956d451594bab400bfb4a8701972cde60bd601eae15089ac8207", "ptbr": "Máximo de Sombras de Punho ao mesmo tempo: &25112_ybcs&"}
+{"id": "LocalText/s_25113_cd", "revision": "696a6e1bb8a61d3657abe641907d66521d64131cd2c64ea7c1e48b715110a18a", "ptbr": "Recarga desta técnica: &25113_cd&s"}
+{"id": "LocalText/s_25113_ddsl", "revision": "7ea3b933f55b796a97d79678f59eb7f02965cf3cbeea23d85422e4ede3c7cbf5", "ptbr": "Sombras de Punho liberadas: &25113_ddsl&"}
+{"id": "LocalText/s_25113_mpCost", "revision": "164484a186b154b5f1b158da1b2544dcc70f2580ea8cfc2a914a1c0b77d6ef2d", "ptbr": "Custo de Energia desta técnica: &25113_mpCost&"}
+{"id": "LocalText/s_25113_range", "revision": "9ee894836d61326d6b2dd59dc930dceb53c65b034a55b0f9316252ffce96bced", "ptbr": "Alcance de Punho Enfeitiçante: &25113_range&"}
+{"id": "LocalText/s_25114_cd", "revision": "a7e9a36acd8b95e8b183114f82b916953dce2b1cc7845ff74e192e1a65eb793c", "ptbr": "Recarga desta técnica: &25114_cd&s"}
+{"id": "LocalText/s_25114_hdsh", "revision": "11dd024d93a9ccb1c1f49425acda8f5587ab11f5e3c49cd86ae812ea2dacd877", "ptbr": "Cada ponto de $s_hudun$ detonado causa &25114_hdsh& de dano."}
+{"id": "LocalText/s_25114_mpCost", "revision": "e574283c4a5f54323cf312b7c236750ad7558193f43502aaf2975bce609a55ba", "ptbr": "Custo de Energia desta técnica: &25114_mpCost&"}
+{"id": "LocalText/s_25114_range", "revision": "c1f48c7dbe23fe3fd6296b24fb0fdddc9010a3c21306f55045281ed73cd186cb", "ptbr": "Alcance de Punho Quebra-Montanhas: &25114_range&"}
+{"id": "LocalText/s_25115_cd", "revision": "7d52d2187dd5b0e09a0ee36b9d87e7d005e839000b40f263277cd74646ad7467", "ptbr": "Recarga desta técnica: &25115_cd&s"}
+{"id": "LocalText/s_25115_cxsj", "revision": "9116071ba3090ca7b103cc9d7894dc3b6f56e50b45a3a948fd6904c1cb1cf942", "ptbr": "Duração de Sombra de Escudo: &25115_cxsj&s"}
+{"id": "LocalText/s_25115_mpCost", "revision": "8f713af40ffbfb8a5d549e780d590e97a0a808539a7b271f905e19e1ce120733", "ptbr": "Custo de Energia desta técnica: &25115_mpCost&"}
+{"id": "LocalText/s_25115_range", "revision": "6ef350e3abf09ed7718856a968e19c79f75734eb83a9b8f7498e30afedb7a2f8", "ptbr": "Área de dano de Sombra de Escudo: &25115_range&"}
+{"id": "LocalText/s_25116_bzfw", "revision": "4152c139e81a7f7c548c2ed106f41e1640427345f38d83512a110eb775c48b97", "ptbr": "Área de dano de Punho Estoura-Céu: &25116_bzfw&"}
+{"id": "LocalText/s_25116_cd", "revision": "c0801376c38e34eccab1af5e9d88b40dda3ce5adbb5bb11aa336cf20f23e7550", "ptbr": "Recarga desta técnica: &25116_cd&s"}
+{"id": "LocalText/s_25116_mpCost", "revision": "7bb29e84ec57a44c90a06976c9ff289527c29c885d5885b0cb3f3f8ca94b24d5", "ptbr": "Custo de Energia desta técnica: &25116_mpCost&"}
+{"id": "LocalText/s_25116_range", "revision": "a2f4904ea40be64e9bdf6002880ceb67829f3f52095e855be1213b0e5dc1e5f2", "ptbr": "Alcance de Punho Estoura-Céu: &25116_range&"}
+{"id": "LocalText/s_26111_cd", "revision": "c077a69f49467163ad721121d0f7f05efc003f114602769048a3b4395192b058", "ptbr": "Recarga desta técnica: &26111_cd&s"}
+{"id": "LocalText/s_26111_ddsl", "revision": "36b3c02c42b5c967e562d8907a8f3354a2523f7c3538c1da20c64b5bada0f428", "ptbr": "Golpes da Palma da Tempestade: &26111_ddsl&"}
+{"id": "LocalText/s_26111_mpCost", "revision": "2ad193795fc2ef57aa809010421cc76c4aaa9fecfd716dfc4915141a74c897b1", "ptbr": "Custo de Energia desta técnica: &26111_mpCost&"}
+{"id": "LocalText/s_26111_range", "revision": "f32cabebb9716e8caa3eeec9c8bdceac4de524604cb733488a6169ebd38ca5ea", "ptbr": "Alcance de Palma da Tempestade: &26111_range&"}
+{"id": "LocalText/s_26112_cd", "revision": "109124d76a7e6fe0ab0659743a7a9f20f106148f1cdc299830726c6f6b6579be", "ptbr": "Recarga desta técnica: &26112_cd&s"}
+{"id": "LocalText/s_26112_csdd", "revision": "602a9317d50986ddcd84a487ec5998af21f557143df96a8896df391959a319e3", "ptbr": "Palmas Barreira liberadas: &26112_csdd&"}
+{"id": "LocalText/s_26112_mpCost", "revision": "8fc059662cd180c337c82fca4a77a361a3855f7580501fce6534b717c78f121d", "ptbr": "Custo de Energia desta técnica: &26112_mpCost&"}
+{"id": "LocalText/s_26112_range", "revision": "f33b88df7882f7af7d6af67c4c3723ff52bd1906a01630556c662eecc7daccda", "ptbr": "Alcance de Palma Barreira: &26112_range&"}
+{"id": "LocalText/s_26113_cd", "revision": "b01d556218f837b19c37eba4cbc768dc5b66b24baca00d630e590907118488c5", "ptbr": "Recarga desta técnica: &26113_cd&s"}
+{"id": "LocalText/s_26113_csdd", "revision": "76edd2e3c12e44bf1cf202afa45e1f0bb56f0d070ee4da81f6cfd7d8a594da11", "ptbr": "Palmas Deslizantes liberadas: &26113_csdd&"}
+{"id": "LocalText/s_26113_mpCost", "revision": "1ae04547869f0d960a38ab336e2c039ec45327b11ab012903cb75438251d607a", "ptbr": "Custo de Energia desta técnica: &26113_mpCost&"}
+{"id": "LocalText/s_26113_range", "revision": "35fb80c62fc19468999b9ca07149827f3dd4fa2c10c39eb55477f4d2da00077e", "ptbr": "Alcance de Palma Deslizante: &26113_range&"}
+{"id": "LocalText/s_26114_cd", "revision": "6d639ce4473e296b7e4b1238380e2eb7192446048e286327f80102f9fc928adf", "ptbr": "Recarga desta técnica: &26114_cd&s"}
+{"id": "LocalText/s_26114_csdd", "revision": "7542e4295f38ebbb8ace6d6a7115562d478f3629fd19ff083ad1870c000f948a", "ptbr": "Marcas de Palma soltas pela Palma do Arco-Íris: &26114_csdd&"}
+{"id": "LocalText/s_26114_mpCost", "revision": "4dcbe46ca6ab4b4ddac47e69a7831b3486487336e2c6e7e17f9de350075cd7d7", "ptbr": "Custo de Energia desta técnica: &26114_mpCost&"}
+{"id": "LocalText/s_26114_zyfw", "revision": "57b705c847ecf36e21637840cee93f71635603daf447339e1585ab3ec966c36a", "ptbr": "Área de dano de Marca de Palma: &26114_zyfw&"}
+{"id": "LocalText/s_26115_cd", "revision": "9d88aad0e06849860d187eb6a0ccd5faaec493cabc0372719fbeb71dcfb195b2", "ptbr": "Recarga desta técnica: &26115_cd&s"}
+{"id": "LocalText/s_26115_mpCost", "revision": "d524410c4a007acf3b9f4f3c65ee2a4ffde9ef5d646c37ae110c963987c62a4b", "ptbr": "Custo de Energia desta técnica: &26115_mpCost&"}
+{"id": "LocalText/s_26115_range", "revision": "58d827033f9fa831931c0bbdd698491f2e8924448caf28f695aa2bd300f4d9e1", "ptbr": "Alcance de Palma Rompe-Mares: &26115_range&"}
+{"id": "LocalText/s_26115_zdsc", "revision": "008c27b9c829481e3119757540359a9e381abfcc4692d2d4bf9316015afa295b", "ptbr": "Largura de Palma Rompe-Mares: &26115_zdsc&"}
+{"id": "LocalText/s_26116_cd", "revision": "67dbad8268b62c278d670dcdef1f7927fed3ddee5fd545849fbac2214d7c66ff", "ptbr": "Recarga desta técnica: &26116_cd&s"}
+{"id": "LocalText/s_26116_mpCost", "revision": "3fef06f3f541fbb4352f2a923789e16a832243badc9f9284dc57529da2284179", "ptbr": "Custo de Energia desta técnica: &26116_mpCost&"}
+{"id": "LocalText/s_26116_range", "revision": "0c60330f860c51dbdd0e1654b1932665779305be91ad7559c489ef7d4311360e", "ptbr": "Alcance de Palma Oceânica: &26116_range&"}
+{"id": "LocalText/s_26116_zysl", "revision": "b977df063a7b6e74072331515ce5ccb98aeb7bd9d22a8e1619ec74db3da67c16", "ptbr": "Palmas Oceânicas liberadas: &26116_zysl&"}
+{"id": "LocalText/s_27111_cd", "revision": "959b513f3acab99f5a36d39f389818097a407db62184ed014fe022bfd6d01a75", "ptbr": "Recarga desta técnica: &27111_cd&s"}
+{"id": "LocalText/s_27111_ddsl", "revision": "8836b1d9242c31109ace3ba6c0eae0a07aaf5c5eda6180e31bb29d8846e33005", "ptbr": "Sombras de Dedo liberadas: &27111_ddsl&"}
+{"id": "LocalText/s_27111_mpCost", "revision": "b35b227ed0bac76536019e75edd35a43da82e48c3c5b8515d21c241e06a6b577", "ptbr": "Custo de Energia desta técnica: &27111_mpCost&"}
+{"id": "LocalText/s_27111_range", "revision": "87e2f4f8a79fdd55a68f203f74602fb1d6dfee2fed4bdf36ad6b1c03bc7424d0", "ptbr": "Alcance de Dedo das Sete Estrelas: &27111_range&"}
+{"id": "LocalText/s_27112_cd", "revision": "83a4c125f5d21009f4532df9386894a58fedf45fee169d65f06e3754692c6b0c", "ptbr": "Recarga desta técnica: &27112_cd&s"}
+{"id": "LocalText/s_27112_ddsl", "revision": "b2f4b66118a57b2d53d5c5d08b7d056405fd24aae56b6bdaf025a3c05f1ac1d9", "ptbr": "Sombras de Dedo liberadas por rodada: &27112_ddsl&"}
+{"id": "LocalText/s_27112_mpCost", "revision": "1031e5204c51a1e7be5fd451d40b761b0ef030b992c596ec629922491c3ba4c9", "ptbr": "Custo de Energia desta técnica: &27112_mpCost&"}
+{"id": "LocalText/s_27112_range", "revision": "6330f764172773633c9c70bff52ee4bc66a13c7f7be18aa8f11e46f0b74fa659", "ptbr": "Alcance de Dedo Selador de Demônios: &27112_range&"}
+{"id": "LocalText/s_27113_cd", "revision": "7d0fd3f5374ea2435071101bc8a01d8cb1481cc54f96cb59bc584207879b44d5", "ptbr": "Recarga desta técnica: &27113_cd&s"}
+{"id": "LocalText/s_27113_mpCost", "revision": "ccd0c07da59e39c91d861cc3d7d691c4b9fb45e630914955a3df592b940bf41f", "ptbr": "Custo de Energia desta técnica: &27113_mpCost&"}
+{"id": "LocalText/s_27113_range", "revision": "5ce811e43fe807cb89dbb6d90594e03957c453a95c39552a24f84ef882203b19", "ptbr": "Alcance de conjuração de Detonação do Espírito do Vazio: &27113_range&"}
+{"id": "LocalText/s_27113_xkfw", "revision": "41cabc20f93350689f1f4dee8defef148f605c757c29ac0b3c9102729ebd57a2", "ptbr": "Área de dano de Detonação do Espírito do Vazio: &27113_xkfw&"}
+{"id": "LocalText/s_27114_cd", "revision": "9eedc973dd20b8aa322e2b16790cd731f6d5d503d3cbb46f13563527c996aef7", "ptbr": "Recarga desta técnica: &27114_cd&s"}
+{"id": "LocalText/s_27114_csfw", "revision": "8cbd3e3cc74079bf16c66e9ae46e30bc44963a092accedf1a87a5f8a6c1c388c", "ptbr": "Área de dano de Detonação do Selo Espiritual: &27114_csfw&"}
+{"id": "LocalText/s_27114_mpCost", "revision": "3700a534adf815b679ca5ba849b265a4a6659811fad01909c13c64de859307ec", "ptbr": "Custo de Energia desta técnica: &27114_mpCost&"}
+{"id": "LocalText/s_27114_range", "revision": "0f297ff46e3bb4edbf3ed15c99f019c9e7f2ebaa03c38d87ba9c05dcddfd2667", "ptbr": "Alcance de conjuração de Detonação do Selo Espiritual: &27114_range&"}
+{"id": "LocalText/s_27115_cd", "revision": "bc5f1ad807401c468c0cefe4d4f440a40f9f11560298635b934445be455eef5f", "ptbr": "Recarga desta técnica: &27115_cd&s"}
+{"id": "LocalText/s_27115_mpCost", "revision": "2576b32f0c5b87a00e2cc891d194852876dfd46074af5eb57da553b8916aff72", "ptbr": "Custo de Energia desta técnica: &27115_mpCost&"}
+{"id": "LocalText/s_27115_range", "revision": "c6f2dd6dfc2f56733808b5370d9c5d58c758fdf795dd3823dff3bf6c1e057e20", "ptbr": "Alcance máximo de Detonação Etérea: &27115_range&"}
+{"id": "LocalText/s_27115_ykfw", "revision": "23272e69d6651b72ecb0c7762a00bf35a276b350cc60a4abfba58d3d517e0c17", "ptbr": "Área de dano de cada detonação etérea: &27115_ykfw&"}
+{"id": "LocalText/s_27116_cd", "revision": "bc8dfedc51186299c20da3c30f26ead419389832509bd129775ac0ea6697bec7", "ptbr": "Recarga desta técnica: &27116_cd&s"}
+{"id": "LocalText/s_27116_cxsj", "revision": "4f1b82687b5e08d99f3d3e959e9cb8bb25f2f4478bfa49ab4b14e1fc69df1c81", "ptbr": "Duração máxima de Dedo Sombrio: &27116_cxsj&s"}
+{"id": "LocalText/s_27116_mpCost", "revision": "525e8daca1da2496de9c1286c6ff25e6612ff957c672742c7475c3414f584069", "ptbr": "Custo de Energia desta técnica: &27116_mpCost&"}
+{"id": "LocalText/s_27116_range", "revision": "b295027a313cc9f3fecbfb58cbaabacd83c4d2386924383c7a2714be48d41550", "ptbr": "Alcance de Dedo Sombrio: &27116_range&"}
+{"id": "LocalText/s_321111_cd", "revision": "8ddcd747522eaad7689966ac6910a2138376280bb21d831f37360c83e2b04b6c", "ptbr": "Recarga de $s_mieshenzhan$: &321111_cd&s"}
+{"id": "LocalText/s_32111_bssj", "revision": "e59a364192e3dd333443399bec459a58857695fe4eae161bcd8de80556e8c03e", "ptbr": "Duração da Possessão de Sabre: &32111_bssj&s"}
+{"id": "LocalText/s_32111_cd", "revision": "a933523d38d355fefb47b59883b27c1386cae22c1e5add18a708e26da00a466c", "ptbr": "Recarga desta técnica: &32111_cd&s"}
+{"id": "LocalText/s_32111_mpCost", "revision": "a0e135b95bd1a26ee2924351193e5735bfed778236741928afb0fefbd89dc36c", "ptbr": "Custo de Energia desta técnica: &32111_mpCost&"}
+{"id": "LocalText/s_32112_cd", "revision": "285ac7222e266d45e17b50f1643b364d556ce91e156ebb4ea38b04fcfdb281cf", "ptbr": "Recarga desta técnica: &32112_cd&s"}
+{"id": "LocalText/s_32112_cxsj", "revision": "ccc7d4462f3a906c2e0fe227be5c81dba884fbe663e10cd514044dff8e943994", "ptbr": "Duração desta Técnica Suprema: &32112_cxsj&s"}
+{"id": "LocalText/s_32112_mpCost", "revision": "9cf6fcfc5d65a32f841d4a80c7bba3b17be617db94fecc4cb7c4bc8207db193d", "ptbr": "Custo de Energia desta técnica: &32112_mpCost&"}
+{"id": "LocalText/s_32112_range", "revision": "e81dc440accc3307bdc56393b4785035deda109c92101184e354a6ba3e4a14d2", "ptbr": "Área de dano de cada sabre dominador: &32112_range&"}
+{"id": "LocalText/s_33111_cd", "revision": "8c2732b41b03893fcbee5bb5c599680517d8a282e514a2d507fc015b47676ec7", "ptbr": "Recarga desta técnica: &33111_cd&s"}
+{"id": "LocalText/s_33111_ddcs", "revision": "7f244102346434867f27273e082d7803f47f36e3e746e72d635f554e90d8579b", "ptbr": "Lanças do Inferno invocadas: &33111_ddcs&"}
+{"id": "LocalText/s_33111_gjkd", "revision": "ac9903b2d9dc8008dcd2598edaae0717bd2b0ae3e2273be1fd7bfb7b48fbfee7", "ptbr": "Lanças do Inferno são invocadas em uma área maior (&33111_gjkd&)."}
+{"id": "LocalText/s_33111_mpCost", "revision": "33b4d94a7ddccacc3bedd7afffc31e3c9b640861774fd8bfea36f726ae79efeb", "ptbr": "Custo de Energia desta técnica: &33111_mpCost&"}
+{"id": "LocalText/s_33112_cd", "revision": "6021ede91f6f434e47feb9fd2c1df3d70f1aef6b1bafeaaf3729b0018b44d28e", "ptbr": "Recarga desta técnica: &33112_cd&s"}
+{"id": "LocalText/s_33112_cqcs", "revision": "593c7d88bea56f697f39eb75ff3e5d0f9089d7472ee7c4d6a4fda0122a583936", "ptbr": "Espinhos de Lança soltos: &33112_cqcs&"}
+{"id": "LocalText/s_33112_mpCost", "revision": "8a94af38bf67182f4344a70e78175aab66d70fb75a19197430a88aa79ef07cd0", "ptbr": "Custo de Energia desta técnica: &33112_mpCost&"}
+{"id": "LocalText/s_33112_qzfw", "revision": "b7090484aef1a3e7869b639d8d11b43125e491a001b5dc0cbb709196be742174", "ptbr": "Área de efeito de Formação da Lança do Dragão: &33112_qzfw&"}
+{"id": "LocalText/s_34111_cd", "revision": "2b5fa6b12aaabb769eb68f546c2f5acf0fffe3e2490f5be356f0a7870258b825", "ptbr": "Recarga desta técnica: &34111_cd&s"}
+{"id": "LocalText/s_34111_jjfw", "revision": "06b6964ee06769d2c57901462f42c0e0f1e610bf446db942cf2704f6581c156a", "ptbr": "Área de dano de cada espadão: &34111_jjfw&"}
+{"id": "LocalText/s_34111_jzfw", "revision": "076d3d29135853123e257423b6229a90812f351c0383697846afcdbd139e132b", "ptbr": "Área de efeito de Espada da Queda do Céu: &34111_jzfw&"}
+{"id": "LocalText/s_34111_mpCost", "revision": "3ca386942ed5ba67183ebdcb3f26941d7f69b5903244933313896ef313bd3b98", "ptbr": "Custo de Energia desta técnica: &34111_mpCost&"}
+{"id": "LocalText/s_34112_cd", "revision": "6405e3c1209c57c2cf7a8fe3653228433bdf90719fdc336acb2145c3dadf63d3", "ptbr": "Recarga desta técnica: &34112_cd&s"}
+{"id": "LocalText/s_34112_fscs", "revision": "73dce9b212ea325f1ce11ae07a2c06ca96aa5a51a5045d4a6ad728fbddee222f", "ptbr": "Auras de Espada liberadas por Espada Divina: &34112_fscs|x34112_ddsl|f0&"}
+{"id": "LocalText/s_34112_mpCost", "revision": "49ff72ae1322b98e8783afa1f28ff508850bad44de5d1e70301ce6ffafe1da72", "ptbr": "Custo de Energia desta técnica: &34112_mpCost&"}
+{"id": "LocalText/s_34112_range", "revision": "56d544399ef3e6f34c3fba7c82045df34b0579612a558068b559f21f45bbca6e", "ptbr": "As auras de espada da Espada Divina viajam &34112_range& mais longe."}
+{"id": "LocalText/s_35111_cd", "revision": "00839565d316d8a0db93ef16cee02cfc7120bdbaef23700275c0a50ad290027c", "ptbr": "Recarga desta técnica: &35111_cd&s"}
+{"id": "LocalText/s_35111_cxsj", "revision": "9cc7efd757ae6679e2b89fb6cc4466ba25c7101a10ff19f21d849e7f05b04600", "ptbr": "Duração desta Técnica Suprema: &35111_cxsj&s"}
+{"id": "LocalText/s_35111_mpCost", "revision": "b8ef527607ab2a38c25fe838dc5eea26e6ceafd6aea223bc5cdfac11b34b84f6", "ptbr": "Custo de Energia desta técnica: &35111_mpCost&"}
+{"id": "LocalText/s_35111_range", "revision": "9bdd51177822695586f0160d515ff2ce86f361014133cc204fc8716927639583", "ptbr": "Área de dano do Escudo do Soberano: &35111_range&"}
+{"id": "LocalText/s_35112_cd", "revision": "fd7619d10297157a2631b6492c88012afeba411014c86805e57d92726f811c91", "ptbr": "Recarga desta técnica: &35112_cd&s"}
+{"id": "LocalText/s_35112_cxsj", "revision": "c417d423ea0e083e3aa54e7165028580349b5b5f3a5a1137b4d689a17b2a4cdd", "ptbr": "Duração desta Técnica Suprema: &35112_cxsj&s"}
+{"id": "LocalText/s_35112_mpCost", "revision": "a748a68c8e102fa3adb36c09d2c1dd4d4f017901d5b97158f9974de97258d049", "ptbr": "Custo de Energia desta técnica: &35112_mpCost&"}
+{"id": "LocalText/s_35112_range", "revision": "b58d4a5be2c6486b09f3360fd7abb99e48666a826b17bbd71be749a27e13e52a", "ptbr": "Alcance de Sombra de Punho: &35112_range&"}
+{"id": "LocalText/s_36111_cd", "revision": "2bf52522804cf9c6afca94c811983de4e596210ff8919e4c5fb68afd9cc8349c", "ptbr": "Recarga desta técnica: &36111_cd&s"}
+{"id": "LocalText/s_36111_ddfw", "revision": "a9edb25f7daa7073808533ea27c7cffcf1690e5966a906dac15f7efb42f70e46", "ptbr": "Área de efeito de Vórtice: &36111_ddfw&"}
+{"id": "LocalText/s_36111_ddsl", "revision": "043d6c1e07471c984e1ec4048dc93a06623f1b90ff3d162f882d37ed4c889980", "ptbr": "Golpes de Palma criados pelo Vórtice: &36111_ddsl&"}
+{"id": "LocalText/s_36111_mpCost", "revision": "2ba4cc70b32ea3fe5cdd7768ec417c4256f9fdd43e94f162072de0c2d2ffed9b", "ptbr": "Custo de Energia desta técnica: &36111_mpCost&"}
+{"id": "LocalText/s_36112_cd", "revision": "4760226b2bc83a949d113c62502e2f1e1e5c38fb0b8419974d696e14541d26ad", "ptbr": "Recarga desta técnica: &36112_cd&s"}
+{"id": "LocalText/s_36112_mpCost", "revision": "01cae11e65ca9adece197d5a14c33cf3a9ffe3ec27488d022ff0a21971505fda", "ptbr": "Custo de Energia desta técnica: &36112_mpCost&"}
+{"id": "LocalText/s_36112_myfw", "revision": "668c387992b5e00e3354fc0a4aecdbd9717805d2d96cbbc9b8bfdc9ca1f7c462", "ptbr": "Área de dano de cada palma da marca demoníaca: &36112_myfw&"}
+{"id": "LocalText/s_36112_range", "revision": "a92513ca74f77e9c5620aed65dce9b47a502ef7a7f9626de7de97be03d166f00", "ptbr": "Alcance de Palma da Marca Demoníaca: &36112_range&"}
+{"id": "LocalText/s_37111_cd", "revision": "18517e8bcc2de171518a23d36395528d27e145ba324df6aa62bba2705c4d06a5", "ptbr": "Recarga desta técnica: &37111_cd&s"}
+{"id": "LocalText/s_37111_lxsh", "revision": "1365b66d0b0b252fa659736af9b768046b97aed4ebc0e5670c6739dae24bfc05", "ptbr": "Bônus de dano de cada camada de $s_lingxu$: &37111_lxsh&"}
+{"id": "LocalText/s_37111_mpCost", "revision": "935265813e6fc1a44a2d8c24c3b4838f01caea8d6d7344b986fc5e842d50e61a", "ptbr": "Custo de Energia desta técnica: &37111_mpCost&"}
+{"id": "LocalText/s_37111_range", "revision": "aa149dd3b5ce7f860b4c8b676a64e3b8db978a15bbad3e0324c56b66988c213c", "ptbr": "Área de dano de Detonação do Vazio: &37111_range&"}
+{"id": "LocalText/s_37112_cd", "revision": "0480913717bee984d399b78e0127d711bc8e1c1e615ce135df1214a3ec936696", "ptbr": "Recarga desta técnica: &37112_cd&s"}
+{"id": "LocalText/s_37112_cxsj", "revision": "0aa29a9103b9095870475c1388b7567048be26424fc1ae8540e1f0350b54fd1d", "ptbr": "Duração desta Técnica Suprema: &37112_cxsj&s"}
+{"id": "LocalText/s_37112_jhsl", "revision": "37e0078d3eccd09ac239d1e7cd95e9d6e844fe233c29f1ee742ab318e94edaae", "ptbr": "Máximo de camadas de $s_maixi$ ativadas: &37112_jhsl&"}
+{"id": "LocalText/s_37112_mpCost", "revision": "720f42b5dd96dd3bbee380dace5367101d2e20302aa58580bc53549029632af3", "ptbr": "Custo de Energia desta técnica: &37112_mpCost&"}
+{"id": "LocalText/s_41111_cd", "revision": "b6355c35735edd5f85e7d65e01324cd3537062fc78c0a051f2626ede5e15b8e9", "ptbr": "Recarga desta técnica: &41111_cd&s"}
+{"id": "LocalText/s_41111_ddsl", "revision": "9d7586c72bc800c084c11b7c7f34350e6729ede176f855118a0155f781bcaf03", "ptbr": "Esferas de Fogo liberadas: &41111_ddsl&"}
+{"id": "LocalText/s_41111_range", "revision": "3f2073f4d93706f0a4fe210dba6bf4721a6f07be554edc9e18792741c4d7b01c", "ptbr": "Alcance desta técnica: &41111_range&"}
+{"id": "LocalText/s_41112_fsjg", "revision": "d2e5590acd2e11153ecc399fd4337fddf17a0b24da9fe184f25f1f90b3dc9675", "ptbr": "Depois de liberar uma chama por &41112_fsjg&s seguidos, você dispara &41112_zdsl& Esferas de Fogo que atacam automaticamente os inimigos dentro de &41112_zdsc&, causando o mesmo dano desta técnica."}
+{"id": "LocalText/s_41112_range", "revision": "ecf45eb20d40fc75c95afe10c1d44a65dcf10da9cc1ca388c5a1462ea6666f70", "ptbr": "Alcance desta técnica: &41112_range&"}
+{"id": "LocalText/s_41112_zdsc", "revision": "eed4388034ff1d4343e82308816b05c6fa20f53eccf5e38a699b94712dfdfe6b", "ptbr": "Área de ataque de Esfera de Fogo: &41112_zdsc&"}
+{"id": "LocalText/s_41113_bzfw", "revision": "1d489957fbf94837406883857bb7cfac52f04a9c121c95746ab2b91e1b769d70", "ptbr": "Área de dano de Bola de Fogo: &41113_bzfw&"}
+{"id": "LocalText/s_41113_cd", "revision": "ab46d30983afc55c45d963e202f6ebf334a3518ec897787e241a879b2702191f", "ptbr": "Recarga desta técnica: &41113_cd&s"}
+{"id": "LocalText/s_41113_range", "revision": "94d32f8878069e4d9c6b28175122931df7b5d93f07cae7e3e15567dc63c8b77f", "ptbr": "Alcance desta técnica: &41113_range&"}
+{"id": "LocalText/s_42111_cd", "revision": "2b5d9f2c62c46365c270f5a6fbe355be395d68be11d60292204cd659c1db0b76", "ptbr": "Recarga desta técnica: &42111_cd&s"}
+{"id": "LocalText/s_42111_ddsl", "revision": "7fb0c4328fbb309ff5925d1ebcdd96c8d5803c2f93b0906362cbd6de0059b6cb", "ptbr": "Esferas de Água liberadas: &42111_ddsl&"}
+{"id": "LocalText/s_42111_range", "revision": "c8b314bd05c98d55a1ed9927601383fc6050fdaa8593fb869ceb0fbad59c7c1a", "ptbr": "Alcance desta técnica: &42111_range&"}
+{"id": "LocalText/s_42112_bzfw", "revision": "8f7950bc5137482486543cde105c59956e144319dd89efe2f8e5da5ed46a63e6", "ptbr": "Área de dano de Detonação Espiritual: &42112_bzfw&"}
+{"id": "LocalText/s_42112_bzjg", "revision": "b3d76bdf7a00cd53ba5135529d7891859d3b98fa728408bf8ba05a874a5082e8", "ptbr": "Ao conjurar esta técnica continuamente, a cada &42112_bzjg&s você aciona uma Detonação Espiritual no local do alvo, causando o mesmo dano desta técnica aos inimigos dentro de &42112_bzfw&."}
+{"id": "LocalText/s_42112_range", "revision": "4ed1fa80489b1d5147eec3e2a242568faf23e3af628e8f0064fc66cd280765fa", "ptbr": "Alcance desta técnica: &42112_range&"}
+{"id": "LocalText/s_42113_bbfw", "revision": "0955cc3340774789db0d6edad5ac99f0d7df7969cfe34b1b9b0b80ac8f95bc7d", "ptbr": "Área de dano de Explosão de Gelo: &42113_bbfw&"}
+{"id": "LocalText/s_42113_range", "revision": "467be76362e82707dbd241d9a29e4f33f6752017a912768538832d62783e661f", "ptbr": "Alcance desta técnica: &42113_range&"}
+{"id": "LocalText/s_42113_xlsj", "revision": "0b60b92f1fb3a7e9787f20a77dda3b814b70bcfe686bcac63901b3f356470c0a", "ptbr": "Tempo de carga desta técnica: &42113_xlsj&s"}
+{"id": "LocalText/s_43111_cd", "revision": "5c0946caf3ed2a59463a4251245455746e13966dda28007cce94ccf10b0a2434", "ptbr": "Recarga desta técnica: &43111_cd&s"}
+{"id": "LocalText/s_43111_ddsl", "revision": "4350a58f39241857422d4c915c78a8451a9d3e988a09e40210df097eea73f577", "ptbr": "Esferas de Raio liberadas: &43111_ddsl&"}
+{"id": "LocalText/s_43111_range", "revision": "c3c25059ababf6ff8f7b4c81ac5b557508d9f0107fe64da1065507600e2e96dc", "ptbr": "Alcance desta técnica: &43111_range&"}
+{"id": "LocalText/s_43112_cd", "revision": "2b1b13e8b01875825c363d8ec65c4c4c84d0e48d9c8854c62fc837d2736b7213", "ptbr": "Recarga desta técnica: &43112_cd&s"}
+{"id": "LocalText/s_43112_ljgl", "revision": "0ba57d2258e5e4b750e35a1c4abfa53c02cb2798fc15b692fc92da00702e4f38", "ptbr": "Esta técnica tem &43112_ljgl&% de chance de golpear duas vezes."}
+{"id": "LocalText/s_43112_range", "revision": "f39ff489605e4f150cf2b0483bc65ce7e0a7c1576fa39d09459405fe17ace121", "ptbr": "Área de ataque desta técnica: &43112_range&"}
+{"id": "LocalText/s_43113_cd", "revision": "5ef22de8da7e37d84fd3b157af03e639025471b3f209e7c6470b317fbb235635", "ptbr": "Recarga desta técnica: &43113_cd&s"}
+{"id": "LocalText/s_43113_range", "revision": "80051cd895f71408da3cd1bf8ab052909be69ca586caf1b0d05ab0380cadbf34", "ptbr": "Alcance desta técnica: &43113_range&"}
+{"id": "LocalText/s_43113_tycs", "revision": "8b6d2af1b825c03b38bdd7b3660229a9625e8a0cd944bb0d7740f141d2a41d33", "ptbr": "Saltos de Relâmpago Purpúreo: &43113_tycs&"}
+{"id": "LocalText/s_44111_cd", "revision": "c5e91fb536407cf37b11acb923e1548fccd7b41d084d9a575559f10e466366a6", "ptbr": "Recarga desta técnica: &44111_cd&s"}
+{"id": "LocalText/s_44111_ddsl", "revision": "3f78a98f6f3f090f1e43287f42641553e67c39c4b55e7318f7425f87f7b8c039", "ptbr": "Esferas de Vento liberadas: &44111_ddsl&"}
+{"id": "LocalText/s_44111_range", "revision": "8c350c0c5bbf22913330899e253bf46f8d533a38839c6cc344540a585477fc68", "ptbr": "Alcance desta técnica: &44111_range&"}
+{"id": "LocalText/s_44112_cd", "revision": "5bc5a23ada1a4bed427bc4f0941c7523e7ce233eb575f1f10eb5bdf57980d69a", "ptbr": "Recarga desta técnica: &44112_cd&s"}
+{"id": "LocalText/s_44112_ddbl", "revision": "e98dbd96ec825bebc75234ade28dc8c33fc80c653c3927f448e183e2100f1ccd", "ptbr": "Largura de Lâmina de Vento: &44112_ddbl&%"}
+{"id": "LocalText/s_44112_range", "revision": "dac281c59a788db6d5add24afa43530f92959d953019210b29a4c6fb475232fd", "ptbr": "Alcance desta técnica: &44112_range&"}
+{"id": "LocalText/s_44113_cd", "revision": "5e57bafd859549afc400346e1723b37cb356b0d6ca7fa75f7a35f58fcf1f542b", "ptbr": "Recarga desta técnica: &44113_cd&s"}
+{"id": "LocalText/s_44113_ddsj", "revision": "4a0d1953ed0a07ccddd972e1d3a635ea93c2d606a06aec7dced7250b4a677267", "ptbr": "Duração de a pequena tempestade: &44113_ddsj&s"}
+{"id": "LocalText/s_44113_range", "revision": "5458574288a5af936c933d86e89860af02713e9121e321f663dc3c30b2d5b3ac", "ptbr": "Alcance desta técnica: &44113_range&"}
+{"id": "LocalText/s_45111_cd", "revision": "5902005533c8c300a083130b9a423f83ca56eda87c334fe66f585eb0ef84495a", "ptbr": "Recarga desta técnica: &45111_cd&s"}
+{"id": "LocalText/s_45111_ddsl", "revision": "2377496fbe14741438143736ab71e087ef9d0c15e4981b996b24bb3883270be5", "ptbr": "Esferas de Terra liberadas: &45111_ddsl&"}
+{"id": "LocalText/s_45111_range", "revision": "d67c423b7e7a4cd349ea42776f5d9b1ce89d8d7a3a747194e45ee0ff990f039b", "ptbr": "Alcance desta técnica: &45111_range&"}
+{"id": "LocalText/s_45112_cd", "revision": "03dc674db4e7fcb338b2a86eb2f4be572ae57b55d0efcd3bd7bd484720c4196e", "ptbr": "Recarga desta técnica: &45112_cd&s"}
+{"id": "LocalText/s_45112_ddbl", "revision": "bd1f1bebbcb8328f24eb681b0e2f5a51e27a6351e948d2c7e9f6cf3ceb010b1a", "ptbr": "Área de dano de Pedra Caindo: &45112_ddbl&"}
+{"id": "LocalText/s_45112_range", "revision": "089acd43536761c97acd83f8398624f91533fa9d540ca1f9c4444ab9410dc699", "ptbr": "Alcance desta técnica: &45112_range&"}
+{"id": "LocalText/s_45113_cd", "revision": "451ec77ccc05cc3aff50c2359961e89d7af5f5b91c2f807f887069d2daa2fb87", "ptbr": "Recarga desta técnica: &45113_cd&s"}
+{"id": "LocalText/s_45113_range", "revision": "3525a9cd5016cc4dd4a97fb3354ab1ce3efbc04ec66cbe729d35682a0a7823f3", "ptbr": "Área de ataque desta técnica: &45113_range&"}
+{"id": "LocalText/s_45113_tqgl", "revision": "fd850fd437587998a3b2a861eac5676b255e8deaf487b1759b7e82c63ed96103", "ptbr": "Esta técnica tem &45113_tqgl&% de chance de disparar &45113_tqsl& Esferas de Terra (alcance: &45113_tqsc&) ao seu redor, causando o mesmo dano desta técnica."}
+{"id": "LocalText/s_46111_cd", "revision": "98af2f38e6d1c457c1159d3e1d2db9a40205999a360c7ab191ed0225c10cc98c", "ptbr": "Recarga desta técnica: &46111_cd&s"}
+{"id": "LocalText/s_46111_ddsl", "revision": "f95bbd7ed2d49559f7e58f59e1f9af87b8c83468e24dbc5e0a93b0afce7e1787", "ptbr": "Folhas Espirituais liberadas: &46111_ddsl&"}
+{"id": "LocalText/s_46111_range", "revision": "a85322f0fb73fd480de7ef6fb25a5a27b3085b38e8839d6709ba932344ceca36", "ptbr": "Alcance desta técnica: &46111_range&"}
+{"id": "LocalText/s_46112_bffw", "revision": "c6595c2ec588c9367b28e78daffc52af782a7f714876fbd88a210abed50ba4e0", "ptbr": "Área de dano de Pétala de Flor ao explodir: &46112_bffw&"}
+{"id": "LocalText/s_46112_cd", "revision": "ed4a11dbad69158792118a232f3601f0ea76111f2967df982234f4d3cf65ebb3", "ptbr": "Recarga desta técnica: &46112_cd&s"}
+{"id": "LocalText/s_46112_range", "revision": "acafb185749f72400f0ff05d80c25419b3983214beac4c1141cfadf21e599529", "ptbr": "Alcance desta técnica: &46112_range&"}
+{"id": "LocalText/s_46113_bffw", "revision": "78d0e58760bc8531ba57b849783e8e3259170ebc6bbea55badfd8bef7edbbfc1", "ptbr": "Área de dano de Botão de Flor ao desabrochar: &46113_bffw&"}
+{"id": "LocalText/s_46113_cd", "revision": "cfe37641724d7ed44c1b9cffd10c1fd863efa3ca3d7e5f73cd7bf677eb671ecf", "ptbr": "Recarga desta técnica: &46113_cd&s"}
+{"id": "LocalText/s_46113_range", "revision": "3a61ea0a06154c80f8a9c7ca1a121abafd9c2fa0a9abb98d7f9b7f02e572d8e0", "ptbr": "Alcance desta técnica: &46113_range&"}
+{"id": "LocalText/s_51111_cd", "revision": "d534ff38c22cf0deb23ce2f242caa7de0d79403d5177c5cf3a7ae92eb2b0291d", "ptbr": "Recarga desta técnica: &51111_cd&s"}
+{"id": "LocalText/s_51111_mpCost", "revision": "053b1fc24b321ebc2cd23b7439212a0b8ca068ecd74a65ebb6950fd96370e3af", "ptbr": "Custo de Energia desta técnica: &51111_mpCost&"}
+{"id": "LocalText/s_51111_range", "revision": "9cb2990a125795fada98a0ff60fd85dace16f15870d8e6bdd52a0f95a9442a44", "ptbr": "Área de efeito de o anel de fogo: &51111_range&"}
+{"id": "LocalText/s_51111_ybfw", "revision": "a59f88a86982f43f6bcaa8084e315801c86fcad7260371789c4a1374c5b29130", "ptbr": "Área de dano de Fogo do Solo: &51111_ybfw&"}
+{"id": "LocalText/s_51112_bzfw", "revision": "33ee8da112bc3b61fef67d90a60f812f231fa6f1f3a4f65b100cf0b7a78fce25", "ptbr": "Área de dano de Luto de Fogo: &51112_bzfw&"}
+{"id": "LocalText/s_51112_cd", "revision": "b405f52321f0c0a61f12d5e4d09a5a2e85f5688672ad02b6bd31f3a6a57fd891", "ptbr": "Recarga desta técnica: &51112_cd&s"}
+{"id": "LocalText/s_51112_mpCost", "revision": "fba01f58e2aefbee48efcb6e5995b57208e0cd9b95a703c4e425e219cdc1d635", "ptbr": "Custo de Energia desta técnica: &51112_mpCost&"}
+{"id": "LocalText/s_51112_range", "revision": "30a7e3af3e32da7da07db4f568061bfa0ae57653aa44500483fbe6a9d792d4d7", "ptbr": "Alcance de conjuração de Luto de Fogo: &51112_range&"}
+{"id": "LocalText/s_51113_cd", "revision": "e3fda63c75af88ebe72d7fd38df16b4ce7afc74ca07fe644c0a1a6c77b1ae804", "ptbr": "Recarga desta técnica: &51113_cd&s"}
+{"id": "LocalText/s_51113_hbfw", "revision": "5f98a9d75ca1cf09ba41f883147ac5bf104d015b0836a97ca8d5a3ecc4367424", "ptbr": "Área de dano de Fogo Solar: &51113_hbfw&"}
+{"id": "LocalText/s_51113_mpCost", "revision": "217cbefed4a59b457be4e2f6d1aea7ec813fa3dcb3d40fe9cca10345d2ea8a50", "ptbr": "Custo de Energia desta técnica: &51113_mpCost&"}
+{"id": "LocalText/s_51113_range", "revision": "190b871b8994435db1b50ad18e136eab85b1ec8f49b8a54442e416f58399dba0", "ptbr": "Alcance de conjuração de Fogo Solar: &51113_range&"}
+{"id": "LocalText/s_51114_cd", "revision": "a6e287bb3f0a4a0d10c825b0ea5b2f66026d1ff8ad494cb02f83aa8a909d3dec", "ptbr": "Recarga desta técnica: &51114_cd&s"}
+{"id": "LocalText/s_51114_mpCost", "revision": "6699d406c5ca3d2cbbd9c7087d311dd3f136a5902333df037f23742e082a4a68", "ptbr": "Custo de Energia desta técnica: &51114_mpCost&"}
+{"id": "LocalText/s_51114_range", "revision": "a2db69570d1a7b104bfc7a96a900c5314767fe4c750d7a040aab18a0af075540", "ptbr": "Alcance de conjuração de Chama Pecaminosa: &51114_range&"}
+{"id": "LocalText/s_51114_range00", "revision": "d3a50fdae0f48fdeb1e7d816a691e938505b9bdac28cfad81f43fe05dd4a48ee", "ptbr": "&51114_range&"}
+{"id": "LocalText/s_51115_cd", "revision": "dcc5e9ca726bb62793506bae5236d9130ea2e3fc32fde8c95936ad188a1fc0e1", "ptbr": "Recarga desta técnica: &51115_cd&s"}
+{"id": "LocalText/s_51115_mpCost", "revision": "90b3e64b6e8bbc0e558fffff3635183964d52218c3dfb49c8bd834a915ee7603", "ptbr": "Custo de Energia desta técnica: &51115_mpCost&"}
+{"id": "LocalText/s_51115_range", "revision": "6f2d62ff251835255bb62b74f4c11ed873c4470a7ad6f59dfe26ab30b0155e89", "ptbr": "Área de dano de cada anel de fogo: &51115_range&"}
+{"id": "LocalText/s_51115_range00", "revision": "2570e42794bd083c8b353757bed69e5b501b7f672fe6d72265cef838238f0697", "ptbr": "&51115_range&"}
+{"id": "LocalText/s_51116_cd", "revision": "d1544e58e17a7bebca3f4f2877ecdee5ca450ba17bd693389ba76a9d898927bd", "ptbr": "Recarga desta técnica: &51116_cd&s"}
+{"id": "LocalText/s_51116_hdfw", "revision": "27af96215ec95d38a2080ae0ffb37ef003e5fdd483afff40127ebd9bb7be3755", "ptbr": "Área de dano de Escudo de Fogo: &51116_hdfw&"}
+{"id": "LocalText/s_51116_mpCost", "revision": "f7f446632aea873635c910bd315b94184cf27925a8baf3e86e3f61871849b344", "ptbr": "Custo de Energia desta técnica: &51116_mpCost&"}
+{"id": "LocalText/s_51116_tsys", "revision": "fd678c98d7dd74c3f786f70521f49ab998193a49dbf4dec77683136429d12522", "ptbr": "Bônus de Agilidade desta técnica: &51116_tsys&%"}
+{"id": "LocalText/s_52111_cd", "revision": "80f2955ed78cf9454f35821e2359c8eb93ea47c25b94ab18159550588491de98", "ptbr": "Recarga desta técnica: &52111_cd&s"}
+{"id": "LocalText/s_52111_mpCost", "revision": "a663b425bfd96f26455e4ab7bb0c9292cd1904e326cd6a89a164753aa4a64ca9", "ptbr": "Custo de Energia desta técnica: &52111_mpCost&"}
+{"id": "LocalText/s_52111_range", "revision": "c46028dff31be7d21bb7d02fd24ec491f0ad64e1356160de73aa71bb623d5676", "ptbr": "Alcance máximo de Aura Gélida: &52111_range&"}
+{"id": "LocalText/s_52111_sbfw", "revision": "3bb4f7d8a8bdbf29c0fd8f7b20f7871f57cb68235acf3b57b896863501bebad9", "ptbr": "Área de dano de Explosão Gélida: &52111_sbfw&"}
+{"id": "LocalText/s_52112_cd", "revision": "2adae3149e84e36563f32e70e949fa8473689b7406dbb2702d287228da0be650", "ptbr": "Recarga desta técnica: &52112_cd&s"}
+{"id": "LocalText/s_52112_ddsl", "revision": "d3220845bb470b754b1fb1c709cb1311d93434127c04d7282aaf1529a6171c38", "ptbr": "Auras Gélidas liberadas: &52112_ddsl&"}
+{"id": "LocalText/s_52112_mpCost", "revision": "cc7fc57ccc33ad2fe2be3b46ea900bd85a3c43929045dc99794b49679dbc3618", "ptbr": "Custo de Energia desta técnica: &52112_mpCost&"}
+{"id": "LocalText/s_52112_range", "revision": "85152f27ceb6332b1ce3c8873f80aa1e4a2ced257fd37d86f84737f1edba815f", "ptbr": "Alcance de Aura Gélida: &52112_range&"}
+{"id": "LocalText/s_52113_cd", "revision": "121417cf7374420d5f5748a2919156129e14acede80ba8e18a4886515df475b3", "ptbr": "Recarga desta técnica: &52113_cd&s"}
+{"id": "LocalText/s_52113_ddbl", "revision": "2fe2d3daf6167e5c04c6d1534cfe1dad948dd1cecc26d4cf68485e9558b785a5", "ptbr": "Largura de Estalactite de Gelo: &52113_ddbl&"}
+{"id": "LocalText/s_52113_mpCost", "revision": "9a5d497a31485c7f0370f7a2b7e30c2497b88feeb5f40a34fcc72cc756a1e22c", "ptbr": "Custo de Energia desta técnica: &52113_mpCost&"}
+{"id": "LocalText/s_52113_range", "revision": "6da26691615e55aec5911d9670a0c4e46995411c6a75ef14ee3c863ad7c6ebb0", "ptbr": "Alcance de Estalactite de Gelo: &52113_range&"}
+{"id": "LocalText/s_52114_cd", "revision": "2cb9f9aabdcaea0edda36fe60c3df44b99ab31f97751af28c84e060cbd2da392", "ptbr": "Recarga desta técnica: &52114_cd&s"}
+{"id": "LocalText/s_52114_fbfw", "revision": "47f980cd8be2349f177f2302058f10ca101c115b7ccc657d6fa3bf92b230d3e3", "ptbr": "Área de dano de Tempestade de Gelo: &52114_fbfw&"}
+{"id": "LocalText/s_52114_mpCost", "revision": "a21d3b5c127d18cd856a893b8c7eaedc101f2682893d7824411ae9afca940801", "ptbr": "Custo de Energia desta técnica: &52114_mpCost&"}
+{"id": "LocalText/s_52114_range", "revision": "b15b1134b126f76dbf2cfb943f01e82808ec57f1ec7746854e26d92a722b2e60", "ptbr": "Alcance de conjuração de Marca de Gelo: &52114_range&"}
+{"id": "LocalText/s_52115_cd", "revision": "5386cf3ed4dd832b02c92d653861967aba151cd75786a8cfabb81f6a0fcd9940", "ptbr": "Recarga desta técnica: &52115_cd&s"}
+{"id": "LocalText/s_52115_ewsh", "revision": "cbc405601b075866011ca001dc044cdf6d39626212d4b696f9b475a78dcca84b", "ptbr": "Cada camada de $s_hanshuang$ detonada causa &52115_ewsh|x52115_dmg|/100|f0& de dano."}
+{"id": "LocalText/s_52115_mpCost", "revision": "2afb38a01658519bb0c952ca0d5371f632f79f540df2f609477f32c5b64cbce0", "ptbr": "Custo de Energia desta técnica: &52115_mpCost&"}
+{"id": "LocalText/s_52115_slfw", "revision": "b838f9606df2a4e3cbc89d3f869445cd6709e3dae492f901bd77dbf644c8b5c9", "ptbr": "Área de dano de Detonação do Espírito Gélido: &52115_slfw&"}
+{"id": "LocalText/s_52116_cd", "revision": "fb13ba8f9d49dd9e447dca7ee3f6f454a8e9edd991f296d89c5f95d91c9feaf8", "ptbr": "Recarga desta técnica: &52116_cd&s"}
+{"id": "LocalText/s_52116_mpCost", "revision": "ebfbd86b601aeee39680490944b725a682ce63de2de80aa0d74d5788d8fd81be", "ptbr": "Custo de Energia desta técnica: &52116_mpCost&"}
+{"id": "LocalText/s_52116_shsj", "revision": "8a568c50f9aaa3c5f11a981f90ff648675fe7466a440ae3dc5a6618bf6c3c19a", "ptbr": "Duração de Ceifador de Almas: &52116_shsj&s"}
+{"id": "LocalText/s_52116_slfw", "revision": "8c41488c6e722b51e8ca742b35f2e5719d16619f08a060bf7c625eff3012387e", "ptbr": "Área de efeito de Formação Ceifa-Almas: &52116_slfw&"}
+{"id": "LocalText/s_53111_cd", "revision": "887e1a0ebf765bac1af5e4dd0833a857f2d11ccabfa21ee5758e36e7a9b250e0", "ptbr": "Recarga desta técnica: &53111_cd&s"}
+{"id": "LocalText/s_53111_ddsl", "revision": "b87598be0c22093e1a1bf5ff92c4df5a53dea92ca4a929cf1644ac099ccceb17", "ptbr": "Relâmpagos de Investida liberados: &53111_ddsl&"}
+{"id": "LocalText/s_53111_mpCost", "revision": "ac0e9d25b9c40b45856d3a446db8fc055258387c82df34903c835535430f6872", "ptbr": "Custo de Energia desta técnica: &53111_mpCost&"}
+{"id": "LocalText/s_53111_range", "revision": "6e64910f203d3c35141d4ba0ff5d5157751b5b9bab411d7f5773b6403dcd6c20", "ptbr": "Alcance do Relâmpago de Investida: &53111_range&"}
+{"id": "LocalText/s_53112_cd", "revision": "d5351e2b7ffa9f856c4f4e7e5b3b3e87c6f1d1b60c548bff359c3804d72a954d", "ptbr": "Recarga desta técnica: &53112_cd&s"}
+{"id": "LocalText/s_53112_cxsj", "revision": "5a080d1a78e8b4721ce901ad98c48fc6a0cb4edfd89f0ff5947de53445361800", "ptbr": "Duração do Relâmpago de Investida: &53112_cxsj&s"}
+{"id": "LocalText/s_53112_ddsl", "revision": "134f006a6d56a66f6940ab1e179eeb8957ed44a6025d6d20c971ca049b34acc3", "ptbr": "Relâmpagos de Investida liberados: &53112_ddsl&"}
+{"id": "LocalText/s_53112_mpCost", "revision": "840ab4f508eea6690fbaab51879cf2f1c69dd615f993b0099963759981b2eabe", "ptbr": "Custo de Energia desta técnica: &53112_mpCost&"}
+{"id": "LocalText/s_53113_cd", "revision": "3de2880fd28f951f18b1bd09cfe6c549fdc9dee0e85f8862b76cb5162a2b66f3", "ptbr": "Recarga desta técnica: &53113_cd&s"}
+{"id": "LocalText/s_53113_lyfw", "revision": "71816a478f0f1183ddc4ff02acd13d0a0f534ae43da5f39f837c8f936e5cd6ec", "ptbr": "Área de dano de Nuvem de Raio: &53113_lyfw&"}
+{"id": "LocalText/s_53113_lysj", "revision": "600181ffdde02cc1910c6b6e5c5303c9e991d45a3edaeb5bded01377c9ed9549", "ptbr": "Duração de Nuvem de Raio: &53113_lysj&s"}
+{"id": "LocalText/s_53113_mpCost", "revision": "21d2bbed784ff451b3d67fac32dafc8810fb30132fca2100c8503505a6c89775", "ptbr": "Custo de Energia desta técnica: &53113_mpCost&"}
+{"id": "LocalText/s_53114_cd", "revision": "401ec38907d779f3e0127511ef6c54c9703dca30a084e6390b6af3bf7585ed14", "ptbr": "Recarga desta técnica: &53114_cd&s"}
+{"id": "LocalText/s_53114_csfw", "revision": "77ebda90cb779d6414eca26b38d41b7ef1734498508e78db97e809bfe9a932ac", "ptbr": "Área de ataque de Raio Sombrio: &53114_csfw&"}
+{"id": "LocalText/s_53114_mpCost", "revision": "ee31c5eded79bc735724a5307c563ac46c757fca889d1c4d1eb51db7dd491cab", "ptbr": "Custo de Energia desta técnica: &53114_mpCost&"}
+{"id": "LocalText/s_53114_speed", "revision": "0ebe4e1096fdc97091298097a8a9d36284f71ee81efba4e9b461dc630add98f2", "ptbr": "Velocidade de Raio Sombrio: &53114_speed&"}
+{"id": "LocalText/s_53115_cd", "revision": "34476ea37ce347b9ffdd021b7ec5d0c0eba9a45e3f3ff62445232e8e0ae4f98d", "ptbr": "Recarga desta técnica: &53115_cd&s"}
+{"id": "LocalText/s_53115_lzfw", "revision": "884f510793c2c71d3250a4c82122fa10a4e6f021d9c012c4a0beab298d955ff2", "ptbr": "Área de dano de cada colisão de raio: &53115_lzfw&"}
+{"id": "LocalText/s_53115_mpCost", "revision": "a7095cbd4f1c978aae92857373a25ffc4e0e0ea2226dbb5b7c71902b9ce736dc", "ptbr": "Custo de Energia desta técnica: &53115_mpCost&"}
+{"id": "LocalText/s_53115_range", "revision": "09d983bbf2f530be5138cea3d5256e0b67dcf5833b7cd18a14788893584ebe33", "ptbr": "Alcance máximo de Colisão de Raio: &53115_range&"}
+{"id": "LocalText/s_53116_cd", "revision": "8d7adffab58ec2f0093d1155847d5967a2e07872f33088f6a773d6c9d26ffdeb", "ptbr": "Recarga desta técnica: &53116_cd&s"}
+{"id": "LocalText/s_53116_mpCost", "revision": "8335e988d7deaa719dbcc2cc276b7569b24910aa8a526324bb25c6cbfc3eb2eb", "ptbr": "Custo de Energia desta técnica: &53116_mpCost&"}
+{"id": "LocalText/s_53116_speed", "revision": "ba236b980a610bbf3b33e405444144183faf8add65ec1eb21fbf0d49dd835de4", "ptbr": "Velocidade de Raio Espiritual: &53116_speed&"}
+{"id": "LocalText/s_53116_ttsl", "revision": "1cec800f250d088e0d670e0da36b970117cc7e4ea64d0faf7102b41c42b70689", "ptbr": "Saltos de Raio Espiritual: &53116_ttsl&"}
+{"id": "LocalText/s_54111_cd", "revision": "7fe657eade17581dd11fb95f790c9cfce7d5bf25ade8a0201570ecf0d1ad33f8", "ptbr": "Recarga desta técnica: &54111_cd&s"}
+{"id": "LocalText/s_54111_cssj", "revision": "8e40522f128f7aa9cdd380f657e052427d222bed6e2b13a125729c2ce7f39634", "ptbr": "Duração de cada tempestade: &54111_cssj&s"}
+{"id": "LocalText/s_54111_ddsl", "revision": "6968b0fbd0772677733c7ce8c09746d1df1b55aaaf006b7c9cbc60c12780dc41", "ptbr": "Tempestades geradas: &54111_ddsl&"}
+{"id": "LocalText/s_54111_mpCost", "revision": "27c97302bb45f36371049d3f1704f040093d2e132346c041202e7d8012ec1f9a", "ptbr": "Custo de Energia desta técnica: &54111_mpCost&"}
+{"id": "LocalText/s_54112_cd", "revision": "ba0f75c4a96851d6198f5f719d398ab65eeb4fd78b506eb68ba2b0e7fe5f5a4d", "ptbr": "Recarga desta técnica: &54112_cd&s"}
+{"id": "LocalText/s_54112_mpCost", "revision": "c404c8c718ac1f0790487a103eab83df4f2307c495eac745399dbc83f00a58fb", "ptbr": "Custo de Energia desta técnica: &54112_mpCost&"}
+{"id": "LocalText/s_54112_qyqd", "revision": "967fc1c21be38d970b0c5574a19b82de22d8091235a9cca32dbc11a8e0ff3240", "ptbr": "Efeito de atração da Coluna de Vento: &54112_qyqd|x3.33|f0&"}
+{"id": "LocalText/s_54112_range", "revision": "27eac30d8cb73b4731ca9d997533be2096aa54aa7dfced660c0736a77e6807e8", "ptbr": "Alcance máximo da Coluna de Vento: &54112_range&"}
+{"id": "LocalText/s_54113_cd", "revision": "b6c0bf3e1dda8bd566ab555c7df9dcc097516fe19623adc42af4e269ac01ebe7", "ptbr": "Recarga desta técnica: &54113_cd&s"}
+{"id": "LocalText/s_54113_jtqd", "revision": "4c540a321638c3f858caf03a16eb3a944fb3a0de4dbb41c0bcb2b9a7cdc36962", "ptbr": "Efeito de repulsão da Coluna de Vento: &54113_jtqd|x3.33|f0&"}
+{"id": "LocalText/s_54113_mpCost", "revision": "dfc0167d2047f9ecb07df75a921e5c401a9eb52c2acd55d8245ae757dbfe406d", "ptbr": "Custo de Energia desta técnica: &54113_mpCost&"}
+{"id": "LocalText/s_54113_range", "revision": "ac6e1715846e9c533b110409df1e128e1357abf8a95888d95b85e79599e9ef0c", "ptbr": "Alcance máximo da Coluna de Vento: &54113_range&"}
+{"id": "LocalText/s_54114_cd", "revision": "bbb33cc8528f6c754d813041b18718d47fcbc859045598f6ac64b8a27cb0aff2", "ptbr": "Recarga desta técnica: &54114_cd&s"}
+{"id": "LocalText/s_54114_mpCost", "revision": "9c9063dc3c4e7acece1da9260d04cf7678e865edb401b06c476e18b965326ae1", "ptbr": "Custo de Energia desta técnica: &54114_mpCost&"}
+{"id": "LocalText/s_54114_qyqd", "revision": "92bf2d988e8825206ce5f3d28d9a4eed37f5db1407aef216bde0764eaffcb268", "ptbr": "Efeito de atração de Vento Selvagem: &54114_qyqd|x3.33|f0&"}
+{"id": "LocalText/s_54114_xffw", "revision": "b4810a1b1c94eb4d27aea945b065d88a7c65d1b523cf4353dab682e763ad810f", "ptbr": "Área de dano de Vento Selvagem: &54114_xffw&"}
+{"id": "LocalText/s_54115_cd", "revision": "a84410b710f2bc02329acdf5b33d09b41541e8e8bb9c7ad33a56cae457c336b4", "ptbr": "Recarga desta técnica: &54115_cd&s"}
+{"id": "LocalText/s_54115_jdys", "revision": "56b369ff08d271372dc93c134204a95e1bb191f71fedb7a87bf6195c6e1c6d71", "ptbr": "Redução de Agilidade de Vento Saqueador: &54115_jdys&%"}
+{"id": "LocalText/s_54115_lffw", "revision": "916a3584d3857daea93d0fe24707d7a53793c70639335296d79ec69cf2b96b97", "ptbr": "Área de dano de Vento Saqueador: &54115_lffw&"}
+{"id": "LocalText/s_54115_mpCost", "revision": "c6755548b6e1111517a104563f62e1b4ca4d08a78f9b78ddbbda1bc78e64ec34", "ptbr": "Custo de Energia desta técnica: &54115_mpCost&"}
+{"id": "LocalText/s_54116_cd", "revision": "fb4809f3ad823e69576a9de5d64029053b0eece8c4dd743e072393ca3dbcf207", "ptbr": "Recarga desta técnica: &54116_cd&s"}
+{"id": "LocalText/s_54116_fzfw", "revision": "6ece158dde6c304efededdfc3317eb8786080c0a00e2e0e1f8cdf0fe786a2cc3", "ptbr": "Área de dano de cada vento varredor: &54116_fzfw&"}
+{"id": "LocalText/s_54116_fzsl", "revision": "0c4d1143f81236fd5648c19605418cb7df115dad834b2cb545380648da4b98e0", "ptbr": "Ventos Varredores liberados: &54116_fzsl&"}
+{"id": "LocalText/s_54116_mpCost", "revision": "0cc6d727200c91ddd660c830e9430a4f72ab96155ac394f35fda5b1ec29bf082", "ptbr": "Custo de Energia desta técnica: &54116_mpCost&"}
+{"id": "LocalText/s_55111_cd", "revision": "105755e50a74d2b22afebd405917ead81ff4b90a3f80f1936cc154518d48c60d", "ptbr": "Recarga desta técnica: &55111_cd&s"}
+{"id": "LocalText/s_55111_ddsl", "revision": "2a72688d08fc76a56db4527477ec03994011aeb455120402fb7a483d0edf8a91", "ptbr": "Ondas Sísmicas liberadas: &55111_ddsl&"}
+{"id": "LocalText/s_55111_mpCost", "revision": "615dbe53b5f9dad58df817d75ef192042fc0c8818a537164b5e65145e98daefa", "ptbr": "Custo de Energia desta técnica: &55111_mpCost&"}
+{"id": "LocalText/s_55111_zbfw", "revision": "63baa579ab5aae158fec69fe906ff617fdfd20a4064a79d4c8c59e2a17aca7df", "ptbr": "Área de dano de cada onda sísmica: &55111_zbfw&"}
+{"id": "LocalText/s_55112_cd", "revision": "c5ee03a4d690f8ed113d09b542fe0d708911f582b21926014be6eff95c449065", "ptbr": "Recarga desta técnica: &55112_cd&s"}
+{"id": "LocalText/s_55112_csfw", "revision": "70040c2fa3118dd720ea33959b348a071a8fd6e02123eb48fdd40b87a0ae5811", "ptbr": "Área de dano de Meteoro: &55112_csfw&"}
+{"id": "LocalText/s_55112_mpCost", "revision": "2ff2a5077c971d1890066d20e7ca94e2dcc05e80289f3ebfcf7868dfdd87f9a8", "ptbr": "Custo de Energia desta técnica: &55112_mpCost&"}
+{"id": "LocalText/s_55112_range", "revision": "437ba47a7557f4aa71de99720470297678649d778fded91e0ad6e082eeeb57a7", "ptbr": "Alcance de conjuração de Chuva de Meteoros: &55112_range&"}
+{"id": "LocalText/s_55113_cd", "revision": "110595e76533489d0c4be2a967281cf82a467e63c153a0113256f094ad00bda2", "ptbr": "Recarga desta técnica: &55113_cd&s"}
+{"id": "LocalText/s_55113_mpCost", "revision": "141ae370def6a66f49dc0ad6dc64e27691995f598c0d08cf9166daa04f537abf", "ptbr": "Custo de Energia desta técnica: &55113_mpCost&"}
+{"id": "LocalText/s_55113_range", "revision": "719c8ba04f24c2e5a7e3074497e01ff479622847649a50a0e8680d59848fd38d", "ptbr": "Distância que a Esfera de Terra rola para a frente: &55113_range&"}
+{"id": "LocalText/s_55113_tqbl", "revision": "34dc9dfc9dc994c828e36034bb1ecc3714d4ce3856d8588a75867dcd9b29710e", "ptbr": "Tamanho e dano da Esfera de Terra: &55113_tqbl&%"}
+{"id": "LocalText/s_55114_cd", "revision": "cdebb097ef3a552f186e33671f15f8e24f9f9cf48e6da5c868b96216309088a3", "ptbr": "Recarga desta técnica: &55114_cd&s"}
+{"id": "LocalText/s_55114_mpCost", "revision": "96623faab5fb1ad02792dc83f9793a53dd23b55345969bd0029fa619ecea7824", "ptbr": "Custo de Energia desta técnica: &55114_mpCost&"}
+{"id": "LocalText/s_55114_range", "revision": "51229ce5dd91671432c82ef8691b302e086b2d58bd8207652ec2a2a6524341b3", "ptbr": "Distância que a Esfera de Terra rola para a frente: &55114_range&"}
+{"id": "LocalText/s_55114_tqbl", "revision": "2475561f1dd04d3c8cf6d32bba3d2f40d9e3570db60376cfa68e5bf79248b293", "ptbr": "Tamanho e dano da Esfera de Terra: &55114_tqbl&%"}
+{"id": "LocalText/s_55115_cd", "revision": "bba9fe438356e9dfc6b0c61755aa73092143f2dea79761dfa91fd884039cd3a3", "ptbr": "Recarga desta técnica: &55115_cd&s"}
+{"id": "LocalText/s_55115_lsfw", "revision": "877dc262e834cf6cfdc194b56d6bfafef96491f68772fc83ee1e2ee597b95767", "ptbr": "Área de efeito de atração de Areia movediça: &55115_lsfw&"}
+{"id": "LocalText/s_55115_lssj", "revision": "b7dc990eebb1b24af7649ce8f82503ad0650927156e5f84c8910da30f9c3c5c4", "ptbr": "Duração de Areia movediça: &55115_lssj&s"}
+{"id": "LocalText/s_55115_mpCost", "revision": "85eb99824eca73d8449c2dd58552976cfc28291edb3bf0aee2d85eea717833d1", "ptbr": "Custo de Energia desta técnica: &55115_mpCost&"}
+{"id": "LocalText/s_55116_cd", "revision": "b69f7573438e284a169c37fc40c3ade878ca78c097305f10cb0a16d0412f1aa1", "ptbr": "Recarga desta técnica: &55116_cd&s"}
+{"id": "LocalText/s_55116_ddsl", "revision": "19c251fcd94dad76b0483309a30c679d341abed0b237b133edd302566f8bf231", "ptbr": "Pedras atraídas pela Formação de Pedras: &55116_ddsl&"}
+{"id": "LocalText/s_55116_mpCost", "revision": "7b997eb75f1ebb3157221458fb2aa60b1f534cb9ffcce58251eb5f7d4cfffc9e", "ptbr": "Custo de Energia desta técnica: &55116_mpCost&"}
+{"id": "LocalText/s_55116_szfw", "revision": "55fe553ad86f03ad2b6c79c71e19ddc9ab9a8ee98690b277be4200ef48dc2efd", "ptbr": "Área de efeito de Formação de Pedras: &55116_szfw&"}
+{"id": "LocalText/s_56111_cd", "revision": "41bc3f32cd1217e592de2e9ebfefa6b67aae341916c0b55a32ddda9d6e7df284", "ptbr": "Recarga desta técnica: &56111_cd&s"}
+{"id": "LocalText/s_56111_ewsh", "revision": "55b4b239bac0b2f0562aeb0c1daaca1d35cc1d830560ae2416b570d4cd7a4e12", "ptbr": "Cada camada de $s_duci$ detonada causa &56111_ewsh& de dano."}
+{"id": "LocalText/s_56111_mpCost", "revision": "5211868beed0f1e0edb2dac669b94a5d920e8f7b69e70ec1ce458d606c646db2", "ptbr": "Custo de Energia desta técnica: &56111_mpCost&"}
+{"id": "LocalText/s_56111_range", "revision": "94e3f36ba97d97425cbb3cc5515de9225b458dc766c2a277faed18ecfe4e56b6", "ptbr": "Área de efeito do Enredamento: &56111_range&"}
+{"id": "LocalText/s_56112_cd", "revision": "f7f6e9f8c45be79209676f45be7a8b92f9dfe7360d7e5fe946d3a8f88d9c20df", "ptbr": "Recarga desta técnica: &56112_cd&s"}
+{"id": "LocalText/s_56112_mpCost", "revision": "c15e499bb62355d8fff2076b199baf8decb590cd57ae9971de929e4f116d91c5", "ptbr": "Custo de Energia desta técnica: &56112_mpCost&"}
+{"id": "LocalText/s_56112_tstl", "revision": "a5c804853ad8d4127d4296d076a2106428b75244d02a8630ea17700d9bf46f57", "ptbr": "Energia Primordial concede &56112_tstl& de Vitalidade Máxima extra"}
+{"id": "LocalText/s_56112_yqfw", "revision": "c128fa818b4e3b9af1dd7fca5f51f127f5660b903776817333da597b537addcb", "ptbr": "Área de dano de Onda de Qi: &56112_yqfw&"}
+{"id": "LocalText/s_56113_cd", "revision": "6d6e3590b6b09adeef9cd1612cd3e2a8cf87bb09a61ede6dd156a8073a18daff", "ptbr": "Recarga desta técnica: &56113_cd&s"}
+{"id": "LocalText/s_56113_dzfw", "revision": "4b19300ae5067aab2144f0be309749204b425a09624e41d81d57042ddf90fcbb", "ptbr": "Área de dano de Pântano Venenoso: &56113_dzfw&"}
+{"id": "LocalText/s_56113_dzsj", "revision": "279a2ffdf6b4d407865d1c18ff507bd8bacf778fe91310c11873469a47eeadfa", "ptbr": "Duração de Pântano Venenoso: &56113_dzsj&s"}
+{"id": "LocalText/s_56113_mpCost", "revision": "c194e51952c840065a0c7dd9e458a8d0092876c25c10eb7fe212fdb2e1cefb4f", "ptbr": "Custo de Energia desta técnica: &56113_mpCost&"}
+{"id": "LocalText/s_56114_cd", "revision": "7f0725350c12a63cc7c1350d2ca37345444b0c09c46f073dc534d7b66acf5846", "ptbr": "Recarga desta técnica: &56114_cd&s"}
+{"id": "LocalText/s_56114_ddsl", "revision": "d19e789bf2c4d8326ed7c00212e1944f1d8d0562d0b23b3261fe400f5a1f9f31", "ptbr": "Botões de Flor liberados em todas as direções: &56114_ddsl&"}
+{"id": "LocalText/s_56114_mpCost", "revision": "dd76592e1b8e48b61bb2960597ecdaf37f1b0836b1f1d09d0cae803dca9ca083", "ptbr": "Custo de Energia desta técnica: &56114_mpCost&"}
+{"id": "LocalText/s_56114_tstl", "revision": "b60f293ad0ede8c17fca735a331511fdd7b5c5bdd36d0ba58edc0fd3c6846622", "ptbr": "Espírito Floral concede &56114_tstl& de Vitalidade Máxima extra"}
+{"id": "LocalText/s_56115_cd", "revision": "7419050411573038f406ebf06d2aa3e9672411947624c613f3393f2431554501", "ptbr": "Recarga desta técnica: &56115_cd&s"}
+{"id": "LocalText/s_56115_dztl", "revision": "d18ecea727bf853aed58d57c80b7b7c19ba9a31b103f77161b381fba6467e8de", "ptbr": "A Planta Venenosa herda &56115_dztl&% de Vitalidade"}
+{"id": "LocalText/s_56115_gjfw", "revision": "0362f09f73213b030aebd7cdbed564afe84fad3c67b948df2610cd26ab10a1f1", "ptbr": "Área de dano de cada Planta Venenosa: &56115_gjfw&"}
+{"id": "LocalText/s_56115_mpCost", "revision": "fba9097d94e7349ba088159a97112b392b50b58d4c818684f07d69942099566b", "ptbr": "Custo de Energia desta técnica: &56115_mpCost&"}
+{"id": "LocalText/s_56116_cd", "revision": "e51bdb7813f657c0f4f6dc96186b68b64d5e4625b19c63c6060cb730d1c0ab59", "ptbr": "Recarga desta técnica: &56116_cd&s"}
+{"id": "LocalText/s_56116_crfw", "revision": "8ce51d4eb60bea65f54c2fd41c63fc3d6853b75e31d77b179d89a0c5eec806e3", "ptbr": "Área de efeito do Enredamento: &56116_crfw&"}
+{"id": "LocalText/s_56116_mpCost", "revision": "ac66f27eeced3471163150d320a06a96d1562de1c5d34e02c31955671affc21a", "ptbr": "Custo de Energia desta técnica: &56116_mpCost&"}
+{"id": "LocalText/s_56116_tstl", "revision": "54c5b78df0324666ea3d1503a7b23b4501efe733f29923795d033bc5b4ff170d", "ptbr": "Espírito Espinhoso concede &56116_tstl&% de Vitalidade Máxima extra"}
+{"id": "LocalText/s_61111_cd", "revision": "5c052529d5189843c82c05ddeb943c1246a9e329959c5d6c866bbe5a6d9d2a50", "ptbr": "Recarga desta técnica: &61111_cd&s"}
+{"id": "LocalText/s_61111_hhsj", "revision": "729c0ef505536b8266d37495155d9dc6217f182fc1a7cd2ecc91bb0cc90b4547", "ptbr": "Duração de $s_shenhuohe$: &61111_hhsj&s"}
+{"id": "LocalText/s_61111_hhys", "revision": "3630239d12ec1e08ff7c5b1f382097859f0df2dcf2460471801b0032ed484661", "ptbr": "Velocidade de movimento de $s_shenhuohe$: &61111_hhys&"}
+{"id": "LocalText/s_61111_mpCost", "revision": "994aef859d89965cde85a12d1d033dfbe983e4dfbfdde02b72a018b125b0baaf", "ptbr": "Custo de Energia desta técnica: &61111_mpCost&"}
+{"id": "LocalText/s_61111_range", "revision": "96bbfeaa2ca37551b65f846ab478ba6602f1a589793dff24161d531dab5bfd04", "ptbr": "Alcance de invocação de $s_shenhuohe$: &61111_range&"}
+{"id": "LocalText/s_61112_cd", "revision": "6ae61e96322816e01bb9668d050ac00a03f10d1e7c4fee02b61f060a1d9a879d", "ptbr": "Recarga desta técnica: &61112_cd&s"}
+{"id": "LocalText/s_61112_hyfw", "revision": "fe10143817f9a68692d5834d689ae1c565d85776affefff380c6e0b93aef0fb1", "ptbr": "Área de efeito de $s_lieyan$: &61112_hyfw&"}
+{"id": "LocalText/s_61112_hysj", "revision": "d421314e50c09342fd6c304922a3f6bb9f39760ba3aa0857dc5e8b76db82eb4e", "ptbr": "Duração de $s_lieyan$: &61112_hysj&s"}
+{"id": "LocalText/s_61112_mpCost", "revision": "2bba7c24f43c5032973c13c5af96ad82b6f6e882a6cc74ccaec87e644bd5df2f", "ptbr": "Custo de Energia desta técnica: &61112_mpCost&"}
+{"id": "LocalText/s_62111_cd", "revision": "c5ec7f6894cbb0fade3a76d389edf70f23ceacc267d62b6f5ab215e970ab5515", "ptbr": "Recarga desta técnica: &62111_cd&s"}
+{"id": "LocalText/s_62111_fbbs", "revision": "226b87834cee559691a76e461f91f3bb318b044e083ee290c9a6660eba34f77a", "ptbr": "Tempestades de Gelo geradas: &62111_fbbs|x62111_mbsl|f0&"}
+{"id": "LocalText/s_62111_fbsc", "revision": "35c4be38a18b2213830170fe8dee397d7b46375ebde101fc3aa1e12e43b958f5", "ptbr": "Alcance de Tempestade de Gelo: &62111_fbsc&"}
+{"id": "LocalText/s_62111_mpCost", "revision": "706ba37bb20214bc5a8440f6567eaa8470c85c055328bfc25eacd0c0b541f3b7", "ptbr": "Custo de Energia desta técnica: &62111_mpCost&"}
+{"id": "LocalText/s_62112_cd", "revision": "7a10886b6b91b135b7d8a7ad7af52323d1436f6d0f328260970f6bf557b3f7e4", "ptbr": "Recarga desta técnica: &62112_cd&s"}
+{"id": "LocalText/s_62112_lyfw", "revision": "f49ef18eaddba196e751f40fdd04ce0996fd9992241992ffbcad98b5987d3ce8", "ptbr": "Área de efeito da Chuva Espiritual: &62112_lyfw&"}
+{"id": "LocalText/s_62112_lysj", "revision": "d027b266c31975dae4e9d7c6e18dd421e3a2c85fc9ff4f151208552ec0f7deb2", "ptbr": "Duração da Chuva Espiritual: &62112_lysj&s"}
+{"id": "LocalText/s_62112_mpCost", "revision": "54960ec7578bc75c512a558574c8bdac2bcc3589bd7a16309761d44c54e8d296", "ptbr": "Custo de Energia desta técnica: &62112_mpCost&"}
+{"id": "LocalText/s_63111_cd", "revision": "3a3e54e74fadaf4c34385663978dc76a7e140b4c9fcad2ada29737cd2e7a581e", "ptbr": "Recarga desta técnica: &63111_cd&s"}
+{"id": "LocalText/s_63111_lzfw", "revision": "8cd8776087697e8e1df7acf39e0613a12a7b9e8b984df51528ac9532d78b7423", "ptbr": "Área de ataque da Retribuição de Raio: &63111_lzfw&"}
+{"id": "LocalText/s_63111_lzsj", "revision": "4af7ebe7a4890ff3d837e7ee7f2cb43eddeaac668b4c7667156c4641a2b071bf", "ptbr": "Duração desta Técnica Suprema: &63111_lzsj&s"}
+{"id": "LocalText/s_63111_mpCost", "revision": "58068d4f5362d99a88dfc3e0d7084c2bce8b6725afb074aa37687fcb62ae80fd", "ptbr": "Custo de Energia desta técnica: &63111_mpCost&"}
+{"id": "LocalText/s_63112_cd", "revision": "c9ecc377051943af8461ae8e38570735ff71adcdf10068d056c6535f9d59bde6", "ptbr": "Recarga desta técnica: &63112_cd&s"}
+{"id": "LocalText/s_63112_lffw", "revision": "acadd9ae222c61f63ab444a1dfafa7b1e176705b69e826dba6772c57d286a366", "ptbr": "Área de ataque da Pedra de Punição de Raio: &63112_lffw&"}
+{"id": "LocalText/s_63112_lfsj", "revision": "cac1da3cc5857fa2b4716a86075b5aec502416067b040a6eb93d031b1e613018", "ptbr": "Duração da Pedra de Punição de Raio: &63112_lfsj&s"}
+{"id": "LocalText/s_63112_mpCost", "revision": "bd35d47ba560bc591578ce2ea05e30830ff5ad089ebb4390975c9dccb6685fed", "ptbr": "Custo de Energia desta técnica: &63112_mpCost&"}
+{"id": "LocalText/s_64111_cd", "revision": "7f9a8e1af0e12d47e6c2bb113a1697350a78c7c02c8105a026ebb3a7b694bc97", "ptbr": "Recarga desta técnica: &64111_cd&s"}
+{"id": "LocalText/s_64111_mpCost", "revision": "15fa9bad28d8c9f6b095439b23194e26c22c412137eb9de7e6014e8ec918aeee", "ptbr": "Custo de Energia desta técnica: &64111_mpCost&"}
+{"id": "LocalText/s_64111_wqqy", "revision": "704cf9033079fa06486964a29bcabec6f0841f4ffb49de67802cff58d4a41532", "ptbr": "Efeito de atração da grande tempestade: &64111_wqqy|x2|f0&%"}
+{"id": "LocalText/s_64111_xfsj", "revision": "3d207a241658e2b26876727138de3b5fde88ced49b7cc46d92e3acb2d9180d9a", "ptbr": "Duração da grande tempestade: &64111_xfsj&s"}
+{"id": "LocalText/s_64112_cd", "revision": "6c4825ae7131ef2510ca8434c09799a6f9e5d9e71eabf2af78f49ec043fd9c55", "ptbr": "Recarga desta técnica: &64112_cd&s"}
+{"id": "LocalText/s_64112_cxsj", "revision": "bcb03ca77b487a3e90810b577f9325b923aad291d330845e91081651790bd8f0", "ptbr": "Duração desta Técnica Suprema: &64112_cxsj&s"}
+{"id": "LocalText/s_64112_mpCost", "revision": "44c84d44c0471bc9c0c092da88f115ec86149dff3da96835d728f3e9c5962e54", "ptbr": "Custo de Energia desta técnica: &64112_mpCost&"}
+{"id": "LocalText/s_64112_zjcd", "revision": "8c683794bfa53690daa304f809f219940f030535254d491697a452129c0537ca", "ptbr": "Recarga de $s_jifengren$: &64112_zjcd|/64112_sjsf|x10000|f0&s."}
+{"id": "LocalText/s_65111_cd", "revision": "e191e719801eae9489363d3735f4b3f2584cbba376c203aaafe427340a05ac40", "ptbr": "Recarga desta técnica: &65111_cd&s"}
+{"id": "LocalText/s_65111_mpCost", "revision": "1c838acdfa60f7012ffd19b49147b693f5bc851ed30788da5a3a7cea73a8a22d", "ptbr": "Custo de Energia desta técnica: &65111_mpCost&"}
+{"id": "LocalText/s_65111_sbfw", "revision": "ab4502e4433c0157d460f6b180d176771a620b388fc0e775542a0f9c4c980d32", "ptbr": "Área de dano do Desabamento: &65111_sbfw&"}
+{"id": "LocalText/s_65111_sbsj", "revision": "e2921c72ba492569577c8aeb0a1b5da4a44c03184ea9b48a868048564dc82dba", "ptbr": "Duração do Desabamento: &65111_sbsj&s"}
+{"id": "LocalText/s_65112_cd", "revision": "bac71c35ab34a04f5b7a8ebc44364c36e7e5d9cd86e68394ba01a41a992452f0", "ptbr": "Recarga desta técnica: &65112_cd&s"}
+{"id": "LocalText/s_65112_jlsj", "revision": "46a48f38d60a29380fd01c6d36c530cdf884b2272514a8f8c7abe7612ce0bd3f", "ptbr": "Duração de $s_julingkuilei$: &65112_jlsj&s"}
+{"id": "LocalText/s_65112_jnwl", "revision": "b42d69112e62e35ffef0524ea4d2d2e4f553116edf20c1bcbd9ef42fe9ac651d", "ptbr": "Poder de ataque de $s_julingkuilei$: &65112_jnwl&"}
+{"id": "LocalText/s_65112_mpCost", "revision": "2e1e285d36fe2d1b7f2d34399a45091157112c952f5bbae348ebd165d2ee5be4", "ptbr": "Custo de Energia desta técnica: &65112_mpCost&"}
+{"id": "LocalText/s_66111_cd", "revision": "e311009072b0f75a93217c3b8adfbfcb8628b4d5d9e80945715e56372098a6bc", "ptbr": "Recarga desta técnica: &66111_cd&s"}
+{"id": "LocalText/s_66111_dhfw", "revision": "25d2aeaaf13d1282d3bd16ee37ff01f52a22932da736f35a0efa7844fb82aded", "ptbr": "Alcance de ataque de $s_dulonghua$: &66111_dhfw&"}
+{"id": "LocalText/s_66111_dhsj", "revision": "ba19616bbfe0ecd9c03343069819e001ac92cab191982d082b50b9ad9eb571a3", "ptbr": "Duração de $s_dulonghua$: &66111_dhsj&s"}
+{"id": "LocalText/s_66111_mpCost", "revision": "599ee7fe8feab692871c8c1c3c42a068a3f99a9404516bcbae34dbe364644f98", "ptbr": "Custo de Energia desta técnica: &66111_mpCost&"}
+{"id": "LocalText/s_66112_cd", "revision": "7f299bd4d88f976cfe326531039ec4f0432a681e838e4d2e63a242bcd774c7ef", "ptbr": "Recarga desta técnica: &66112_cd&s"}
+{"id": "LocalText/s_66112_ddsl", "revision": "fa34f421ef887be2878680d0bd75457a425fe52f928a483931f61a8812c3a076", "ptbr": "Quantidade de projéteis de $s_huayaohou$: &66112_ddsl&"}
+{"id": "LocalText/s_66112_mpCost", "revision": "dc2bb3e924a9cabf348b83514cffaf2f06e43fdae99e3cf40d36c0ca11de191c", "ptbr": "Custo de Energia desta técnica: &66112_mpCost&"}
+{"id": "LocalText/s_66112_yhsj", "revision": "da7b9915fbdeecdc47ac01059a90b8bb5372830760b19a9a6cf4b2c121e18dc8", "ptbr": "Duração de $s_huayaohou$: &66112_yhsj&s"}
