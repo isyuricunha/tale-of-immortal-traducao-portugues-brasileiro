@@ -529,3 +529,21 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | Feng Shui Diagram / Exquisite Stone Plate / talisman mini-game | Diagrama de Feng Shui / Disco de Linglong / mini-jogo de caligrafia de talismãs | 0.8.80xx |
 | New outfits: Empyreal Elegance, Yanchu Chaoran, Jingxing Fenglin, Zixuan Tianyun, Imortal de Roupas Simples, Hóspede dos Sonhos | Elegância Empírea, Yanchu Chaoran, Jingxing Fenglin, Zixuan Tianyun, Imortal de Roupas Simples, Hóspede dos Sonhos | Nomes de personagem em pinyin |
 | Notas 1.0.10x-1.1.10x (DLC) | formato "Notas de Atualização X" | Mesma estrutura de patch notes |
+
+### Lote 0046 (Dificuldades, Aventuras de Natureza e Sistema de Níveis)
+
+| Inglês (EN) | Português Brasileiro (PT-BR) | Notas |
+| --- | --- | --- |
+| Dificuldades: Standard / Hard / Nightmare / Chaos / Other | Padrão / Difícil / Pesadelo / Caos / Outro | diffName |
+| Bagua Jade Points | Pontos de Jade Bagua | Moeda de vidas das dificuldades altas |
+| Body Reconstruction / Heaven and Earth Treasure | Reconstrução Corporal / Tesouro do Céu e da Terra | diffPunish, upGrade |
+| Eye of Providence (broken in Chaos) | Olho da Providência (quebra no Caos) | — |
+| Sage Tianbao / fortune teller / tip / shift fate | Sábio Tianbao / vidente / gorjeta / mudar o destino | Aventura do vidente |
+| Ask Thy Heart | Pergunta ao Coração | Item de enredo da aventura Jun Yuanzhi |
+| Flying Canoe | Canoa Voadora | Veículo da seita |
+| Spiritual Fruit / Holy Spring / Merry Drink | Fruto Espiritual / Fonte Sagrada / Vinho Alegre | — |
+| taskName/taskDesc “Collect {#item_name...}” | Recolha {#item_name...} para o velho reconstruir a matriz | Tokens preservados |
+| tipsText “Requires {#item_name...} xN to fix the array” | Requer {#item_name...} xN para consertar a matriz | — |
+| dramakuafu UI (Current Status, Monthly Move Distance, Destiny) | Estado atual, Distância de movimento mensal, Destino | Interface do Kuafu |
+| Skip Month / Select Difficulty / EXP | Pular o mês / Selecionar dificuldade / EXP | UI geral |
+| Lightning Punishment / Thunderous Punishment | Punição de Raio / Punição Trovejante | effect_desc |

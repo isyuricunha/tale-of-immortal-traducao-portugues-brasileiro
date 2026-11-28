@@ -1,0 +1,500 @@
+{"id": "LocalText/achievementDesc190003", "revision": "1b56b6bf0524a6162f37fac378cfa9fb1642d503b6522ef0079c77e041822b24", "ptbr": "Tenha 5000 Pedras Espirituais."}
+{"id": "LocalText/achievementDesc190004", "revision": "a9b73b7fe642176c1339cd08b2bb14083cddd13b58ce805d774f1b6a8b70eeb9", "ptbr": "Tenha 10000 Pedras Espirituais."}
+{"id": "LocalText/achievementDesc190005", "revision": "2596ade21459fc5faf40669430307dfd46af6486ca14841270b98c9601b079f5", "ptbr": "Tenha 20000 Pedras Espirituais."}
+{"id": "LocalText/achievementDesc190006", "revision": "b6c3bedf1eebb7b7741b5a9cec19ca896a9645bb20586989b5fdf255be53e036", "ptbr": "Tenha 50000 Pedras Espirituais."}
+{"id": "LocalText/achievementDesc190007", "revision": "6b609ae06a24f339eb9993ed9fd10be0669c95f1cf697705850bb668fa6514c4", "ptbr": "Tenha 100000 Pedras Espirituais."}
+{"id": "LocalText/achievementDesc190008", "revision": "fcaa8eb9c38fd5be73c87e3713c1e7c1ba7a72df9cd7b693eb8907e969110a8d", "ptbr": "Tenha 200000 Pedras Espirituais."}
+{"id": "LocalText/achievementDesc190009", "revision": "2a24c22ca983aae11c9824d9bb56fd4c96f3525bbd997ebf122d9a8f39bc2717", "ptbr": "Tenha 500000 Pedras Espirituais."}
+{"id": "LocalText/achievementDesc190010", "revision": "cce6af24b44d4b6b865d1e3cab747dfc11e180f1e614b00d95cf5308281617b0", "ptbr": "Tenha 1000000 Pedras Espirituais."}
+{"id": "LocalText/achievementDesc190011", "revision": "23d16e03929e88bfa4c5d662f77a8746a1294eefcdf42effdac4916ee5bb8482", "ptbr": "Tenha 100 de Contribuição."}
+{"id": "LocalText/achievementDesc190012", "revision": "6cf8dc248e3a8072c00dd7f0e47bce1dd35c512ad98d9e54d432b5da4ae66721", "ptbr": "Tenha 200 de Contribuição."}
+{"id": "LocalText/achievementDesc190013", "revision": "08970d3cd599c48ef1bab21d19642a59367ee12f5f60c6b3783117573809ba54", "ptbr": "Tenha 500 de Contribuição."}
+{"id": "LocalText/achievementDesc190014", "revision": "bfac2173edbc93b27e082ea43262b038c5e630d5b31d095dd8c1be37b2f39fd8", "ptbr": "Tenha 1000 de Contribuição."}
+{"id": "LocalText/achievementDesc190015", "revision": "801f717baffe3098669e10b2b092d3bd7a0d43021aa2de9a26501aa140dfd24d", "ptbr": "Tenha 2000 de Contribuição."}
+{"id": "LocalText/achievementDesc190016", "revision": "f4b36f217db6b126d37b847640a3c59c499fefb6815b4ec57929ed5e27ca3e32", "ptbr": "Tenha 5000 de Contribuição."}
+{"id": "LocalText/achievementDesc190017", "revision": "6e50b66d2be507407022ccd8cae99486a9f7984ffe1997d22c274b11277c456e", "ptbr": "Tenha 10000 de Contribuição."}
+{"id": "LocalText/achievementDesc190018", "revision": "fd8b48279f76d88f2aa5107ee31ff0afbf960bbfe9652067d943914819f758e1", "ptbr": "Tenha 20000 de Contribuição."}
+{"id": "LocalText/achievementDesc190019", "revision": "359d4fbff23a9c615a9632281cfba8b6c970f67878e92f54407a8dda7feb4be4", "ptbr": "Tenha 50000 de Contribuição."}
+{"id": "LocalText/achievementDesc190020", "revision": "7e6ed96abe17efe2b2660960a750ea318feb23e929a8f8d1bdf247a53dfcc489", "ptbr": "Tenha 100000 de Contribuição."}
+{"id": "LocalText/achievementDesc200001", "revision": "9f253014f4a662aa2f89d5b96e0f89d986bf79057ae2c18e454d47e42f99f590", "ptbr": "Alcance Fundação no modo Caos."}
+{"id": "LocalText/achievementDesc200002", "revision": "3b1c4bbe57a613ac36d68f6a79df6b134e955e7ac009046f06f83c16f5bac7e2", "ptbr": "Alcance Condensação de Qi no modo Caos."}
+{"id": "LocalText/achievementDesc200003", "revision": "d6a6342ad30cf7a3eda7ffc52ddfd31703611d5fc0ae9d260d897afed2c61af8", "ptbr": "Alcance Núcleo Dourado no modo Caos."}
+{"id": "LocalText/achievementDesc200004", "revision": "6b40b8606761d27f1db55daae97841d6926af4a8a6dcd8757165bb7f4954c0be", "ptbr": "Alcance Espírito Original no modo Caos."}
+{"id": "LocalText/achievementDesc200005", "revision": "908a12f167f473d018c1fc15249aba86dde95c15f8356b0c19c23baa0404f360", "ptbr": "Alcance Alma Nascente no modo Caos."}
+{"id": "LocalText/achievementDesc200006", "revision": "80d51b7212db2613c33e2a5d4b0eb13ea59139217efe0d21a90619ad8b2356e3", "ptbr": "Alcance Formação da Alma no modo Caos."}
+{"id": "LocalText/achievementDesc200007", "revision": "c594a53ca6201828c54289a557fae193cf71da9d5d872ef0844b9af24eed7000", "ptbr": "Alcance Iluminação no modo Caos."}
+{"id": "LocalText/achievementDesc200008", "revision": "49cb1aef43aca017ce4f5662434dabbf2ff7c59fcd4df687ff660eaa1fbc5992", "ptbr": "Alcance Renascido no modo Caos."}
+{"id": "LocalText/achievementDesc200009", "revision": "58a6297b969ca3bd7a6ad133733771b37a72821cfee9163cfd181ca16d78f148", "ptbr": "Alcance Transcendente no modo Caos."}
+{"id": "LocalText/achievementDesc210001", "revision": "f1e952b3c2541155b584973150ac227588d0ff71362d0db825baa68a23e35e70", "ptbr": "Derrote Dangkang Infernal no modo Caos."}
+{"id": "LocalText/achievementDesc210002", "revision": "2b8ac4258504bc2063869e53cb53ada9010c485981bfb9d35a837c0c052a22f1", "ptbr": "Derrote Hatuibwari das Nove Nuvens no modo Caos."}
+{"id": "LocalText/achievementDesc210003", "revision": "c1179785540d160243bd2b154380f15f07255375120ec4771a789ff040719cfd", "ptbr": "Derrote Coatl Cerúleo no modo Caos."}
+{"id": "LocalText/achievementDesc210004", "revision": "f37bc19d5003e55760f4b362db90260f4646e51caef1e5c2cc0b093c2f849ce3", "ptbr": "Derrote Espectro da Montanha Quebra-Sonhos no modo Caos."}
+{"id": "LocalText/achievementDesc210005", "revision": "fce1287c0311a8f4990cbda464ae0f51a39e292d1df2d4c588cfa5b46e68f3f8", "ptbr": "Derrote Leonid da Nuvem Solitária no modo Caos."}
+{"id": "LocalText/achievementDesc210006", "revision": "85631440313ae90bca8a015976b7577edd3ba69849da42e7a9961e829ecb6166", "ptbr": "Derrote Carpia do Feitiço Sanguíneo no modo Caos."}
+{"id": "LocalText/achievementDesc210007", "revision": "39ed752f11bce274880c5d0a1439c07f4cd0613686bb7717aca43f91437562bf", "ptbr": "Derrote Abominação Arranha-céu no modo Caos."}
+{"id": "LocalText/achievementDesc210008", "revision": "ebe08ca88ce9a4d5ed52c50d37f535ad1ab01f9d1d356bb9c58ece2b423676e3", "ptbr": "Derrote Taowu da Imagem Sombria no modo Caos."}
+{"id": "LocalText/achievementDesc210009", "revision": "2e084351007e1fc6b850e7cad0639726e7b5130f9510119bec9e90fd8f290a91", "ptbr": "Derrote Taotie Devorador de Céus no modo Caos."}
+{"id": "LocalText/achievementDesc300001", "revision": "5629312e646e9a30a9bcc3dcda8595f6d7f8396eb959639ea605dea39bc93168", "ptbr": "Complete o jogo e seja derrotado 50 vezes."}
+{"id": "LocalText/achievementDesc300002", "revision": "0e3efb1532772664b67328baf8a4b96adef240d7172bbf8c77b11d0f4d77c4e8", "ptbr": "Complete o jogo e nunca implore por misericórdia."}
+{"id": "LocalText/achievementDesc300003", "revision": "a02bf0b2ca42c8e5186a457af2b73c32c6afa13addd3a190af8016feba3650ff", "ptbr": "Complete o jogo e alcance o Transcendente em 50 anos."}
+{"id": "LocalText/achievementDesc300004", "revision": "14137ba347209eb199cb5953286b2ae754fe69c1d64bb29e8e3f2aed2047b277", "ptbr": "Complete o jogo e tenha 10 ou mais Mestres ou Pais Adotivos."}
+{"id": "LocalText/achievementDesc300005", "revision": "7038d6086d0e9a405ea7dfb548dfea75e31835e1cb7caf0e150d93b4037fa230", "ptbr": "Complete o jogo e seja atacado por cultivadores 100 vezes."}
+{"id": "LocalText/achievementDesc300006", "revision": "ea5956be9c52cafe0283ff29ebcb222bbd19a3c58ae39b9b84e47cb487aedb0f", "ptbr": "Complete o jogo e desbloqueie todos os Diabretes."}
+{"id": "LocalText/achievementDesc300007", "revision": "0bf8ee896bca7c7f6103ab1d8b0855dc69b6326489c44e65c717c653598404b1", "ptbr": "Complete o jogo e aprenda todas as Receitas de Elixir."}
+{"id": "LocalText/achievementDesc300008", "revision": "3dea03eaf11622c09bb9ce9b35c6f90d760afa2fc5d88849e6ad66e6b435eb70", "ptbr": "Complete o jogo e resgate 20 cultivadores em Último Fôlego."}
+{"id": "LocalText/achievementDesc300009", "revision": "904517af0bd50c049405664cdaba4d2470aad27e35fbc4690a7128a062673feb", "ptbr": "Complete o jogo e mate 100 cultivadores."}
+{"id": "LocalText/achievementDesc300011", "revision": "85f9cf137327166b209abd0e493c48cb61923f2cc067ec70d788c09cef0e146d", "ptbr": "Complete o jogo e conquiste todas as Seitas."}
+{"id": "LocalText/achievementDesc300012", "revision": "06c90f17edc690d929437a5a309f12eec32aff18a10be291c744d44a85f1625c", "ptbr": "Complete o jogo e nunca peça ou roube itens de cultivadores."}
+{"id": "LocalText/achievementDesc300013", "revision": "2f01146557738b605c2cd0884a6a6430731b9e5c5f3c7a509ea7a09195600022", "ptbr": "Complete o jogo e transmita 20 Mentes Taoístas."}
+{"id": "LocalText/achievementDesc300014", "revision": "404c8586c1c3c33e421da4b21e6146e55e00fc02b2de6c01d0c2fcf5f953b20b", "ptbr": "Complete o jogo e nunca mate nenhum cultivador."}
+{"id": "LocalText/achievementDesc300015", "revision": "ae498ce44328c205b565bf503dd1df91ec757f30068aa4010f305e6b61edf3a0", "ptbr": "Complete o jogo e nunca faça Cultivo Dual."}
+{"id": "LocalText/achievementDesc300016", "revision": "658ade833263181918de782510f8ccee96df5e8fd1f907419bc2f2abeaf26f7b", "ptbr": "Complete o jogo e faça Cultivo Dual 250 vezes."}
+{"id": "LocalText/achievementDesc300017", "revision": "5fe569acf198834055418c12449efe831bc985a81c2fe66d8beaf96d2dfb7da9", "ptbr": "Complete o jogo e saquee 50 túmulos."}
+{"id": "LocalText/achievementDesc300019", "revision": "d05da853b60339530dc19cd296a8e2fb2bc9e038cee1c89fe8b7d0637fda2fdd", "ptbr": "Complete o jogo e dê Elixires a cultivadores 50 vezes."}
+{"id": "LocalText/achievementDesc300020", "revision": "f11266d2f7c1f7612f1c66ca3362a8d186bc8ab74a50a2f5f995e657fcd9e6af", "ptbr": "Complete o jogo e roube de cultivadores com sucesso 100 vezes."}
+{"id": "LocalText/achievementDesc300021", "revision": "c9d24ec10edf9974c4d1405a66f802bf807eeb63de26ae41bbe881bb9ea89094", "ptbr": "Complete o jogo e converse com cultivadores 100 vezes."}
+{"id": "LocalText/achievementDesc300022", "revision": "bfc1c2d71b0c6d0a7dadeac93d13edcec444a3a29c0eaf88ed82e6b1bf42b395", "ptbr": "Complete o jogo e debata com cultivadores 100 vezes."}
+{"id": "LocalText/achievementDesc300023", "revision": "f62ec0d8b2017abf814229c0b7afdb319db528455942671b9534c535de1d39fa", "ptbr": "Complete o jogo e faça duelos de treino com cultivadores 100 vezes."}
+{"id": "LocalText/achievementDesc300024", "revision": "147988fef32e0301fbc6fbfb1b3d69048b43e65301fcafe89aaa285f99cbb4c6", "ptbr": "Complete o jogo e enfrente Lutas até a Morte 100 vezes."}
+{"id": "LocalText/achievementDesc300025", "revision": "0bbf47b875c0e2743309c549305fd8db45e37f365d7d0dbe984819416c35ba26", "ptbr": "Complete o jogo e presenteie itens a cultivadores 100 vezes."}
+{"id": "LocalText/achievementDesc300026", "revision": "98cb28f7a49047a09c343dc0f9f1023320b199ee593ad450639fb5bcae54c471", "ptbr": "Complete o jogo e peça itens a cultivadores 100 vezes."}
+{"id": "LocalText/achievementDesc300027", "revision": "a725342009f9e679946ab73475f51e732da6ee92df116dc9fac8784bc4e813e0", "ptbr": "Complete o jogo e aceite 20 Aprendizes."}
+{"id": "LocalText/achievementDesc300028", "revision": "4b6e084325d58c389dd92704724b67b232a763d3c4ce83c1f4c80b093937daa6", "ptbr": "Complete o jogo e saia com cultivadores 100 vezes."}
+{"id": "LocalText/achievementDesc300029", "revision": "46e9eebe2263cdacc7c66671b79be028cd28619ea3bd3f3ecfaab392e08ea18a", "ptbr": "Complete o jogo e nunca perca nenhuma batalha."}
+{"id": "LocalText/achievementDesc300030", "revision": "ce78292552b8b194d89b46db768762f0830d3b4cc87b8ff689f2fbafcebb77bc", "ptbr": "Complete o jogo e desbloqueie todas as técnicas do Olho da Providência."}
+{"id": "LocalText/achievementDesc300031", "revision": "0eeb2aaf89add482878c48b8cd703b7afac722d3b04313b4de67db267441b357", "ptbr": "Complete o jogo e vença o 1º lugar nos Grandes Torneios da Seita 20 vezes."}
+{"id": "LocalText/achievementDesc300032", "revision": "17a6f48b942d026382091c773ced9b0693dd58e4dfc211bffcc48480a10bd5fd", "ptbr": "Complete o jogo e mate 100.000 monstros."}
+{"id": "LocalText/achievementDesc300033", "revision": "53fbd5b5dd096aa97651db8482949689ba6a9f12593e9542d7eafc27baf17920", "ptbr": "Complete o jogo e explore 90% ou mais do mapa."}
+{"id": "LocalText/achievementDesc300036", "revision": "ec9231b9075e28ee9657779484620a249fbbd61e69a453eea2fa8aef2031f440", "ptbr": "Complete o jogo sem desbloquear nenhuma outra conquista."}
+{"id": "LocalText/battle_dungeon_name100071", "revision": "0b847587aef03060474215a66ba78ea2a78cfd54d6ff74f48eb29674d9039bd3", "ptbr": "Masmorra de Lili"}
+{"id": "LocalText/battle_dungeon_name100080", "revision": "9bd9059b9b06ac48c4fe8f0af64346f0f0b4d60cf7cb3036654d275536db6369", "ptbr": "Caverna da Montanha"}
+{"id": "LocalText/difDieTitle", "revision": "97e51a4d32725cdedd6144ab14f0edcfd6854ad8dbf79af8509cd54fea2d2b99", "ptbr": "Outro"}
+{"id": "LocalText/difRoleTitle", "revision": "9c12abb40a20d2ac7229743f21a5ac273610b33222e13ef6617cd8f136b5d576", "ptbr": "Personagem"}
+{"id": "LocalText/difUnitTitle", "revision": "2630f3c3d331e296a1eca15d9bfd1a4725fd5978c784d7fd1114480648520395", "ptbr": "Monstro"}
+{"id": "LocalText/diff5Info1", "revision": "68b0b3a491e74ee1aadb530f15cc74f832fb48a1510a91ed6cf61143ce9cba3d", "ptbr": "Você só tem 1 Ponto de Jade Bagua no modo Caos. Se morrer depois de já ter usado, o seu save será permanentemente apagado!\\nNo modo Caos, <r>o Olho da Providência quebra quando você morre e não pode ser reparado!</r>\\nOs monstros deste modo também são extremamente ferozes!\\nOs NPCs do jogo também!\\nMas você achará Manuais melhores em várias cidades e seitas."}
+{"id": "LocalText/diff5Title1", "revision": "33c56180332f6dfaf3d407eb41f64ae3dcb9ee061f39e5db4a27799d07cf84d3", "ptbr": "Caos"}
+{"id": "LocalText/diff5Title2", "revision": "0c1f9d5efaaa2a34cb10d1e849984d6e6051b47b7401e004548d067a0ae4357d", "ptbr": "Outro"}
+{"id": "LocalText/diffEnterTips5", "revision": "64c57cc2ae4dbb3fe9809bc8e2166a9e7312c197180c112a549c21212653e121", "ptbr": "Este nível de dificuldade é <r>extremamente desafiador</r>. Não o recomendamos a jogadores novos.\\n<r>Os métodos de Salvar e Carregar NÃO funcionam também!</r>\\n(Mesmo que você carregue um save, os resultados recebidos nos recursos seguintes não mudam: Reescrever o Destino, Leilão, Biblioteca de Manuais e Pavilhão de Manuais. Para equilibrar esta configuração, você terá 6 opções para escolher quando Reescrever o Destino.)\\n<r>Os Monstros Míticos (chefes) são extremamente ferozes!</r>\\n(Templo de conjuração muito curto)\\n<r>NPCs poderosos!</r>\\n(Eles usam técnicas de raridade mais alta. Para equilibrar esta configuração, você terá mais chance de achar Manuais de raridade alta na Biblioteca de Manuais e no Pavilhão de Manuais.)\\n<color=#00ffff>Monstros em algumas masmorras derrubam itens em dobro.</color>\\n<color=#00ffff>(Chefes Maiores especiais derrubam Manuais em dobro! Até 9 opções de Reescrever o Destino podem aparecer durante um Rompimento de Reino.)</color>"}
+{"id": "LocalText/diffFeature1", "revision": "935c0485b1f78493bc0bdcc5b30e241bab4dd480f04658c4d187c237361d141d", "ptbr": " Baixo"}
+{"id": "LocalText/diffFeature2", "revision": "e4a6fbb32a293ba05074814f55b25ae1fbd68a5be971ce3321081c9d023e6213", "ptbr": " Padrão"}
+{"id": "LocalText/diffFeature3", "revision": "c41a880855a3c4514fc44cb3a32a14b27c733df008505d754a2e7d6f5e1bb631", "ptbr": " Alto"}
+{"id": "LocalText/diffFeature4", "revision": "83fff03faf6d386417700a9e34a80e042a628ecc73511d476bf37305740bd91d", "ptbr": " Muito Alto"}
+{"id": "LocalText/diffFeature5", "revision": "bdba53dca24bad45a740e7bce7151731a94ca4a16e43c65a191784db17a7a2fa", "ptbr": " Extremamente Alto"}
+{"id": "LocalText/diffFeatureTips", "revision": "92d117c33495040fd422939322a9a0be17d1a62aa179ce2fbc91a631eff24462", "ptbr": "Destinos (Natureza) disponíveis quando você cria o seu personagem."}
+{"id": "LocalText/diffFeatureTitle", "revision": "7a9117e69432bc466b04269c22efa4370c412a43121559c680fabcbdad6e2db4", "ptbr": "Destino (Natureza)"}
+{"id": "LocalText/diffFishTips", "revision": "d1942092a6e73c21f0dc77f06bd89245397ca07d4b851533cbc6ed8ad29bc3cf", "ptbr": "Pontos de Jade Bagua disponíveis quando você começa um jogo novo."}
+{"id": "LocalText/diffFishTitle", "revision": "6d8da29642538f28d582701b93ebe22bcbee551722eef5d4645f1bd51e278990", "ptbr": "Pontos de Jade Bagua"}
+{"id": "LocalText/diffGas1", "revision": "dd2a33e5af52eb9aa469dc55897d5be4cb4df6f72c64df19e57f3bbb77ed9673", "ptbr": " Baixo"}
+{"id": "LocalText/diffGas2", "revision": "6e6d892be9f3fa765dcbad67787b75bf452ee4b485b92465f1af947458bc72f1", "ptbr": " Padrão"}
+{"id": "LocalText/diffGas3", "revision": "1f91a023f8ab729ce2e4b51c4cd9f35afeaa2bff8ee979c31a76355026bbeb78", "ptbr": " Alto"}
+{"id": "LocalText/diffGas4", "revision": "5b11203030db9cc109be018f07fe0e81ed7e8d526db315bf37b044d77482ce9f", "ptbr": " Muito Alto"}
+{"id": "LocalText/diffGas5", "revision": "50aa2ad6a0320bc6027dc73e28be4b27adcd321533ec4bc9e5f06aae620c6b90", "ptbr": " Extremamente Alto"}
+{"id": "LocalText/diffGasTips", "revision": "74a7be88ac23cf25577b79a9c1bd756536d2ac1f2a12c70556852b82437c06fa", "ptbr": "Quantidade de Qi em cada espaço do mapa-múndi."}
+{"id": "LocalText/diffGasTitle", "revision": "abad12e8db2f76888143680571d69e91695e60554dc19b25ab6a8325a9f5502d", "ptbr": "Qi"}
+{"id": "LocalText/diffHerb1", "revision": "69e11b6dd1e367f631ee5c56907674922f93edd820c9f05a06f1ffd77357152c", "ptbr": " Baixo"}
+{"id": "LocalText/diffHerb2", "revision": "31107af7c09d5a0414c9f3e58d49905008b360152fb52c2955229cce5e900018", "ptbr": " Padrão"}
+{"id": "LocalText/diffHerb3", "revision": "bc0d28885cae290ea3679cf3bf0d538bc264a0aa50ffa8ec3bae913232a3ae4f", "ptbr": " Alto"}
+{"id": "LocalText/diffHerb4", "revision": "3797f839319af26239cb51c98b031112c8602d301743aa143c57b0faecb4b853", "ptbr": " Muito Alto"}
+{"id": "LocalText/diffHerb5", "revision": "cb249c9b058c38f77593f3181e4bdc7397adcdf3b44f57adcb084e4216032da1", "ptbr": " Extremamente Alto"}
+{"id": "LocalText/diffHerbTips", "revision": "3982cf6cd74599d8f3f866ea605a1fd8fe4907e2096eea39c4ca3352b7189fa7", "ptbr": "Quantidade de Ervas em cada espaço do mapa-múndi."}
+{"id": "LocalText/diffHerbTitle", "revision": "fcbb1f26759ecf2db92f408aec781d60fc0f702c2111c724952561e3d914cd5a", "ptbr": "Erva"}
+{"id": "LocalText/diffMine1", "revision": "771c446bc5a881927fc3917528d223cc28498cdf124c2b2d2457f94e6f29844c", "ptbr": " Baixo"}
+{"id": "LocalText/diffMine2", "revision": "cffe9661201efe6b4405f743066dd8303aa1c94db3f27c6b6aeaab57e3803f3a", "ptbr": " Padrão"}
+{"id": "LocalText/diffMine3", "revision": "6c9ac0bcc1c58260e075f1d6816dabf5a656170c254985afc4f211c6899871da", "ptbr": " Alto"}
+{"id": "LocalText/diffMine4", "revision": "544ffdfb124bf065aef8025832e763ffb7cdcca0dbec1027e7ec065b43423521", "ptbr": " Muito Alto"}
+{"id": "LocalText/diffMine5", "revision": "bd7a1da3dd2cb625e2dfbd11d3b49f6c878dad20c47d61c3ca5844999f841b27", "ptbr": " Extremamente Alto"}
+{"id": "LocalText/diffMineTips", "revision": "c787a27b46046257e46deedf041785a56e1477df7b16a75cd4c4fd644f895822", "ptbr": "Quantidade de Minério em cada espaço do mapa-múndi."}
+{"id": "LocalText/diffMineTitle", "revision": "7dbb826963d696c5a1f33a3074d17b67e427c9eb50ed276ed282ca3f05cdf971", "ptbr": "Minério"}
+{"id": "LocalText/diffName1", "revision": "f0475360866558e9c8d2dbf3dfd75c8ce86e22a4514c32b573d181eefef472d5", "ptbr": "Padrão"}
+{"id": "LocalText/diffName2", "revision": "4afc4ce00af9c5987fc108a05dc184b687006beb208ac598bbef83e6e06773b6", "ptbr": "Difícil"}
+{"id": "LocalText/diffName3", "revision": "a6676acef87d997388a75532b492e591ca510426a2757c8449dd80b4ee55ef32", "ptbr": "Pesadelo"}
+{"id": "LocalText/diffName4", "revision": "04b5670020affbf7fbf990d61edc9e7ff9a0f41992ea023f97c3b46e466c66af", "ptbr": "Caos"}
+{"id": "LocalText/diffName5", "revision": "2bcfb346be9eaba78f4587cbd7ae6fe48b446140e2cdac9902ba97c79ff5638e", "ptbr": "Outro"}
+{"id": "LocalText/diffPrice1", "revision": "d91462eb98f32f859cb9283d849dab8841bc1e5d1bf99c2726abb9fd9fc621bc", "ptbr": " Muito Baixo"}
+{"id": "LocalText/diffPrice2", "revision": "62404d1068aa73bcc1b529d98765b29eea02b6e591586b91a57059050ac4c288", "ptbr": " Baixo"}
+{"id": "LocalText/diffPrice3", "revision": "b960b98c71a6a7c6f51a0051a4980f2335043571361153637918ae8127f9ec61", "ptbr": " Médio"}
+{"id": "LocalText/diffPrice4", "revision": "493121167c58d5f7b5f9265a262fb39818ed9c923d9e8b3a44da09524517e816", "ptbr": " Alto"}
+{"id": "LocalText/diffPrice5", "revision": "d2959ae17b17b250e8066e25b1b8b246ac6584248aed74211b63a4e2dd201d10", "ptbr": " Muito Alto"}
+{"id": "LocalText/diffPriceTips", "revision": "ed7455a77d939205d6ede3dc801d01208af502558c514ab003b1b724bf6b05b2", "ptbr": "Preços dos itens em todas as lojas."}
+{"id": "LocalText/diffPriceTitle", "revision": "1e88eff3f2edba1c677aeaf31a649e4676c848e56f1cad18ca6bb624b81f98ba", "ptbr": "Preço"}
+{"id": "LocalText/diffPunish1", "revision": "07d926787a8bade07dd62995087ef02aa1cbe4690eda7717e7bc416f0b5af4e9", "ptbr": "A Reconstrução Corporal leva <r>{0} min</r> depois de o seu personagem morrer."}
+{"id": "LocalText/diffPunish2", "revision": "92de555f9b54164cc846060d7aed341bb784db3458b4df67badebc8057873007", "ptbr": "A Reconstrução Corporal leva <r>{0} min</r> depois de o seu personagem morrer."}
+{"id": "LocalText/diffPunish3", "revision": "a0ebc42b17a19cca1d9cad0e4ff86b5fb7c63b908e668ea943b9040d062815c2", "ptbr": "O seu save será <r>permanentemente apagado</r> se você morrer antes de alcançar {0}!\\nSe você morrer depois de alcançar {1}, a Reconstrução Corporal levará <r>{2} min</r>.\\n"}
+{"id": "LocalText/diffPunish4", "revision": "f4a6e3da60ffee16ef44bd3bced927b45ced3943d876240234554fb427f732a5", "ptbr": "O seu save será <r>permanentemente apagado</r> se você morrer!"}
+{"id": "LocalText/diffPunish5", "revision": "8025f76d911478dd6b587345172e3b8133d65ff58ac5b75e9dfd9415d8860d2a", "ptbr": "O seu save será <r>permanentemente apagado</r> se você morrer!\\nE não há como escapar deste destino."}
+{"id": "LocalText/diffPunishTips", "revision": "3a99b1c8307c8865d90543983e47d862c91cf683b1b17389e5d37574c1481ef7", "ptbr": "O seu personagem morre de verdade quando os Pontos de Jade Bagua se esgotam."}
+{"id": "LocalText/diffRoleAttr1", "revision": "6fc9d6c19e2e68339bd8a8adb6fdf966ab01c4a6db9436bab758d75fada8fdc5", "ptbr": " Muito Baixo"}
+{"id": "LocalText/diffRoleAttr2", "revision": "22d00bb08c24f852577f9c77217054672bf149ab03f9c0dde9d2dc15e9037384", "ptbr": " Baixo"}
+{"id": "LocalText/diffRoleAttr3", "revision": "2753a3d3259e74ad15e51997ccaac1a5cf87ee7ab20d31848670d8ac8831c121", "ptbr": " Médio"}
+{"id": "LocalText/diffRoleAttr4", "revision": "8f29e5bb79ff456d7ff1ba3663e056dafe5f44d71a1ec7115165d65d6e31673d", "ptbr": " Alto"}
+{"id": "LocalText/diffRoleAttr5", "revision": "b0634434bfcec3400b1ea77322d69cf8422a9557102d0ad6d84e51fa052f56f8", "ptbr": " Muito Alto"}
+{"id": "LocalText/diffRoleAttrTips", "revision": "0e7c2719d109e6d12dfc233611ee1339f99c93aa233749766f541aa5198385ac", "ptbr": "Os atributos do seu personagem quando é criado pela primeira vez."}
+{"id": "LocalText/diffRoleAttrTitle", "revision": "e04486466bfa15f532edf3c8836e04e4a0c81e9fe15db9cfa73aa896457ae2d1", "ptbr": "Atributos iniciais"}
+{"id": "LocalText/diffUnitDmg1", "revision": "bb72a0da91cf835b14e223e601d5c6dfb9194dc4505a3ec4cc0aac708b5c5fc7", "ptbr": " Baixo"}
+{"id": "LocalText/diffUnitDmg2", "revision": "93e2d57859abb56bffa5510b4307711af6c8c5378391fd77461474dc4c864095", "ptbr": " Padrão"}
+{"id": "LocalText/diffUnitDmg3", "revision": "b69970979dcc1b6c437f66f3e06b401c8b4fb249e3f46acfca3a418889e4249c", "ptbr": " Alto"}
+{"id": "LocalText/diffUnitDmg4", "revision": "f8d23f018306bc8b00f4a5eec9a9d962145f958b68f4f0d3b4714bc03bdfbf6e", "ptbr": " Muito Alto"}
+{"id": "LocalText/diffUnitDmg5", "revision": "c8f9d0afdbeae0965801da9eba896ad3065842bf2774d5844dbd20b6906caf19", "ptbr": " Extremamente Alto"}
+{"id": "LocalText/diffUnitDmgTips", "revision": "d55aa67fefda8c44a5f6ea4ae66861b7d203e9a60642ecbd15fb2c95481f1df1", "ptbr": "Dano de todos os monstros."}
+{"id": "LocalText/diffUnitDmgTitle", "revision": "aa7fe6cc3be34e4b2a4bb77cc97088095ea8851415bde80f631cdfd777c8ee5c", "ptbr": "Dano dos monstros"}
+{"id": "LocalText/diffUnitHp1", "revision": "018a87a2e9d8127060fce1d2698d7535d5bcaedd44fbe6a11cf560da087fe26e", "ptbr": " Baixo"}
+{"id": "LocalText/diffUnitHp2", "revision": "fa84a9c5a27572ef237e7202a10e0f8916012d9399c157474f3ec1aa8b9781a3", "ptbr": " Padrão"}
+{"id": "LocalText/diffUnitHp3", "revision": "fc339f327ca846740c434c300a263fd15fd81a9ac7be92bfd9cc7c2bd5f736ff", "ptbr": " Alto"}
+{"id": "LocalText/diffUnitHp4", "revision": "e87f32887a6375b4e533b2eae5976d9c3bf02dc7e51fb180d9691515a4f1847f", "ptbr": " Muito Alto"}
+{"id": "LocalText/diffUnitHp5", "revision": "9c791ef0a2585e3f74d1c218e86d4eff0fc754f5dc06b7218fb255393c5f8fc8", "ptbr": " Extremamente Alto"}
+{"id": "LocalText/diffUnitHpTips", "revision": "ae8b402f4347b8ec7582be7c39d74d9b7192bd3a73589f679b163732186089c3", "ptbr": "Vitalidade de todos os monstros."}
+{"id": "LocalText/diffUnitHpTitle", "revision": "ef3f7314a7aa8b4064b8f982f581759731f013f3b3959fc72b16f40547731387", "ptbr": "Vitalidade dos monstros"}
+{"id": "LocalText/diffUnitNum1", "revision": "95a2ef5e25555ec840ea9abf72aa35dfae6d34c41905239ec050d72f7c892891", "ptbr": " Baixo"}
+{"id": "LocalText/diffUnitNum2", "revision": "a065b8bcb84f0a07d70b6223236882eaaa55a514e59db066b979e34e22e03539", "ptbr": " Padrão"}
+{"id": "LocalText/diffUnitNum3", "revision": "fde55b615102d4487826869f0345cb4324bb6bf22e0b6a06086dc67801c16ee6", "ptbr": " Alto"}
+{"id": "LocalText/diffUnitNum4", "revision": "52a9f56484d12bfcdc5ec3c4faa7e53588b604a87a1c56ce84ff5e3e5ace6805", "ptbr": " Muito Alto"}
+{"id": "LocalText/diffUnitNum5", "revision": "34ebef298da9d313d4ee4adff6a70a10c2fa624067c318a51893eb9dfd7ea025", "ptbr": " Extremamente Alto"}
+{"id": "LocalText/diffUnitNumTips", "revision": "b4d63d13c402de1a34dacfd1059f3329480c5fb64f7af69fb5d058af1cbe5f39", "ptbr": "Número de monstros em cada batalha."}
+{"id": "LocalText/diffUnitNumTitle", "revision": "844e397be95cdf588cb59217c523604a4d3e72e7cbc14af14ba42fdf4053a4ae", "ptbr": "Quantidade de monstros"}
+{"id": "LocalText/diffUnlockDesc2", "revision": "b148fb1c71a3ad339b8d1f36866037deea2207af98afceb32213e9845c15a196", "ptbr": "Conclua {0} no modo Difícil para desbloquear este nível de dificuldade."}
+{"id": "LocalText/diffUnlockDesc3", "revision": "b03a16f114b65b5e72f4e43ede46d4e8d927781cfb37a40c2b6b2defc153b160", "ptbr": "Conclua {0} no modo Pesadelo para desbloquear este nível de dificuldade."}
+{"id": "LocalText/diffUnlockDesc4", "revision": "812119054308a51aa5ea5f51a7fbe425810efa5e3d7b8c4fa8c786fc3d4ae873", "ptbr": "Conclua {0} no modo Caos para desbloquear este nível de dificuldade."}
+{"id": "LocalText/diffUnlockDesc5", "revision": "64319f780800cc6f1dd68ee6a6f3936b6fd66852839e4ac7954f23b14254b625", "ptbr": "Alcance {0} no modo Pesadelo e {1} em qualquer modo\\npara desbloquear este nível de dificuldade."}
+{"id": "LocalText/diffWorldTitle", "revision": "a013c937da8b516f3776f28e2e8108c165e3cc17566d54873344f183bfa748b9", "ptbr": "Mundo"}
+{"id": "LocalText/diff_xuanzenandu", "revision": "db1a26a1022d646432cefef32c571955a21adab45efaa7e530b4548b0b4bfda6", "ptbr": "Selecionar dificuldade"}
+{"id": "LocalText/diff_xuanzenandu1", "revision": "c754fd978288c058a496ed65f0fe6a41be41647b4f65e6f1e7ec7cc316edd199", "ptbr": "Selecione uma dificuldade desbloqueada!"}
+{"id": "LocalText/drama_dialogue6090178", "revision": "c601019dc29a4a6d9d958c3a7158adf880ad38910484bf7049941712042aaa23", "ptbr": "O seu cultivo alcançou um gargalo? Tenho aqui um Elixir que pode ajudar você a romper. E só quero 400 Pedras Espirituais! Você sabe que custaria 800 Pedras Espirituais na loja!"}
+{"id": "LocalText/drama_dialogue6090179", "revision": "908d4636d7345649a7a12b10b25bc2a79c23fd538839633b417ca5aa12dd83a3", "ptbr": "Você pega o Elixir e vai embora satisfeito."}
+{"id": "LocalText/drama_dialogue6090180", "revision": "bedd825a2248d9bfcd669c10a35259e94c9a42478100289a250d5f78926f5060", "ptbr": "Você quer o Elixir, mas agora se sente desconfortável. Você ignora o orador, se vira e vai embora."}
+{"id": "LocalText/drama_dialogue6090201", "revision": "13eb04c440ace7022113193dbcca45f1552c139345775ae39127fa544f08c97d", "ptbr": "Você acha que ouve alguém chamando o seu nome..."}
+{"id": "LocalText/drama_dialogue6090202", "revision": "16c873b3d5f84a6ce31711b5a456dea4393b0cacf2c84ba14226241d380e68b5", "ptbr": "Olhando ao redor, você finalmente acha a origem do som sob uma árvore. Parece um porco, mas com rosto humano."}
+{"id": "LocalText/drama_dialogue6090203", "revision": "873d1294edc8545cd1445cab5a04354f2046acac319d5f6962a64613927064c1", "ptbr": "Parece que foi mordido por uma serpente e está muito perto da morte..."}
+{"id": "LocalText/drama_dialogue6090204", "revision": "87c48063740645d3d40a9c04b2ac5333abc9b0a58102f065a70581a03d95bb67", "ptbr": "Você vai investigar, mas a criatura parece perdida demais... Você tira o manto e o estende sobre o corpo, antes de se virar para ir embora."}
+{"id": "LocalText/drama_dialogue6090205", "revision": "e142ff1be612011c5ca56a7cfe7b33df7638fc523ed8932fa5fe785972ec3cd6", "ptbr": "Entendendo o significado do seu gesto, a criatura olha para você e começa a chorar..."}
+{"id": "LocalText/drama_dialogue6090206", "revision": "f5ec6e565f0e6662c59dbc22401dc358add94aea6f412101c43c09a8d53de735", "ptbr": "Vendo a expressão lastimável da criatura, você para. Curá-la provavelmente será inútil, mas é tentar..."}
+{"id": "LocalText/drama_dialogue6090207", "revision": "76b6a71c7c6971b92451522538a90227eed09b2ebf5683df057f1141f74b5939", "ptbr": "Você ativa a sua energia e, milagrosamente, o veneno na criatura começa a se dissipar. Depois de um tempo, ela parece quase totalmente recuperada. Ele agradece profusamente, dá a você um Fruto Espiritual e depois conta a história da vida dele. A experiência lhe concede percepção."}
+{"id": "LocalText/drama_dialogue6090208", "revision": "3c2642a6cf626ad401c68764b3f3d6c1675b675baa4ad712331942e2e722bb46", "ptbr": "Você ativa a energia de cura, mas não funciona. O veneno está avançado demais. Finalmente, a centelha de vida se apaga nos olhos dele... Decepcionado, você se levanta. Ao ir embora, um fio de Qi flui da criatura para o seu corpo."}
+{"id": "LocalText/drama_dialogue6090209", "revision": "e2bae105e8da190c9a51f3fedbb35d54da5dcd376ad897e799c6c0c3d7fe61ee", "ptbr": "Você ativa a energia de cura e o veneno na criatura começa a se dissipar. Depois de um tempo, ela parece quase totalmente recuperada. Ele agradece profusamente e dá a você um Fruto Espiritual. Você pega e vai embora."}
+{"id": "LocalText/drama_dialogue6090210", "revision": "cfd877ceb781fb17b7342172ef6a3d80fab8e1cea106da38cf34b42d86586598", "ptbr": "Você ativa a energia de cura, mas o veneno está avançado demais. Finalmente, a centelha de vida se apaga nos olhos dele... Decepcionado, você se levanta. Ao ir embora, um fio de Qi flui da criatura para o seu corpo."}
+{"id": "LocalText/drama_dialogue6090211", "revision": "c19f844b6918f6a58c4da3ccffef0eb15a3ad0b60fe66aac9c80041b65025bd0", "ptbr": "Sobrevive o mais apto. É a lei da selva... Você se vira e vai embora."}
+{"id": "LocalText/drama_dialogue6091001", "revision": "cd93923e293cdd59727935cad8d85342921d11b68a1013d796c0bc4e741adcc9", "ptbr": "Na estrada, você encontra um Cultivador tirando lotes da sorte. Quer ir tirar um?"}
+{"id": "LocalText/drama_dialogue6091002", "revision": "5c95f8f2411a17f3ad9fcfcabeb89e9659e9e79e24d37161def668ae78d527e2", "ptbr": "O Cultivador se afasta na distância..."}
+{"id": "LocalText/drama_dialogue6091003", "revision": "4c5001a989ff5acd6cbc71ab5f77464489529fba11819494b5052728abf05300", "ptbr": "Você tira um Grande Presságio e vai embora muito feliz."}
+{"id": "LocalText/drama_dialogue6091004", "revision": "1a529717ecf5fc986675644d41c51577d10579391447a66cfb7148c9edc53cea", "ptbr": "Você tira um Bom Presságio e vai embora feliz."}
+{"id": "LocalText/drama_dialogue6091005", "revision": "d8113a30dc847feb4f59acf7feda9795db607ded8ed07878bde85ea8883f6fd1", "ptbr": "Você tira um Mau Presságio e vai embora desanimado."}
+{"id": "LocalText/drama_dialogue6091011", "revision": "88ba84af315948093381c1ee62c4d1f40c28c9d5929e71a7ec5cf88255c7aaa8", "ptbr": "Você vê uma tempestade poderosa se formando na distância."}
+{"id": "LocalText/drama_dialogue6091012", "revision": "8ebdc34fead929e0bd9009d43784d407e7aef79b925e25b962bdc398a668098a", "ptbr": "Pouco depois, cai um temporal!"}
+{"id": "LocalText/drama_dialogue6091013", "revision": "549540ebdd93c4d57b419c4add5cf7c9be6b9417761d77eda0ca44b9ea4a4f6b", "ptbr": "Pouco depois, uma tormenta poderosa atinge, desferindo trovões e relâmpagos com a fúria de mil feras! Você se vê pego por ela..."}
+{"id": "LocalText/drama_dialogue6091051", "revision": "8aa47974a55b12c92519ee19df5320ee74a7eb6af0b9f2eb2ebbcfcddae941ea", "ptbr": "Um vidente montou uma barraca à beira da estrada. Ao se aproximar, ele te puxa e diz: “Nobre Cultivador! Venha por aqui! Deixe o Sábio Tianbao ler a sua sorte!”"}
+{"id": "LocalText/drama_dialogue6091052", "revision": "2eeeed0a6732c4cdca9737df2f3718b52b195515d6c95cd3a573f38d8aca0a73", "ptbr": "O Sábio Tianbao começa a ler a sorte, sem esperar a sua resposta. Depois de alguns momentos, ele fala."}
+{"id": "LocalText/drama_dialogue6091053", "revision": "8a7e41067f5e09c568d4ba82428590a78be62aa3065b96301d78a5b65e18acd0", "ptbr": "“Pegas gorjeiam nas árvores, a andorinha filhote estende as asas. Ouro e gemas esperam você além das montanhas! Deixe-me percorrer todo rincão desconhecido! Parabéns, Cultivador!” Sorrindo, o Sábio Tianbao tira uma caixa e a estende na sua direção..."}
+{"id": "LocalText/drama_dialogue6091054", "revision": "8af04ae0ad1f84b654eeef7cd9889096edafe1311eedc19dfb95531ef1ce4eb2", "ptbr": "Você finge não ver a caixa, agradece ao Sábio Tianbao e vai embora."}
+{"id": "LocalText/drama_dialogue6091055", "revision": "fe9dbd65eef69cf37aaf1336adb1b67d60da6b1fdc7d167636c8035833dc7435", "ptbr": "Você joga algumas Pedras Espirituais na caixa do vidente. “Obrigado pela gorjeta!”, ele diz. “Que você alcance o Grande Caminho e a fama mundial bem em breve!” Você sai com um sorriso largo no rosto."}
+{"id": "LocalText/drama_dialogue6091056", "revision": "815c35b08d323a1a09438548aa7aec4fc7040d4a08656e3abd5535fb43c451c5", "ptbr": "“Corpos celestes permanecem eternos, o canto da vida dura poucos suspiros. Viaje aonde as montanhas nascem das nuvens, busque a virtude com todo o coração! Parabéns, Cultivador!” Sorrindo, o Sábio Tianbao tira uma caixa e a estende na sua direção..."}
+{"id": "LocalText/drama_dialogue6091057", "revision": "981e115663dd8f2cef173fe08cc07ddf83c74baa7fa06ff7cd3562b0f11ab459", "ptbr": "Você finge não ver a caixa, agradece ao Sábio Tianbao e vai embora."}
+{"id": "LocalText/drama_dialogue6091058", "revision": "db06a032dfde75022854f9534844eeef496cfa048f6dadd6c795784c492097f5", "ptbr": "Você joga algumas Pedras Espirituais na caixa do vidente. “Obrigado pela gorjeta!”, ele diz. “Que você alcance o Grande Caminho e a fama mundial bem em breve!” Você sai com um sorriso largo no rosto."}
+{"id": "LocalText/drama_dialogue6091059", "revision": "4fa02b07b5733e5b156e4d64a4a7ab9edc700291dd3b732262a2a8dd519d4941", "ptbr": "“O Caminho Celestial, vasto como as estrelas, quantos alcançam suas alturas? Pela grandeza ou conduzido pela garça, a boa sorte será de seus descendentes! Parabéns, Cultivador!” Sorrindo, o Sábio Tianbao tira uma caixa e a estende na sua direção..."}
+{"id": "LocalText/drama_dialogue6091060", "revision": "159bcf2db49896e79edd8aaa0a4eec57b28afa40961d67ecfc493140541f1166", "ptbr": "Você finge não ver a caixa, agradece ao Sábio Tianbao e vai embora."}
+{"id": "LocalText/drama_dialogue6091061", "revision": "44af35d54e5ece863f64c5d6dfdfc2849bd83fd265ffb607132038b8bf80a838", "ptbr": "Você joga algumas Pedras Espirituais na caixa do vidente. “Obrigado pela gorjeta!”, ele diz. “Que você alcance o Grande Caminho e a fama mundial bem em breve!” Você sai com um sorriso largo no rosto."}
+{"id": "LocalText/drama_dialogue6091062", "revision": "22d77ac4030fbc8dbf880f36878a5532757e31c5b9b0be1a59812ba74d361cc4", "ptbr": "“O Velho Mestre apanhou o fogo ardente e forjou um corpo nas chamas do Bagua. Não lamente o elixir em fumaça, pois é o despojamento do mundano! Parabéns, Cultivador!” Sorrindo, o Sábio Tianbao tira uma caixa e a estende na sua direção..."}
+{"id": "LocalText/drama_dialogue6091063", "revision": "08d04581502edd34e3eda4bf28751c21a7e57b888f0ad6cc6fe513f4d7468dd8", "ptbr": "Você finge não ver a caixa, agradece ao Sábio Tianbao e vai embora."}
+{"id": "LocalText/drama_dialogue6091064", "revision": "2eebc8c3c948312432370128a69a0d23b5c414a9692bb06f344d972ba2b6e7a8", "ptbr": "Você joga algumas Pedras Espirituais na caixa do vidente. “Obrigado pela gorjeta!”, ele diz. “Que você alcance o Grande Caminho e a fama mundial bem em breve!” Você sai com um sorriso largo no rosto."}
+{"id": "LocalText/drama_dialogue6091065", "revision": "aae2f99e3f3e0e0bc3fb39cd0a90df31dc08dcb849cb4dee179c1573126ec8af", "ptbr": "“A Fonte Sagrada, portal entre o Céu e a Terra, observa em paz a passagem dos Sábios. Seus tesouros podem ser compartilhados por todos. Beba com sede, mas pare num balde. Parabéns, Cultivador!” Sorrindo, o Sábio Tianbao tira uma caixa e a estende na sua direção..."}
+{"id": "LocalText/drama_dialogue6091066", "revision": "22f6847760962f8cd426493389c97b71497d3fea1ac316e109e1b9094a37d221", "ptbr": "Você finge não ver a caixa, agradece ao Sábio Tianbao e vai embora."}
+{"id": "LocalText/drama_dialogue6091067", "revision": "2cf524c505e2c8d7601a2244503a5e4924d03436e541bee33a5f1cb7788b5e8e", "ptbr": "Você joga algumas Pedras Espirituais na caixa do vidente. “Obrigado pela gorjeta!”, ele diz. “Que você alcance o Grande Caminho e a fama mundial bem em breve!” Você sai com um sorriso largo no rosto."}
+{"id": "LocalText/drama_dialogue6091068", "revision": "d324ed6e50b7cf732588b31fdca97f391b7cae1e5b1f372748d992453469e047", "ptbr": "“Águas de jade, flores preciosas, botões de cristal; vinho celestial para a sua taça. Três mil anos de imortalidade são um troco pequeno por uma noite de bebedeira. Parabéns, Cultivador!” Sorrindo, o Sábio Tianbao tira uma caixa e a estende na sua direção..."}
+{"id": "LocalText/drama_dialogue6091069", "revision": "1ace87f73e3141be730b0ac6c55db4bc2cce8bae165ced169ea04e6f185c8c00", "ptbr": "Você finge não ver a caixa, agradece ao Sábio Tianbao e vai embora."}
+{"id": "LocalText/drama_dialogue6091070", "revision": "e1c1335e66cd48ca6b6a4020bec8c89ca3442d5bcce0aa51de7592770673a48d", "ptbr": "Você joga algumas Pedras Espirituais na caixa do vidente. “Obrigado pela gorjeta!”, ele diz. “Que você alcance o Grande Caminho e a fama mundial bem em breve!” Você sai com um sorriso largo no rosto."}
+{"id": "LocalText/drama_dialogue6091071", "revision": "bf899800b7d50432b006a1998a7799aa912d8bbc424eba88d1597d145707d752", "ptbr": "“A desgraça convoca sangue, homens armados devem ser evitados. Certos fins não podem ser evitados; algumas feridas não podem ser esquecidas. Este é um terrível presságio! Mas não tema; se você me fornecer algumas Pedras Espirituais, poderei usar a energia delas para mudar o seu destino!”"}
+{"id": "LocalText/drama_dialogue6091072", "revision": "2f5cb7a9639c1be4beee56101323033e6f1c2cefa6ceb24cc4a73faa15161e6f", "ptbr": "Você ignora o discurso de vendas do Sábio Tianbao e deixa o lugar."}
+{"id": "LocalText/drama_dialogue6091073", "revision": "d06da7b6db38baa5afdea8d198599bb845fc0c9894755ed0fe1fa345f20b4314", "ptbr": "As palavras de Tianbao te preocupam sem fim. Você rapidamente lhe paga a quantidade necessária de Pedras Espirituais. “Meu bom amigo, não tema! Agora vou te salvar do perigo!” Confortado pelas belas palavras dele, você agradece ao Sábio Tianbao repetidas vezes e sai com reverência no coração."}
+{"id": "LocalText/drama_dialogue6091074", "revision": "b52b776c7931aea6579c7e16a3f48dc952b6c31fa01ff3cef178ff61f3383811", "ptbr": "“Nuvens negras mancham o cume, ventos sombrios ferem o coração. O Caminho da Imortalidade é volúvel e cheio de percalços. A eternidade é longa demais para o arrependimento. Este é um terrível presságio! Mas não tema; se você me fornecer algumas Pedras Espirituais, poderei usar a energia delas para mudar o seu destino!”"}
+{"id": "LocalText/drama_dialogue6091075", "revision": "9228f75934369f1d9cde66b135303e2bcb2bb72be3f4808133dac33404ce0ef8", "ptbr": "Você ignora o discurso de vendas do Sábio Tianbao e deixa o lugar."}
+{"id": "LocalText/drama_dialogue6091076", "revision": "a99b29ae2338f412d5dffbf401a610acfef1850f1baaf8ef76a83b5dad5d6dc3", "ptbr": "As palavras do Sábio Tianbao te preocupam sem fim. Você rapidamente lhe paga a quantidade necessária de Pedras Espirituais. “Meu bom amigo, não tema! Agora vou te salvar do perigo!” Confortado pelas belas palavras dele, você agradece ao Sábio Tianbao repetidas vezes e sai com reverência no coração."}
+{"id": "LocalText/drama_dialogue6091077", "revision": "c87309a61b4928383250242ce15890f86b2ecc9be3e6b33455d36bb88555d83a", "ptbr": "“As montanhas escondem os tesouros; as andorinhas voam quando a lua está alta. A realização é efêmera; a vida é sofrimento. Este é um terrível presságio! Mas não tema; se você me fornecer algumas Pedras Espirituais, poderei usar a energia delas para mudar o seu destino!”"}
+{"id": "LocalText/drama_dialogue6091078", "revision": "3d660fa17f93d0541a5a243ead25ed6c0e134358099d325290f0305a35eb225c", "ptbr": "Você ignora o discurso de vendas do Sábio Tianbao e deixa o lugar."}
+{"id": "LocalText/drama_dialogue6091079", "revision": "139134682f5133af223980f79eafc8a73de8cee74ae2c3c88ac6094a632f0c2e", "ptbr": "As palavras do Sábio Tianbao te preocupam sem fim. Você rapidamente lhe paga a quantidade necessária de Pedras Espirituais. “Meu bom amigo, não tema! Agora vou te salvar do perigo!” Confortado pelas belas palavras dele, você agradece ao Sábio Tianbao repetidas vezes e sai com reverência no coração."}
+{"id": "LocalText/drama_dialogue6091080", "revision": "427325a45a7b5f3e79dd3dfe9315db416b6a5df3c48b0a15f702bdf3e13e45d4", "ptbr": "“Amigos e aliados se ajudam, mas a traição ronda. A união dura pouco, mas a maldade dura muito. Este é um terrível presságio! Mas não tema; se você me fornecer algumas Pedras Espirituais, poderei usar a energia delas para mudar o seu destino!”"}
+{"id": "LocalText/drama_dialogue6091081", "revision": "20e08c95c7f7c3a9e86290f3a6815898d7b570a78a63c01f1ef0d723e1a30958", "ptbr": "Você ignora o discurso de vendas do Sábio Tianbao e deixa o lugar."}
+{"id": "LocalText/drama_dialogue6091082", "revision": "5bc3f6e04bc0023f4db91b3b260142bdd5c33da808e94bceb9fd9fcdae5487a2", "ptbr": "As palavras do Sábio Tianbao te preocupam sem fim. Você rapidamente lhe paga a quantidade necessária de Pedras Espirituais. “Meu bom amigo, não tema! Agora vou te salvar do perigo!” Confortado pelas belas palavras dele, você agradece ao Sábio Tianbao repetidas vezes e sai com reverência no coração."}
+{"id": "LocalText/drama_dialogue6091083", "revision": "24afd7ac844a2cb3b3d3936347a38bf4367c21754845928b6c13a208bcb561dd", "ptbr": "“A abelha sorve o mel da flor, mas perece dentro dela. Cuidado com quem insinua amor, pois pode não ser verdade! Este é um terrível presságio! Mas não tema; se você me fornecer algumas Pedras Espirituais, poderei usar a energia delas para mudar o seu destino!”"}
+{"id": "LocalText/drama_dialogue6091084", "revision": "537bde78728a4f77d90133d144ec28f743991dc87ac64a48bac562ecc48ead29", "ptbr": "Você ignora o discurso de vendas do Sábio Tianbao e deixa o lugar."}
+{"id": "LocalText/drama_dialogue6091085", "revision": "52bfa81e0fd046f2c73037c50abf22a32de34180be6a20f56983a224ef06419d", "ptbr": "As palavras do Sábio Tianbao te preocupam sem fim. Você rapidamente lhe paga a quantidade necessária de Pedras Espirituais. “Meu bom amigo, não tema! Agora vou te salvar do perigo!” Confortado pelas belas palavras dele, você agradece ao Sábio Tianbao repetidas vezes e sai com reverência no coração."}
+{"id": "LocalText/drama_dialogue6092001", "revision": "859fee312392bd42e30c41b181a04c875fb418aee536b7c190bd55526111df25", "ptbr": "Passeando por uma floresta, você de repente ouve gorjeios nas árvores."}
+{"id": "LocalText/drama_dialogue6092002", "revision": "70eccb75a544efbaa77059facce638cb45ab95a7b556c0250213d7de78c06073", "ptbr": "Procurando a origem do som, você acha uma serpente enrolada num galho, deslizando devagar rumo a um ninho de pássaros."}
+{"id": "LocalText/drama_dialogue6092003", "revision": "f9bd4dbf7427fe5b4d7014b4cafbefe734e3ceae7e9040dee6e1779a20cbecac", "ptbr": "Você se aproxima e nocauteia a serpente com Qi num movimento rápido, salvando os filhotes, e então arremessa a serpente para longe do ninho. Mas, quando está prestes a ir embora, nota umas pedras brilhantes dentro do ninho de pássaros..."}
+{"id": "LocalText/drama_dialogue6092021", "revision": "0e46ea3c39d59d09c9982951486835632dda3c654ea2ae502e48346f9e9cf651", "ptbr": "Você cultiva e treina as artes como de costume, quando um dos seus golpes atinge uma laje vertical de rocha. Ela desmorona com o golpe, revelando uma caverna."}
+{"id": "LocalText/drama_dialogue6092022", "revision": "fac2c923818fb2af543f024f24732fb00184d6bba90ecafe11087abe73db58cd", "ptbr": "Você entra na caverna e acha um Manual lá dentro."}
+{"id": "LocalText/drama_dialogue6092041", "revision": "cddac41a19350aee7552edb496c440c54c2478708a447c066a2af1640a41aa08", "ptbr": "Você descansa na mata, comendo rações secas e lavando com um Vinho Alegre comprado numa taverna próxima."}
+{"id": "LocalText/drama_dialogue6092042", "revision": "cc82a7ec82a9880e3c21ce738be3e52cfb96580d02859f6f3336be5ef65b364c", "ptbr": "Logo em seguida, aparece um Cultivador que parece ter sentido o cheiro do vinho. “Que cheiro bom! Passei tempo demais enclausurado estudando alquimia. Quase esqueci como é o cheiro de um bom vinho.” Ele parece sedento."}
+{"id": "LocalText/drama_dialogue6092043", "revision": "e9acc34f41fc8d66b9f6632d6d6977b23ae69ac69c7df59e4f2384b4d64aba3a", "ptbr": "Generosamente, você lhe entrega a garrafa inteira. Encantado, ele agradece e retribui com alguns Elixires."}
+{"id": "LocalText/drama_dialogue6092061", "revision": "3502707179f9b5202afa5efe19fd8c801077315f5d5d78dbdefaabd555140e33", "ptbr": "Você sente uma fonte de energia por perto. Seguindo o rastro, chega a uma Fonte Sagrada."}
+{"id": "LocalText/drama_dialogue6092062", "revision": "b67f85949a76e86e3dae4da05834badc7d194dd49507232538a0484eeff5587b", "ptbr": "Depois de meditar um pouco na fonte, você sente que o seu Cultivo melhorou."}
+{"id": "LocalText/drama_dialogue6092063", "revision": "32be19bc9480ad5a9276fe4e89a2d0aef8e6b707a7c4c6193c6d54327247cb39", "ptbr": "Uma névoa de repente o envolve. Ela fica cada vez mais densa, e em breve você perde a direção."}
+{"id": "LocalText/drama_dialogue6092064", "revision": "e9a2e3bf22f437d386a68cc91eb13b7c9ae1b7a4e7de65bc7a5873b126499528", "ptbr": "Quando a névoa finalmente se dissipa, você se encontra num local desconhecido. Vê um homem de cabelos brancos fitando distraído um tabuleiro de go."}
+{"id": "LocalText/drama_dialogue6092065", "revision": "53ebdc2b0219357748fabac71045ff95fdf0de4e8fde98467ca44981497bb824", "ptbr": "Ao ver você, o homem pula de alegria e o convida para beber vinho e jogar uma partida de go com ele."}
+{"id": "LocalText/drama_dialogue6092066", "revision": "df7d1de6dc86c5cfebff69bfe0506b68e2ef97868ecfbdb6a532cb9437d02174", "ptbr": "Muito tempo se passou, mas a partida ainda não acabou. Você sente as pálpebras pesando..."}
+{"id": "LocalText/drama_dialogue6092067", "revision": "dc41093482308bbf5c66dbf2062193a1358a7a278e00fbe7d9c24c22acc395af", "ptbr": "Você acorda sob uma árvore, com só a taça vazia na mão como evidência de que o que aconteceu não foi um sonho."}
+{"id": "LocalText/drama_dialogue6092068", "revision": "5a2a29339ed0651c6873acc2aec6fcf9d11047cd2106cef5ac0012d8c80c8bc5", "ptbr": "Você acorda sob uma árvore, com só a taça vazia na mão como evidência de que o que aconteceu não foi um sonho."}
+{"id": "LocalText/drama_dialogue6092069", "revision": "ada02dd472daf72c8d27f0a6533a69cc70a3f9a2308faf5d2ee92c160e1c80f7", "ptbr": "Você acorda sob uma árvore, com só a taça vazia na mão como evidência de que o que aconteceu não foi um sonho."}
+{"id": "LocalText/drama_dialogue6092070", "revision": "71156bcf611a9c4a3074c0650122d02e2b2b398f3887684ac3f24ff62e5bea2f", "ptbr": "Você acorda sob uma árvore, com só a taça vazia na mão como evidência de que o que aconteceu não foi um sonho."}
+{"id": "LocalText/drama_dialogue6092101", "revision": "876e9de05dc5f435f6ab578ed69a1fa69da46a53862db427a428d1437f822cbf", "ptbr": "Você descansa sob uma árvore quando de repente uma ave gigante dispara na sua direção."}
+{"id": "LocalText/drama_dialogue6092102", "revision": "fffcbe86cac8f9d68c6ddb8ffc609ef6678b03f89818f04cb7f4047ac81ff9e6", "ptbr": "Você tenta se esquivar imediatamente, mas ainda é arranhado pela ave."}
+{"id": "LocalText/drama_dialogue6092103", "revision": "25617a4256378c996d1078f6b1a78a35662c49e9196675f50ead97b2e24c431c", "ptbr": "Você imediatamente se envolve em energia e se descobre ileso."}
+{"id": "LocalText/drama_dialogue6092104", "revision": "6e9b503610c7532aef55170c5ce45ef268c53a64dba6ba39eec7f9bbace4f7db", "ptbr": "Você tenta se esquivar imediatamente e a passa por você."}
+{"id": "LocalText/drama_dialogue6092105", "revision": "03467472b8ba6156775d40bf144c508d922e560a106c6fbb2bf0a6fed51874a8", "ptbr": "Você esquiva imediatamente e sai ileso."}
+{"id": "LocalText/drama_dialogue6092151", "revision": "cb863bcfc3be6becf4e21f7f91910dec0e378192697c98217be8b9860aff6813", "ptbr": "Você passa por um altar de um deus desconhecido. Após uma hesitação, você vai embora."}
+{"id": "LocalText/drama_dialogue6092152", "revision": "ea5b35bdee561505f39843ec590774bc6f9fad00c9839fedf091526fac15b733", "ptbr": "O céu escurece, e um relâmpago cai perto de você."}
+{"id": "LocalText/drama_dialogue6092153", "revision": "859a459c286d2622e976ddb4c684f39d186a3c51faae1353f735e0ca5f88bded", "ptbr": "O objeto de adoração parece estar insatisfeito com as suas ações."}
+{"id": "LocalText/drama_dialogue6092154", "revision": "9da94c52879ad095f8df7bbd7a0cafde0401184ce487e7f8e97d9edd9b9c94a4", "ptbr": "O objeto de adoração parece estar insatisfeito com as suas ações."}
+{"id": "LocalText/drama_dialogue6092155", "revision": "141697cd3af09536b6696c2e002efa39353937967b55b568c8a373e0ae9cf31e", "ptbr": "O objeto de adoração parece estar insatisfeito com as suas ações."}
+{"id": "LocalText/drama_dialogue6092156", "revision": "f582569c017929c70be3a318721b0b76b47d11452cb9cfcb85b8bc409196da5c", "ptbr": "O objeto de adoração parece estar insatisfeito com as suas ações."}
+{"id": "LocalText/drama_dialogue6092201", "revision": "e5de63e0f1bba2839a6e177727cb353c9d29fce94062a42cf595274df7c2671d", "ptbr": "Você se sente exausto da estrada. Descansa na mata. Rapidamente cai num sono..."}
+{"id": "LocalText/drama_dialogue6092202", "revision": "f88cd52f98312302f89e98a97c41afae200466afa537bd63d5a6b25d3f77540c", "ptbr": "Ao acordar, descobre que parte da sua comida e algumas Pedras Espirituais foram roubadas..."}
+{"id": "LocalText/drama_dialogue6092251", "revision": "71c712e294ce21d472056417edc3b6cf31dfca5945594b1460a97c84eb91e088", "ptbr": "Você passa por uma floresta e nota um pequeno pavilhão. Curioso, caminha até ele."}
+{"id": "LocalText/drama_dialogue6092252", "revision": "5133b52691f8582986dff5b827f1e1dacbe7757fe4d92899fa48b77e2e9ccebe", "ptbr": "Você encontra um bule de chá e uma taça numa mesa de pedra. O chá ainda fumega, e no centro da mesa há um poema inacabado."}
+{"id": "LocalText/drama_dialogue6092253", "revision": "e10ce0ce4d7a5b64a24d0b2778309fe565aaa6c47a717b42005ea831c397b001", "ptbr": "(Você reflete sobre como terminar o poema, quando uma figura se aproxima devagar.)"}
+{"id": "LocalText/drama_dialogue6092254", "revision": "99297d66eb46d1e7ca1cab4df5f040117aedc216d5591bb26379a577cfc62d8c", "ptbr": "Rosto talhado em jade, passos galantes e olhos sem fundo. A sua beleza é sem par neste mundo. Teria eu a honra de uma contemplação da lua, e de um Cultivo Dual com você?"}
+{"id": "LocalText/drama_dialogue6092255", "revision": "6e6c2e8ecd0b99ed8d1035b60049a7275eaefb4c0c0bff5f11377c4e4bf46150", "ptbr": "Palma de seda, riso canoro e olhos celestiais. A sua beleza é sem par neste mundo. Teria eu a honra de uma contemplação da lua, e de um Cultivo Dual com você?"}
+{"id": "LocalText/drama_dialogue6092256", "revision": "a81fb029733b66d45ac00085cbf56e93c1fec21c0cb67bddd7d8df9e1846f9b0", "ptbr": "Você recusa polidamente o pedido repentino e vai embora..."}
+{"id": "LocalText/drama_dialogue6092257", "revision": "397c87b46333a81403741877d59f6d1081faff314f1e73d41ab1e53caeb5f54a", "ptbr": "A lua brilha linda esta noite; vocês dois passam um momento agradável..."}
+{"id": "LocalText/drama_dialogue6092258", "revision": "2bf9dd9f740133d2df49b932099cbfc0bbfa6d696db972183ebbb8b60cf5e615", "ptbr": "Cultivadores não podem gastar todo o tempo com prazeres mundanos. Você deixa o pavilhão e segue o caminho..."}
+{"id": "LocalText/drama_dialogue6092301", "revision": "a0b0e85cd8255dfa010ce3af08925cacf21e4a27230edc959f841ab0c7afbd6a", "ptbr": "A Canoa Voadora da seita cruza o céu, e vapores se enroscam ao redor por um tempo, como numa terra de fantasia. Os discípulos da seita não podem deixar de se sentir iluminados ao ver esta visão."}
+{"id": "LocalText/drama_dialogue6092311", "revision": "85c8744ad3df06a4e2fd105992977f1bc15dc79716bce7580281c026778970f6", "ptbr": "Enquanto a Canoa Voadora viaja entre as nuvens, o som de tambores batendo vem de repente da Montanha Tian Yuan. O som reverbera pelas nuvens e sacode o céu e a terra. Todos têm curiosidade pela verdadeira aparência da Montanha Tian Yuan e, ao ouvirem este som, vão à lateral da embarcação para olhar."}
+{"id": "LocalText/drama_dialogue6092321", "revision": "30ac5c048a2935d2dcf652a9e5ee5ee395aa36a7fa3ddd3c2942c2502e52dbd3", "ptbr": "Enquanto a Canoa Voadora viaja entre as nuvens, uma rajada de Qi Sombrio vem na direção deles. Os discípulos sentem os meridianos inchando e o Qi e o sangue bloqueados. Eles se apressam em ajustar o Qi e estabilizar as mentes."}
+{"id": "LocalText/drama_dialogue6210000", "revision": "82952024238e7d5ed618ceafdba9183023663f7837def00c548ac5d60e6c9691", "ptbr": "Você olha por toda parte, mas não acha nada. Talvez tenha se enganado..."}
+{"id": "LocalText/drama_dialogue6210001", "revision": "a69eebca9e2629c6a76066a7ba373258ae96f1c8b711f87f65ca264262dbce5c", "ptbr": "(Parece que alguém está lutando logo adiante...)"}
+{"id": "LocalText/drama_dialogue6210002", "revision": "d10408e2752da30400e2eee70bdb79aaa0fdcef9c2f255284f7a0f14288f1d63", "ptbr": "Este Fruto Espiritual é meu, ladrão! Eu o encontrei primeiro!"}
+{"id": "LocalText/drama_dialogue6210003", "revision": "4cfc29fee8eeb5907cd5c420e0b9bb2a47fd1a2a08061415e0c0d1fbbab12dd5", "ptbr": "Frutos Espirituais pertencem à natureza! Proximidade não tem nada a ver! Quem achou, ficou!"}
+{"id": "LocalText/drama_dialogue6210004", "revision": "7d9ef5fedeb9754d2129ed0454d7152057a8e93f4cc7ea932a18e2f552d6cd3f", "ptbr": "Que disparate! Desembainhe a espada!"}
+{"id": "LocalText/drama_dialogue6210005", "revision": "0805aa4b71ef0e0054114f78bf42d4be89c5731078eb5a133f358125f5b07f3c", "ptbr": "Obrigado pela ajuda, bom viajante! Tome, aceite este presente. Até mais!"}
+{"id": "LocalText/drama_dialogue6210006", "revision": "f0929a91506f6481ac277089d5d5070a4954f607fef330db435777f451fb09d1", "ptbr": "Você pega o item e vai embora."}
+{"id": "LocalText/drama_dialogue6210007", "revision": "dbda958c77e3e92e6d3f7b2e8d9269635da54ae46376fd8251b9ddbb105e21e6", "ptbr": "Obrigado pela ajuda, Cultivador! Fico eternamente grato a você! Por favor, aceite este pequeno presente."}
+{"id": "LocalText/drama_dialogue6210008", "revision": "f2ac2f208f834f278467eeb90bc2c549096a0ee9d96bde4ba95761ca23a7ba9e", "ptbr": "Você pega o item e vai embora."}
+{"id": "LocalText/drama_dialogue6210009", "revision": "c1b946fa0fdc1288684052507de5961091eafa95222d516d70d1447e52a0caa5", "ptbr": "Você pega o Fruto Espiritual furtivamente e vai embora enquanto eles se distraem lutando..."}
+{"id": "LocalText/drama_dialogue6210010", "revision": "75132869ebe3dd34ac7efef8cf6686d0be956315a855734f3c613802adc5176e", "ptbr": "Logo em seguida alguém o persegue, com cara de muito bravo. Parece que você foi descoberto..."}
+{"id": "LocalText/drama_dialogue6210011", "revision": "0e83c4858d33cc834b378c4178de9671113f520ccb1373d15c1b11669a9ab72e", "ptbr": "Você vai muito longe e ninguém vem atrás. Parece que se safou."}
+{"id": "LocalText/drama_dialogue6210012", "revision": "9515e9da695678593c4ebe61c71b6cb25805253d137ac841e7fbe7c17748f3d3", "ptbr": "Você pega o Fruto Espiritual e vai embora."}
+{"id": "LocalText/drama_dialogue6210013", "revision": "b6be009fb2b791ec94b5e3b8a981a87b48ba3ff35144447de01c34b3e19dc209", "ptbr": "Você se vira e vai embora."}
+{"id": "LocalText/drama_dialogue6210014", "revision": "2be1c2bde4cdb8da0a1f339b857a1214f95499da464231178da113381ce3abaa", "ptbr": "Logo em seguida alguém o persegue, com cara de muito bravo. Parece que você foi descoberto..."}
+{"id": "LocalText/drama_dialogue6210015", "revision": "fc987bcd184fa19a8e6da60506f92a4800471df7c4434bc5bbe8b8dbdb82d63e", "ptbr": "Você passa por uma cidade. Da estrada, vê muita gente cavando um fosso."}
+{"id": "LocalText/drama_dialogue6210016", "revision": "e574ab697540e516841676fa5849c6c75328f1c934bd6daeb9f830dc5593ca4e", "ptbr": "Cachorros começam a latir num buraco à beira da estrada, incomodados pelas pessoas ou talvez pelo som da escavação."}
+{"id": "LocalText/drama_dialogue6210017", "revision": "1c27db30d03dfba391bfd72160b57b0fa244f7a63af745928a17961ac53e5c6b", "ptbr": "Um bando de criaturas estranhas irrompe do buraco, ganindo e latindo, e desaparece na distância. Você arromba a toca deles e acha alguns objetos úteis."}
+{"id": "LocalText/drama_dialogue6210018", "revision": "89c82bc6dfa9b80ed7d728da9d36b3d4ed8ef6d982ad2c00582e43f68f5ede80", "ptbr": "Uma coluna de luz surge de repente na distância. Uma cratera se abre no chão por perto, revelando a entrada de uma câmara subterrânea."}
+{"id": "LocalText/drama_dialogue6210019", "revision": "097b87456df5b899212f370332015094600d5d9bb4838ed032d6fe6ba0b8edab", "ptbr": "Descer e dar uma olhada?"}
+{"id": "LocalText/drama_dialogue6210021", "revision": "345bc29fc48aeae86674d9342f375c7d2dba495f9249b2af05a00b221b8cd92d", "ptbr": "Você pega os itens e segue o caminho."}
+{"id": "LocalText/drama_dialogue6210022", "revision": "163bdedb4b7000a0d02443ca65c237ed5bb28db6116af981a6e317f88d8f0c58", "ptbr": "Você vê um fruto numa árvore perto de um penhasco. Lembra uma tâmara."}
+{"id": "LocalText/drama_dialogue6210023", "revision": "7da5dc975ad3de9ffd00963483b66d31fe70b7a647bd4df3ffad2c7333c38bd5", "ptbr": "Comendo o fruto, um calor se espalha pelo corpo inteiro."}
+{"id": "LocalText/drama_dialogue6210024", "revision": "1a5d2d5900532f77daf83c0f26607e6286b2816b70711e718821dffac9b5a572", "ptbr": "Uma rajada misteriosa de repente o arremessa para fora da árvore, e você cai do penhasco."}
+{"id": "LocalText/drama_dialogue6210025", "revision": "b6a76cfc6ccf71d009c881317d781c0caa3ade8653c73e5393742d8d983cd8ca", "ptbr": "A árvore fica cada vez mais distante..."}
+{"id": "LocalText/drama_dialogue6210026", "revision": "1279e201a02acf73db5711e3f07d5211bfddb929c58997e578de28f10a936678", "ptbr": "Quando você recobra os sentidos, encontra uma caverna por perto."}
+{"id": "LocalText/drama_dialogue6210027", "revision": "efe23230ecea218aeb69c25596ca08b5174781bfd2d30fa1a8033edcd0d9f45d", "ptbr": "Você acorda e sai mancando do lugar."}
+{"id": "LocalText/drama_dialogue6210028", "revision": "9b20898fcfbf0b0685ddbb0c097420d483c421a6f5de74cadce6101db18664dd", "ptbr": "Deseja entrar na caverna?"}
+{"id": "LocalText/drama_dialogue6210029", "revision": "99a8508c40600e2cf148e6c98ca4456e767f9c42574206326b1f6d86cf6f3dcd", "ptbr": "Deseja entrar na caverna?"}
+{"id": "LocalText/drama_dialogue6210051", "revision": "f501ec3665976b119d92c046a703f5d961d57205f4f02d6cdcb00d60fcf34e17", "ptbr": "Você passa por um rio. Nota que as ondulações na água parecem causadas por algo brilhante no leito do rio."}
+{"id": "LocalText/drama_dialogue6210052", "revision": "7b7d0a8cfefbc9ac35fc8fa0ec7b847a62219ece8dd1e0c1abecf3df1eb31e2f", "ptbr": "As montanhas e as águas pintam uma cena serena. Enquanto você descansa, uma bola de luz branca salta do rio e vai direto em você."}
+{"id": "LocalText/drama_dialogue6210053", "revision": "5c78540d44835b0f06547af7e8442b2135f205c4d52c789eac134205a8023af0", "ptbr": "Você sente paz, como se o seu Cultivo tivesse melhorado um pouco."}
+{"id": "LocalText/drama_dialogue6210054", "revision": "43ce4aa3786c05e35116c9ec09728f9fa7855aac2bc5f1db06ddddd610323952", "ptbr": "Você está prestes a recolher a bola de luz, quando de repente um peixe escamoso salta da água e o morde. Você sai de lá rapidamente."}
+{"id": "LocalText/drama_dialogue6210055", "revision": "fd0ef52a2a91fd5742c4177d4cd0a768bf5e6f5c6478bc9cccda760fe9aba895", "ptbr": "Você está prestes a recolher a bola de luz, quando um peixe estranho surge do nada e a devora..."}
+{"id": "LocalText/drama_dialogue6210056", "revision": "9c2f02306c01255cc6e0fca7228be99041e74c8f1a9c32d04e25fabd8708fcae", "ptbr": "Você recolhe com sucesso o que estava no leito do rio."}
+{"id": "LocalText/drama_dialogue6210057", "revision": "f25beef8c448f1d3aba40d61fd1d7a83a2d263f6ff5fbde36f0823afae0613a6", "ptbr": "Algo cai de você enquanto você pesca"}
+{"id": "LocalText/drama_dialogue6210058", "revision": "ec5bdcf522e07618d2cdc2930a1816d97bf475798fde5202fa5fa75f8d00c4ae", "ptbr": "Cai na água com um plop e desaparece sem deixar rastro."}
+{"id": "LocalText/drama_dialogue6210059", "revision": "61ba7b43099a7ea036e963bc68f95faaf1a23f8d5ac7836680a452b4ee8d840b", "ptbr": "Um espírito do rio em forma de animal com rosto humano aparece. Ele tem chifres de veado saindo da cabeça. Você ouve uma voz: “A sua oferenda sincera foi aceita.” Você acorda do transe e, quando está prestes a se explicar, o espírito desaparece..."}
+{"id": "LocalText/drama_dialogue6210060", "revision": "f17694da10156a4f04dda0de9ac717d7164cd51b68da3f78e684eb8c04d9b765", "ptbr": "Uma luz branca o envolve. Quando a luz finalmente se dissipa, parece que ela levou o que você deixou cair no rio..."}
+{"id": "LocalText/drama_dialogue6210081", "revision": "0008c9c3cac58d666e6f0333f9f5c11f887772c6fcb6f42b7845d82057bc1e66", "ptbr": "Você atravessa uma região extremamente quente, quando de repente encontra uma área onde está nevando."}
+{"id": "LocalText/drama_dialogue6210082", "revision": "66e7be6ec72804493cd1afad1a31dfec04acce4e6a72fa2a13bdf921838910e5", "ptbr": "Entrando na área, você a sente repleta de Qi. Parece haver uma matriz artificial absorvendo o Qi e concentrando-o nesta região nevada."}
+{"id": "LocalText/drama_dialogue6210083", "revision": "8747d190254612b33b01cbca8cd9e9c82df12f36ee052b29d920416d156bcfd5", "ptbr": "Você entra na zona nevada e sente o frio correndo alegremente pelo corpo."}
+{"id": "LocalText/drama_dialogue6210084", "revision": "c7d500e91033e1aafc2573b28e5ccf050270133465b2981a38e8b14185f1ce79", "ptbr": "Quando você está prestes a sair, um velho surge do nada: “Obrigado, nobre e virtuoso Cultivador. Isto é por não usurpar o Qi daqui e por deixar a matriz intacta. Mantenha este coração de ouro no seu caminho.”"}
+{"id": "LocalText/drama_dialogue6210085", "revision": "5bd3dbae149b5e1035f785d2ccaf47c8e182ed7a2c900f5aa4fd594536ebca75", "ptbr": "Ao terminar, o velho desaparece. Você pega o item com gratidão e sai."}
+{"id": "LocalText/drama_dialogue6210086", "revision": "58fbcd4705a842ba0f4f33adc26a14dbc48d026aefca468845902e50a5b251a0", "ptbr": "O Qi ao redor se infiltra no seu corpo. Você sente que o seu Cultivo melhorou."}
+{"id": "LocalText/drama_dialogue6210087", "revision": "b019ab5a13c3f597a5eb6dcd92ef7266293fae2286f3e534ab2eabf36eddaf03", "ptbr": "Depois de um tempo, você termina de cultivar e sai."}
+{"id": "LocalText/drama_dialogue6210088", "revision": "cede60c527175495fc0dfd0c54ac33021cca088df432b842665147cfabede1c2", "ptbr": "Depois que o Qi desaparece, a matriz começa a estalar e você sente imediatamente um calor abrasador."}
+{"id": "LocalText/drama_dialogue6210089", "revision": "96b0cc2d011e4a9152e96e141b2fb0775210143c720f8cdbb8525dd2140fc346", "ptbr": "Um velho surge de repente ao seu lado, com o rosto cheio de raiva."}
+{"id": "LocalText/drama_dialogue6210090", "revision": "ee0d8471a785291426fe084d30efaa93e8858c1244323b37b8315b53d47f822d", "ptbr": "Você se sente culpado e pede desculpas imediatamente. Você pergunta como pode ajudar a apagar os incêndios."}
+{"id": "LocalText/drama_dialogue6210091", "revision": "5f9b1683b9bda429f95be8d1edd3ecb6877fbb29b0010543a26d040969761f1b", "ptbr": "A expressão do velho suaviza. “Deve ter sido o destino. Volte aqui com os materiais em até 5 meses. Vou esperar aqui e reconstruir a matriz.”"}
+{"id": "LocalText/drama_dialogue6210092", "revision": "86081309cee8e72b64531173c60430ff241ffc4af975261d8687d7cfdf12a81f", "ptbr": "Você promete ao velho voltar com os materiais e sai."}
+{"id": "LocalText/drama_dialogue6210093", "revision": "114e47c52e1e99e5db5e4e0be3f639ab17a5cb09a6ecea767ef99ea6a5327ae3", "ptbr": "Você promete ao velho voltar com os materiais e sai."}
+{"id": "LocalText/drama_dialogue6210094", "revision": "7df336a2abac1c6487e3cf5fe855316e679ba2cc65ed363fa36c522a08efe138", "ptbr": "Você promete ao velho voltar com os materiais e sai."}
+{"id": "LocalText/drama_dialogue6210095", "revision": "59a78a960e3ccb6e3ac3fd8a3fab686eb18cd91fa4d572f595eee7dfb1c1375c", "ptbr": "Você promete ao velho voltar com os materiais e sai."}
+{"id": "LocalText/drama_dialogue6210096", "revision": "8224e922db3ceb04f334e35d545c5661c6f846a3ed06548f844b0bc2d841265b", "ptbr": "Você promete ao velho voltar com os materiais e sai."}
+{"id": "LocalText/drama_dialogue6210097", "revision": "98013ef6ef1e571273393fffcb4e3bd0d4583083d4b37a116e1a2d63236d29b8", "ptbr": "Você promete ao velho voltar com os materiais e sai."}
+{"id": "LocalText/drama_dialogue6210098", "revision": "ef8c7e0f7d06d5265cb995aa64cdc19d4e07db29ed4b7e09a42252447b56d89f", "ptbr": "Você promete ao velho voltar com os materiais e sai."}
+{"id": "LocalText/drama_dialogue6210099", "revision": "32838ddc1a57b077614069d0d1738f99015b2069b7c7818b2a5a83ee86c06aab", "ptbr": "Você promete ao velho voltar com os materiais e sai."}
+{"id": "LocalText/drama_dialogue6210100", "revision": "a45b2d7a6ae6651009617a5e042877095ba1c01c0db72b026fd1c132cc33aa18", "ptbr": "Você promete ao velho voltar com os materiais e sai."}
+{"id": "LocalText/drama_dialogue6210101", "revision": "a6108605d1347c6a4f12a2e68ddf6a69b130e924d99ad56bd8ecb976aad57c04", "ptbr": "Você promete ao velho voltar com os materiais e sai."}
+{"id": "LocalText/drama_dialogue6210102", "revision": "821bd55b36a52580567708a721fe75ca3c7abc0e7bf8b3fbc1724c766b7b7d97", "ptbr": "Você promete ao velho voltar com os materiais e sai."}
+{"id": "LocalText/drama_dialogue6210103", "revision": "8dc88e631df4b4f9824907d068b7dcdc6d3c35abdefe6992126faf85f6a1a06f", "ptbr": "Você promete ao velho voltar com os materiais e sai."}
+{"id": "LocalText/drama_dialogue6210104", "revision": "9e31aa352798c30f23b9686a5fbafcfaa147faa99a2a44620861acaf53db1c86", "ptbr": "Você promete ao velho voltar com os materiais e sai."}
+{"id": "LocalText/drama_dialogue6210105", "revision": "f8c791d603d0794a7945d4135a911e5fe1857222f516738ea9e9cfdb175a6149", "ptbr": "Você promete ao velho voltar com os materiais e sai."}
+{"id": "LocalText/drama_dialogue6210106", "revision": "b8d845965e05943d7dce5e4c08da48c3fa97eb9efbeecfdb60888d7d60781c5d", "ptbr": "Você promete ao velho voltar com os materiais e sai."}
+{"id": "LocalText/drama_dialogue6210107", "revision": "775d2e4cac6ee508d1072db8b95aff2ca8bca7022df231c6653a23d7c0a4913d", "ptbr": "Você promete ao velho voltar com os materiais e sai."}
+{"id": "LocalText/drama_dialogue6210108", "revision": "c4f0a7bcae2c88b1582534107f66c021bdf0f171e6d050d74bd312ce054b2ba8", "ptbr": "Você promete ao velho voltar com os materiais e sai."}
+{"id": "LocalText/drama_dialogue6210109", "revision": "6b2fec81a1e99066e0cbfc7c2a5ac27cfe8420a6845fef94bb1b354372ba6119", "ptbr": "Ao ver você chegar, o velho pergunta: “Trouxe {#item_name5021032}?”"}
+{"id": "LocalText/drama_dialogue6210110", "revision": "9abbb45178f9697137fbf1f00e9dd747c2e111e89856b17d48d0c05398abf0ea", "ptbr": "Ao ver você chegar, o velho pergunta: “Trouxe {#item_name5021124}?”"}
+{"id": "LocalText/drama_dialogue6210111", "revision": "20ea0ca3199c764c0eae0b74e4dacb33ee92953e7184e8db72938f44739b4df3", "ptbr": "Ao ver você chegar, o velho pergunta: “Trouxe {#item_name5021144}?”"}
+{"id": "LocalText/drama_dialogue6210112", "revision": "15f2d5880e2f1c006a87543e61415f4916c099af8860669af21f1ce3199e139b", "ptbr": "Ao ver você chegar, o velho pergunta: “Trouxe {#item_name5021294}?”"}
+{"id": "LocalText/drama_dialogue6210113", "revision": "16fb12822e92ee375996dcdde02ce7ad574446eeab8aafd353375531388ad3b7", "ptbr": "Ao ver você chegar, o velho pergunta: “Trouxe {#item_name5021486}?”"}
+{"id": "LocalText/drama_dialogue6210114", "revision": "9180d88b239b8b4a2f195cf19d578d7c659a3bc2044ba5674722c6119b98bb1a", "ptbr": "Ao ver você chegar, o velho pergunta: “Trouxe {#item_name5021134}?”"}
+{"id": "LocalText/drama_dialogue6210115", "revision": "0a25cab1a594c4db2a34a2191d164f0a91fe98b77eaa75a8f5737555b03deda3", "ptbr": "Ao ver você chegar, o velho pergunta: “Trouxe {#item_name5021534}?”"}
+{"id": "LocalText/drama_dialogue6210116", "revision": "04d412fbf404daf00558ec7f89d08c298a913141b08cd5383c7ac548f621f1c4", "ptbr": "Ao ver você chegar, o velho pergunta: “Trouxe {#item_name5021274}?”"}
+{"id": "LocalText/drama_dialogue6210117", "revision": "d73fd6546da2c765a4e11ef0a8308e8ea1d9adaafc801ecb5cadb819bb5ce872", "ptbr": "Ao ver você chegar, o velho pergunta: “Trouxe {#item_name5021284}?”"}
+{"id": "LocalText/drama_dialogue6210118", "revision": "29e4a9b655b64570ad1def846bcf1c965dd346e3d876a9db9deddd7ec3dc6c9d", "ptbr": "Ao ver você chegar, o velho pergunta: “Trouxe {#item_name5021506}?”"}
+{"id": "LocalText/drama_dialogue6210119", "revision": "95ab4f81f192d2d34405e0af02db56ec74f0899e6811f7f5a77fe34a30ef634e", "ptbr": "Ao ver você chegar, o velho pergunta: “Trouxe {#item_name5021264}?”"}
+{"id": "LocalText/drama_dialogue6210120", "revision": "f905bd72703bc13eac163515ebd72afb788d215d2d65632baa6525e105c00c8f", "ptbr": "Ao ver você chegar, o velho pergunta: “Trouxe {#item_name5021254}?”"}
+{"id": "LocalText/drama_dialogue6210121", "revision": "c07d8111cd75e21f70d0ad92d03eb8ed8f21dda74be1e494457b4ab1a336cb11", "ptbr": "Ao ver você chegar, o velho pergunta: “Trouxe {#item_name5021204}?”"}
+{"id": "LocalText/drama_dialogue6210122", "revision": "f1bc8213b4d523bf2ddc4d1ae999fee08f38f41b51eee0520b7ae30d6291b0c3", "ptbr": "Ao ver você chegar, o velho pergunta: “Trouxe {#item_name5021244}?”"}
+{"id": "LocalText/drama_dialogue6210123", "revision": "d2c25c9ffa38ab53f49104956fa55d064823a3a7706920bea7413ee698ece442", "ptbr": "Ao ver você chegar, o velho pergunta: “Trouxe {#item_name5021314}?”"}
+{"id": "LocalText/drama_dialogue6210124", "revision": "31ec2ea803db09e9ed15f6b2dc6a3a0e3a912d290dbddb7e346b64473e139d3c", "ptbr": "Ao ver você chegar, o velho pergunta: “Trouxe {#item_name5021184}?”"}
+{"id": "LocalText/drama_dialogue6210125", "revision": "324325aea32f73ef46bb0a890618d6dc96cbdf37d5cbfb25bb0030dda14deab8", "ptbr": "Ao ver você chegar, o velho pergunta: “Trouxe {#item_name5021194}?”"}
+{"id": "LocalText/drama_dialogue6210126", "revision": "ef377de540c889634c25445a8f79a3eefe627de2c5c21348bc9fd40ab82a4353", "ptbr": "Você escapa depressa da área, deixando um mar de fogo para trás."}
+{"id": "LocalText/drama_dialogue6210127", "revision": "885316daca3f5c5e57a5c901847a1a479108b66a5017e2e5f897df93f3206737", "ptbr": "Você entrega os materiais ao velho, e ele começa a reconstruir a matriz..."}
+{"id": "LocalText/drama_dialogue6210128", "revision": "0b3b24e2ed84836a6ca2db7968a4bbe7944a2013b8591f53bbe70399f2544d76", "ptbr": "O velho termina depois de um tempo e diz: “Talvez você tenha causado este problema, mas ao menos fez as pazes. Este Manual é para você.”"}
+{"id": "LocalText/drama_dialogue6210129", "revision": "40bd0f31722c7bcc6db936ce70c265274596455009532c0bf01502974da4efdf", "ptbr": "Ele entrega um Manual a você e então desaparece."}
+{"id": "LocalText/drama_dialogue6210131", "revision": "502aab7b8015bca9d0d08d78a1a4fbbb9630f742ea443a28eeb3f31cd579a447", "ptbr": "A notícia de que você ajudou a apagar o incêndio começa a se espalhar pela região."}
+{"id": "LocalText/drama_dialogue6210151", "revision": "0cc1905e48c6d170a29436fc63cd7e87c4c59d998ed7f81e71a40fe335aba563", "ptbr": "Tenho um Manual agora, mas praticá-lo está demorando demais... O que fazer...?"}
+{"id": "LocalText/drama_dialogue6210152", "revision": "ada1edd94515a224f23e038815fcbf4a2a428ce93506ad6d2ed1bb854f3e4c8f", "ptbr": "(Olhando para o Manual e os outros objetos no seu Inventário, você tem uma centelha de inspiração ao ver as Pedras Espirituais.)"}
+{"id": "LocalText/drama_dialogue6210153", "revision": "01ca761cfcc2691cb707e5b0309247a5a381ff0d6da7322786a7b7e06589eab4", "ptbr": "Isso! Tenho Pedras Espirituais. Posso usar a energia delas para acelerar o meu cultivo!"}
+{"id": "LocalText/drama_dialogue6210171", "revision": "3ddefecc2d290a05aacf222c3c37408c0299b218e81809b7add727d168a69be8", "ptbr": "Você encontra umas Pedras Espirituais num rio adiante."}
+{"id": "LocalText/drama_dialogue6210172", "revision": "08c4f65d0a857c50a87ead174003a723c81871d2f7c7369f86f99d0e69227a30", "ptbr": "Você tira do rio um grande número de Pedras Espirituais. Sente-se extático."}
+{"id": "LocalText/drama_dialogue6210173", "revision": "b22ae0005e6e912898f0a81785b8f02e61a1813ca82927f9c9d42c16cb990831", "ptbr": "Ao sair da água, uma voz serena ressoa do rio: “Ladrão.”"}
+{"id": "LocalText/drama_dialogue6210174", "revision": "a9471043daf5b18a2609f09da8bcdee6587c35bccc6fab9d9d66f0bd7546055e", "ptbr": "E um relâmpago estala do céu e o atinge. Você desmaia."}
+{"id": "LocalText/drama_dialogue6210175", "revision": "3b95cf79d18e141a30a060b10d84c5155f460f32a7b5dc47ee65d7d6ed021766", "ptbr": "Quando você recobra os sentidos, ainda está perto do rio. Verifica rapidamente o Inventário e descobre que as Pedras Espirituais colhidas do rio desapareceram todas. Você parece ter perdido também parte das Pedras Espirituais que já tinha..."}
+{"id": "LocalText/drama_dialogue6210176", "revision": "070e00a6dbdda1639eec1c8a6047a3424ca6ac81b3e1b4f12b34e32864fd454a", "ptbr": "Você de repente percebe por que há tantas Pedras Espirituais no rio..."}
+{"id": "LocalText/drama_dialogue6210177", "revision": "45831ee0034f753179482854920db26b188544cd95847ad4c814b3d7660bb1e1", "ptbr": "Quantas Pedras Espirituais você joga?"}
+{"id": "LocalText/drama_dialogue6210178", "revision": "f10fcd725e38d0d41136b65aaa3232cdde271d88c918512947d0b315d5e6430e", "ptbr": "As Pedras Espirituais caem na água com um plop, sem nem fazer um respingo..."}
+{"id": "LocalText/drama_dialogue6210179", "revision": "e5be65ae4217e0421b35c6f2c7f6618a8956c7d662769b0075ec7184b28420af", "ptbr": "As Pedras Espirituais caem na água com um plop, fazendo pequenas ondulações..."}
+{"id": "LocalText/drama_dialogue6210180", "revision": "129e5d74c9ea29d441ad862bafa9b084d8eccc11c6806854347bd76c2cc83a76", "ptbr": "As Pedras Espirituais caem na água com um plop, fazendo ondas..."}
+{"id": "LocalText/drama_dialogue6210181", "revision": "bdd88715e6f42f081817380dbaa9194b18c54917662a6264093281e5bd880f4d", "ptbr": "Você joga um número enorme de Pedras Espirituais. Uma figura parece erguer-se das águas, mas é atingida pelas Pedras Espirituais e desmaia. A figura desaparece..."}
+{"id": "LocalText/drama_dialogue6210182", "revision": "e1d191ddcaa6eefabc0b6811ef02375bcd51d6cccce0020b42331dc1eedd730e", "ptbr": "Um terror quase primordial ergue-se das profundezas da sua mente, e você escapa depressa..."}
+{"id": "LocalText/drama_dialogue6210191", "revision": "15b44edd2dff9a5f9ac9fade5e89e9b747b69fb9d9185482c8735a01c6faa5ab", "ptbr": "Você vê uma vaca completamente negra, com um só chifre, numa montanha."}
+{"id": "LocalText/drama_dialogue6210192", "revision": "1baec0924747469705729ba8367aadd9a698909afc0a4130e6c7f492e41897fe", "ptbr": "A vaca não parece incomodada pela sua aproximação. Em vez de fugir, ela se afasta e revela alguns itens atrás dela, uma pilha de Pedras Espirituais e umas tâmaras. A vaca sinaliza com os chifres, parecendo pedir para você escolher um."}
+{"id": "LocalText/drama_dialogue6210193", "revision": "82c26289c6a2ab40d9bc2e3b845dee117c30bfb2b8343601746d2966aaab3af0", "ptbr": "Com os olhos brilhando à vista da pilha de Pedras Espirituais, você as apanha. A vaca muge com desdém e vai embora."}
+{"id": "LocalText/drama_dialogue6210194", "revision": "a26b022c93db94c091d77ffd58c16091056475b577352a294d2efe5a48e6fdff", "ptbr": "Você come as tâmaras e se sente saciado."}
+{"id": "LocalText/drama_dialogue6210195", "revision": "01cbb1aab238e00ada9da3e6f0653cafde3c0d3a69041d2d2e741059ca5ab5bc", "ptbr": "A vaca vai e volta segurando um Fruto Espiritual na boca. Ela deixa o fruto cair aos seus pés e sai."}
+{"id": "LocalText/drama_dialogue6210201", "revision": "d6081e781a2ed7ba6ccd7099c7cc14a7d480d89d15ceb2dbd9b8a520b4e0e0c3", "ptbr": "Você vê umas plantas. As folhas lembram manjericão, o caule lembra campânula, e as flores são negras como breu."}
+{"id": "LocalText/drama_dialogue6210202", "revision": "1deb67c8de7bd02dad546ebfc65d05c37ca5abc5b84a61631b641dc62c3f2b29", "ptbr": "Você sente uma dor intensa no estômago depois de comê-las. Demora muito para se recuperar..."}
+{"id": "LocalText/drama_dialogue6210203", "revision": "89fbea4939f956d1cbfbb617e1fe119b840d8a9fd5d629cb03bda662664f27b3", "ptbr": "Você ignora as plantas e segue o caminho."}
+{"id": "LocalText/drama_dialogue6210211", "revision": "3b1f414836d7a09ab5c4cfc878a2e9facebb389539116eaeaf53ed5809fab6f3", "ptbr": "Parece haver peixes nadando no rio."}
+{"id": "LocalText/drama_dialogue6210212", "revision": "85bf498d588b0a3e55e75a25dcc2c99da6fb276575966164fd7940cbae8c011a", "ptbr": "Você fisga um grande, mas ele se debate e se solta da linha. Depois cospe água em você e nada depressa para longe..."}
+{"id": "LocalText/drama_dialogue6211029", "revision": "1858fa0d3316de8420640beccab07914e98d0b4f5090a907e0add95177ff6d35", "ptbr": "Começar..."}
+{"id": "LocalText/drama_option60901781", "revision": "26b2f58dfa20efbe9494c7a3b51d3dc53c7d84da05ca14675f3d3386abb136e2", "ptbr": "Comprar o Elixir"}
+{"id": "LocalText/drama_option60901782", "revision": "6240c368866f4931fe6686d442cc00d3e12fe49910d45b099437436e9c2c590d", "ptbr": "Talvez outra hora"}
+{"id": "LocalText/drama_option60902031", "revision": "5784aa9297ce1f1cdc3fbdd96eaa0577466607da69e5a842b7dd3281c8e23c6c", "ptbr": "Ajudar"}
+{"id": "LocalText/drama_option60902032", "revision": "f310d412254a6fe2b47536d4e48d92c3c60b504954454972191d4fc65bc3e503", "ptbr": "O veneno está fundo demais"}
+{"id": "LocalText/drama_option60902033", "revision": "ec944def14af2abc35b8f7a846720ae985721fb02d67f2840671af857c30e2fc", "ptbr": "É a lei da natureza."}
+{"id": "LocalText/drama_option60902051", "revision": "61c42dd6c2fd1655d51022be51158e43ab67b21ae1e22bff26a700cac78204fa", "ptbr": "Vale a pena tentar"}
+{"id": "LocalText/drama_option60902052", "revision": "00efc5eb390d77620c544e69629cb7fcc9a89dd6415c905db192b8a8095a928d", "ptbr": "É a lei da natureza."}
+{"id": "LocalText/drama_option60910011", "revision": "29555df1d338916121d4ed929ac3af0f1055fae3ac25a473f3693c3f5e0c53c3", "ptbr": "Tirar uma"}
+{"id": "LocalText/drama_option60910012", "revision": "9c679b193a22091130b17dd5ced8a64a79074c21a789478a392df1443c088b2c", "ptbr": "Partir"}
+{"id": "LocalText/drama_option60910531", "revision": "03151688f33a21eab3ae15125ad361defdc85f0c4b2b292d328055c1a2944017", "ptbr": "Agradecer e ir embora"}
+{"id": "LocalText/drama_option60910532", "revision": "8742375de4fe82a64b1e791d9d9d4bdd42934fc5a457626f9d912647587b4aa6", "ptbr": "Dar uma gorjeta"}
+{"id": "LocalText/drama_option60910561", "revision": "7d9f3af8e36cf21d476d44a3882a5ef20ef2118641c175fe3c1e5338ea62e28f", "ptbr": "Agradecer e ir embora"}
+{"id": "LocalText/drama_option60910562", "revision": "78d7aebad3d18f7412a1e63bd83a12d3af60b33fa6c6eafa2c036d5d39697dfb", "ptbr": "Dar uma gorjeta"}
+{"id": "LocalText/drama_option60910591", "revision": "0d87a284ada141764383ee7a7482caf201c8139b619b25edf41d01ca2dfe371f", "ptbr": "Agradecer e ir embora"}
+{"id": "LocalText/drama_option60910592", "revision": "9011c7161c50115a92f40a17bb69f26e76cc362aa6b802fcd76a3c72ba6844ed", "ptbr": "Dar uma gorjeta"}
+{"id": "LocalText/drama_option60910621", "revision": "de0d85fd9f45c0451bcb4e63045f35526ae911c58195282d3458f98bbab2baef", "ptbr": "Agradecer e ir embora"}
+{"id": "LocalText/drama_option60910622", "revision": "4a010870af29445a1a024b87814d687ad4024be0e4aeb5981edd6d22cf7bf5b2", "ptbr": "Dar uma gorjeta"}
+{"id": "LocalText/drama_option60910651", "revision": "7a6a916de126d146deb8daa0f3244ff4a27765a18f032317ccdceb532ee9009e", "ptbr": "Agradecer e ir embora"}
+{"id": "LocalText/drama_option60910652", "revision": "709601bb4316195dc30ea0bc29bd0e2afc1ed6905af1fe3356eca8a954081990", "ptbr": "Gorjeta em Pedras Espirituais"}
+{"id": "LocalText/drama_option60910681", "revision": "eb00f6555cb98d25d59170b54d2157d8f129ed0d116a49f8c63e391b114a52ec", "ptbr": "Agradecer e ir embora"}
+{"id": "LocalText/drama_option60910682", "revision": "762fb91513f5f1d1f2f5fea1e6df6714cfdefef2508c1ce991dc7c894ecdf334", "ptbr": "Dar uma gorjeta"}
+{"id": "LocalText/drama_option60910711", "revision": "efa7b3b55a151dfe8d90631f1892f783bd067e7fce221ea6f8c9bc92697ce4d6", "ptbr": "Não me enganas com isso"}
+{"id": "LocalText/drama_option60910712", "revision": "34cfb8cd947efc46ce38154a01be8906bb8cfb61a85bbc847dc311967c07d38e", "ptbr": "Pagar para mudar o destino"}
+{"id": "LocalText/drama_option60910741", "revision": "b3bd3d5f5afa1268f04be693562a2697bd28eb30b5115fb8c42afe0ea217ca06", "ptbr": "Não me enganas com isso"}
+{"id": "LocalText/drama_option60910742", "revision": "671f65a8a1f6e4d670465c7995870a0aac89c06e0de2325099676074ca497921", "ptbr": "Pagar para mudar o destino"}
+{"id": "LocalText/drama_option60910771", "revision": "16e3490dacc6f7a8010349cf6883ff347b17b06297b195ed5f4a54a37968cb93", "ptbr": "Não me enganas com isso"}
+{"id": "LocalText/drama_option60910772", "revision": "d99c654096f5a80feae8301327f156efdb7ecdb7cd9eaf8a954fcc9d6e3dfa86", "ptbr": "Pagar para mudar o destino"}
+{"id": "LocalText/drama_option60910801", "revision": "7c7a619d655276e51a089bf92366481f651a950b79b24a6423829c6f3276442b", "ptbr": "Não me enganas com isso"}
+{"id": "LocalText/drama_option60910802", "revision": "45acea4396cadbb110481943a4be987a5f978b6bf198db18a69580c5b0b18fd2", "ptbr": "Pagar para mudar o destino"}
+{"id": "LocalText/drama_option60910831", "revision": "73d5ddf54a69a01fa7cf77122ed32603eb30bdc85c65dadd8c4e4e7ffe518a4b", "ptbr": "Não me enganas com isso"}
+{"id": "LocalText/drama_option60910832", "revision": "b26bd52a5e32c00fad97ef2c8f9c67fcf1822376af7987b565564a12a3d8f1a0", "ptbr": "Pagar para mudar o destino"}
+{"id": "LocalText/drama_option60922521", "revision": "3c2dac4a9010db9450553d7a71f3c4d935200108ace67e7960e66584d856db55", "ptbr": "Preencher as lacunas"}
+{"id": "LocalText/drama_option60922522", "revision": "35a39b7f0e71733402993f944189379e2a9d1f0ceaf2dea0e5bf99cb796d94ee", "ptbr": "Dar meia-volta e partir"}
+{"id": "LocalText/drama_option60922541", "revision": "102df750709d7efea17ba3aa3eec230fb9a20712bbefea3e3e84e4c13af41be0", "ptbr": "Aceitar o Cultivo Dual"}
+{"id": "LocalText/drama_option60922542", "revision": "0e64feb511bc093bf83512fc719e1c8379e036107986c87ae99d49386c85a9c3", "ptbr": "Recusar"}
+{"id": "LocalText/drama_option60922551", "revision": "c3311107c9e76df17ab16a67cb3251f99429776649d8ae6c8f7bc66fb0a53c05", "ptbr": "Aceitar o Cultivo Dual"}
+{"id": "LocalText/drama_option60922552", "revision": "65669fd170804887bd2427ea97c9f1e2dd32139c0a2b38184348f051dcb11ec9", "ptbr": "Recusar"}
+{"id": "LocalText/drama_option62100041", "revision": "e5697eda83a09e8293323c4435c40904cf9eef7951ecf767ba212b8bb936556d", "ptbr": "Ajudar quem viu o fruto primeiro"}
+{"id": "LocalText/drama_option62100042", "revision": "f259fafee62c62059e4683d3752072e462a659b10707a0119da920021489afd6", "ptbr": "Ajudar quem agarrou o fruto primeiro"}
+{"id": "LocalText/drama_option62100043", "revision": "97ad43bcdc6a9057130f2cdc5824801b70dd25e470f7f3b4dfe69bc7d649718e", "ptbr": "Enquanto eles lutam..."}
+{"id": "LocalText/drama_option62100044", "revision": "cd721ddfdcce8e5f0712dc2f74e051b797589b198db7cf6c78b887023372a714", "ptbr": "Isso não tem nada a ver comigo"}
+{"id": "LocalText/drama_option62100221", "revision": "30fc0c7f9594cf01b96ecc46fc9ebf1dc4475a0ffe7dbeb42f82f6793c6c161c", "ptbr": "Ir embora"}
+{"id": "LocalText/drama_option62100222", "revision": "9286993fed7c7f17b7e9ce5328d85581791579757aec18ad867a0e4b488e88df", "ptbr": "Partir"}
+{"id": "LocalText/drama_option62100511", "revision": "d4ef66b8cf7f78286e01c6aed2a00c09f472cdbc8251781c9250ebe248002947", "ptbr": "Descer à beira do rio"}
+{"id": "LocalText/drama_option62100512", "revision": "151230e0453a21ab598f6065b2751051e82c5bed0627b37d39e38aef656cea50", "ptbr": "Pescar no rio"}
+{"id": "LocalText/drama_option62100821", "revision": "1055b25114a65423cab348b722e114fe82685c05ad0844ba083c94980c42af08", "ptbr": "Entrar para cultivar"}
+{"id": "LocalText/drama_option62100822", "revision": "003f7f444d0242157d0316e61517e72ca6a6399cee9d5ed2ad6a39cef5da1e2e", "ptbr": "Entrar para sentir a brisa fresca"}
+{"id": "LocalText/drama_option62101091", "revision": "14c037c939e92a4a754a80d206ba63f91330e00e787914ff20992fd8cc0360e2", "ptbr": "Tenho sim"}
+{"id": "LocalText/drama_option62101092", "revision": "a686489f048ca1e1a36e96f7c6b322796da59c416c317bc1dc09fa00daa31fe8", "ptbr": "Ainda não tenho"}
+{"id": "LocalText/drama_option62101711", "revision": "5c910d1f878049508eea21bff01f394ca78f441316e582e4d9c3c6c6aef1594b", "ptbr": "Pegar as Pedras Espirituais"}
+{"id": "LocalText/drama_option62101712", "revision": "0d6443ef31ae1ae397ec721acc0d64bdc12c9deaca39627abccdb384da06d7e4", "ptbr": "Jogar umas Pedras Espirituais dentro"}
+{"id": "LocalText/drama_option62101713", "revision": "62ef9129f50ea1cada4cea4fd7049701612bdc370b132638330c073f18ae8678", "ptbr": "Passar bem longe"}
+{"id": "LocalText/drama_option62101771", "revision": "bc564b900f94258d0e5be3a3bbf6ab58a22a2deaf6fba62208f2062b5bbfe382", "ptbr": "100"}
+{"id": "LocalText/drama_option62101772", "revision": "eec100b13983934536b727c578a255d35088c659bd10d7003998008d122963ff", "ptbr": "500"}
+{"id": "LocalText/drama_option62101773", "revision": "d03674efab69c512e7456a3d5f2a3c689239e062330c78eb6dc51de5a969441b", "ptbr": "1000"}
+{"id": "LocalText/drama_option62101774", "revision": "13b781c2b5e67625fa3ecab1bbe7e4152af834aeb78ae201f5a6a7a61837eef6", "ptbr": "10000"}
+{"id": "LocalText/drama_option62101921", "revision": "05f75e520252ba2ee16800cd6b094a38eab6af65d5c4fd5f69bb4ffd8758b618", "ptbr": "Pegar as Pedras Espirituais"}
+{"id": "LocalText/drama_option62101922", "revision": "bce435b5465af7184f8a02471b271217c56f584d2eb8cac1ee7a4583f4b72002", "ptbr": "Apanhar as tâmaras"}
+{"id": "LocalText/dramakuafu_dangqianzhuangtai", "revision": "f0873c6b18d7728414b2640b711aaed160489f0e9b5f90d14fd01fa6d46582d3", "ptbr": "Estado atual"}
+{"id": "LocalText/dramakuafu_jiyuwupin", "revision": "437e0c5c8d76da5bcb53c46e914c445939b62269f223fe98579c347bac10ae16", "ptbr": "Dar item"}
+{"id": "LocalText/dramakuafu_meiyueyidong", "revision": "8174cd3138eddabb86574aa3728be5da0865afcb2842fa2ee9d7102b458a3aee", "ptbr": "Distância de movimento mensal: {0} espaço(s)"}
+{"id": "LocalText/dramakuafu_qiyun", "revision": "c5bbe8fb8f82aaa1894d706e4780a7c78328c24d81e814e4d1716c6ba976f999", "ptbr": "Destino: "}
+{"id": "LocalText/effect_desc3141111", "revision": "6ffe74f3ac9e683fdef2869d15a1028f9f439ae61b10c22102d58ae421b0703c", "ptbr": "Recebe dano ao longo do tempo."}
+{"id": "LocalText/effect_desc3631122", "revision": "d56bc8a575d7501443f13204fd43b56b3b87e5199b37f8de9e4852e09d9af619", "ptbr": "Você recebe 1 camada de Punição de Raio cada vez que aciona um Raio. Você pode conjurar a Punição Trovejante quando houver camadas suficientes."}
+{"id": "LocalText/fateFeature_tupodanyao", "revision": "6138ff5bf33781e7256c67f996083c21293a94c0b8c0cdb4497d8c99b0f15ef7", "ptbr": "Itens de Rompimento"}
+{"id": "LocalText/fateFeature_tupodanyao1", "revision": "7ce8c5a23783e656e475942863ea963b4096850d03ecd9df8d336983a5fc78ef", "ptbr": "Os Itens de Rompimento ajudam você a quebrar os seus Gargalos."}
+{"id": "LocalText/fateFeature_tupopingjing", "revision": "55d604712b40afa5ad906d7dd1dd5a632f258be7e381f2194c603e4aa211e08b", "ptbr": "Rompimento"}
+{"id": "LocalText/game_benyueshij1", "revision": "6fcd558f7a518a0a289ffb213d6ac3e82b4ea3de4abc1bc9f7d05fcadf6aa0b0", "ptbr": "Não há mais tempo no mês atual."}
+{"id": "LocalText/game_benyueshij2", "revision": "f8e662de97c2fac1cd1d733b6162c650b96a0944c7f9e99e4836d6ebdbcaeba6", "ptbr": "Pular o mês"}
+{"id": "LocalText/game_gengxinyouxi", "revision": "2f8d2baf36cb847e748a36b76934b759cf09d0222df4354729fa213d7b7e67f0", "ptbr": "Verificação falhou. Verifique a sua conexão com a Internet e reinicie o jogo."}
+{"id": "LocalText/juqing_zhuanmuquhuo1", "revision": "7f09a719c0742313c9c0e2139190cc8aa4227291f27cc97672cf692bc1610384", "ptbr": "Observação"}
+{"id": "LocalText/juqing_zhuanmuquhuo2", "revision": "587f28d9dd74c862c1e7d2f22fe48990c64419c4fbc5ae8ec0c44951c274a7d6", "ptbr": "Perguntar"}
+{"id": "LocalText/juqing_zhuanmuquhuo3", "revision": "267aad3582ae7e712a79f75c14d6843b7be3132dd5325aa509a8731e56bb2b6d", "ptbr": "Observar de novo"}
+{"id": "LocalText/npc_name3001", "revision": "67e5c058fc7c82e8b5393798c895d01994994ed798d755cde2da55172fa4b620", "ptbr": "Homem Misterioso Jo"}
+{"id": "LocalText/npc_name60001", "revision": "564c2acb3d6c269ca3301f56bac5cbe3d98b0f8ef6ed3594d402647e26de0776", "ptbr": "???"}
+{"id": "LocalText/player_jingyan", "revision": "f882d07bc6957017ed825310c7dc8e238c51d7e3c9d607d11fb3b77005f8fbc8", "ptbr": "EXP"}
+{"id": "LocalText/playerinfo_xuanzedanyao", "revision": "90b1b9d3e6712680a1ed9600e11bd1b8ec20b29a5e15e368975ee9c6e674aae3", "ptbr": "Selecione 1 {0}"}
+{"id": "LocalText/props_tiaojianbuzu", "revision": "bbcf53580142b5c2c1ea201166aebf62b4781b037072cced996b021c09b02d50", "ptbr": "Requisitos não atendidos"}
+{"id": "LocalText/props_wuciqiyun1", "revision": "dd445d6f71220f87c8f5a0566df57d59f3e1d617bc6097081885ae034571e6af", "ptbr": "Você não alcançou o Gargalo de {0} e não pode usar {1}!"}
+{"id": "LocalText/props_wuciqiyun2", "revision": "b3b0cbf202aeafb2418ab5d4056b8f14ea650a388d16de63db7c3875b4aae227", "ptbr": "Você não alcançou o EXP máximo deste Reino!"}
+{"id": "LocalText/taskDesc110001", "revision": "ab5c0d056e9a3720c1632ce92901a0aa7752be80f3859c9959374a924ed6bbd1", "ptbr": "Recolha {#item_name5021032} x20 para o velho reconstruir a matriz"}
+{"id": "LocalText/taskDesc110002", "revision": "dcfef2caf81ba2bf419b958e711ec8e6b4da48c9f653b301eb8b9225da828018", "ptbr": "Recolha {#item_name5021124} x5 para o velho reconstruir a matriz"}
+{"id": "LocalText/taskDesc110003", "revision": "4216f3b30d9263b739d35a29f0e06791b7eeedc20955f10ccc0ede6d25b5ae05", "ptbr": "Recolha {#item_name5021144} x20 para o velho reconstruir a matriz"}
+{"id": "LocalText/taskDesc110004", "revision": "e8c1dc9dcf2a78d3931d35a880fce9a750703d29c50a9a7f83744b78fcb5c855", "ptbr": "Recolha {#item_name5021294} x20 para o velho reconstruir a matriz"}
+{"id": "LocalText/taskDesc110005", "revision": "6d75be2debbb57b68314c0ef180a1e0f0755a5f53096860fc9bf6b5d2205f0d6", "ptbr": "Recolha {#item_name5021486} x20 para o velho reconstruir a matriz"}
+{"id": "LocalText/taskDesc110006", "revision": "1a6b2686b39a34a3e815b0f7fcbbb6965394c7e53b0fa1ce5edca48294c88a93", "ptbr": "Recolha {#item_name5021134} x40 para o velho reconstruir a matriz"}
+{"id": "LocalText/taskDesc110007", "revision": "5f0270aa11307257a25a0d8488719bc6ef1c994e2b312c5237068c3dbb1b5add", "ptbr": "Recolha {#item_name5021534} x40 para o velho reconstruir a matriz"}
+{"id": "LocalText/taskDesc110008", "revision": "882ca9b189efd1fd56024ffcc5defcbf21284b316b4aeb2201441d3b687a18cd", "ptbr": "Recolha {#item_name5021274} x80 para o velho reconstruir a matriz"}
+{"id": "LocalText/taskDesc110009", "revision": "123ccc11bff6a092d8b4d75e8fb7745461326d7c3f6499c9ee6d723a98b42a3d", "ptbr": "Recolha {#item_name5021284} x60 para o velho reconstruir a matriz"}
+{"id": "LocalText/taskDesc110010", "revision": "322679c3992af32a837abc5bea887acb6c08e9783c2c83bd1b3cb0db6430a251", "ptbr": "Recolha {#item_name5021506} x60 para o velho reconstruir a matriz"}
+{"id": "LocalText/taskDesc110011", "revision": "b7103a73bb4c4dff5835a394891573cd6ae7718e3de1185d3f95b6c30497f7bc", "ptbr": "Recolha {#item_name5021264} x5 para o velho reconstruir a matriz"}
+{"id": "LocalText/taskDesc110012", "revision": "26943208d76d260a6a79c9e04138b766ed39e6cb1b91ae64bdb2be52cdd4dab0", "ptbr": "Recolha {#item_name5021254} x25 para o velho reconstruir a matriz"}
+{"id": "LocalText/taskDesc110013", "revision": "0ff6d96de20ac54defc0e736f2ecff63fc4f34c4c1aeef9e52e0e91117766fdd", "ptbr": "Recolha {#item_name5021204} x50 para o velho reconstruir a matriz"}
+{"id": "LocalText/taskDesc110014", "revision": "3189775d64a80ee34b175d058e5d6a113f0a28a3c29f9c66739dd6b58ce9caac", "ptbr": "Recolha {#item_name5021244} x25 para o velho reconstruir a matriz"}
+{"id": "LocalText/taskDesc110015", "revision": "4eecd2a8515858cf292f3255be5774bebba6c14b47cf14b72b707fd2a911b07c", "ptbr": "Recolha {#item_name5021314} x25 para o velho reconstruir a matriz"}
+{"id": "LocalText/taskDesc110016", "revision": "10e2d26c08c8c63be7debdf2b971bca244a4ce4ddebde1e627f2f11d749f83cf", "ptbr": "Recolha {#item_name5021184} x60 para o velho reconstruir a matriz"}
+{"id": "LocalText/taskDesc110017", "revision": "84a97b1d6fb81fa1bf1ea374048c3a4e8ea46ba7a260e2c52751e6a63297952c", "ptbr": "Recolha {#item_name5021194} x30 para o velho reconstruir a matriz"}
+{"id": "LocalText/taskDesc110018", "revision": "aab959bd419ae354a02d0b36278a07f88655a771dfb966de9c153a440f3c0145", "ptbr": "O homem misterioso pede a sua ajuda para matar uma pessoa. Ele ainda não disse quem precisa ser morto, e nem ele mesmo sabe onde essa pessoa está..."}
+{"id": "LocalText/taskDesc110019", "revision": "f3c3317a40215abe83cf54e2b7047e2638520a9e79978c79c1bc81c3643701e0", "ptbr": "Encontre Pergunta ao Coração e entregue a Yuanzhi"}
+{"id": "LocalText/taskDesc110020", "revision": "ea4be4163c3d74ea7b3667b92c7e59057a9cf19e731aeaf76d5ed78608841a1a", "ptbr": "Entregue Pergunta ao Coração a Yuanzhi。"}
+{"id": "LocalText/taskDesc110021", "revision": "b43cc689eb55684058928d896fab54196d12b26a7f56acc9022a54561dec7684", "ptbr": "Obtenha qualquer tipo de Fruto Espiritual no {#schoolBuildingName1102} da seita"}
+{"id": "LocalText/taskName110001", "revision": "5588ff871c86e064222f1343a00a3267e9955099f6824bb14dab2a4fa2b232b1", "ptbr": "Coletar materiais para consertar a matriz"}
+{"id": "LocalText/taskName110018", "revision": "03d22efc6f5f42283601713fd6b90e4d54fe360151018f0b4085a2be87c29b9b", "ptbr": "Ajudar o homem misterioso a matar o inimigo jurado dele"}
+{"id": "LocalText/taskName110019", "revision": "3b6cae5966864524499a9cc6a66603ac1797b8036ec65b19b89668624d35f785", "ptbr": "Encontrar Pergunta ao Coração"}
+{"id": "LocalText/taskName110020", "revision": "5b13e96a55e6a2faf53bf0b3ea79b3bdba485c1d7b0146adfc56af4e7d9c9ad6", "ptbr": "Entregar Pergunta ao Coração a Yuanzhi"}
+{"id": "LocalText/taskName110021", "revision": "45c5eed48cb8e453f6e528bf5b87c2c7f3d7caf27d10417e1b42779979e84332", "ptbr": "Espiritualização"}
+{"id": "LocalText/tipsText62101091", "revision": "897b24e1542a343d5242da561ae3b0035e238c28b5ed948010ce2d4e43365e19", "ptbr": "Requer {#item_name5021032} x20 para consertar a matriz"}
+{"id": "LocalText/tipsText62101101", "revision": "79545e6507494dcd915e375b6a503a50e2c089fe716f3cc252f5db355876fabb", "ptbr": "Requer {#item_name5021124} x5 para consertar a matriz"}
+{"id": "LocalText/tipsText62101111", "revision": "f884fb43f8dc7e411cd0dcafed82cd697f5a9e05c886ca28501db3a552a4bfd8", "ptbr": "Requer {#item_name5021144} x20 para consertar a matriz"}
+{"id": "LocalText/tipsText62101121", "revision": "2d359c53f1661277b3b55998fb2f6dae830a171c21e9764b87e13f1bb1bde455", "ptbr": "Requer {#item_name5021294} x20 para consertar a matriz"}
+{"id": "LocalText/tipsText62101131", "revision": "e3e5de2d66967b5c7472d6fdc79f96152997e58cb53aeb65ff449f1fc5beae4d", "ptbr": "Requer {#item_name5021486} x20 para consertar a matriz"}
+{"id": "LocalText/tipsText62101141", "revision": "64f3f144b04bdce36a89383b81b8cf22271e7f53b6a676be9cdf485aa403d054", "ptbr": "Requer {#item_name5021134} x40 para consertar a matriz"}
+{"id": "LocalText/tipsText62101151", "revision": "bd22e0110dd03151db076512cb6fe2bc6182ce8a0c84c6f917ab90d1ca71ddda", "ptbr": "Requer {#item_name5021534} x40 para consertar a matriz"}
+{"id": "LocalText/tipsText62101161", "revision": "6a7d86147c35814f8678d330d0e6ad653b667d3b83e7c330e20092606a1c2260", "ptbr": "Requer {#item_name5021274} x80 para consertar a matriz"}
+{"id": "LocalText/tipsText62101171", "revision": "3b22b36d0992972bc8bca4c3d39a3e05b9a11aa68301cb8bf55017dc69106e13", "ptbr": "Requer {#item_name5021284} x60 para consertar a matriz"}
+{"id": "LocalText/tipsText62101181", "revision": "06afbd080f9cc36db883642c6389366330b80a6ac24451668a32444f9e431f91", "ptbr": "Requer {#item_name5021506} x60 para consertar a matriz"}
+{"id": "LocalText/tipsText62101191", "revision": "3e51a8c8b062747a6adb27bede47b12cb610be8e02fa13befe0ed14640ebbcd5", "ptbr": "Requer {#item_name5021264} x5 para consertar a matriz"}
+{"id": "LocalText/tipsText62101201", "revision": "1c3167162c1ee913f2ad1ccf43da1edad13324ccb1cbcb06d7706420f9f331a4", "ptbr": "Requer {#item_name5021254} x25 para consertar a matriz"}
+{"id": "LocalText/tipsText62101211", "revision": "7b8bd9462ff90a2e752049b3af6c984801175ac531cc26c36fcbe4d4a0b00132", "ptbr": "Requer {#item_name5021204} x50 para consertar a matriz"}
+{"id": "LocalText/tipsText62101221", "revision": "2b86419b83f55e6a7030aa2c84b6a12cc7423448104b4e57c0a6ec92633c23fe", "ptbr": "Requer {#item_name5021244} x25 para consertar a matriz"}
+{"id": "LocalText/tipsText62101231", "revision": "d965115b6a8bb552a535e2904d1932b7a2513b2f37beb19dbaa975ded045f96f", "ptbr": "Requer {#item_name5021314} x25 para consertar a matriz"}
+{"id": "LocalText/tipsText62101241", "revision": "d63f9c8fe4bebee97c4e02a8f5138a59c846520bee1b6bc35fcb47c6e6ece3ad", "ptbr": "Requer {#item_name5021184} x60 para consertar a matriz"}
+{"id": "LocalText/tipsText62101251", "revision": "b595b77335d0988a03a894f225ee0cf0a221347245e08cd6e69ed873d6f10b04", "ptbr": "Requer {#item_name5021194} x30 para consertar a matriz"}
+{"id": "LocalText/upGrade_nitiangaiming", "revision": "d2c1cc9f2d6ae29d8b14e4c5db49022087ead1df434ca5266129ddb68cae750c", "ptbr": "Escolha um Destino"}
+{"id": "LocalText/upGrade_tiancaidibao1", "revision": "f65b957112379a5678028eac00bf40ba0e10a8f7fba951defdd5f9b7c52d6cae", "ptbr": "Você ainda tem espaços vazios de Tesouro do Céu e da Terra. Prosseguir sem adicionar mais Tesouros do Céu e da Terra?"}
+{"id": "LocalText/upGrade_tiancaidibao2", "revision": "e87084ea6803c2de52512a9b674babb468a117efa45ab6a3d608d98180fab6ee", "ptbr": "Não são permitidos Tesouros do Céu e da Terra idênticos!"}
