@@ -564,3 +564,16 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | Taoist Mind Pavilion / Mindsnap Temple | Pavilhão da Mente Taoísta / Templo da Mente partida | organizações 0.8.4036 |
 | Dark Abyss / Mount Daowo | Abismo Sombrio / Monte Daowo | masmorras |
 | UI Kuafu: Current Status, Monthly Move Distance | Estado atual, Distância de movimento mensal | idêntico ao lote 46 |
+
+### Lote 0048 (Editor de Mods e Aura Contratada)
+
+| Inglês (EN) | Português Brasileiro (PT-BR) | Notas |
+| --- | --- | --- |
+| Mod Editor / Mod Project | Editor de Mods / projeto de Mod | UI do editor |
+| Destiny Rarity: Common / Uncommon / Rare / Epic / Legendary / Mythic | Comum / Incomum / Raro / Épico / Lendário / Mítico | rótulos de raridade com cores <w>/<g>/<b>/<p>/<o>/<r> |
+| Destiny (Nature) / Destiny (Nurture) / Rewrite Destiny | Destino (Natureza) / Destino (Criação) / Destino Reescrito | modEnum10001 |
+| Change/Locked/Add Stats | Mudar/Atributos Travados/Adicionar Atributos | modEnum10006 |
+| Manual types: Move, Sutra, Technique, Guide, Compendium, Secret Manual, Divine Power, Mastery | Movimento, Sutra, Técnica, Guia, Compêndio, Manual Secreto, Poder Divino, Maestria | modEnum10011 |
+| Righteous Points / Demonic Points | Pontos Justos / Pontos Demoníacos | idêntico ao lote 45 |
+| Contract Aura | Aura Contratada | destino 633104xx |
+| Editor terms: Random Importance / Save Project / Locked Value | Importância aleatória / Salvar projeto / Valor travado | — |

@@ -1,0 +1,500 @@
+{"id": "LocalText/modEffectType1Desc_lockInitScore", "revision": "6c8302914c4b9a90dde54437bc7e80189bae33d2f066f740e757218848cd21dc", "ptbr": "Vê os parâmetros de pontuação de uso de mochila do NPC. Quanto menor a pontuação, mais itens podem ser vistos."}
+{"id": "LocalText/modEffectType1Name_abilityExp", "revision": "0b96e1e98f4e4f1122f56e37436a635b84b7aa0b225e507a14ea3fa8d42e2ff2", "ptbr": "Conhecimento"}
+{"id": "LocalText/modEffectType1Name_abilityPoint", "revision": "d41a56c69bb7852904a20023520396aef7f44a996ce2e4ba9be6336965f80c0c", "ptbr": "Ponto de Perícia"}
+{"id": "LocalText/modEffectType1Name_atk", "revision": "0a870efd68751a742441c47cd69474795c8d1d0331412a53ed6828dd21085d51", "ptbr": "ATQ"}
+{"id": "LocalText/modEffectType1Name_basAllMax", "revision": "96d5b526dd861034df34ca2af7348a0e5f20ec2feb9341e5069d1099a7d371c4", "ptbr": "Atributos de Batalha mais altos"}
+{"id": "LocalText/modEffectType1Name_basAllMin", "revision": "bff36807e13545a295ebcfc4cd3a2bacff26014a15eefec4aa75c7dfef7e9535", "ptbr": "Atributos de Batalha mais baixos"}
+{"id": "LocalText/modEffectType1Name_basArtAll", "revision": "3b52352e421a1f1279767dfe88025caf9eb509a4c9fde884076e256a52b3ce2f", "ptbr": "Todos os atributos de Artesanato (Forja, Alquimia, Talismãs etc.)"}
+{"id": "LocalText/modEffectType1Name_basArtMax", "revision": "addadba2a5f976e3e023bbfc81cd9c8ed346e26c7d5b370791e2ae120ddf9e41", "ptbr": "Atributos de Artesanato mais altos"}
+{"id": "LocalText/modEffectType1Name_basArtMin", "revision": "ba3249b302fcc7e6adbd6e35753ba7016877d519e729070dd46589ea74f9cb5b", "ptbr": "Atributos de Artesanato mais baixos"}
+{"id": "LocalText/modEffectType1Name_basBlade", "revision": "31fc4f504d51242be1e9e7def5267de53c3c00e9f7269a10cd918f9eea92d729", "ptbr": "Sabre"}
+{"id": "LocalText/modEffectType1Name_basEarth", "revision": "79157ff6948e3b12b05b7c5be324247f3090244a0acaa15134cad10cbd68cfee", "ptbr": "Raiz de Terra"}
+{"id": "LocalText/modEffectType1Name_basEqp", "revision": "7cc48cee6314d3be70a943d73573f7ec8331752223d18ef278af232584db67a8", "ptbr": "Perícia de Forja"}
+{"id": "LocalText/modEffectType1Name_basFinger", "revision": "11d4c7dd9c69da62992f588f17f954689dfee3d8099769236c3b7d85670c4bf7", "ptbr": "Dedo"}
+{"id": "LocalText/modEffectType1Name_basFire", "revision": "8ae1ed706767dd0457c0151d5be65ceae42b72ff93adfc370fa7b627f78c8ff3", "ptbr": "Raiz de Fogo"}
+{"id": "LocalText/modEffectType1Name_basFist", "revision": "8cd4d887d0826f128979e30de6d01372359cb70a141e9130bf5cbd7805d36a65", "ptbr": "Punho"}
+{"id": "LocalText/modEffectType1Name_basFroze", "revision": "08b21a48fb253b6825f104a0785d6beb5dc605ad228f976af821fcec6b84daca", "ptbr": "Raiz de Água"}
+{"id": "LocalText/modEffectType1Name_basGeo", "revision": "ceeb79ebb511277dd0b9a89668e1820f4ddd64025fa1e53f3d195c40f622e0e4", "ptbr": "Perícia de Feng Shui"}
+{"id": "LocalText/modEffectType1Name_basHerb", "revision": "53f999d958f14b41822b816a55ef5e3e878451176983612f799c0df692105ad5", "ptbr": "Erva"}
+{"id": "LocalText/modEffectType1Name_basMgAll", "revision": "8eed7a07555b5a4fc03ed48ac1f1c0adc3a59b185d78cff65b265f2220cc8492", "ptbr": "Todas as Raízes Espirituais"}
+{"id": "LocalText/modEffectType1Name_basMgMax", "revision": "3fe97b9291f0e0c89188edad3325eefa6e832616d6c605539605646c2a91b757", "ptbr": "Atributos de Raiz Espiritual mais altos"}
+{"id": "LocalText/modEffectType1Name_basMgMin", "revision": "91aaa8af38200f6597de94b276759b6c35f6716977dfd63ad3c3cfb4db9dd5fd", "ptbr": "Atributos de Raiz Espiritual mais baixos"}
+{"id": "LocalText/modEffectType1Name_basMine", "revision": "f0449c44015d96ca23b31d7209eb84f1500a11d1d90851b69be4caedfaaacf0a", "ptbr": "Minério"}
+{"id": "LocalText/modEffectType1Name_basPalm", "revision": "7c5ac2ef7083c34968fe4c4d01c81a47e40569c9ce97cf37e9b68c21691ce3d5", "ptbr": "Palma"}
+{"id": "LocalText/modEffectType1Name_basPil", "revision": "73ca868aac7c14fa5b54a4f8694a2f0e5074251a5f13f1220336ff44562e12d8", "ptbr": "Perícia de Alquimia"}
+{"id": "LocalText/modEffectType1Name_basSpear", "revision": "1eb1ce6802a3515f0555f9e9cad90a521ad17ff69d79e7a5488c53cb05c0b14e", "ptbr": "Lança"}
+{"id": "LocalText/modEffectType1Name_basSword", "revision": "de1f8ea95d52bda788eea2dd164e72d59d527d607b7caec43b58d18da2391929", "ptbr": "Espada"}
+{"id": "LocalText/modEffectType1Name_basSym", "revision": "8bab2c7e19bc5b958dcebfcc3e42d2c15750bf39c29260c2fba5f143fa4cdd7c", "ptbr": "Talismãs"}
+{"id": "LocalText/modEffectType1Name_basThunder", "revision": "eb0c1d244fbc4380517f41d451d92cc156e1e65ea3d2623f17fdeb3b632fd91b", "ptbr": "Raiz de Raio"}
+{"id": "LocalText/modEffectType1Name_basWind", "revision": "d934212bdde384f66c39b753cad2a8c4d30f5d6154af047e6ad245d1e4000784", "ptbr": "Raiz de Vento"}
+{"id": "LocalText/modEffectType1Name_basWood", "revision": "6d498b45a3dbae47118d1f636e3cf50f80e15f84145dd6735d40cf5e3b7f44d9", "ptbr": "Raiz de Madeira"}
+{"id": "LocalText/modEffectType1Name_basWpAll", "revision": "cbdfb2eaa54180cf4a1e4ee9606028edf18d82caff5f3053cc49471cbae8e97c", "ptbr": "Todos os atributos de Arma"}
+{"id": "LocalText/modEffectType1Name_basWpMax", "revision": "1e5c21d8b59a663fe1f38365de7e51c5052728354308bab135e67823f4209a62", "ptbr": "Atributos de Artes Marciais mais altos"}
+{"id": "LocalText/modEffectType1Name_basWpMin", "revision": "ef60e44040db0661df0f075b215ca695fcbfd6ec44cecca747ea024f00f02c9f", "ptbr": "Atributos de Artes Marciais mais baixos"}
+{"id": "LocalText/modEffectType1Name_beauty", "revision": "99a29995dc35c7abdcece80e1b1d2938553935ad049bbc451684a8607ebc48cd", "ptbr": "Carisma"}
+{"id": "LocalText/modEffectType1Name_bladeGrow", "revision": "d1543337a8b15bbb12789b3854520f5a3ef1254c28b24b13990fee9750ca18f2", "ptbr": "Taxa de aumento de familiaridade de Perícia de Sabre (Técnica Marcial, Técnica Especial) (Porcentagem)"}
+{"id": "LocalText/modEffectType1Name_closeStable", "revision": "cbe635b92e9ac6ea801fa6797e098b9f16d52aebf2a1e8cdbb95ed75c92f1a99", "ptbr": "Velocidade de mudança de Afinidade"}
+{"id": "LocalText/modEffectType1Name_crit", "revision": "17289d3de363c78965c17b18b5c040e3c99ade19b8e4eff8142bcccca5a280dc", "ptbr": "Crítico"}
+{"id": "LocalText/modEffectType1Name_critV", "revision": "21ef222fc9b887f3c6432381c470abdd3e2d30f8e7fb25dc19d9a49dc8e9367a", "ptbr": "Taxa de Crítico"}
+{"id": "LocalText/modEffectType1Name_def", "revision": "5c5df8cb5054bdba451ebaa17d8ced4596feb69b1ef40d4a41cbcbb79510fcd7", "ptbr": "DEF"}
+{"id": "LocalText/modEffectType1Name_dp", "revision": "b92a21b2d828c5ee3a98334e5179896a76784d7153dfa0e39e6cd3ee0b7a1c94", "ptbr": "Poder de Dao"}
+{"id": "LocalText/modEffectType1Name_dpMax", "revision": "37b44c767e8a4b4b5aa7f823699561ce6dbff539656abd026fdb8fa5f32e5bb3", "ptbr": "Poder de Dao Máximo"}
+{"id": "LocalText/modEffectType1Name_earthGrow", "revision": "5dd9700b4273701237a7ea73d1c7f90e774c627907d2f92e236c6573a4a4dd3a", "ptbr": "Taxa de aumento de familiaridade de Artes Marciais de Terra (Técnica Marcial, Técnica Especial) (Porcentagem)"}
+{"id": "LocalText/modEffectType1Name_energy", "revision": "6d83382a1710a137be3d504e4f039288ad1a62f8e43f97376b10562773c39cbf", "ptbr": "Vigor"}
+{"id": "LocalText/modEffectType1Name_energyDownStable", "revision": "fbc0fe6b6a6b1cb776ff64785ee1e36ee6f2272bf09f086b2c12e8bec46b1409", "ptbr": "Taxa de aumento de custo de Vigor (Porcentagem)"}
+{"id": "LocalText/modEffectType1Name_energyMax", "revision": "f3c1f3d70808740ba3735ced9ff4e4266c7fb007806e711e207071338e62dbd5", "ptbr": "Vigor Máximo"}
+{"id": "LocalText/modEffectType1Name_energyUpStable", "revision": "62dbaaf73fb2688d55a55d8760a44e0ea12a8d63d90dc9ecaedfd0dd19f3ae62", "ptbr": "Taxa de aumento de adição de Vigor (Porcentagem)"}
+{"id": "LocalText/modEffectType1Name_exp", "revision": "eb79e935598dfec8adca31b68a25cddffa23c7993e0ba4ede3c3c969ca1ced25", "ptbr": "EXP"}
+{"id": "LocalText/modEffectType1Name_expGrow", "revision": "39c71e4beac2a861e4467a9b0b79ebc643d1bedacd7ce1aafea6b7c08b045738", "ptbr": "Taxa de aumento de EXP do personagem (Porcentagem)"}
+{"id": "LocalText/modEffectType1Name_fingerGrow", "revision": "1cd12505dd9d7281222e4ac9ee8cbbd2f5c600e8d2b9df6221384703f29a07e8", "ptbr": "Taxa de aumento de familiaridade de Perícia de Dedo (Técnica Marcial, Técnica Especial) (Porcentagem)"}
+{"id": "LocalText/modEffectType1Name_fireGrow", "revision": "20cce8fbb1ff9fb7fb3279b22d5051b40516388fdaaf7aa2d930186631351775", "ptbr": "Taxa de aumento de familiaridade de Artes Marciais de Fogo (Técnica Marcial, Técnica Especial) (Porcentagem)"}
+{"id": "LocalText/modEffectType1Name_fistGrow", "revision": "cc6d0091bec7069338fd089af3087c8104e118278ce310d1ad4d34d1fed01642", "ptbr": "Taxa de aumento de familiaridade de Perícia de Punho (Técnica Marcial, Técnica Especial) (Porcentagem)"}
+{"id": "LocalText/modEffectType1Name_frozeGrow", "revision": "c152e921996965733f2121d67ac9b0e2d51dc5c42dac18dcad8eea9bda9b3ad0", "ptbr": "Taxa de aumento de familiaridade de Artes Marciais de Água (Técnica Marcial, Técnica Especial) (Porcentagem)"}
+{"id": "LocalText/modEffectType1Name_fsp", "revision": "ae01c8bef67470db2baee02f1c1824ff481237eab5e2f8707caa320197b50e5c", "ptbr": "Velocidade de Viagem"}
+{"id": "LocalText/modEffectType1Name_guard", "revision": "cf6f646b16535edfd6c7a8bb2d4265cd7cf15b1b5a2a34cca04a6321ba444974", "ptbr": "RES de Crítico"}
+{"id": "LocalText/modEffectType1Name_guardV", "revision": "00ca15bcbb05e718f2bf8d523cef8c754fb09455c493e5fc3263c9e4f3876e53", "ptbr": "Taxa de RES de Crítico"}
+{"id": "LocalText/modEffectType1Name_hateStable", "revision": "011509a290e8e77d12ee145e73c1680cdc39fbaaf33cee5127e4305c2e7b3690", "ptbr": "Velocidade de mudança de Rancor"}
+{"id": "LocalText/modEffectType1Name_health", "revision": "868cf7d1ddb97d7308fd6abb3b2e190976e93f1c226d7b27f21fa07f37e2d191", "ptbr": "Saúde"}
+{"id": "LocalText/modEffectType1Name_healthDownStable", "revision": "2ce9c2c0c4944ea493f9567b97975b8d645d6f4d011154e0a40cf8c435cb6a61", "ptbr": "Taxa de velocidade de diminuição de Saúde (Porcentagem)"}
+{"id": "LocalText/modEffectType1Name_healthMax", "revision": "18964f35fd0db5921cf603bee12a01034f53b3957ac559c6afd5f521b489813e", "ptbr": "Saúde Máxima"}
+{"id": "LocalText/modEffectType1Name_healthUpStable", "revision": "4348603e16da080bdd57445a1280584219b7cf3678ee30ed04618f6bfa04198c", "ptbr": "Taxa de velocidade de aumento de Saúde (Porcentagem)"}
+{"id": "LocalText/modEffectType1Name_hp", "revision": "8a0772d4d609ed64b05b3963dc5fef535e227e65f1b0316cd7142be244e8a0ce", "ptbr": "Vitalidade"}
+{"id": "LocalText/modEffectType1Name_hpMax", "revision": "c30218fc1c282b1f3b2f530dff011fbac307c96d769fde591d7beaca45c66ed2", "ptbr": "Vitalidade Máxima"}
+{"id": "LocalText/modEffectType1Name_hpRes", "revision": "dfbc122eb48c6053968c6e0e78d0848715c6377cd3f67871fa027f1e18d4f53e", "ptbr": "Recuperação de Vitalidade"}
+{"id": "LocalText/modEffectType1Name_life", "revision": "98fd42877ea0db6caeedbbd42c9e4d673b9f03c9a2fbb64d962c2b7615f7f38d", "ptbr": "Longevidade (Meses)"}
+{"id": "LocalText/modEffectType1Name_lockInitScore", "revision": "a4be7d170cd0526f04539afdf2f6b6f6d48bddb1251c9290c68bf34ebf572062", "ptbr": "Pontuação de selo original do item"}
+{"id": "LocalText/modEffectType1Name_luck", "revision": "26b2274ddde3641ec3a33dd5624ee9320cd46e4d054030274b95f59a6ec865a3", "ptbr": "Sorte"}
+{"id": "LocalText/modEffectType1Name_mfr", "revision": "a1879ddb4b0f1302386276af56b53369e63c9cdfc6f428aed83c59932954d08d", "ptbr": "RES de Desvio"}
+{"id": "LocalText/modEffectType1Name_mood", "revision": "534540499106422f76a8bbc486aecb42b4d94db5f451e0c69e05eba5ba8e578c", "ptbr": "Humor"}
+{"id": "LocalText/modEffectType1Name_moodDownStable", "revision": "9288409da821793fe3e58298aaeaee55ccc9991eddb339c5a3d3e55812ca8dd9", "ptbr": "Taxa de Mudança de Diminuição de Humor"}
+{"id": "LocalText/modEffectType1Name_moodMax", "revision": "e6eaeb387849a86cb232191974970bb3812906fdf28cc00acb6239db4a23f77d", "ptbr": "Humor Máximo"}
+{"id": "LocalText/modEffectType1Name_moodUpStable", "revision": "08c5b4a0807dc33a1d8cec84a94b1cecfca679d178070adc139fcf81bd41ec10", "ptbr": "Taxa de Mudança de Aumento de Humor"}
+{"id": "LocalText/modEffectType1Name_mp", "revision": "fe53add0b437ab7724379ca6a97a4bbe58026728108061bae3776d840f165a45", "ptbr": "Energia"}
+{"id": "LocalText/modEffectType1Name_mpMax", "revision": "a682cb0a52a6e97ab7261f53835ee98b62ca0aeef79e42eb56f83180b434b686", "ptbr": "Energia Máxima"}
+{"id": "LocalText/modEffectType1Name_mpRes", "revision": "e69439db3ffc51fc875cb93a67a6dd74ef9941219a0b7accfc263f857f15ddf5", "ptbr": "Recuperação de Energia"}
+{"id": "LocalText/modEffectType1Name_msp", "revision": "3a68d16dffd88a781b68305bd75200f74baae1d9288af2296ad34d4d1d59c47f", "ptbr": "Agilidade"}
+{"id": "LocalText/modEffectType1Name_palmGrow", "revision": "be9a3ea208495f6aae244c3a75877f0fca3959e7ad8d996a5b09bda9d10973db", "ptbr": "Taxa de aumento de familiaridade de Perícia de Palma (Técnica Marcial, Técnica Especial) (Porcentagem)"}
+{"id": "LocalText/modEffectType1Name_pfr", "revision": "df523e38e019bc7305dabc6fa2a6d1da672ef5bf6ff88a2fb7991e75c50008f9", "ptbr": "RES Físico"}
+{"id": "LocalText/modEffectType1Name_pillLayer", "revision": "b0766574a54f4b0686f967eef6c2e5f159b131d50657e855d96899f7a8b76c5a", "ptbr": "Camadas máximas de Elixir equipadas"}
+{"id": "LocalText/modEffectType1Name_propGridNum", "revision": "084e39ab634ca3baeb951fcfbbe0a8656af863dbb9e6bc32c51aa4397804b000", "ptbr": "Quantidade de espaços da mochila"}
+{"id": "LocalText/modEffectType1Name_reputation", "revision": "b1d0ded22740a62ba811fe8bc889f5723b328b10fd3c4254c156b6db276111a1", "ptbr": "Reputação"}
+{"id": "LocalText/modEffectType1Name_sp", "revision": "56eee821c6e87e286935bec9c2880f406ce2e14c6687279bf170f140432acadc", "ptbr": "Foco"}
+{"id": "LocalText/modEffectType1Name_spMax", "revision": "a5c2fb89be1b69c8b0a5025ac563fe888da134f6effc3d1fc9c935ddda7b514d", "ptbr": "Foco Máximo"}
+{"id": "LocalText/modEffectType1Name_spRes", "revision": "02b236f7f0481496f78bdfad70f54c0a356ac49498b7994985b8d86047e91fd3", "ptbr": "Recuperação de Foco"}
+{"id": "LocalText/modEffectType1Name_spearGrow", "revision": "57a4f4e62fb31c2dca049f4debb466f47bc84cffa4ec61fc5f355cad8c26f426", "ptbr": "Taxa de aumento de familiaridade de Perícia de Lança (Técnica Marcial, Técnica Especial) (Porcentagem)"}
+{"id": "LocalText/modEffectType1Name_standDown", "revision": "ba2e5ebd8b6c767452218e252bb50ef4aea47ba47104ab83963281ea3379ebfb", "ptbr": "Pontos Demoníacos"}
+{"id": "LocalText/modEffectType1Name_standUp", "revision": "32e1372df4bf7685976912c838e93996bdab099ebdd620d746fc69aa8f9d6f86", "ptbr": "Pontos Justos"}
+{"id": "LocalText/modEffectType1Name_stepGrow", "revision": "ba231173be783172562158a102ec7e79a89fa2ba3214f93420acae315d5a0311", "ptbr": "Taxa de aumento de familiaridade de Técnica de Movimento (Porcentagem)"}
+{"id": "LocalText/modEffectType1Name_swordGrow", "revision": "d228ef53312de62b6a48bc44c41e1060b8f9d265cc031151ffb22807c987c81a", "ptbr": "Taxa de aumento de familiaridade de Perícia de Espada (Técnica Marcial, Técnica Especial) (Porcentagem)"}
+{"id": "LocalText/modEffectType1Name_talent", "revision": "d7846a48194863326dd9ac52e1bfa3905228f1bd909e1bcbf02f013917ee17ee", "ptbr": "Percepção"}
+{"id": "LocalText/modEffectType1Name_thunderGrow", "revision": "dc0964fceb094cd58d6a52c8005c035dd0e82e8dd5ea669e1dc43e82b5da1680", "ptbr": "Taxa de aumento de familiaridade de Artes Marciais de Raio (Técnica Marcial, Técnica Especial) (Porcentagem)"}
+{"id": "LocalText/modEffectType1Name_townBuyDecline", "revision": "4626f14ba4e692d69f4e4af32243c6328489786a920ef91fa5b347895b97ed8f", "ptbr": "Taxa de multiplicação do custo em Pedras Espirituais ao comprar itens nos mercados (Porcentagem)"}
+{"id": "LocalText/modEffectType1Name_windGrow", "revision": "eb110438a2107dacd474e6048dbb2cb278d5cc0a3e3388938637614940afdced", "ptbr": "Taxa de aumento de familiaridade de Artes Marciais de Vento (Técnica Marcial, Técnica Especial) (Porcentagem)"}
+{"id": "LocalText/modEffectType1Name_woodGrow", "revision": "d17509a35c874fda78f185a06181ba5e4ed0cec0f81686ff76193e3161d95ba4", "ptbr": "Taxa de aumento de familiaridade de Artes Marciais de Madeira (Técnica Marcial, Técnica Especial) (Porcentagem)"}
+{"id": "LocalText/modEffectType2Name_beautyLock", "revision": "cd4cf8ab383c472394061e8277ec756a5c96c54c8b3c49c21555d0e5182311e5", "ptbr": "Carisma"}
+{"id": "LocalText/modEffectType2Name_earthLock", "revision": "85a8ca1f7d6827df652817f07d52bd732bfc93c6eb55704784b344bf879e58b2", "ptbr": "Raiz de Terra"}
+{"id": "LocalText/modEffectType2Name_fingerLock", "revision": "91338961790f1ff5126bc97ce183db7b0ee935b306ff53b755a52a6645ec7f86", "ptbr": "Dedo"}
+{"id": "LocalText/modEffectType2Name_fireLock", "revision": "7499ba23cc31a813b164cf4790a12b96c92b22b1afecf5de32dab6be027591d6", "ptbr": "Raiz de Fogo"}
+{"id": "LocalText/modEffectType2Name_fistLock", "revision": "305ab369a08b78c19bd65eaa0ea31183d01eca2f4fe77ffd65e314ffd126d2c5", "ptbr": "Punho"}
+{"id": "LocalText/modEffectType2Name_frozeLock", "revision": "f86fd1738ed6850fb81dcf15ae353e1a69c4b8e011567ff5d7e7e1bdb58906b1", "ptbr": "Raiz de Água"}
+{"id": "LocalText/modEffectType2Name_fspLock", "revision": "0376154cc29f7bef7cf7f9f42f0532c1b3f8f721b0c74cb27339b4fc5e21ba55", "ptbr": "Velocidade de Viagem"}
+{"id": "LocalText/modEffectType2Name_moodLock", "revision": "20a3c0a66ecdbbbd7fb5c861433bb9ab352083fb5c802c5973403975e0b0f9ba", "ptbr": "Humor"}
+{"id": "LocalText/modEffectType2Name_palmLock", "revision": "0b72529e25f61156bc2ea9aa395e262f91f8cfcbef06f8b5921439f4ce5a2936", "ptbr": "Palma"}
+{"id": "LocalText/modEffectType2Name_sladeLock", "revision": "e850eeda05ec5e436eaefb5d3883292291820cb0a8dc37e722029d3d7b81cd5b", "ptbr": "Sabre"}
+{"id": "LocalText/modEffectType2Name_spearLock", "revision": "ef5cb49a57fcd7e05e8cc0d2e0ba15d4aa90a02f2c6eb6414deb99eed0a9047a", "ptbr": "Lança"}
+{"id": "LocalText/modEffectType2Name_swordLock", "revision": "8b78b3b2f6ef25dfca3d20f45e65f9fe312291a758710a9af63dfb2bc016c107", "ptbr": "Espada"}
+{"id": "LocalText/modEffectType2Name_talentLock", "revision": "b2553a09450f44e4866a6415286518710393fc9af2def78d2bad24f194c7ef36", "ptbr": "Percepção"}
+{"id": "LocalText/modEffectType2Name_thunderLock", "revision": "962c519a466a82fdfa66651279143db78932a55be0b92538c2bdc427cee24a56", "ptbr": "Raiz de Raio"}
+{"id": "LocalText/modEffectType2Name_windLock", "revision": "c1a05275f1a52e0bd8fdd3548fab6457861a9a9dea3a45d3fb959ec0bcbb575f", "ptbr": "Raiz de Vento"}
+{"id": "LocalText/modEffectType2Name_woodLock", "revision": "6fdfeeaaf8f296e73498f80c2ff31e33207d51e83974a6b759ed28038796a570", "ptbr": "Raiz de Madeira"}
+{"id": "LocalText/modEffectType3Title_addFeature", "revision": "0944450439270837cd22be6027d5b68014d70a7fb45ef58b5cabba433afa4138", "ptbr": "Probabilidade de obter o Destino especificado"}
+{"id": "LocalText/modEffectType3Title_attachAttrByArtifact", "revision": "35d19866a2e9c381522fb7ec2b44d5b482fd44cf6f453afbc28468bee5383eac", "ptbr": "Cada vez que um Artefato é equipado, o Atributo especificado é aumentado"}
+{"id": "LocalText/modEffectType3Title_attrEffect", "revision": "29fdd77b0b8c20da3de5425b5b7620dfe66403e2f03e50ceb663bbe4c8309c8c", "ptbr": "Quando Atributos específicos alcançam valores específicos, o Atributo especificado é aumentado"}
+{"id": "LocalText/modEffectType3Title_avertEncounterBattle", "revision": "070cf8141d6562fa35c996d4c685c5fa6c51c89e8ba2cfab1a7d6f4cc770b6a5", "ptbr": "Faz o personagem não encontrar monstros ao pisar no raio"}
+{"id": "LocalText/modEffectType3Title_bannedFunc", "revision": "c517045981065bcfd1bbbc88defbfd90d81b00c8496b34ca0b956c0bed4ace1e", "ptbr": "Proíbe o comportamento especificado"}
+{"id": "LocalText/modEffectType3Title_bannedItem", "revision": "9ba1467779f183b5defd54bda734d0b2da12489881555facef1904fcee13b405", "ptbr": "Proíbe o uso de Elixires (dentro ou fora de batalha)"}
+{"id": "LocalText/modEffectType3Title_battleLearnSkill", "revision": "68c8569f7e6eefd40ca111511355f6169aa0681ab84de57eb700d3d684dcddfd", "ptbr": "Ao fazer duelos de treino ou lutar com NPCs, há chance de obter aleatoriamente uma técnica do oponente. (Inclui Técnica de Movimento, Técnica Mental etc. O Reino da técnica não pode ser mais alto que o seu.)"}
+{"id": "LocalText/modEffectType3Title_captivity", "revision": "17c722b05a6211a365b4dcd2a9de66ba01e990c0e2e22f2e484941ec7eb720ca", "ptbr": "Restrito. Não pode se mover em nenhuma circunstância"}
+{"id": "LocalText/modEffectType3Title_changeAbility", "revision": "58770e8a1dc381f83d5b53d6ab08142122eced193d81c239c2deebf9621e446d", "ptbr": "Muda os Atributos especificados a cada intervalo de 1 mês"}
+{"id": "LocalText/modEffectType3Title_changeAttrCost", "revision": "f0efd00944e14ba4762f06aeb6bd6c17c4449790d165e1f8bed20e6cdec1f45c", "ptbr": "Ao consumir Vitalidade, Energia e Foco, o Custo de Atributos é aumentado"}
+{"id": "LocalText/modEffectType3Title_clearFeature", "revision": "4fe2b267259a418bdef0597d69a448483bc9c0ba3624f1e5902454c0e1b53a5d", "ptbr": "Probabilidade de remover o Destino especificado"}
+{"id": "LocalText/modEffectType3Title_createDungeon", "revision": "ef044137170a18e104c96df29a4d2cd519d6d98c2fc124a6040dff8528f015b4", "ptbr": "Cria uma masmorra. O local de criação é a grade mais próxima do personagem."}
+{"id": "LocalText/modEffectType3Title_createNpc", "revision": "f336a177cf51a4021b8368c62348c425a1db78a759311ea2e0a21ab543533256", "ptbr": "Cria um NPC especificado na primeira entrada no jogo"}
+{"id": "LocalText/modEffectType3Title_die", "revision": "2e08a6d911f41c2f6f9f3b4ee557642a2d1fe78e3de6cd2057d4b5cb62b5e41f", "ptbr": "Quando este Destino é removido, o personagem morre"}
+{"id": "LocalText/modEffectType3Title_drillClose", "revision": "7913ac4e874d4f8b7c3ca306a1c5fd4cd1c44da3eaf4e78901f092ef75fa32f0", "ptbr": "Depois de vencer um duelo de treino e o oponente ser um NPC, a Afinidade que o NPC tem por você aumenta"}
+{"id": "LocalText/modEffectType3Title_dungeon", "revision": "bd16f51e3a02abe958ade4dfd9c5aca2f3ba589598071b1e19593884505bb010", "ptbr": "Entra numa masmorra especificada"}
+{"id": "LocalText/modEffectType3Title_equipAbility", "revision": "5ee76473a4f2fdb761b4630b1d4fe36fa97f4827a1a8fea215b844cef4a50a6f", "ptbr": "Cada Técnica Mental equipada (incluindo a sua) aumenta os Atributos especificados"}
+{"id": "LocalText/modEffectType3Title_escapeClose", "revision": "89b70ffa198ad912ba9f603a6b169565f0c88fe37cb52b391d847fe7d1be2736", "ptbr": "Quando a fuga é bem-sucedida e o oponente é um NPC, a Afinidade que o NPC tem por você aumenta"}
+{"id": "LocalText/modEffectType3Title_escapeSucceed", "revision": "f55be40ae6fbce4d3f4287d2f489751b731aed00e43a06c7ac2ac22858a91cc6", "ptbr": "Muda a probabilidade de sucesso da fuga"}
+{"id": "LocalText/modEffectType3Title_forgetEffect", "revision": "4bb885d711000fb806c85f796a97db7e1e6bda14d092a59d20bca5304774026f", "ptbr": "Cada vez que uma técnica específica é esquecida, o Atributo especificado é aumentado"}
+{"id": "LocalText/modEffectType3Title_gradeEffect", "revision": "a08d83908e522f9588232b1eea1d80cf0ff814389e5f2cdeab577702e9a443d8", "ptbr": "Quando o Reino específico está no período específico, o Atributo especificado é aumentado"}
+{"id": "LocalText/modEffectType3Title_graveLife", "revision": "47a029e6c7876c01713f3b740b870938b84522e0057dff08dfdd70adcc2d42ae", "ptbr": "Há chance de mudar a diminuição da Longevidade ao saquear túmulos"}
+{"id": "LocalText/modEffectType3Title_growForbid", "revision": "aec0622ef4caec88b89dce29c86d1c06882835bf61a4f76ffdb34aea4ac36cad", "ptbr": "Proíbe ações de Rompimento"}
+{"id": "LocalText/modEffectType3Title_hide", "revision": "670b690ab9dcdcc2454aadd5030e0cc38d5f3ce2e374bf933db8da08aaf17126", "ptbr": "Quando o efeito existe, o personagem fica oculto e não pode ser selecionado para interação por outros NPCs"}
+{"id": "LocalText/modEffectType3Title_immortal", "revision": "bfe7c5eb06a17aacd555a377040503894e66220cf9ebe9a3c109acf122bc0d0b", "ptbr": "Vive para sempre. O personagem revive de novo dentro do tempo de revivência quando sofre morte verdadeira."}
+{"id": "LocalText/modEffectType3Title_immuneFeature", "revision": "8639fd33ceaa21387183db5e3c4fae4bb8257f02920bdc88cc7ebb29453b3a3a", "ptbr": "Imunidade ao Destino especificado"}
+{"id": "LocalText/modEffectType3Title_increaseBasPil", "revision": "6c8928eb4893d6ad80ca52f7c79a7f856f55b8af42f6bfe9238593a92faafa27", "ptbr": "Ocultar aumenta os atributos de Alquimia, mas não muda o valor de Alquimia do jogador. O valor dos atributos de Alquimia só aumenta quando a Alquimia foi aberta."}
+{"id": "LocalText/modEffectType3Title_intoDungeon", "revision": "d5b27b32b8af32224fe5999af9d1d2e4e05b29bc9e3e49463a767c1e1a9307ad", "ptbr": "Obtém um efeito de batalha a cada entrada em masmorra (efeito de batalha da masmorra)"}
+{"id": "LocalText/modEffectType3Title_intoDungeonOther", "revision": "98f762d4cbe7c34ab6b5fa5d2c1e497986c94a03946e8d4e16181255fed2aedf", "ptbr": "0"}
+{"id": "LocalText/modEffectType3Title_item", "revision": "4d2ce50283edfc0c09514905eea1dddab34df50645632b4540555cabca12dc06", "ptbr": "Gera item"}
+{"id": "LocalText/modEffectType3Title_killNpcEffect", "revision": "aa540776eb75c233ffb7c947a6cf2be7aad2c28b48c36cbc8675ffe465caad59", "ptbr": "Cada vez que um NPC é morto, o Atributo especificado pode ser aumentado"}
+{"id": "LocalText/modEffectType3Title_killReduce", "revision": "1c2db2f3a0de29ccc0ef3d6218e3fa80e7f4f2d90ed21ee404d996821fad5068", "ptbr": "Cada vez que o monstro especificado é morto, a duração do Destino especificado aumenta"}
+{"id": "LocalText/modEffectType3Title_learnEffect", "revision": "6fdc58bc3f79ef86cdc1bac33a37eed6898a80ba5809b48b9c6de96b9eac8d50", "ptbr": "Cada vez que uma técnica específica é aprendida, o Atributo especificado é aumentado"}
+{"id": "LocalText/modEffectType3Title_learnSkillCost", "revision": "64bdeb4654c8a19b1dc604a3e2d6c0922e61400e82eec7c399e8f6d0a9e92b29", "ptbr": "Diminui o Custo especificado cada vez que um Manual é aprendido"}
+{"id": "LocalText/modEffectType3Title_learnSkillExp", "revision": "500ff90de12f7a69267b85f97b0d3b5e4068cc039384b6f8a50ce61cf6c3d044", "ptbr": "O EXP ganho com o Cultivo de técnicas é aumentado"}
+{"id": "LocalText/modEffectType3Title_limitGradeExp", "revision": "be45229a6484ba588ca78e3e3ec879fc6b81faf606d36f5fecd4f3259939dd76", "ptbr": "Limita o personagem a um Reino especificado"}
+{"id": "LocalText/modEffectType3Title_mapSpecialSign", "revision": "5e20d9493f1fa606d04954f2b7089e43b21038b298c8c39b045b085dfa832658", "ptbr": "Marca todas as masmorras, histórias e recursos do Mapa-Múndi dentro do intervalo especificado no Mapa-Múndi"}
+{"id": "LocalText/modEffectType3Title_meetMonsterProb", "revision": "d8b5b60e3f6deab1633b91be59216d54337973c7db24d22e1ad4d0ce3218f087", "ptbr": "Diminui a probabilidade de encontrar monstros nas quatro áreas principais e em terrenos especiais"}
+{"id": "LocalText/modEffectType3Title_meetMonsterProbInArea", "revision": "450aa7844ea3d4a756df438d9a3287c6e0d6a769af99dd2b10dc93884efaeba9", "ptbr": "Diminui a probabilidade de encontrar monstros em áreas específicas e em terrenos especiais"}
+{"id": "LocalText/modEffectType3Title_moneyAdd", "revision": "4e673d5043ba25ab26f909c18337b85dcb02bad52e2a48fdcf98da3975600369", "ptbr": "Pedras Espirituais adicionadas mensalmente"}
+{"id": "LocalText/modEffectType3Title_moneyEffect", "revision": "3a3efc84687701d28660db07b56eba3ed3b6d91c09c6a95ddf05e5ec4c77cb6f", "ptbr": "Quando a Pedra Espiritual específica está em posse, o Atributo especificado é aumentado"}
+{"id": "LocalText/modEffectType3Title_moneyExp", "revision": "9b7aa994f09f812b99ce8ee6b8ecaf18aa6859953ab7b8e199a73681af0f224e", "ptbr": "EXP pode ser ganho toda vez que uma Pedra Espiritual é consumida"}
+{"id": "LocalText/modEffectType3Title_monthAttrAdd", "revision": "a5c080b5e52f7d4e5fb6c6559d71d9e2ba19b5e58d8fc8eed6a075c54a77b2c2", "ptbr": "Valor dos Atributos especificados adicionado mensalmente"}
+{"id": "LocalText/modEffectType3Title_monthLockPoint", "revision": "854865b3d7adc2a5b6d9b43b195af2a62291f01c9e20c8507d5c59f42d2172b8", "ptbr": "A cada fim de mês, devolve a localização ao lugar onde o Destino foi adicionado"}
+{"id": "LocalText/modEffectType3Title_monthLostItem", "revision": "1b488705bdc5200cb0b6e6abdebad5832927a92c3905904465b739ba0938b142", "ptbr": "Probabilidade mensal de perder itens. Só perde itens empilháveis (Pedras Espirituais excluídas)"}
+{"id": "LocalText/modEffectType3Title_noFax", "revision": "7b781c6b4686d589237d6d9521b5e1eb330d17bab1d9056daf25bdf6d51b94b8", "ptbr": "Impede o personagem de usar a função de teletransporte."}
+{"id": "LocalText/modEffectType3Title_npcCloseStable", "revision": "f645e0ff7497aa8b83cc2a9d3d8164802563cdf5cf09df3c68f8662c53d6dd1e", "ptbr": "Muda a Afinidade e o Rancor de outras unidades em relação a mim, com taxas de aumento e diminuição"}
+{"id": "LocalText/modEffectType3Title_npcCommunicateClose", "revision": "087cda0af0a49f1be9d081be4d9ad32108c43d2f682f06d9f75c97a73b270386", "ptbr": "Depois de interagir com um NPC, há probabilidade de a Afinidade dele com você mudar"}
+{"id": "LocalText/modEffectType3Title_npcConnectLimit", "revision": "2f66ca07ae5c99ce709ee3f0da3a915297911179eaa5fd2b690db082d7a55ae7", "ptbr": "Muda o número máximo de interações de um personagem numa área especificada no fim do mês"}
+{"id": "LocalText/modEffectType3Title_npcNotOperation", "revision": "3c6d0688eb575816fa9edf7db4e8741eb4dc77116a83f2890a17410af48df6fc", "ptbr": "Proíbe todas as opções de interação na interface de informações do NPC; alvo: NPC"}
+{"id": "LocalText/modEffectType3Title_output", "revision": "c8b130c9c4f83549fa35b5b37cf6015015f731ec801a445b831fc446ff485bc3", "ptbr": "Quando este Destino é apagado, chama a saída uma vez"}
+{"id": "LocalText/modEffectType3Title_passRoom", "revision": "20be3aa90688d1e33ee31d62f9adee5c4e954f870ed47dbfa8b5f4019f170668", "ptbr": "Obtém um efeito de batalha uma vez cada vez que uma sala é limpa (efeito de batalha da masmorra)"}
+{"id": "LocalText/modEffectType3Title_pilCount", "revision": "4ca5fb4c514c444bf2a6bc2fae58820d87fae26fe51f80b159f1dc437bbfafdc", "ptbr": "A quantidade de Elixires produzidos por Alquimia é aumentada"}
+{"id": "LocalText/modEffectType3Title_pilEnergy", "revision": "d41585a355011f781dc2219f3d0501d649f1401cbdba53450a9898c538963fe8", "ptbr": "O custo de Vigor requerido na Alquimia é aumentado"}
+{"id": "LocalText/modEffectType3Title_randomArtifactWithSprite", "revision": "5e705c5e1547f1ea5d7a384fbf7ab983b13942f0a931a30347ddc57b20cb4bd3", "ptbr": "Produz um Artefato e combina um Espírito de Artefato ao Artefato"}
+{"id": "LocalText/modEffectType3Title_relationEffect", "revision": "c2a506ead1d811a3132c0a214c92ed4bd9b6fa6b005d2bbad0b59770222b0224", "ptbr": "Cada vez que a relação de NPC específica é obtida, o Atributo especificado é aumentado"}
+{"id": "LocalText/modEffectType3Title_roleEffectAdd", "revision": "6daf36901c61c6dd16a26e1c1f776f05e052168b889383550e093c1f9102085d", "ptbr": "Há chance de adicionar um efeito ao personagem ao correr todo mês"}
+{"id": "LocalText/modEffectType3Title_roleSight", "revision": "30d84e86f67bc81d8e67baabeb1bcc257de36be7b0de959a996e0d27f4224f2d", "ptbr": "Faz o personagem aumentar o campo de visão"}
+{"id": "LocalText/modEffectType3Title_skillColorEffect", "revision": "cd485a8558f6f44b331005159724e72c5b7fc026629b917178f42e0c5456859b", "ptbr": "Cada vez que uma técnica específica é equipada, o Atributo especificado é aumentado"}
+{"id": "LocalText/modEffectType3Title_skillMgCondition", "revision": "c478a6a46bcc6ea0e3ea9be9ad3d852159c07e3026f75831234b1208e9005b7a", "ptbr": "0"}
+{"id": "LocalText/modEffectType3Title_skillWpCondition", "revision": "ad9a59bbbe63fab99e137eb1d6360a86e4682e0cfd1dfde9be8888d29e6a2b8a", "ptbr": "0"}
+{"id": "LocalText/modEffectType3Title_stealExpose", "revision": "4c4ddb9571fb17486ed7c0b51db44f9ac957355b9a0a9baf43926b14dd75132e", "ptbr": "Muda a probabilidade de descoberta do roubo de itens"}
+{"id": "LocalText/modEffectType3Title_stealSucceed", "revision": "69c0ea3e23084d01316741fb10751238146e5f77e0e53cf3bc2cafbc69fcd47d", "ptbr": "Muda a probabilidade de sucesso do roubo de itens"}
+{"id": "LocalText/modEffectType3Title_stopRunAI", "revision": "683080b67e7d076eab09a5bdf0e5958b152d21207323733f2f8eb3c3eedd5e9b", "ptbr": "Para a IA de fuga; alvo: NPC"}
+{"id": "LocalText/modEffectType3Title_talkAnswer", "revision": "d4706d7be0f49cc0a82b9de2b7ac4d32421592f5b92e584ff96135deeed25693", "ptbr": "Ao Conversar ou Debater com NPCs, você pode aprender as respostas que eles esperam"}
+{"id": "LocalText/modEffectType3Title_terrainMoveCost", "revision": "8d218e9e1abdd19b5ebe77ce7ab1fff821da366bb9b2ee3221a9e900881d0e1d", "ptbr": "0"}
+{"id": "LocalText/modEffectType3Title_trainRestore", "revision": "f84e8e164fe71ca8e3c75cc7592e570f7b510acae586508784552b6c9e3e0aa3", "ptbr": "Cada vez que você cultiva no mapa e ganha um ponto de EXP, pode recuperar valores especificados de Vitalidade, Energia e Foco"}
+{"id": "LocalText/modEffectType3Title_trainsExp", "revision": "a16eec8ade528e9545518f037f9bf6bc149e4618bbe0979c32480559a663592a", "ptbr": "Ambas as partes têm um ganho aumentado no Cultivo Dual"}
+{"id": "LocalText/modEffectType3Title_trainsGive", "revision": "890970faaa80e3ab38ee612c52adb204a0061d9dad73abc8b50d434bc0944a69", "ptbr": "Quando o Cultivo Dual termina, a outra parte presenteará você uma vez"}
+{"id": "LocalText/modEffectType3Title_viewEnemy", "revision": "b681f67bb9b601361ab8827c6bcb8b4df9e8fab85ea6869a18926038b2e6b235", "ptbr": "Faz o personagem ver as localizações dos inimigos no Mapa Regional"}
+{"id": "LocalText/modEffectType3Title_viewItemCount", "revision": "6202fc6bd4f7bc78dd77e67add35e21b8e43e2692e3370a5fbc7a4fccdb132c8", "ptbr": "Também pode ver os itens na mochila do NPC"}
+{"id": "LocalText/modEffectType3_addFeature_value1Name", "revision": "613893e1985dbb50e9c50412949ca58a62f280b00eca05123bc46cb73f4e4a8c", "ptbr": "Probabilidade de obter o Destino"}
+{"id": "LocalText/modEffectType3_addFeature_value2Name", "revision": "01efe884aae782de74e7dd7233d49811f03641573179f53441538260c9ff122d", "ptbr": "Destino obtido"}
+{"id": "LocalText/modEffectType3_attrEffect_value1Name", "revision": "a47cf6aff4484a8e38e23d2f4d6e86a69475f9e62d574ef8dc188be005903dfa", "ptbr": "Atributos especificados"}
+{"id": "LocalText/modEffectType3_attrEffect_value2Name", "revision": "0bcbd8306915bfdc1ac5d52c455532d01c7b789a18f860cbd640b69876a02fa0", "ptbr": "Atributos alcançam valor mínimo"}
+{"id": "LocalText/modEffectType3_attrEffect_value3Name", "revision": "a419ea9283637caf9b76fca85ad1e29728da4b49e3a22cfcb8f91666a7d25534", "ptbr": "Atributos alcançam valor máximo"}
+{"id": "LocalText/modEffectType3_attrEffect_value4Name", "revision": "4540a0037d830e7d7f635831023d2bb78864bf32764dc590fc54c42e9a8a1c94", "ptbr": "Atributos a melhorar"}
+{"id": "LocalText/modEffectType3_attrEffect_value5Name", "revision": "8518fba33167f9e038cac6e5f5d0bca82e5188a41bd6bcce600c7775f6d2c08f", "ptbr": "Valor a melhorar"}
+{"id": "LocalText/modEffectType3_battleLearnSkill_value1Name", "revision": "bccd5194d7788fd6c8f8378d2939d058360d3b5db510a4df3fe01bc4deb61b7b", "ptbr": "Porcentagem de probabilidade de aprender técnicas"}
+{"id": "LocalText/modEffectType3_battleLearnSkill_value2Name", "revision": "519073538711b7bbd5e06e8607f7330272d513052d838ed20ea20e75372c1fb2", "ptbr": "CD interno (meses)"}
+{"id": "LocalText/modEffectType3_changeAbility_value1Name", "revision": "288bd67c5667ac6cc3a7ca217e60018a9795257a6a14abbf51c829f4bea1a8c4", "ptbr": "Intervalo de tempo (meses)"}
+{"id": "LocalText/modEffectType3_changeAbility_value2Name", "revision": "b844dffe9c84d63b9b72d6291a63e1cab8f63a5fc6da7be48e36e468904b3493", "ptbr": "Atributos a melhorar"}
+{"id": "LocalText/modEffectType3_changeAbility_value4Name", "revision": "f2a54de9451aa0d4fd091b8f5df0193438e9285aef87c05bd2f9b8b335c352b4", "ptbr": "Valor a melhorar"}
+{"id": "LocalText/modEffectType3_clearFeature_value1Name", "revision": "f19e02c057f38de53e8e0c51d2db39ed83d16daa7cbe5e38f1b526bf9be90b59", "ptbr": "Probabilidade de remover o Destino"}
+{"id": "LocalText/modEffectType3_clearFeature_value2Name", "revision": "0d4f7df8c1c816f04ef74077543404f7a5a5c866a6e6a3ee441a38aa5d6cea5f", "ptbr": "Destino removido"}
+{"id": "LocalText/modEffectType3_createDungeon_value1Desc", "revision": "2854e18ee393b1a063b544cbb16135f14a0f738464b1d5a854de33aef043d767", "ptbr": "Cada 5 níveis correspondem a um Reino (por exemplo, o Nv. 5 representa a masmorra de treino mais difícil)"}
+{"id": "LocalText/modEffectType3_createDungeon_value1Name", "revision": "aa154b92132646a49d51f4fe50bac312a14fa5d8635886446ae33529842f61e3", "ptbr": "Masmorra criada"}
+{"id": "LocalText/modEffectType3_createDungeon_value2Name", "revision": "afd714940839f306a50ef84672347623225ca545d61297ebb0f7336176b57d28", "ptbr": "Nível da masmorra criada (Nv. 1-50)"}
+{"id": "LocalText/modEffectType3_createNpc_value1Name", "revision": "d9956fc8277240874396498cf3ffd886ec9a9b4b6516783d883739fd6b3a2ae4", "ptbr": "Edição de NPC"}
+{"id": "LocalText/modEffectType3_drillClose_value1Name", "revision": "e7e470eed4de39a225dfe601ae4dcd3e73f7929aa202e96c2fa9375a5d18571a", "ptbr": "Valor de aumento de Afinidade depois de vencer o duelo de treino"}
+{"id": "LocalText/modEffectType3_drillClose_value2Name", "revision": "e13e74786104b6389d6d25a3bc0bc2de979bbfb4ca4a216f652b31ffc1b90033", "ptbr": "Texto adicional exibido após o aumento de Afinidade"}
+{"id": "LocalText/modEffectType3_equipAbility_value1Name", "revision": "fc20f44a388347863f7235a42cc1625f12ff457eb2f73f58177b9bd6f36dacda", "ptbr": "Atributos a melhorar"}
+{"id": "LocalText/modEffectType3_equipAbility_value3Name", "revision": "3f2aad29babd505e45f360407ca628012d98082b773d12a507e4112a409dcd5a", "ptbr": "Valor a melhorar"}
+{"id": "LocalText/modEffectType3_escapeClose_value1Name", "revision": "a46823385eed3bc994cb2acdb435964bc5881bb5c60053440108e847f75d2b52", "ptbr": "Valor de aumento de Afinidade depois de fuga bem-sucedida"}
+{"id": "LocalText/modEffectType3_escapeClose_value2Name", "revision": "6eadb556e9192f483cb2b0c284c43095bc23977317ba3f72f0c2aa7db6ed3120", "ptbr": "Texto adicional exibido antes de a fuga se concluir"}
+{"id": "LocalText/modEffectType3_escapeSucceed_value1Name", "revision": "c36a4da9d7be65139f56a91e54aaf4a5434fb85ae60508edcd6bec53c36eefc6", "ptbr": "Porcentagem de Mudança Forçada"}
+{"id": "LocalText/modEffectType3_escapeSucceed_value2Name", "revision": "ff6db948395f64236de12929e1dea79d6ae78f4fcb2915251282366d3f35818a", "ptbr": "Texto adicional exibido antes de a fuga se concluir"}
+{"id": "LocalText/modEffectType3_gradeEffect_value3Name", "revision": "7a30d32818b8999419cb78ef47ad0b4beb055bc519a35a140b6b90b89a8e00ee", "ptbr": "Atributos a melhorar"}
+{"id": "LocalText/modEffectType3_gradeEffect_value4Name", "revision": "b3195defcfafd5fef30d07d65abc35b8ba86b5d5ed1fc8af9413603e41ef2f51", "ptbr": "Valor a melhorar"}
+{"id": "LocalText/modEffectType3_immortal_value1Name", "revision": "956178a0c40985c3ab35eb56aba8b66e9cf5e863f7ae059b64b5deaf1acd6142", "ptbr": "Tempo de revivência (meses)"}
+{"id": "LocalText/modEffectType3_immuneFeature_value1Desc", "revision": "1e8bac756b18023373f95e1cdf72ae7dd9f3f65be5a51d29d81db66f2ba8b90c", "ptbr": "Sempre que o personagem tenta adicionar este Destino, a adição falha."}
+{"id": "LocalText/modEffectType3_immuneFeature_value1Name", "revision": "e3886563b1e8d0b095f1cfb137ed9e891919d883a4d9229aea67ccd071e0fb4d", "ptbr": "Imunidade a Destino"}
+{"id": "LocalText/modEffectType3_item_value1Name", "revision": "0d4e722dafd7b7fffe6d0754b8325b3ded356f1f25c29b7324bbdefa327cca48", "ptbr": "Configuração de saída"}
+{"id": "LocalText/modEffectType3_item_value2Name", "revision": "e8486159cd3aa193529221d35062fcd6506e3adf5f4daecd903e5ee53c4cec49", "ptbr": "Quantas vezes gerar"}
+{"id": "LocalText/modEffectType3_killNpcEffect_value2Name", "revision": "a04a93af637018c753bce8ad4739715001334be8f94cab4920e9c3c62fb7cd2d", "ptbr": "Número máximo de camadas para aumentar o Atributo (-1 significa infinito)"}
+{"id": "LocalText/modEffectType3_killReduce_value1Name", "revision": "e8c6e8cb683bb52b5d7550fc01e84f58f14910b32c97082a6dc1ea88f272da5e", "ptbr": "Aumento de tempo do Destino"}
+{"id": "LocalText/modEffectType3_killReduce_value2Name", "revision": "33cad4d8975ab47c96f1c0f29aa008058a66f3816251240f48ac725abbdee2bc", "ptbr": "Aumento da duração do Destino (meses)"}
+{"id": "LocalText/modEffectType3_killReduce_value3Name", "revision": "19b24161c91067f8c8d80d2af6803a4d24de787cf6a08913d50fb6b9223e443f", "ptbr": "Monstros mortos"}
+{"id": "LocalText/modEffectType3_meetMonsterProb_value1Name", "revision": "d42d36f02ab017230f27f83251c579760a0404647fcf6fd0fec4f6774b5daa51", "ptbr": "Valor de mudança da probabilidade de encontrar monstros (Porcentagem)"}
+{"id": "LocalText/modEffectType3_meetMonsterProb_value2Name", "revision": "cb9cb7dd55956637e213de873e252389cbd62aac53a67d0e8d03c3c2ab04799c", "ptbr": "Texto adicional exibido após o Aviso ao entrar numa área especial"}
+{"id": "LocalText/modEffectType3_moneyAdd_value1Name", "revision": "72744944bee0128fe7677f443ef006a01b2834189523b5cd6c99f8a300bf7804", "ptbr": "Aumento de Pedra Espiritual por mil"}
+{"id": "LocalText/modEffectType3_moneyEffect_value1Name", "revision": "2bb759e2669a0de887cae1833810ed1eaf2dbc3d79b279689f4d671fe9c3fa92", "ptbr": "Quantidade de Pedra Espiritual especificada"}
+{"id": "LocalText/modEffectType3_moneyEffect_value2Name", "revision": "9592d8670cb0754a36e2fbd68c74ea506bdf3c29f3f825ca5b21c00ecca09578", "ptbr": "Atributos a melhorar"}
+{"id": "LocalText/modEffectType3_moneyEffect_value3Name", "revision": "c99d237326b8b95cd045433bcf6b01f294ef27bc6f437ec692c0fae87cc16fc5", "ptbr": "Valor a melhorar"}
+{"id": "LocalText/modEffectType3_moneyExp_value1Name", "revision": "3c86bc89a7fa8f321b8f2e1d51d2d09a5772819931a4a68bf3385dfbae596086", "ptbr": "Porcentagem de EXP ganho"}
+{"id": "LocalText/modEffectType3_monthAttrAdd_value1Name", "revision": "8e635c87f7a470ed6f392d64c612c642532971afc7086059b4b784bc4f25508d", "ptbr": "Atributos adicionados"}
+{"id": "LocalText/modEffectType3_monthAttrAdd_value2Name", "revision": "5db88be02c0aa8e2e66a418be0fa14c81687a12697fb4eb7ea9644da49834ca2", "ptbr": "Valor a aumentar"}
+{"id": "LocalText/modEffectType3_monthLostItem_value1Desc", "revision": "aad077cc39662a739a26da75482e49032d7fa102fae3d9a5d8b9b64e5395cbca", "ptbr": "Número mínimo de itens perdidos por item"}
+{"id": "LocalText/modEffectType3_monthLostItem_value1Name", "revision": "3aac7d16f3c42c59cf38acf0877edaf1f3f530457620e3049b63382be1e45d87", "ptbr": "Porcentagem de probabilidade de perda"}
+{"id": "LocalText/modEffectType3_monthLostItem_value2Desc", "revision": "e3eea95c66195c1488e000a2695790f0a029c8fc6777b876640d0564937e7cee", "ptbr": "Número máximo de itens perdidos por item"}
+{"id": "LocalText/modEffectType3_monthLostItem_value2Name", "revision": "af6fc1a4151dcd5dc31cafa8ec273f3c28cc8096ec5b48bbda4fdb9c89d28301", "ptbr": "Itens perdidos mínimos"}
+{"id": "LocalText/modEffectType3_monthLostItem_value3Desc", "revision": "850634635c34b00b2211706d41ab6a9657c016b8fc9d6f8602d4c125310c1ce0", "ptbr": "Porcentagem mínima perdida quando o item é empilhável"}
+{"id": "LocalText/modEffectType3_monthLostItem_value3Name", "revision": "019d24b90aaca806079af08414fa1473058b2cae5f7b16eaa693214db3a74f0a", "ptbr": "Itens perdidos máximos"}
+{"id": "LocalText/modEffectType3_monthLostItem_value4Desc", "revision": "81b2f2f0599e62d4f3cf455908f7f8fe06f8de73b29137268fcc5430311de428", "ptbr": "Porcentagem máxima perdida quando o item é empilhável"}
+{"id": "LocalText/modEffectType3_monthLostItem_value4Name", "revision": "22369bd9dc542959afbc1cc045bc42f1dd2bf96896994ba8b164c925892808bb", "ptbr": "Porcentagem mínima da quantidade de pilha perdida"}
+{"id": "LocalText/modEffectType3_monthLostItem_value5Name", "revision": "6d1561070cd9e7e54a91b881d97165fabb7596b260b3d46affad7628f46478b2", "ptbr": "Porcentagem máxima da quantidade de pilha perdida"}
+{"id": "LocalText/modEffectType3_monthLostItem_value8Name", "revision": "a407bbecfbca860ab74316b19f4836a13d9e8a5d48a89d24043293a5631a41a8", "ptbr": "Porcentagem da taxa de itens perdidos por mês"}
+{"id": "LocalText/modEffectType3_npcCloseStable_value2Name", "revision": "bf4756b855649cfcc2f579630287c7f3a65ac8e47378b93bae47d4f6d1aa3e7b", "ptbr": "Porcentagem de mudança"}
+{"id": "LocalText/modEffectType3_npcCommunicateClose_value1Name", "revision": "a73e1eecceb7f3c296d9028cf5bd290a438bb3fe62e3cb5179240958345b8a29", "ptbr": "Porcentagem de probabilidade de mudança de Afinidade"}
+{"id": "LocalText/modEffectType3_npcCommunicateClose_value2Name", "revision": "98f1648553bef4d76fbdcdf1361d5ac8aed21fde93d048f1ef9c6a45f34e5d29", "ptbr": "Valor de adição de Afinidade"}
+{"id": "LocalText/modEffectType3_npcCommunicateClose_value3Name", "revision": "4cb9ad5c546a626503834729344a2b68b9673884a169a22ca2623001bdf809de", "ptbr": "Texto adicional exibido após o aumento de Afinidade"}
+{"id": "LocalText/modEffectType3_output_value2Name", "revision": "4e975b9b6357c79eefc3d79db7a54f4384d217919201c8ddf693d96349baaf3b", "ptbr": "Item produzido"}
+{"id": "LocalText/modEffectType3_stealExpose_value1Name", "revision": "5ce84457da35d1840fd6ec2799b1550d5f1f5e861fce02206d27781713d93113", "ptbr": "Porcentagem de Mudança Forçada"}
+{"id": "LocalText/modEffectType3_stealExpose_value2Name", "revision": "5af9599c91459ea6e5a72da4b3d1313e7c688dca30f126462b9e03e86916ae6e", "ptbr": "Texto adicional exibido antes de a fuga se concluir"}
+{"id": "LocalText/modEffectType3_stealSucceed_value2Name", "revision": "6dbf5dfe81d1d73fa60a4d7f35be543be73127d5a80b5d1894073b88cc81f65e", "ptbr": "Porcentagem de Mudança Forçada"}
+{"id": "LocalText/modEffectType3_stealSucceed_value3Name", "revision": "48e17df327a27ab155d7c28c5731459fcec2bf2431bfab59a37455e8c7e5ec9d", "ptbr": "Texto adicional exibido antes de o roubo se concluir"}
+{"id": "LocalText/modEffectType3_trainRestore_value1Name", "revision": "114edfbf73efef833e5d97f1c547815963eac031ad4d9de0607fd32eeed49fa4", "ptbr": "Vitalidade recuperada por ponto de EXP"}
+{"id": "LocalText/modEffectType3_trainRestore_value2Name", "revision": "9467c854dd8fae34952028cb81eb194f7d4bf461beed2ca9cdf4379cc6b750ac", "ptbr": "Energia recuperada por ponto de EXP"}
+{"id": "LocalText/modEffectType3_trainRestore_value3Name", "revision": "c584500e0c85b1c31e2d17a17912261bd41911dc3cb3d3b7251908e88dc84617", "ptbr": "Foco recuperado por ponto de EXP"}
+{"id": "LocalText/modEffectType3_trainRestore_value4Name", "revision": "37207f002b3410336c9ca5915ef273194272d9c35e07f58c19709e3a00bffe3a", "ptbr": "Texto de aviso ao acionar"}
+{"id": "LocalText/modEffectType3_trainsExp_value1Name", "revision": "156199f7919eff999da599f7a939143639a84e57d537c5da87b3380709b3c2ea", "ptbr": "Aumento da porcentagem de EXP"}
+{"id": "LocalText/modEffectType3_trainsExp_value2Name", "revision": "f1d1ede2455d27cda0a26ca198f553c7c78032b0515c966fe84181baa4cae0a8", "ptbr": "Texto de aviso ao acionar"}
+{"id": "LocalText/modEnum10001Desc", "revision": "7edc7ca0d1f70c96d9b54e5afea35d6bbf7d3d088ae733c94e041c2d26c24917", "ptbr": "Tipos diferentes de Destino correspondem a cenários de aplicação diferentes."}
+{"id": "LocalText/modEnum10001EnumDesc1", "revision": "54ea7973a70ce926a1a5fd4fe6e0a1ec41816f425e7d2926ad935bece8fa68a4", "ptbr": "O Destino (Natureza) adiciona este Destino ao pool aleatório de Destinos do personagem criado."}
+{"id": "LocalText/modEnum10001EnumDesc2", "revision": "688b4c9b843eb19bd5d8915a80446cafb746b8366096145d8f6096aa91e54130", "ptbr": "O Destino (Criação) é normalmente o Destino usado ao fazer Aventuras e pode ser adicionado no jogo."}
+{"id": "LocalText/modEnum10001EnumDesc3", "revision": "033742585ac8821d60644a26bbcf00475bff045a8550823c4e11d88498c25393", "ptbr": "O Destino Reescrito é o Destino que aparece quando há um Rompimento."}
+{"id": "LocalText/modEnum10001EnumName1", "revision": "853b95ff6c3d288626e254669156fc3c0f3f450d0435b8b266fc31b30dddafd7", "ptbr": "1-Destino (Natureza)"}
+{"id": "LocalText/modEnum10001EnumName2", "revision": "d5bbb41f2d1f39d97cfac4bc7b69ad3b723b5c4bf811ce9badd7f7ec15bdb515", "ptbr": "2-Destino (Criação)"}
+{"id": "LocalText/modEnum10001EnumName3", "revision": "2a4e6bd19a4c6518a526fed6d292144e9d68ebcf5e4e7209fc5789b2aa20d0c0", "ptbr": "3-Destino Reescrito"}
+{"id": "LocalText/modEnum10001Title", "revision": "fad936590af923570a8b6526116ae34fa9e42e327c7dbc23e790b95e40a4230f", "ptbr": "Tipo de Destino"}
+{"id": "LocalText/modEnum10002Desc", "revision": "14051e43947c1e163ef85e3066a1be9ec7d38e34dc9f1c664917db4a6f431c66", "ptbr": "Quanto melhor o Destino, mais alta a raridade (Destinos negativos têm qualidade pior quanto mais alta a raridade)"}
+{"id": "LocalText/modEnum10002EnumName-1", "revision": "23d98a4df4115e8fbb8f8e83f2edb6fcf44bebad53aabbf8df1d62456bc2dae8", "ptbr": "-1 <w>Comum</w> (Negativo)"}
+{"id": "LocalText/modEnum10002EnumName-2", "revision": "3b9b7fbf184da78930f9a1e1b4083224a9f256b2ac06a7e7751e84d7e6798872", "ptbr": "-2 <g>Incomum</g> (Negativo)"}
+{"id": "LocalText/modEnum10002EnumName-3", "revision": "1e23c4aff98b1863d54f2ff77cfa7ba9212fad7d387326c761c23fe2d75a2505", "ptbr": "-3 <b>Raro</b> (Negativo)"}
+{"id": "LocalText/modEnum10002EnumName-4", "revision": "3c57180a3b1be28cd1353d95c99054ef4a20d3bab28f5ee957dfe202411ca6ef", "ptbr": "-4 <p>Épico</p> (Negativo)"}
+{"id": "LocalText/modEnum10002EnumName-5", "revision": "050c56d59f1a7ba545bf3d97a91c7353e201f77d6a59f58d734fceb684791ebe", "ptbr": "-5 <o>Lendário</o> (Negativo)"}
+{"id": "LocalText/modEnum10002EnumName-6", "revision": "a2d4baf1ef570d2fb1bd61b157e82cdd63cdc3a615fff0e100dc3e6bbfe7d55f", "ptbr": "-6 <r>Mítico</r> (Negativo)"}
+{"id": "LocalText/modEnum10002EnumName1", "revision": "80d8c114de74f22e4cc9d70cc9d3ef794450be10978825f9276d2b2a2487eac1", "ptbr": "1 <w>Comum</w>"}
+{"id": "LocalText/modEnum10002EnumName2", "revision": "fd85941b9728dad153b8abf34afd9d81ae34a70fc99d29494fc893e6352017ec", "ptbr": "2 <g>Incomum</g>"}
+{"id": "LocalText/modEnum10002EnumName3", "revision": "4f7afbd1c521655775e1ac13beef8aeaee504af68fa9761c88a10389f7f2f191", "ptbr": "3 <b>Raro</b>"}
+{"id": "LocalText/modEnum10002EnumName4", "revision": "cf2e24fddaa65a54dbff7d003e9640519318704cf654730fa5bf2857ce091945", "ptbr": "4 <p>Épico</p>"}
+{"id": "LocalText/modEnum10002EnumName5", "revision": "8621ef63ab2e56adf679efeebcaba432aa2d231f680e52732b06b9bb7890da1f", "ptbr": "5 <o>Lendário</o>"}
+{"id": "LocalText/modEnum10002EnumName6", "revision": "14eee7e8511d2cbb62d674df5a36f90d9dd3860febd6496e70acf18c2cf15877", "ptbr": "6 <r>Mítico</r>"}
+{"id": "LocalText/modEnum10002Title", "revision": "5be036767127b91db13399876f8bbb5563bf575123ec4286178a651afc6fca30", "ptbr": "Raridade do Destino"}
+{"id": "LocalText/modEnum10003Desc", "revision": "f53853c851a55f18b38b78e787644857114d54e559388dc452c7f189ac54736f", "ptbr": "O método de tratamento da duração é diferente para tipos de pilha diferentes quando há vários Destinos existindo ao mesmo tempo."}
+{"id": "LocalText/modEnum10003EnumName0", "revision": "bc5fb7912369f31a1d493c04fd027f2d3465934d9de8dbbe5ce35176ded5da5a", "ptbr": "0-Só um Destino pode existir ao mesmo tempo. Quando um Destino novo é adicionado, é considerado o maior tempo não empilhável."}
+{"id": "LocalText/modEnum10003EnumName1", "revision": "5f0e792db59b2ed3e8e96b2e822aa3c4b5f74ac7a2f23d890331944ac8329fe1", "ptbr": "1-Só um Destino pode existir ao mesmo tempo. Quando um Destino novo é adicionado, a duração é empilhada."}
+{"id": "LocalText/modEnum10003EnumName2", "revision": "9c9b8a928d64c73d568eab3f2ae19be8599d67406471f99b238d5ec6ca04751c", "ptbr": "2-Se o Destino já existe, não é adicionado."}
+{"id": "LocalText/modEnum10003EnumName3", "revision": "a5cc4a41032d13b3fd765dd7c300b3f18079be9ce95964a54d7f27f8700a241e", "ptbr": "3-Vários Destinos são empilhados ao mesmo tempo."}
+{"id": "LocalText/modEnum10003Title", "revision": "16963e46b9a0f219a4c39a23ab9af64af9bf4d39680ff12b23dd2614bc4a545c", "ptbr": "Tipo de empilhamento de duração"}
+{"id": "LocalText/modEnum10004Desc", "revision": "e9f1a5b902fa2630b5f3433cb7fe8f12c0f8cdf425d1cdd5ab70fad62495fe40", "ptbr": "Afeta só a exibição na interface."}
+{"id": "LocalText/modEnum10004EnumName0", "revision": "38a2b06aefcf6cf18781d7e127f4c172920ffddabdd457e67f0ad5c9bf78412b", "ptbr": "0-Não oculto"}
+{"id": "LocalText/modEnum10004EnumName1", "revision": "694fe6bfad197927bf60db78d1f6ced04b2c3830d0a3048b1dd6e4d4207a4095", "ptbr": "1-Oculto"}
+{"id": "LocalText/modEnum10004Title", "revision": "9028ee6b709c90ba9e57b945d2f564794049a571179f5a7854d2584894bc0b44", "ptbr": "Se o Destino fica oculto no painel de personagem da interface"}
+{"id": "LocalText/modEnum10005Desc", "revision": "12b2ba45b4bfc5d2fbf4764049c95f76f554ed37cc297c4ff40061847f3feea1", "ptbr": "Quanto melhor o Destino, maior a raridade."}
+{"id": "LocalText/modEnum10005Title", "revision": "cd9d20c60e9b09e3a74fd6fd9d3a5feb09e5ac8c8c0c950e8b3119cd736702fb", "ptbr": "Raridade do Destino"}
+{"id": "LocalText/modEnum10006Desc", "revision": "8ef4aab966052737848ad2a4df8f5c1795e61447cd34d767e1885712f6aa0475", "ptbr": "Tipos de efeito diferentes têm funções correspondentes diferentes."}
+{"id": "LocalText/modEnum10006EnumDesc1", "revision": "686395d6c51eab1de6021d06e62d752ad861b157aa38a12b752905bc26212fe1", "ptbr": "Muda os atributos do jogador e, quando o Destino desaparece, os atributos mudados são restaurados."}
+{"id": "LocalText/modEnum10006EnumDesc101", "revision": "2ee2e4c59ca44cde4a6b4712e223f8eb3117f4e0d2f9f378280ea6b34dc1b599", "ptbr": "Aumenta ou diminui imediatamente os atributos do jogador. Não será restaurado."}
+{"id": "LocalText/modEnum10006EnumDesc2", "revision": "c39350288c24ecc67114eb086fa4e46c49fbaa7b71a794ea7ca9f7ef78833617", "ptbr": "Trava os atributos do jogador num certo valor. Quando o Destino desaparece, o valor travado é restaurado."}
+{"id": "LocalText/modEnum10006EnumDesc3", "revision": "79d8dec705143509f4b4c3bc7986dcd837939e50fd3cf224e1566b5aefe39b67", "ptbr": "Vários tipos de efeitos funcionais."}
+{"id": "LocalText/modEnum10006EnumName1", "revision": "69ed4775f8e2460277ffb43458b5929a422dd9b9f38c69b243db2aa9ba73567a", "ptbr": "1-Mudar Atributos"}
+{"id": "LocalText/modEnum10006EnumName101", "revision": "16c8765458423631f486e88353af3d451988bbae79954737c06c4e8119fa6b38", "ptbr": "101-Adicionar Atributos"}
+{"id": "LocalText/modEnum10006EnumName2", "revision": "55a67e9a4233d42cb5e925267f931ef4fdeacae39236879899d2211f99039c0e", "ptbr": "2-Atributos Travados"}
+{"id": "LocalText/modEnum10006EnumName3", "revision": "fec3b9fd24cc1bf517e2f8a5612b279e78261ba406c3158f6fdb9522be03d303", "ptbr": "3-Função Especial"}
+{"id": "LocalText/modEnum10006Title", "revision": "10cace3fb00d747d0653ab4505028770a2ad4e8db207c6c664af547c70417a8b", "ptbr": "Tipo de Efeito"}
+{"id": "LocalText/modEnum10007Desc", "revision": "1af2b65475193b25abd8cb8f38c17fc1a904f9d3934760c5e9c836f0339ac251", "ptbr": "Quando vários efeitos mudam os mesmos Atributos, a mudança de mais ou menos é feita primeiro e as mudanças de porcentagem são contadas no fim."}
+{"id": "LocalText/modEnum10007EnumName0", "revision": "11cea1dceca0eb9ba73da4dadb44866530cb1f95da5feafd7e6c1585a8165af1", "ptbr": "0- Porcentagem"}
+{"id": "LocalText/modEnum10007EnumName1", "revision": "531f6491ef16ebedb2a150ec99ca61f17ca777a52524ca7d9c7b0c3e8fc890c7", "ptbr": "1- Valor Fixo"}
+{"id": "LocalText/modEnum10007Title", "revision": "accbb10aedb4c94337bf04dec9ccea348de276da9d96a71d6f1fb43b46a2729c", "ptbr": "Tipo de Mudança"}
+{"id": "LocalText/modEnum10008EnumName0", "revision": "8602c71d9774dfa209c87d0fc19c15bd16b00b9d8ca1e5c905898eccf0199938", "ptbr": "0-Sem derrubada de item"}
+{"id": "LocalText/modEnum10008EnumName1", "revision": "bcc7d27e46fa81b0a98723872afaaef9d873b33ff144fce42c6a49b6b3242d56", "ptbr": "1-Técnica marcial"}
+{"id": "LocalText/modEnum10008EnumName2", "revision": "661b4c23cdd45ba33332d2291fe318a126c9a0b5222365ed3e05ef2af7481e22", "ptbr": "2-Técnica especial"}
+{"id": "LocalText/modEnum10008EnumName3", "revision": "29e23b85be5d9773783e3de664d506399066702e55d8402af8428dcb6412c290", "ptbr": "3-Técnica suprema"}
+{"id": "LocalText/modEnum10008EnumName4", "revision": "edfd2480de34bcfc16facf7816dc5fbe3f8d4fca04d11f1c167fc6316935d950", "ptbr": "4-Técnica de movimento"}
+{"id": "LocalText/modEnum10008EnumName5", "revision": "fa7378ef20363a07176ce3113f26e3d51f8ca6cb1524dd974a2e2cc8277ce84b", "ptbr": "5-Técnica mental"}
+{"id": "LocalText/modEnum10008EnumName6", "revision": "8844ad92cc6e53a45d76a1b5f94df7eb91563176adc3e627a6fd79baf452a859", "ptbr": "6-Item"}
+{"id": "LocalText/modEnum10008EnumName7", "revision": "15662c27232368e8445e5f6b48776c21c50e27475a700697c542612a7b456af0", "ptbr": "7-Artefato"}
+{"id": "LocalText/modEnum10008Title", "revision": "76e14188dd18e06eea8766ea575b5039c0c953c941b3955e8ac17aea94ebcf55", "ptbr": "Tipo de produção"}
+{"id": "LocalText/modEnum10009EnumName1", "revision": "d319827652cfe380a3fa20400a24c5eefcabcadeaab15b49abb4743ac806f4c1", "ptbr": "1-Tudo"}
+{"id": "LocalText/modEnum10009EnumName101", "revision": "0a1caaffb30bd8e33a086fbae20e76e579184e3ef7bdf86c24bd40a8942d5235", "ptbr": "101- Sabre"}
+{"id": "LocalText/modEnum10009EnumName102", "revision": "75f11ffe54ebb10a3ab015564e606914d5b7830a04ce3c161892fe841ce58f09", "ptbr": "102- Lança"}
+{"id": "LocalText/modEnum10009EnumName103", "revision": "aa82526446d237f66fe51d05f35a5d05be9a2b1617480ca8e03d6e6d060f490f", "ptbr": "103- Espada"}
+{"id": "LocalText/modEnum10009EnumName104", "revision": "78fbdffec8ede320dfd46d60651944babc1ef4c1b92ae00d4abcf79f17ac5129", "ptbr": "104- Punho"}
+{"id": "LocalText/modEnum10009EnumName105", "revision": "5d1c138194cb2f96fb0f7c2bdd4b6e35047af1391115609e321b268d69e082cb", "ptbr": "105- Palma"}
+{"id": "LocalText/modEnum10009EnumName106", "revision": "ab035d75eb6e30baadd7fcdb190ef248c3040ff938c376be4e5f1536a5201cd3", "ptbr": "106- Dedo"}
+{"id": "LocalText/modEnum10009EnumName111", "revision": "63c87ec0597270abc94f2d0fbd59c32d7163c83a2a6efe18eff3689aacfd38b2", "ptbr": "111-Fogo"}
+{"id": "LocalText/modEnum10009EnumName112", "revision": "2929b67dfd08a662eba23e2f61c6648a972620d3f8f894a4adb33d080ce3847d", "ptbr": "112- Água"}
+{"id": "LocalText/modEnum10009EnumName113", "revision": "c2a8f720493dad281012aed557ede260c83c0b24cd221504be8f27cd32d6d713", "ptbr": "113- Raio"}
+{"id": "LocalText/modEnum10009EnumName114", "revision": "d39496cf1ab7d971c6de7f97f9914c317234ffc9c72092f55c47a03a6da9d5a6", "ptbr": "114- Vento"}
+{"id": "LocalText/modEnum10009EnumName115", "revision": "d5b10e23c4f2c94b9847986253a6241690ff66b58d3d2f3d34e5e6332cdd13dd", "ptbr": "115- Terra"}
+{"id": "LocalText/modEnum10009EnumName116", "revision": "0cc839b0f9cb2ee354d5eb3ac93a03464a51193f730810afbaaaf287809c035c", "ptbr": "116- Madeira"}
+{"id": "LocalText/modEnum10009EnumName2", "revision": "67daeca4568a8ef91d587028ee133aa5f2791f477fd0a1e34eecc2e3453b3375", "ptbr": "Técnica Especial"}
+{"id": "LocalText/modEnum10009EnumName3", "revision": "1fedf3c42dbb3f4af2cd200662fc8e328b93fc8f91eef5ec3ee7b6e8a0d81369", "ptbr": "Técnica de Movimento"}
+{"id": "LocalText/modEnum10009EnumName4", "revision": "89e80f5fa2f8da859f9f4ff0b6fc9eba531c03e93609b3ca04abbc3c98217e38", "ptbr": "Técnica Mental"}
+{"id": "LocalText/modEnum10009EnumName5", "revision": "281397937bc1a685bb5eb7709030adfa21362404c1bc569de185667cf2f929aa", "ptbr": "Técnica Suprema"}
+{"id": "LocalText/modEnum10009Title", "revision": "62a4e71d92dba3d6fda3fc122681da5a5aa0799f1fb6a0211608196312bedf61", "ptbr": "Tipo de Manual"}
+{"id": "LocalText/modEnum10010EnumName1", "revision": "a42eaf2c13b201e6384d86724098d2da6906be62c25aa42eeff10f2c3ef9470a", "ptbr": "1-Reino de Refino de Qi"}
+{"id": "LocalText/modEnum10010EnumName10", "revision": "4fd1b97346ecea9a48542d6b14ed924d2839f2d9cbd224b60ce8dcfd3008f9f8", "ptbr": "10-Reino Transcendente"}
+{"id": "LocalText/modEnum10010EnumName100", "revision": "f6355e7aa9269b266a7b233726dac9153a7e21a67c4fc4ef23f4c20adc1867c1", "ptbr": "100-Reino atual do jogador"}
+{"id": "LocalText/modEnum10010EnumName2", "revision": "c149d2a16acb8f340ab3b26898b553943a02ebd40333750c65ab01c0f2b0d6fb", "ptbr": "2-Reino de Fundação"}
+{"id": "LocalText/modEnum10010EnumName3", "revision": "f3ce63bd76f79730a871e354cb96a65be8ea0031a631ca800ed8041e57a84901", "ptbr": "3-Reino de Condensação de Qi"}
+{"id": "LocalText/modEnum10010EnumName4", "revision": "3063963cc0225acb29c075ec2568be1ca69528ca02ed9514eade8b3523859415", "ptbr": "4-Reino de Núcleo Dourado"}
+{"id": "LocalText/modEnum10010EnumName5", "revision": "929bfc70f7c7452fa05a97199c5d4f2ebdd02f8e284a3e972693ff75010296bf", "ptbr": "5-Reino de Espírito Original"}
+{"id": "LocalText/modEnum10010EnumName6", "revision": "cac2f5ce3b483c74d23bd3539f0f64f965448943d9e87cfd7bba105d7d42b665", "ptbr": "6-Reino de Alma Nascente"}
+{"id": "LocalText/modEnum10010EnumName7", "revision": "e01ddc9b91798520913393d9d5a1b6576dfe4f52e1acbd9707a02b0da321f424", "ptbr": "7-Reino de Formação da Alma"}
+{"id": "LocalText/modEnum10010EnumName8", "revision": "74a3974a9b930e5732f11fd19621e61bb693a4c051fecc0d01f29a4bccd89cac", "ptbr": "8-Reino de Iluminação"}
+{"id": "LocalText/modEnum10010EnumName9", "revision": "c1bc95290144641360a0233b7cdd17b3a52f373a27e2f555b118a5b5ac001759", "ptbr": "9-Reino Renascido"}
+{"id": "LocalText/modEnum10010Title", "revision": "21401006a7c6c2772656b1cb02ac43e5cfdc777af718d5446f5e4388e1d6b4d3", "ptbr": "Reino do Manual"}
+{"id": "LocalText/modEnum10011EnumName-1", "revision": "1bf650ccec1f5fbf7c728b597ac51c761ce9f91e834e278b8259be2a8be3980b", "ptbr": "Aleatório"}
+{"id": "LocalText/modEnum10011EnumName1", "revision": "6df71d2909ed04f33717642b21522902867fbb2858c44a973984d8c4c9634810", "ptbr": "Movimento"}
+{"id": "LocalText/modEnum10011EnumName2", "revision": "9516089ea734d9b9334baf71fc978d2786a958ee92d3630a0e8970bf2904a48e", "ptbr": "Sutra"}
+{"id": "LocalText/modEnum10011EnumName3", "revision": "78c2d31b4541dd3b228eb0012c7f2695715e95c3a9931be84efcc82ada86277f", "ptbr": "Técnica"}
+{"id": "LocalText/modEnum10011EnumName4", "revision": "f1a38f6e8024f295690307a408f818f4b8f406ca9fbc3d68e3ea7b7e37bca7c0", "ptbr": "Guia"}
+{"id": "LocalText/modEnum10011EnumName5", "revision": "b9880ae719ce339593dfd92e428ebede271cdc4b216f54522d9fa1250bda7180", "ptbr": "Compêndio"}
+{"id": "LocalText/modEnum10011EnumName6", "revision": "3eca62215bb86bd4e9b7b1e46bfd2e61bac44d80784e28ba351eeb1aef90eec3", "ptbr": "Manual Secreto"}
+{"id": "LocalText/modEnum10011EnumName7", "revision": "80fd84563e5da3db4ec5dda15c6d3aacb3a914d9b687408ce84b41c92e10a2e2", "ptbr": "Poder Divino"}
+{"id": "LocalText/modEnum10011EnumName8", "revision": "bc306642ea54d22990026df0e3892647af8ddf29ba2e2ed97f0acbda59b63a53", "ptbr": "Maestria"}
+{"id": "LocalText/modEnum10011Title", "revision": "c389bbfd07085f06f6a3b4d7e12d38019a901a35f235198635c4b1519101c3f3", "ptbr": "Tipo de Técnica Mental"}
+{"id": "LocalText/modEnum10012EnumName0", "revision": "4aef00416639574bd9df0869819d57355531d234ff09a932b7333ac0c0d67931", "ptbr": "0 Cor Aleatória"}
+{"id": "LocalText/modEnum10012EnumName1", "revision": "81231f66cc989ec832fd73ef09a763bdda8edd1dbf7522de018787dea136dd06", "ptbr": "1 <w>Comum</w>"}
+{"id": "LocalText/modEnum10012EnumName2", "revision": "d02891bc289d6786af248b59e934686f773bea536ba4e552a3f0e491d9cea1a7", "ptbr": "2 <g>Incomum</g>"}
+{"id": "LocalText/modEnum10012EnumName3", "revision": "452bd0bab7173d080a3b8e10be53d19099a40a65b3de3f5bdf70e0c9bd16b998", "ptbr": "3 <b>Raro</b>"}
+{"id": "LocalText/modEnum10012EnumName4", "revision": "9cc64e6307b50bab0d185d42b779bbc0468c6c2a396eb0f973aa4963b17930b1", "ptbr": "4 <p>Épico</p>"}
+{"id": "LocalText/modEnum10012EnumName5", "revision": "9508f201a2afa4c31e0ae76c2f11e0d30073660bc2374ce2d3926562659fc19d", "ptbr": "5 <o>Lendário</o>"}
+{"id": "LocalText/modEnum10012EnumName6", "revision": "f55e432928a734659ab3fd0c62de3c45947e09197e0fb39442aa5e06d24441e4", "ptbr": "6 <r>Mítico</r>"}
+{"id": "LocalText/modEnum10012Title", "revision": "3e743ef885d2e628810fb2eb0bd7eb43088545de5b67eb6a2f67ae1b932a485d", "ptbr": "Nível do Manual"}
+{"id": "LocalText/modEnum10013EnumName0", "revision": "0024cc4ab2fe14f3a6ca9909b2e252f58fe10ac1555c419336b7013177fecc92", "ptbr": "0-Aleatório"}
+{"id": "LocalText/modEnum10013EnumName1", "revision": "bbfbb00a9e5e9da66a6046baa5ded3578b7e500acc214b3dbb174953d9b51da9", "ptbr": "1-Masculino fixo"}
+{"id": "LocalText/modEnum10013EnumName2", "revision": "83ff39f72fb57cacbc2f938b4cda4b00dcb51a4c6e9520383751503ea3be050f", "ptbr": "2-Feminino fixo"}
+{"id": "LocalText/modEnum10013EnumName3", "revision": "1d32cc8cf8f255bdacc9e99e53a0b88fd8e1353027d66f8d48a1c793813181a0", "ptbr": "3-Igual ao jogador"}
+{"id": "LocalText/modEnum10013EnumName4", "revision": "54bdbbd8ee36831a5aa00c9e944f26941a4186528aa69fd3061c362a919e724d", "ptbr": "4-Diferente do jogador"}
+{"id": "LocalText/modEnum10013Title", "revision": "861b1704541e1d487fc18929fc90190ecaa14153d54ab0d9595dde6e5847bd97", "ptbr": "Tipo de gênero"}
+{"id": "LocalText/modEnum10014EnumName0", "revision": "b156b7cd92e10e140acedc1f38b76e4640df9d15f27c9b94f9d86175bbdaf9c4", "ptbr": "0- Sem relação"}
+{"id": "LocalText/modEnum10014EnumName1", "revision": "09125c9740b2a630d2c1ab5f80518ed16e0131a86eb5b38e0f25487b7182d01f", "ptbr": "1-Pais"}
+{"id": "LocalText/modEnum10014EnumName10", "revision": "f7fd96725455ecf03996f8c56a23d0d77511f98329ebaecc9697f33a937ac57d", "ptbr": "10-Mestre"}
+{"id": "LocalText/modEnum10014EnumName100", "revision": "7658b8b3338afecd059b882ba55ebb9c56fc01c7feb9ee26d5dfd3534720dd63", "ptbr": "100-Amigo"}
+{"id": "LocalText/modEnum10014EnumName101", "revision": "c36b2c4cb0c416697d2fc4f94d45ac89da77937b6ca34f975882702e60108450", "ptbr": "101-Inimigo"}
+{"id": "LocalText/modEnum10014EnumName11", "revision": "089bfb53393bbf74dd0e62c4664be10e0e2f07857163c345ee7a3dcf113ed71f", "ptbr": "11-Aprendiz"}
+{"id": "LocalText/modEnum10014EnumName2", "revision": "80a67c683297e5ac056cdb77ec5c7b140d602fa24a5c2ccfcea6d8730a43d754", "ptbr": "2-Filho"}
+{"id": "LocalText/modEnum10014EnumName5", "revision": "dcd7fb020173cd5dd98a7f0d853c33769582d1ddb163ac11268a8cbcfa7b7df5", "ptbr": "5-Pai Adotivo"}
+{"id": "LocalText/modEnum10014EnumName6", "revision": "4900292b9f7bdcad9be1f021efb3a1c15e8e280ba614bf16bcdc4188a2d98e12", "ptbr": "6-Filho Adotivo"}
+{"id": "LocalText/modEnum10014EnumName7", "revision": "d2de2424385a1af827f8a92e168fc5b0d890d43a9f198d6a552c74531683a33f", "ptbr": "7-Irmão Jurado mais velho"}
+{"id": "LocalText/modEnum10014EnumName8", "revision": "05415cb751c2f2fe2df8f6f6e4dc9d9799baca48efb3288464781337fcb5bcbb", "ptbr": "8-Cônjuge"}
+{"id": "LocalText/modEnum10014EnumName9", "revision": "e3be7c2f8bc153bb36d3ff1bf60da5c8f72c1e94952ccb52beffa368c51702fe", "ptbr": "9-Par"}
+{"id": "LocalText/modEnum10014Title", "revision": "f5bfb9c4bd67ea15807ce17c321662022897419ec03a4b1013019c0741cd8f54", "ptbr": "Tipo de relação"}
+{"id": "LocalText/modEnum10015EnumName1", "revision": "6c90c3cbc910a491ad7fc499cc56dabbef980106361c4ef33517ffc5eeb42acd", "ptbr": "1-Ao adicionar o Destino"}
+{"id": "LocalText/modEnum10015EnumName2", "revision": "ca51ec478bd47df17cbd9d4eb933a9a73ffe3faa8428443f9496da497931b5a7", "ptbr": "2-Ao remover o Destino"}
+{"id": "LocalText/modEnum10015EnumName3", "revision": "7df17a46a1b9505b0715ec4c38f43e470e55e8ab9f0278a6c63f7cdd2db9a379", "ptbr": "3-Quando a duração do Destino é atingida"}
+{"id": "LocalText/modEnum10015EnumName4", "revision": "1efa63027091dc0b0764c82fc84f45ac1425130ebf11c000da33ead9c3c1fd7d", "ptbr": "4-Todo mês"}
+{"id": "LocalText/modEnum10015Title", "revision": "53d3c282963a3bcb9a5dafe4b180a4a75ea33b96dd0e12de01bf3ac81ef61dd6", "ptbr": "Momento em que o item é produzido"}
+{"id": "LocalText/modEnum10016EnumName0", "revision": "f82824ec6eaf90ee13ef3e1e3a3a14cde2cfd041aea6036806884862f082800a", "ptbr": "0- Porcentagem"}
+{"id": "LocalText/modEnum10016EnumName1", "revision": "4ad6d0ca56a9c386d6cc3f374462c47c51bdf27f1534ab2d0e42c7535564152c", "ptbr": "1-Número fixo"}
+{"id": "LocalText/modEnum10016Title", "revision": "9de6764fd932da8f849fc24881f8fcb0389c16249da2a04b1cd615ecbc6bdc82", "ptbr": "Tipo de Mudança"}
+{"id": "LocalText/modEnum10017EnumDesc0", "revision": "d0fd96b14703bfe5e4c87571b2eff95c6ea88468f2f3cf34670cfb48c3c8b04b", "ptbr": "Atributos com valores máximos podem ser usados, como Vigor, Vitalidade etc."}
+{"id": "LocalText/modEnum10017EnumName0", "revision": "b4675a821a4eb22008ffe3b7d14ad41a5a595a4acc175ddbe6a70b1445baa5d1", "ptbr": "0-Maior Porcentagem"}
+{"id": "LocalText/modEnum10017EnumName1", "revision": "587e97345e97c4c184fc0772843af3a409ce0aa7ea1eebc211d6d49811b52fc6", "ptbr": "1-Número fixo"}
+{"id": "LocalText/modEnum10017EnumName2", "revision": "6e84d86a10d99fad79da9537d66b8dd0f1369d2f794077447e9a2ceceeadce59", "ptbr": "2-Porcentagem atual"}
+{"id": "LocalText/modEnum10017Title", "revision": "196810997e78253a79e8d71effdc9ad23f07d14d32585e011debc74909705264", "ptbr": "Tipo de Mudança"}
+{"id": "LocalText/modEnum10018EnumName1", "revision": "3e3743dd4f5dd879ee93ccdb9189089e5b1ec1b853a2b848648f8cdb8ec2cc3a", "ptbr": "1-Velocidade de aumento de Afinidade"}
+{"id": "LocalText/modEnum10018EnumName2", "revision": "6247dde4bbbcb8b4feebde550b3a94ac290a56fd246068fbefcb2aae8af216e8", "ptbr": "2-Velocidade de diminuição de Afinidade"}
+{"id": "LocalText/modEnum10018EnumName3", "revision": "61ad79aba793ab849404bd36850750d727563c28024ed72f00ee4cbde4a941bf", "ptbr": "3-Velocidade de aumento de Rancor"}
+{"id": "LocalText/modEnum10018EnumName4", "revision": "ba370b0f5026874518d6d22e0797a4f46870ddd66f6d23621e9288d69b050397", "ptbr": "4-Velocidade de diminuição de Rancor"}
+{"id": "LocalText/modEnum10018Title", "revision": "d6c8d5a50e4bd1d0170ac32e0ca69f6145a31fcd6dfe95cea70a428376e9b5a8", "ptbr": "Método de mudança de Afinidade"}
+{"id": "LocalText/modEnum10019EnumName1", "revision": "c99329b9eee8a53e1bed9e62c1f00f3a4c85804561cb1919d7d505d0217e0b84", "ptbr": "1-Inspecionar a Mochila"}
+{"id": "LocalText/modEnum10019EnumName10", "revision": "c251beff594a107296aea082a5d2b6967dfdd1404954b4be312a234213273d79", "ptbr": "10-Iniciar entrada em masmorra do Mapa-Múndi"}
+{"id": "LocalText/modEnum10019EnumName11", "revision": "7d817885e66ade4fbd682cf351a75ce26839467ddfb09a0f94936e49c8876ff1", "ptbr": "11-Cultivo no Mapa-Múndi e Cultivo de Seita"}
+{"id": "LocalText/modEnum10019EnumName12", "revision": "cdf221439a196055ec0f2199268a7cfb4c3bf626a0828f261fc904986182281d", "ptbr": "12-Conversar"}
+{"id": "LocalText/modEnum10019EnumName2", "revision": "7fb4251b4ff306a799c21be0875aed946ac6b7fe24541eaf4dddb0dbc842b857", "ptbr": "2-Roubar"}
+{"id": "LocalText/modEnum10019EnumName3", "revision": "7f7b86baa87f3253664a73ba3c3ce398d4af23c46dd6373bf58b68777d930a47", "ptbr": "3-Fugir"}
+{"id": "LocalText/modEnum10019EnumName4", "revision": "1198fca58adf98528751834234307aeb238229ec7cdca7a5b5dead01cbb3dc90", "ptbr": "4-Atacar outros"}
+{"id": "LocalText/modEnum10019EnumName5", "revision": "3d124d0cbac8cf252d6b1e2c2c2cf198b20de444fffff4eb3dd19f105c5a30f2", "ptbr": "5-Pedir"}
+{"id": "LocalText/modEnum10019EnumName6", "revision": "9841292530a2fcca87adb3437482eb093973eac6a1cb13a447f4cdb76e32a0db", "ptbr": "6-Duelo de treino"}
+{"id": "LocalText/modEnum10019EnumName7", "revision": "25a2b5daa76ffb8276a82aab74f73b13a6250c7ee825bf9d977aa5f43adf6b9e", "ptbr": "7-Escoltar"}
+{"id": "LocalText/modEnum10019EnumName8", "revision": "09d01c6b9550bfebff098823eaf726c61ea186bcacec762a1a9f5c0bda66e0bd", "ptbr": "8-Presentear item"}
+{"id": "LocalText/modEnum10019EnumName9", "revision": "54bde7b3a41321b5a6678caa72a66ecd170ca25dd0f864950b0ef47e9d816086", "ptbr": "9-Cultivo Dual"}
+{"id": "LocalText/modEnum10019Title", "revision": "5c4a38d7ada81b34a6b2ae51a04cb8d86262fe13a85dd4bca9de3fbc3b73583a", "ptbr": "Ações proibidas"}
+{"id": "LocalText/modEnum10020EnumName1", "revision": "d63091ffc6e33773d8cb5ed90b5aa593c3380395cd579ccfaba6435cbcd31e37", "ptbr": "1-Elixir"}
+{"id": "LocalText/modEnum10020EnumName2", "revision": "883ef9f56fe1b8b8b7f99b199876011cebdceed49532e9e8af12d269aa20f014", "ptbr": "2-Montaria"}
+{"id": "LocalText/modEnum10020Title", "revision": "51d5187f92280b288d8417a76ee50fc90864567a3d6c9a4dfcbbf1b16749b260", "ptbr": "Itens proibidos de uso"}
+{"id": "LocalText/modEnum10021EnumName0", "revision": "5d74d5f9c8f9c89da61ee2f584b3a9b9b7505b0aca2cdfbfe9ce7675fc5d7f03", "ptbr": "0-Sem requisitos"}
+{"id": "LocalText/modEnum10021EnumName1", "revision": "91faf30f2b5814a2ecf0f664bc6215ccc8b52c97dcdedf55652d03eb5abc3c94", "ptbr": "1-Inferior ou igual a si mesmo (contando Reinos pequenos)"}
+{"id": "LocalText/modEnum10021Title", "revision": "dbe1bf68379ea483b6bc1fb2f1af58131865f133caf20301ef973189aa68e952", "ptbr": "Requisitos de Reino do alvo"}
+{"id": "LocalText/modEnum1003EnumName10", "revision": "2e01f54864b931023b472af8ad8a03db4198dec038b4b9d752bcd6b6eb3d4962", "ptbr": "10-Amigo"}
+{"id": "LocalText/modEnum1003EnumName11", "revision": "5df713b55fe9ec67f587c50e136df1269fbd84abe3f4dc877eaf570de6811f3f", "ptbr": "11-Inimigo"}
+{"id": "LocalText/modEnum1003EnumName12", "revision": "0f7f36e4fb2ad72508f62b51db8a4cb20a7330bb74831a7055667d04b7db14e5", "ptbr": "12-Mesma seita"}
+{"id": "LocalText/modEnum1003EnumName13", "revision": "02dc6cd8fa4cb5dc6d18649e7aa75b3d1cc097dc9376b13d9594014b243fbc0b", "ptbr": "13-Mesma facção"}
+{"id": "LocalText/modEnum1003EnumName3", "revision": "47a2dee83f7d5ac9558e520ee1ccd8c748a41279c6a984645ec1692d49e1f11b", "ptbr": "3-Pai"}
+{"id": "LocalText/modEnum1003EnumName4", "revision": "23958ec346a84dfba484112fc254e76afbefa913fdb0943b5c758b31d6e1a74e", "ptbr": "4-Filho"}
+{"id": "LocalText/modEnum1003EnumName5", "revision": "732e0021524e87bea0e918cb82e8da71d16583ed7e016f233db64a68da6954d5", "ptbr": "5-Cônjuge"}
+{"id": "LocalText/modEnum1003EnumName6", "revision": "39b381b33685697afc1905ef42d4e7cfe602fdb06b8ce836a1df6f3ecb82a615", "ptbr": "6-Par"}
+{"id": "LocalText/modEnum1003EnumName7", "revision": "272dd907e6b5150ec91ab66cc3d4d646d860561fe62263ef1244cd7e8046a0dc", "ptbr": "7-Irmão jurado"}
+{"id": "LocalText/modEnum1003EnumName8", "revision": "5bf97b386ee243ad696d01f993d61d1a629ebe0a534143843cd9416b9ccd8d85", "ptbr": "8-Mestre"}
+{"id": "LocalText/modEnum1003EnumName9", "revision": "f4d955bab059b560b660f95e59b8abe20f88ddb2ae72e59fa0e26152b970261d", "ptbr": "9-Aprendiz"}
+{"id": "LocalText/modEnum1003Title", "revision": "06768dce90a04bd7b7fa98f20d33e943a2c579d38398a833cfeaee6e27a7897f", "ptbr": "Relação"}
+{"id": "LocalText/modEnum1004Title", "revision": "d668dbcd057b02ef7fc9aa71295c534dfaaa0387040de5704e4c7fa6e437c14d", "ptbr": "Período"}
+{"id": "LocalText/mod_baocunbingtuichu", "revision": "2ee69003fd418fb778444be57f96f9ec321565d9c4165c752219a701142085dd", "ptbr": "Salvar"}
+{"id": "LocalText/mod_baocunchenggong", "revision": "b4bf43e23bcd76eb21dafb4ebf22088a42721da2c5c9f0c1a8b2d855537547f6", "ptbr": "Salvo!"}
+{"id": "LocalText/mod_baocuntishi", "revision": "2afa37d280129a02158ccd2d42c2476d3f3b8d3de7e194d8de3183031c507b8a", "ptbr": "<r>Salvar o Projeto</r> antes de sair?"}
+{"id": "LocalText/mod_baocunxiangmu", "revision": "6da5532bd05d8185339064bedb25c79dafc856a375710edd4a722b8129b84f16", "ptbr": "Salvar projeto [F12]"}
+{"id": "LocalText/mod_baohanmingganzi", "revision": "9925bcdad1cfb95344f37be4284ad1e83293ab13dbc831102daec6aa3959e266", "ptbr": "Contém a palavra sensível “{0}”. Digite de novo!"}
+{"id": "LocalText/mod_beizhu", "revision": "03cf3a6f4a0ec7113090b4f11220fbf13c355949bae79cef995fd769af3ecfa3", "ptbr": "Comentário"}
+{"id": "LocalText/mod_beizhuzhiyouui", "revision": "3d93d90250ee52c5ff608b9ece1a5faf7d6ee5df88f0ac653d6b1cc9386a7c7b", "ptbr": "Comentário (exibido só na interface do Mod)"}
+{"id": "LocalText/mod_bianji", "revision": "56c89148ab91dd37b94dd21bc4792a33d5349bf8135a23821eecf746658d2f7b", "ptbr": "Editar"}
+{"id": "LocalText/mod_bianjiwancheng", "revision": "de32c19308382d1b532bef5bcf6d78e942d00d42a134a88dbc0f977f17e622f4", "ptbr": "Edição concluída"}
+{"id": "LocalText/mod_chanchubiaoti", "revision": "6a7d0ba19005aa19b66b1cae10077223c525c2e2683f40f4df3fec931e4995d6", "ptbr": "Produzir {0}×{1}"}
+{"id": "LocalText/mod_chanchumiaoshu", "revision": "ce61ead91abeac5912f9ea77c517fbb8616d7743d98b3606b3202384ef017f39", "ptbr": "Quando várias produções são configuradas ao mesmo tempo, uma delas é produzida com base na importância aleatória de cada produção.\\n\\nDica: vários comandos podem ser configurados para produzir itens várias vezes."}
+{"id": "LocalText/mod_chanchuquanzhong", "revision": "ef2936320c761031eaeabce97ae33cb5498c0fdd5bf8b51d5d5170af1c91e99a", "ptbr": "Importância aleatória"}
+{"id": "LocalText/mod_chanchuquanzhongshuoming", "revision": "9c0a0b929e2f04bedc2f2c24f973ad9668cc522c01dc9827e0d4529246e8f95a", "ptbr": "Quando várias produções são configuradas, quanto maior a importância, maior a chance de este item ser produzido (quando há várias produções configuradas ao mesmo tempo, uma será produzida aleatoriamente)\\nDica: vários comandos podem ser configurados para produzir itens várias vezes.\\n\\nPor exemplo:\\nA Configuração 1 é definida para não produzir nenhum item, com peso aleatório de 90.\\nA Configuração 2 é definida para produzir 888 Pedras Espirituais, com peso aleatório de 10.\\nPortanto, há 90% de chance de não produzir nenhum item e 10% de chance de produzir 888 Pedras Espirituais."}
+{"id": "LocalText/mod_chuangjianchenggong", "revision": "48ac3946b754ac2a0888cbf0c64dae58e22621488d5f6d0b07b03806319ac214", "ptbr": "Projeto de Mod criado!"}
+{"id": "LocalText/mod_chuangjianmozu", "revision": "428d3d06292a129b2b507c97e2667520008080ce5f5d1251d8ffc672edf74904", "ptbr": "Criar um projeto de Mod"}
+{"id": "LocalText/mod_chuangjianqiyun", "revision": "3cf1d14f32cc9d64f9ce4ff3cf01a054a23869fe4ed5ddcdbac08d366930c846", "ptbr": "Criar Destino"}
+{"id": "LocalText/mod_chuangjianshijian", "revision": "52afc1d502503b37019b40a85b7d2d624fcac9557c0d53d62370b65914dedbe0", "ptbr": "Hora de criação {0}"}
+{"id": "LocalText/mod_daojuid", "revision": "296a868577bd218105edfaf20534ff4f9015b5a259bd1faf9e7e5134e9af4433", "ptbr": "ID do item"}
+{"id": "LocalText/mod_daojuleixing", "revision": "68acad150be2ded439d4c67b95e4f4666bbd86cb0be11f5502623f2a0cec6347", "ptbr": "Tipo de item"}
+{"id": "LocalText/mod_daojushuliang1", "revision": "8f1419a22ec1cfa547fb4518407462adaa99eb8954cf7a83affbd2691881bbec", "ptbr": "Quantidade de itens"}
+{"id": "LocalText/mod_daojushuliang2", "revision": "7a09c878f97fc71abd4935501a79b7816bd89cfa61b063daca8f332869a0b9bd", "ptbr": "Quantidade de itens produzidos"}
+{"id": "LocalText/mod_dianjishuru", "revision": "4a9a4e5c35a0c7d9d6984c72cfff3816fe1011026a96abfcc6c729d873e49978", "ptbr": "Clique para editar..."}
+{"id": "LocalText/mod_fabaoid", "revision": "652443c03a9a9d7a7f13bdbd7142368659b74fa3e8594b957d183d425a2be53f", "ptbr": "ID do Artefato"}
+{"id": "LocalText/mod_fabaoshuxingda", "revision": "e8e632f6d8ad4d66700f1a1d48ae8b0b8fc83aa3b87304fa085dcfdf104d9509", "ptbr": "Atributos máximos aleatórios (Porcentagem)"}
+{"id": "LocalText/mod_fabaoshuxingmiaoshu", "revision": "80256a331c8f9de1909ab51d0949f14e8ca82cd324b8c1e9a882c9db93749cf2", "ptbr": "Artefatos de cada Reino têm atributos padrão (ATQ, DEF, Vitalidade etc.)\\n\\nPor exemplo, se você criar um Artefato de Refino de Qi, o ATQ padrão dele é 12 e a Vitalidade é 120.\\n\\nSe os valores mínimo e máximo para atributos aleatórios forem ambos 200, o ATQ real do Artefato será 24 e a Vitalidade será 240."}
+{"id": "LocalText/mod_fabaoshuxingxiao", "revision": "4f78321c372f0d48222d9ace5382a2e8bff72e3e7dd1c2c5ed9dce4186351db9", "ptbr": "Atributos mínimos aleatórios (Porcentagem)"}
+{"id": "LocalText/mod_gongnengliebiao", "revision": "0d3eca96e548175eedc7894e6793a83398df11b172752b28525dcee3ac45f534", "ptbr": "Lista de funções"}
+{"id": "LocalText/mod_jiazaichenggong", "revision": "23e1be7f6de8856216d92989dfeb94b4198dadbe6ef0c03c38b41a997ef511f7", "ptbr": "Projeto de Mod carregado!"}
+{"id": "LocalText/mod_jiazaimozu", "revision": "3f60031dd92512ebdce508b6266801793e57108697e09b06cf0142fb59801692", "ptbr": "Carregar um projeto de Mod"}
+{"id": "LocalText/mod_jueshexiaoguo", "revision": "1b03b6df858feb18bf0159891e857ce5db241918dc339284108f5533ecc7ee6f", "ptbr": "Efeitos"}
+{"id": "LocalText/mod_kaijubeijingjieshou", "revision": "df244587f93cbdd0798b7ad695681dadb52c805edd0ee5c6303225ac23c14ac1", "ptbr": "Abertura de introdução de história de fundo"}
+{"id": "LocalText/mod_liebiao", "revision": "fb74f88cd49b6429735156882d1c31e13a89afd8936706c91dd52977d4a8deb2", "ptbr": "Tabela"}
+{"id": "LocalText/mod_lujingcuowu", "revision": "a8b435702cb95b9262cd7580dcd660affa6b7bdb0ea846d1309ee5bdf7a57279", "ptbr": "Projeto de Mod corrompido!"}
+{"id": "LocalText/mod_miaosu", "revision": "5f33941789d2d00c95a722f6fb90e0e297d191ffa44eecbd34307e9d578861bd", "ptbr": "Descrição do Mod"}
+{"id": "LocalText/mod_mijiid", "revision": "c9571067cb050e759ed9a643b5087eb04f3e11556273de6340c872daf6d8faa7", "ptbr": "ID do Manual"}
+{"id": "LocalText/mod_mingzi", "revision": "0b6d8198ebe7d06389cd11d1e86d05fc2f95de72fb1be1841a1f95071eccb52b", "ptbr": "Nome do Mod"}
+{"id": "LocalText/mod_mozubianjiqi", "revision": "b0bee7495c86e67612b48ac8dcd36278a4429bf158077f7aa921b78a6f0ce7d3", "ptbr": "Editor de Mods de Tale of Immortal"}
+{"id": "LocalText/mod_mozugongneng", "revision": "7d9325b37395bade03dc5b0ff1b4fde6b56454d582f0a41093dcf9fe4114052b", "ptbr": "Funções do Mod"}
+{"id": "LocalText/mod_mozuid", "revision": "042a9622beda221c2b2244bc16e5495ba179d05c7a5680cbac787560464201f0", "ptbr": "Mod {0}"}
+{"id": "LocalText/mod_qiyun", "revision": "35f1d7b080be2f252644a85e615d5c73959b8f8bd00a1c979091f1444853d159", "ptbr": "Destino"}
+{"id": "LocalText/mod_qiyunchixushijian", "revision": "c9d4dc6c966fb764834bb4be412e7b892e567d42de6052644cca047bc00b4cfb", "ptbr": "Duração, unidade: mês (-1 significa infinito)"}
+{"id": "LocalText/mod_qiyunmiaoshu", "revision": "b4d10631b534d58f04bd6f57b2f954a33d73ebf506c23d69cd532004ebe46e1a", "ptbr": "Descrição do Destino"}
+{"id": "LocalText/mod_qiyunmingcheng", "revision": "6f601818bf258f8b0d05eed000de5e3ff9e40d6eccdebba6c8b571e837a1dad9", "ptbr": "Nome do Destino"}
+{"id": "LocalText/mod_qiyunsuijigailv", "revision": "d49cbb423ca1578525f13497f75db0bb311191530bf5e6fe898519494158608f", "ptbr": "Probabilidade de aparição aleatória na abertura (‱)"}
+{"id": "LocalText/mod_qiyunsuijigailvshuoming", "revision": "4caccc1e3b63cf2313b5d6f3ea71a8e33e995676a02b31d3626e04a88291a1b0", "ptbr": "0: o jogador não conseguirá obter este Destino no começo."}
+{"id": "LocalText/mod_qiyunxiaoguo", "revision": "70e3e6b6698d211f964ca8b8b6eb2760dc5b5e8d36f932eefbbbd0c71c03fb2a", "ptbr": "Efeito do Destino:"}
+{"id": "LocalText/mod_saixuanguanjianzi", "revision": "5b599c65460e4c622be5ffb1a46380861ec11a2e73917fe131e712f7c9388c31", "ptbr": "Digite palavras-chave para filtrar..."}
+{"id": "LocalText/mod_shanchu", "revision": "7edfdba5e5b479cc5a9191184e6a24d163d50c77f0535a39eff00ca6c3f73186", "ptbr": "Apagar (Del)"}
+{"id": "LocalText/mod_shanchuchengong", "revision": "21bd4fc30696b816568925df2255d60b3b179f7d980df07d50dac69f41ae0ef8", "ptbr": "Apagado!"}
+{"id": "LocalText/mod_suiji", "revision": "dcd61007d9e993504a660fc14a36f906457200f14af752c9f410ccdc0f238b24", "ptbr": "Aleatório"}
+{"id": "LocalText/mod_suoding", "revision": "5e5f86c1c2870bd32ae8181a9885ef1df28b570eb70d9234ddaeaa67d734b741", "ptbr": "Limite em"}
+{"id": "LocalText/mod_suodingshuzhi", "revision": "32781c51763cfb90d65dccf4e1d154fa38220d7bae37e31b43893189d78a6d0b", "ptbr": "Valor travado"}
+{"id": "LocalText/mod_tianjiashuju", "revision": "461b4709f9ab5ee15465870ce30bfe3385e586b1d024d1078f88a15146ed6474", "ptbr": "Adicionar [{0}]"}
+{"id": "LocalText/mod_tishi1", "revision": "149bb7b52b6c56b33410b4704911c1bd55a51087b112c7e5ca1ed25f69c0e776", "ptbr": "Mod local"}
+{"id": "LocalText/mod_tishi2", "revision": "7a68f4785bd6fe9074c0f4d6e2922f15dd1704e32b3eaca93a4c7ca5b46de904", "ptbr": "Volte aqui mais tarde"}
+{"id": "LocalText/mod_tuichu", "revision": "5bf5a5f4cf399b4541de983be8f7cce8ebe8ebc8f4794bfa5283940d818ecfa0", "ptbr": "Sair"}
+{"id": "LocalText/mod_wushuju", "revision": "5280eb2f0feca6b16fecf9d375f0ff982665d071c89d876fc325d737762acdb7", "ptbr": "<r>Sem dados</r>"}
+{"id": "LocalText/mod_wushujumiaoshu", "revision": "71a44765a6d4d8c84425ce3577e2c527335a1e93795bfa72b3e551084d1a2e22", "ptbr": "<r>Erro: sem dados. Selecione os dados corretos!</r>"}
+{"id": "LocalText/mod_xiugaizhi", "revision": "aefea6e2e2edc48ddfe02f89566f2a026b0549328478bbbc39c24158bfab5af6", "ptbr": "Valor mudado"}
+{"id": "LocalText/mod_xuanze", "revision": "5612b511decbfb2741090425e9407a0177e045476c674cf32a2d9aa66218629f", "ptbr": "Selecionar"}
+{"id": "LocalText/mod_xuanzelujing", "revision": "c0da2a67c1f30568e01a71b2787cc009a2f8e66236148e605cfeb5e33fa54626", "ptbr": "Selecione o caminho para armazenar o projeto de Mod"}
+{"id": "LocalText/mod_yeqian", "revision": "5842def4eabaf090512d5fafd561e98ac8ac2dd87bbc712fa871a7160e5d4ce2", "ptbr": "Aba:"}
+{"id": "LocalText/mod_zhijietuichu", "revision": "f81041062ba89b44a7beb219be577a360ef396fe9a346148d3c97515da8ce09f", "ptbr": "Não salvar"}
+{"id": "LocalText/role_feature_postnatal_name63310411", "revision": "da142ba5e4950b384ac95f612bee1c47cbc540be33640d7d6e4202016a43acfd", "ptbr": "Aura Contratada"}
+{"id": "LocalText/role_feature_postnatal_name63310421", "revision": "67bc9bd12050ac737c4bfbee4274d6287133b68aaa6d4037bc49afdbfb504771", "ptbr": "Aura Contratada"}
+{"id": "LocalText/role_feature_postnatal_name63310431", "revision": "c389a70708afa87f6ef7046dccad4f5f0d38505f5753c1a6290ea93498a188e3", "ptbr": "Aura Contratada"}
+{"id": "LocalText/role_feature_postnatal_name63310441", "revision": "8c72fe3f7596602c925a8d379669a29b3ff6bf8ea19dd5ef878d59eead415f41", "ptbr": "Aura Contratada"}
+{"id": "LocalText/role_feature_postnatal_name63310451", "revision": "4d3c1ad6aff0ec44bb541001f911ab71d8c790870f1bb9adcd11cc236adfd0d5", "ptbr": "Aura Contratada"}
+{"id": "LocalText/role_feature_postnatal_tips6331024", "revision": "d10b267072391331acd07b5a7fc6764505cba90c88895ec412a56ee2d37bcd3e", "ptbr": "Em {#areaName8} e {#areaName9}, você tem 75% a menos de chance de ser atacado por monstros. Se você estiver numa área que pode se sujeitar à sua coação (o seu Reino é mais alto que o Reino requerido da área), terá 100% a menos de chance de ser atacado por monstros."}
+{"id": "LocalText/role_feature_postnatal_tips6331025", "revision": "c1c6556b7991330058d1708e926b181766253dfb3f333c186221fd9e41d92f99", "ptbr": "Em {#areaName10}, você tem 100% a menos de chance de ser atacado por monstros."}
+{"id": "LocalText/role_feature_postnatal_tips63310411", "revision": "014a0c0acd520877d1d5ff243624e5786c7d163f5c2f092f1279cfa32ec6b8ff", "ptbr": "Faz a sua aura se contrair, reduzindo a frequência de interação de outros cultivadores com você. Eficaz em <g>{#areaName1}, {#areaName2}, {#areaName3}</g>."}
+{"id": "LocalText/role_feature_postnatal_tips63310421", "revision": "957b515c810611ec3f178f71985ad70ea6a6c3b29b6bd1953a5c28c14a820b58", "ptbr": "Faz a sua aura se contrair, reduzindo a frequência de interação de outros cultivadores com você. Eficaz em <g>{#areaName4}, {#areaName5}</g> e áreas precedentes."}
+{"id": "LocalText/role_feature_postnatal_tips63310431", "revision": "289e72c9a2bcb6bd87c7357702217390c9e5a350c21fae9289b9dd50a3d948d7", "ptbr": "Faz a sua aura se contrair, reduzindo a frequência de interação de outros cultivadores com você. Eficaz em <g>{#areaName6}, {#areaName7}</g> e áreas precedentes."}
+{"id": "LocalText/role_feature_postnatal_tips63310441", "revision": "68fe69395c842be43b7ce552ef6829c99acf5c6fdd6e31b462678ed039125376", "ptbr": "Faz a sua aura se contrair, reduzindo a frequência de interação de outros cultivadores com você. Eficaz em <g>{#areaName8}, {#areaName9}</g> e áreas precedentes."}
+{"id": "LocalText/role_feature_postnatal_tips63310451", "revision": "dd885a260c15e735be25b6f66a6ecc47470559c3e60675f42f39a42750375ad6", "ptbr": "Faz a sua aura se contrair, reduzindo a frequência de interação de outros cultivadores com você. Eficaz em <g>{#areaName10}</g> e áreas precedentes."}
