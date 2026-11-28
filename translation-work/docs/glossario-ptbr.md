@@ -272,4 +272,26 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | Criaturas/chefes notáveis (Evergreen / Nine Tails / Harpy / Mushroom Man / Bambuki / Zouyu / Hatuibwari / Lydra) | 树妖 / 九尾狐 / 人面鸮 / 药灵 / 竹妖 / 驺吾 / 雷神 / 开明兽 | Sempre-Verde / Raposa de Nove Caudas / Harpia / Homem-Cogumelo / Espírito de Bambu / Zouyu / Hatuibwari / Lydra | Preservar nomes próprios do EN/Shan Hai Jing |
 | Receitas alquímicas não-elixir (`... Pill/Incense/Orb/Balm/Powder Elixir Recipe`) | 丹方 | `Receita de <Item>` (sem repetir *Elixir*) | Corrige redundância mecânica do EN |
 
+### Lote 0031 (Origem de itens, Traços Pós-Natais e Destinos de Combate)
+
+| Inglês (EN) | Chinês (CH) | Português Brasileiro (PT-BR) | Notas |
+| --- | --- | --- | --- |
+| Treasure Pavilion | 聚宝仙楼 | Pavilhão do Tesouro | Corrige a entrada anterior (*Pavilhão dos Tesouros*); alinhado ao corpus já publicado |
+| Workshops / Markets | 工坊 / 坊市 | Oficinas / Mercados | — |
+| Towns / Big Towns | 城镇 / 大城 | Cidades / Cidades Grandes | Em `item_output_desc`; o corpus antigo de `item_desc` usa *Vilas* (legado a reconciliar) |
+| `... Shards` (itens) | …碎片 | Lascas de … | *Lascas de Qi de Fogo*, *Lascas de Aura Terrestre*; o corpus antigo mantém *Fogo Qi Shards* (legado a reconciliar) |
+| Mythical Beast / Mythical Beast Lord | 大妖兽 / 妖兽之王 | Fera Mítica / Senhor das Feras | Novas entradas seguem o glossário; 10 linhas publicadas no lote 30 usam *Criaturas Míticas* (reconciliar depois) |
+| Spar | 切磋 | Duelo de treino | — |
+| Skill Points | 技能点 | Pontos de Técnica | — |
+| EXP (修为, recurso) | 修为 | Cultivo | Ex.: *ganha X% mais de Cultivo* |
+| Body Cultivation skill / Spirit Cultivation skill | 体修技能 / 灵修技能 | técnica de Cultivo Corporal / técnica de Cultivo Espiritual | Distinção vinda do CH; o EN usa *cultivation skill* para ambos |
+| Tomb raiding | 挖坟 | Saquear tumbas | — |
+| Damaged Foundation | 根基受损 | Base Danificada | 根基 = base de cultivo; distinto do reino Fundação (筑基) |
+| Intimidated (ATK/DEF/Vitality/Energy/Focus) | …威慑 | Intimidado (ATQ/DEF/Vitalidade/Energia/Foco) | Status negativo de batalha |
+| Encouraged (…) / Vitality Replenishment / Energy Replenishment | …助阵 / 体力补充 / 灵力补充 | Encorajado (…) / Reposição de Vitalidade / Reposição de Energia | Status positivo de batalha |
+| Efeitos de batalha: Poison, Stun, Slow, Burn, Freeze, Paralyze, Leech, Knockback, Entangle, Silence | — | Veneno, Atordoamento, Lentidão, Queimadura, Congelamento, Paralisia, Dreno, Repulsão, Enredamento, Silêncio | Lista de status das espadas voadoras |
+| Destinos de combate (700001+): Witchcraft, Burning Butt, Following Bug, Mysterious Shield, Jo's Flying Sword, Commander of the Dead, Blood Power, Sword Shadows, Shield Stance, Starlight, Spirit Fusion, Mushroom Power, Hidden Potential, Burrow, Shield Spirit, Rain of Energy, Blood Energy, Spiritual Sword, Blood Claw, Energy Essence, Vitality Essence, Enhanced Spiritual Skill, Martial Skill Specialization, Thundercall, Celestial Mark, Always Someone Better | — | Bruxaria, Bunda em Chamas, Bichinho Seguidor, Escudo Misterioso, Espada Voadora do Jo, Comandante dos Mortos, Poder Sanguíneo, Sombras de Espada, Postura de Escudo, Luz Estelar, Fusão Espiritual, Poder de Cogumelo / Espírito de Cogumelo, Potencial Oculto, Escavação, Espírito de Escudo, Chuva de Energia, Energia Sanguínea, Espada Espiritual, Garra Sanguínea, Essência de Energia, Essência de Vitalidade, Técnica Espiritual Aprimorada, Especialização em Técnica Marcial, Chamado do Trovão, Marca Celestial, Sempre Há Alguém Melhor | Nomes de traços e variantes I/II/III; alguns referenciados nas dicas antes de seus lotes de nome |
+| Unidades e personagens: Mystery Man Jo, Chicken King, Small Flower Faerie, female Dangkang, wild boar lair, charming fox, Following Dragon, Greenscale Spring | 神秘人李四 / 鸡王 / 小花妖 / 雌性当康 / 野猪窝 / 魅惑狐妖 / 跟屁龙 / 青鳞池 | Homem Misterioso Jo, Rei das Galinhas, Fada das Flores Pequena, Dangkang fêmea, toca de javalis, raposa encantadora, Dragão Seguidor, Fonte das Escamas Verdes | — |
+| Linhas de stat elípticas (`cooldown &tok&%`, `Agility &tok&%`) | 冷却时间&tok&% | Espelhar a elipse com *fica* (`a recarga … fica &tok&%`) | O valor renderizado carrega o sentido; não inventar verbo de direção (risco de negativo duplo) |
+
 
