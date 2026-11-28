@@ -394,6 +394,27 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | Honor token `honor_text65` = `{#kong}` e `honor_text66` = `F` (层) | Preservados verbatim | Gálibo de UI sem equivalente natural; registrar se o jogo mostrar texto |
 | `common_xiaoshi`/`common_fen`/`common_di` | h / min / # | Unidades de tempo e ordem, idênticas ao EN |
 
+### Lote 0037 (Mapa, Edificações e Glossário de Batalha `s_*`)
+
+| Inglês (EN) / Chinês (CH) | Português Brasileiro (PT-BR) | Notas |
+| --- | --- | --- |
+| Áreas: Bai Yuan, Yong Ning, Lei Ze, Hua Feng, Yun Mo, Chi You, Tian Yuan | Pinyin preservado | Topônimos com nome transliterado no EN |
+| Hundred Thousand Hills / Everfrost / Wayward Desert / Nether Mountains / Taihang Mountains | Cem Mil Colinas / Gelo Eterno / Deserto Sem Rumo / Montanhas do Submundo / Montanhas Taihang | Áreas com nome traduzido no EN |
+| Land of the Spirits / Land of the Arcane / Spiritlock Circle / Demonseal Circle | Terra dos Espíritos / Terra do Arcano / Círculo Tranca-Espíritos / Círculo Selador de Demônios | Alinhados às perguntas da taverna (pubAsk) |
+| Land of Beyond / Land of No Return / Cloud Cave | Terra do Infinito / Terra Sem Volta / Gruta das Nuvens | — |
+| Stele / Sandstorm / Holy Spring / Giant Furnace / Ancient Ruins / Stone Array / Divine Tree / Altar / Floating Vessel / Sword Shrine / Ball Lightning / Herb Garden | Estela / Tempestade de Areia / Fonte Sagrada / Fornalha Gigante / Ruínas Antigas / Matriz de Pedras / Árvore Divina / Altar / Vaso Flutuante / Túmulo de Espadas / Relâmpago Esférico / Jardim de Ervas | Matriz de Pedras e Tempestade de Areia alinhados às dicas de carregamento |
+| Soul Devouring Pagoda / Battle Dungeon | Pagode Devora-Almas / Masmorra de Batalha | — |
+| buildingButtonText: Fight / Inspect / Explore / Activate / Infuse Energy / Enter / Break Seal / Enter Tower | Lutar / Examinar / Explorar / Ativar / Infundir Energia / Entrar / Romper Selamento / Entrar na Torre | Lutar = battle_text4 |
+| Elementos (`s_huo/shui/lei/feng/tu/mu`) | Fogo / Água / Raio / Vento / Terra / Madeira | Valores dos tokens `$s_*$` |
+| Armas (`s_dao/qiang/jian/quan/zhang/zhi`) | Sabre / Lança / Espada / Punho / Palma / Dedo | — |
+| Status de batalha (`s_xueren`…`s_dushanghai`) | Lâmina Sanguínea, Impiedade, Quebra-Armadura, Quebra-Postura, Sangramento, Corte de Espada, Estilhaço de Ossos, Pele de Bronze, Escudo, Ferimento Interno, Força Interna, Vazio Interno, Meridiano Aberto, Queimadura, Alma em Chamas, Geada, Surto Espiritual, Turbulência, Surto de Trovão, Vento Contra, Vento Espiritual, Lentidão, Pele de Pedra, Ferrão Venenoso, Espírito de Flor, Técnica Contínua, Técnica Carregada | Idênticos às camadas de `skillPrefixDesc` |
+| Unidades invocadas (`s_wangling1-3`, `s_huangjilishi`, `s_huayao`, `s_xiaohuayao`) | Guerreiro/Arqueiro/Mago Espectral, Guerreiro Celestial, Fada das Flores, Fada das Flores Pequena | — |
+| Nomes de efeito (Sword Shadow, Palm Wind, Shield Shadow, Phantom, Execute, True Dragon Possession, Perfect Charge, Bullet Time, Arctic Windedge, Lightning Bolt…) | Sombra de Espada, Vento de Palma, Sombra de Escudo, Fantasma, Execução, Possessão do Dragão Verdadeiro, Carga Perfeita, Tempo Bala, Lâmina de Vento Polar, Raio Fulminante | — |
+| Tooltips de camadas ("X's max stacks", "Max stacks:", "stacks up to N times") | "Camadas máximas de X:", "Camadas máximas:", "acumula até N vezes" | Elipses de stat espelham o EN |
+| RES labels: Spiritual RES / Martial RES / Crit RES | Res. Espiritual / Res. Marcial / Res. Crítica | — |
+| Skill Stats | Atributos de Técnica | Inclui Artes Marciais e Raízes Espirituais |
+| Flower Buds / Flower Petals / Blade Marks / Nether Blast | Botões de Flor / Pétalas de Flor / Marcas de Sabre / Explosão do Submundo | — |
+
 
 
 

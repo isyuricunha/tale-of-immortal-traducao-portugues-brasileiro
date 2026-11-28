@@ -1,0 +1,500 @@
+{"id": "LocalText/areaName1", "revision": "f2b448d79c4d4a1fd3069c68b8541b190e56a3d461cd079f487b4ac87848813c", "ptbr": "Bai Yuan"}
+{"id": "LocalText/areaName10", "revision": "b1a15af46e3646f423c0a2acd0159879cfea78f07519ae3379b9f8ddda9f9ac7", "ptbr": "Chi You"}
+{"id": "LocalText/areaName11", "revision": "0c303fc4cf69c32c4567efa777373eda7545e9ba6fce77b9c069b79a4de99301", "ptbr": "Tian Yuan"}
+{"id": "LocalText/areaName12", "revision": "8f8e282b842dbbe6916fb82cecd7fd2632afe741a2e776b2d09c6680caccd5dc", "ptbr": "Montanhas do Submundo"}
+{"id": "LocalText/areaName13", "revision": "50db8f0252201f5944ebc081638de1ef72a1eafe987a3535c2954b06d72c0696", "ptbr": "Montanhas Taihang"}
+{"id": "LocalText/areaName2", "revision": "5b0c30a679b8b4d11c6693ad96b86ef94c2806ab65dde38d0ba346c0cf7043f2", "ptbr": "Yong Ning"}
+{"id": "LocalText/areaName3", "revision": "844c06cc5ee7a90a7e43db01c40e5beaca892c2c88bc38fd4973682168fac729", "ptbr": "Lei Ze"}
+{"id": "LocalText/areaName4", "revision": "3ee47c3760c84005aa4b8f6affb7372f78cf461ee659840c5b282a6baf5a37b9", "ptbr": "Hua Feng"}
+{"id": "LocalText/areaName5", "revision": "695d375274ec476494aa81045a5d50991277ff48d1f7113d628897d7d04852de", "ptbr": "Cem Mil Colinas"}
+{"id": "LocalText/areaName6", "revision": "5e4656984d0b1789dfbc266e06c4c0dc7880dd73b5ce82148785c07a6726ac21", "ptbr": "Yun Mo"}
+{"id": "LocalText/areaName7", "revision": "144b5187e25bf7188a0d0e4aa60f0c52fc8569122a389228a886d23a2bff71fa", "ptbr": "Gelo Eterno"}
+{"id": "LocalText/areaName8", "revision": "e628ae01111fed4f608fcb980c9967fb6c7dd69f69b13297ac85317ea4e67c4c", "ptbr": "Mu Xian"}
+{"id": "LocalText/areaName9", "revision": "c9714f24facf2c8529f20f449101e5bbaed3be27676560f9e38b6f812741f7a3", "ptbr": "Deserto Sem Rumo"}
+{"id": "LocalText/battleInfo_shengyuguaiwu", "revision": "529eaa4fdaa72426ca9493a6f391975aeb15642a79aa83b063816215a8c507dd", "ptbr": "Monstros restantes: "}
+{"id": "LocalText/build_lengque", "revision": "b14bb496407da28d56789592d68bb5a038f562f894063ef82a45962908f8e97d", "ptbr": "Esta edificação ficará disponível em {0} mês(es)"}
+{"id": "LocalText/build_lengque2", "revision": "f8afe04c1b98bf08cfaae7aa8d16efcdb9a46a1b4cc89b22c9ca996de8982b2e", "ptbr": "{0} voltará a ficar disponível em {1} mês(es)"}
+{"id": "LocalText/build_wufashiyong", "revision": "fe2d10940e658b717edbe336603e9ed8c11e3493221b1ed91230143b6d954632", "ptbr": "Não é possível entrar nesta edificação."}
+{"id": "LocalText/building10005Name_1601", "revision": "e84bb3bd364b7001bea6f5a82630f7c9f3c87342f798519de651710da41b8c7f", "ptbr": "Pedra Amarela"}
+{"id": "LocalText/building10005Name_1611", "revision": "a2ac8183ac1f610f7762ca2a3898f39d1629b5abde75d116150f599fdb0d96f9", "ptbr": "Gruta do Deserto"}
+{"id": "LocalText/building10005Name_1621", "revision": "a8a5bd391099682c2d780ffd0ee47716e8ca4d3fd6eef319abeca9dbefeb8ed0", "ptbr": "Estela"}
+{"id": "LocalText/building10005Name_162101", "revision": "14ba001e8728bff4f0611278b9f46b11b0c1426dc02d02ad4cdc5516e219b44a", "ptbr": "Terra dos Espíritos"}
+{"id": "LocalText/building10005Name_162102", "revision": "12772a1ec0303d289b79531c1f99a9157bfcce00bb31a27481bdc04be2e5e0e1", "ptbr": "Terra dos Espíritos"}
+{"id": "LocalText/building10005Name_162103", "revision": "06db9b02bbacd9acd77ae16791bdefc089140bb7fe692ca29b211481b0177bfb", "ptbr": "Terra dos Espíritos"}
+{"id": "LocalText/building10005Name_162104", "revision": "128cb7507fa7f887c152f49f1791df1f29512f469853a9ff0b07551b0fa9a5e8", "ptbr": "Terra do Arcano"}
+{"id": "LocalText/building10005Name_162105", "revision": "7d439a5aa183d3d8b7649078a4ce94912da63e597d8f5905f30d50e7ee9cb1ec", "ptbr": "Terra do Arcano"}
+{"id": "LocalText/building10005Name_162106", "revision": "203a22f7b939394778ae31857095f6ae00cc4d6933fe1ea8098b341b6cf056e0", "ptbr": "Terra do Arcano"}
+{"id": "LocalText/building10005Name_162107", "revision": "34ea61fa30c4b6060aa2b98cbb753d8398ff9a4df4e6a783880e6f06ec2dcb02", "ptbr": "Círculo Tranca-Espíritos"}
+{"id": "LocalText/building10005Name_162108", "revision": "e0eecb5936e47c823b7301811a1bd7bea9282dc491d1081e678f1cec092e4903", "ptbr": "Círculo Tranca-Espíritos"}
+{"id": "LocalText/building10005Name_162109", "revision": "13d6cdaf24eaa0ae05a2368ea8ce0a6478d85fe4f7aa1e6ec3e6e385775a44da", "ptbr": "Círculo Tranca-Espíritos"}
+{"id": "LocalText/building10005Name_162110", "revision": "cc09a7408ab4a6dc5196659ff998d7cc70d78313ed2ec4c4f4273163cb0ed6e1", "ptbr": "Círculo Tranca-Espíritos"}
+{"id": "LocalText/building10005Name_162111", "revision": "52fcb475f6607ff67ac72a22ce2aea746dfa9e32a028264656ec846a6992ae62", "ptbr": "Círculo Selador de Demônios"}
+{"id": "LocalText/building10005Name_162112", "revision": "3aa82c860e9593dce048f73de119583dec15c5dc8aa82ebb7f3f88ed907e0127", "ptbr": "Círculo Selador de Demônios"}
+{"id": "LocalText/building10005Name_162113", "revision": "30e55bdbe96d22f3803bf24204a6baf1129f9aff8419cf9ca22511c9545b5523", "ptbr": "Círculo Selador de Demônios"}
+{"id": "LocalText/building10005Name_162114", "revision": "6de825ffb7154161480b47131439ef8c4731e977bb89db6086453bddc46dc467", "ptbr": "Gruta das Nuvens"}
+{"id": "LocalText/building10005Name_162115", "revision": "1207142cb7dc67f241e6f39da81092a2944a7d54f0827809b60675032b3b66a8", "ptbr": "Terra do Infinito"}
+{"id": "LocalText/building10005Name_162116", "revision": "18cdb4465bf43b0f081a2eb94686aacbebedb8b8eccd12ba28902033488a44b6", "ptbr": "Terra do Infinito"}
+{"id": "LocalText/building10005Name_162117", "revision": "ce31983e494bd30701fa56710661aba554b03b72383f9050e5aac14af6cb0422", "ptbr": "Terra do Infinito"}
+{"id": "LocalText/building10005Name_162118", "revision": "cc65bdae4944b807f5f02d4c809fbb9ad804a85562c1259a02cbd1a6e1c8c18b", "ptbr": "Terra do Infinito"}
+{"id": "LocalText/building10005Name_162119", "revision": "4c520d89e6c5eb4672d41fa0581ed26f2f7a8ed6adcdc06063a168ce70855fa1", "ptbr": "Terra do Infinito"}
+{"id": "LocalText/building10005Name_162120", "revision": "0bac47ebccc1ea2fbd9eef5c4b550dcd595ef75d2b5e05f919af80c8bda39694", "ptbr": "Terra Sem Volta"}
+{"id": "LocalText/building10005Name_162121", "revision": "c7c901e3253694e52daa08173ea275e67aa24a0e2cdbb2b5e552086176fbf5d5", "ptbr": "Terra Sem Volta"}
+{"id": "LocalText/building10005Name_162122", "revision": "ef85664c737e658a7a096494adc74ecd1ed2ee59d4928fe29eaf8d540b0c30a7", "ptbr": "Terra Sem Volta"}
+{"id": "LocalText/building10005Name_162123", "revision": "5281f4f41ef34f7e7e654776b62caed5baa3e6a61e5dd258d1ab6bba68969038", "ptbr": "Terra Sem Volta"}
+{"id": "LocalText/building10005Name_1631", "revision": "4e5825c95fec2f77bf82430ea3bc9f99731f9779d2a270bfa323536a7a525111", "ptbr": "Tempestade de Areia"}
+{"id": "LocalText/building10005Name_1641", "revision": "14866ea4be8c33cfc97e43baa23482a93eed55225572c43d5e8ca731e8cfa2a6", "ptbr": "Fonte Sagrada"}
+{"id": "LocalText/building10005Name_1651", "revision": "2dbec6397dbfc74b3a6ebddb68343b680f52d3733a5f7388e70cc00bcc113cf2", "ptbr": "Fornalha Gigante"}
+{"id": "LocalText/building10005Name_1661", "revision": "9339a6178ceabd9db9e427b97bc0672dce9cdcab4c8ef7d029c83fd065cfd866", "ptbr": "Ruínas Antigas"}
+{"id": "LocalText/building10005Name_1671", "revision": "3466f121d4e482915bda7457284f5de84f2f8c31a73937f0203eb9acbb0047ef", "ptbr": "Matriz de Pedras"}
+{"id": "LocalText/building10005Name_1681", "revision": "33737e64ceb821b403e6841dcae4e59af39f4889397c81163c9d77fd65a44b6d", "ptbr": "Árvore Divina"}
+{"id": "LocalText/building10005Name_1691", "revision": "3a469b29be6acf1dada40c99385e7dcff40d088c91d9636bc3fd8fb379f76f21", "ptbr": "Altar"}
+{"id": "LocalText/building10005Name_1701", "revision": "5763bb963086be87b756415a0b476188d4574248bb891554f0b15cdbe84bccfb", "ptbr": "Vaso Flutuante"}
+{"id": "LocalText/building10005Name_1711", "revision": "bce4f223569a87e891e06ce9c395f6ca144d039f0abd66074532f4a8f90e461c", "ptbr": "Túmulo de Espadas"}
+{"id": "LocalText/building10005Name_1721", "revision": "92e00722da506aa258832b07b7a183723e0d4f78bf3ce13635d2d0c98e869704", "ptbr": "Relâmpago Esférico"}
+{"id": "LocalText/building10005Name_1731", "revision": "19ed8639a5885968339b8db33e7f307bd6ce31acdb84fd130c2ade0bc1c86942", "ptbr": "Sempre-Verde"}
+{"id": "LocalText/building10005Name_173201", "revision": "3049e0a45a374023630358058d071d0f2d3aa5895ee46db2a7c3be5f29d5e625", "ptbr": "Pagode Devora-Almas"}
+{"id": "LocalText/building10005Name_173202", "revision": "bbcd9a5b690243790369402783deaf529ef0f034c8fe846f197c87289bb1f1c7", "ptbr": "Pagode Devora-Almas"}
+{"id": "LocalText/building10005Name_173203", "revision": "2415f7c53e68b68830eb7d28afb8139fed60bdc711ea59475abd1061a0399f6e", "ptbr": "Pagode Devora-Almas"}
+{"id": "LocalText/building10005Name_173204", "revision": "a4f74b6ba5da19d264528dc2f2133de1e9d69867cade12e0de954f6eccb173ec", "ptbr": "Pagode Devora-Almas"}
+{"id": "LocalText/building10005Name_1741", "revision": "d68c892016dcf4e418f3233c2302b0cab643a1a368540df25a89908d31d6a5de", "ptbr": "Jardim de Ervas"}
+{"id": "LocalText/buildingButtonText_1601", "revision": "c377b32ad1351bbc3867d86cfba0b473527a24e7f050abece1b6ad8daba2afcd", "ptbr": "Lutar"}
+{"id": "LocalText/buildingButtonText_1611", "revision": "02463d5dd421524df78963caeb6c08781e830da91cabb3017fae2091f906217c", "ptbr": "Lutar"}
+{"id": "LocalText/buildingButtonText_1621", "revision": "5a160e90f2d17d5b8dadacc410a42b340bb96ad3dab2d6f79e2766d0ee3e92d1", "ptbr": "Examinar"}
+{"id": "LocalText/buildingButtonText_162101", "revision": "9ba27a329c5f0db28993b421c29df7fabfbed3a123b2ebdc541d13a398c135f1", "ptbr": "Infundir Energia"}
+{"id": "LocalText/buildingButtonText_162102", "revision": "06f8e9422339dd20e22a47142f16c3aaeebbf61889c7f7fe21f6badc4ebac722", "ptbr": "Infundir Energia"}
+{"id": "LocalText/buildingButtonText_162103", "revision": "0b171cea2dd997c3563150dff2a3d0955d3ade31c7b704714d6456ac22d40ca5", "ptbr": "Infundir Energia"}
+{"id": "LocalText/buildingButtonText_162104", "revision": "8f4b01d409f54c1eb1b86431a8c77d098e9b773b3cb9c67ae9bf1bbd49af6cc4", "ptbr": "Infundir Energia"}
+{"id": "LocalText/buildingButtonText_162105", "revision": "df45bdcbd66d461fd25f3796ef4121081445116df9a3a65ff0be45553cd69b5d", "ptbr": "Infundir Energia"}
+{"id": "LocalText/buildingButtonText_162106", "revision": "82fe6c116f6f79bd2888913382d9c26050005cf915729e92e23c9cb1484f8555", "ptbr": "Infundir Energia"}
+{"id": "LocalText/buildingButtonText_162107", "revision": "ded09c28f7af17523a615913b2a1000c9f5cce3597e6c851350db6b585051e16", "ptbr": "Entrar"}
+{"id": "LocalText/buildingButtonText_162108", "revision": "4481211669cd41c29c9d481fa52c7eae2f0e072f56cacb2f7a88e044dcd988fa", "ptbr": "Entrar"}
+{"id": "LocalText/buildingButtonText_162109", "revision": "4464d638e2f30ac17993b9428ca23133ee069c451e2243ad5ead7d54a5e61bf2", "ptbr": "Entrar"}
+{"id": "LocalText/buildingButtonText_162110", "revision": "8dcf5a31edd15c72ca9eeb6e3eec2f1ec27945024d70fb585651f0e9b0c1d28b", "ptbr": "Entrar"}
+{"id": "LocalText/buildingButtonText_162111", "revision": "e462e0dd95b47c8799bd91cb1a7771d6d6bd1b11def9941719f88d224dda6506", "ptbr": "Entrar"}
+{"id": "LocalText/buildingButtonText_162112", "revision": "f6b4b9941d064d263bcdc7e6c83008f34100b1232e2b92a4dec378cf4359bb67", "ptbr": "Entrar"}
+{"id": "LocalText/buildingButtonText_162113", "revision": "edb2dcc9e13eec0900996c2b91c98270668d965b83280d091efd96f38442c81d", "ptbr": "Entrar"}
+{"id": "LocalText/buildingButtonText_162114", "revision": "c0d3261b4f4c1e8b74590bfa9eae4de639622497270f272928e0c91c6b282107", "ptbr": "Entrar"}
+{"id": "LocalText/buildingButtonText_162115", "revision": "f3c5681c731a9e2f89adeb5fdbf26a411153ed35c7c71c93864be54d90d0bca5", "ptbr": "Romper Selamento"}
+{"id": "LocalText/buildingButtonText_162116", "revision": "98b4886cd287bfbb43c996f921b18be5a8fca089d47df071a8864e01ff00dd5e", "ptbr": "Romper Selamento"}
+{"id": "LocalText/buildingButtonText_162117", "revision": "6c823a417594bbf534c1b33d4e5cf78961cd1b0a2e21586272a400de5cf4004a", "ptbr": "Romper Selamento"}
+{"id": "LocalText/buildingButtonText_162118", "revision": "00eae9c6510909d1aa1b25e3e5fd1019272607417172402e6d213daa619e4972", "ptbr": "Romper Selamento"}
+{"id": "LocalText/buildingButtonText_162119", "revision": "a33abf328e2d601d1b85e5d2ad23dc46ecb807ec8db04aceb8ed303238cf0a48", "ptbr": "Romper Selamento"}
+{"id": "LocalText/buildingButtonText_162120", "revision": "35ea500ec42c835123d9f7e3aa53766580be04f1b1a1db007a55a1b0bf8ea6a0", "ptbr": "Romper Selamento"}
+{"id": "LocalText/buildingButtonText_162121", "revision": "32a8785bb04166cfe52ccf65b887f0195a83ad92be995029281372aac5f599f4", "ptbr": "Romper Selamento"}
+{"id": "LocalText/buildingButtonText_162122", "revision": "57618fa1cff393d8806669c3be5349af566c1ede8045155bbe95fe995db4cfa3", "ptbr": "Romper Selamento"}
+{"id": "LocalText/buildingButtonText_162123", "revision": "ce09116db75eebffa6ace5954117c3d34baf7512379f2f0d158dc71d3473158d", "ptbr": "Romper Selamento"}
+{"id": "LocalText/buildingButtonText_1631", "revision": "bd66e83d323ed6412c6b99c933ff217b3dd0ec94b874621cd1d60c1a04ef7150", "ptbr": "Lutar"}
+{"id": "LocalText/buildingButtonText_1641", "revision": "cf7ad704277d91e0d98767006e9b4b175bb30772ae2949ee5fa8adc08427c128", "ptbr": "Lutar"}
+{"id": "LocalText/buildingButtonText_1651", "revision": "0d127eab043e277bd4bc53bfebc2be81dae3431044ecc6fe13fc43e6bb1fab3a", "ptbr": "Lutar"}
+{"id": "LocalText/buildingButtonText_1661", "revision": "8216c30c94bfc24ae2b3755612b92cfaeb05a65bdec85380dc91eeca5b93c860", "ptbr": "Explorar"}
+{"id": "LocalText/buildingButtonText_1671", "revision": "6d14889407245805499791e2729d9506800bea8a03f8fabe89329a6aafaa1a9d", "ptbr": "Ativar"}
+{"id": "LocalText/buildingButtonText_1681", "revision": "5ce75cf6bbddb27273882468456c6c41b397eaa75994627dc1588c9cd8f486ce", "ptbr": "Examinar"}
+{"id": "LocalText/buildingButtonText_1691", "revision": "6a0d65425517fad3ff732c378ecce40db77019adf65d6386e122eee28edaa8f4", "ptbr": "Lutar"}
+{"id": "LocalText/buildingButtonText_1701", "revision": "7c02937d444c2320a8e70f1962207065fbacbaa9dbe07fb4a317ad392ca7720e", "ptbr": "Lutar"}
+{"id": "LocalText/buildingButtonText_1711", "revision": "81cbfb91aaac3e7b923662bbfb042ca6694503a54ed15f43c06150f4e9bc9b2c", "ptbr": "Lutar"}
+{"id": "LocalText/buildingButtonText_1721", "revision": "1b45d39c02aad7c1966064290e45dfbb07dacdfeaa04070bb85436524f1a1cf7", "ptbr": "Lutar"}
+{"id": "LocalText/buildingButtonText_1731", "revision": "7844319993d3841158f313483adbc1c432c76a9b07bddc5c5fa80e5e86bd1bb7", "ptbr": "Lutar"}
+{"id": "LocalText/buildingButtonText_173201", "revision": "994a324ade7070025c04e3f27e90661a233f1ced5e943c6464a250fbe5b8bf14", "ptbr": "Entrar na Torre"}
+{"id": "LocalText/buildingButtonText_173202", "revision": "d36800707f1d4f4e702ae1e5c666680320f197944c0363db71e1498bbd78bb21", "ptbr": "Entrar na Torre"}
+{"id": "LocalText/buildingButtonText_173203", "revision": "bda713f58f210636999219710c783925470c8944dfd367542dc805d822427f33", "ptbr": "Entrar na Torre"}
+{"id": "LocalText/buildingButtonText_173204", "revision": "58d15fbb38b9229ecc3a4776a61e76cfd2605f46d035c9b56953281bcd642c03", "ptbr": "Entrar na Torre"}
+{"id": "LocalText/buildingButtonText_1741", "revision": "55f3803b29afc16431796a746cea21f885d32d63f824e8b9f5ae743e14dcc7c9", "ptbr": "Explorar"}
+{"id": "LocalText/buildingDesc_1601", "revision": "5cc7a51ed4dc1927eb6c1b248647cf38f8e7f03688ae841e28e022b3dcade433", "ptbr": "Masmorra de Batalha"}
+{"id": "LocalText/buildingDesc_1611", "revision": "7db30c1d760f98f6a86a3709129d0718207ecf9c9d508792a1a7886c0e749011", "ptbr": "Masmorra de Batalha"}
+{"id": "LocalText/buildingDesc_1621", "revision": "44ae97c158e23cdb70491ce116d98a068542e421a42bff66cafa401dbd53e80d", "ptbr": "Uma estela quebrada e esfarrapada. Mesmo de longe, você sente o poder do mundo irradiando dela..."}
+{"id": "LocalText/buildingDesc_162101", "revision": "7241c02c53edd96b5f7a9dff3979124ae3630822e66ec3bb0d9fad61ad35cce4", "ptbr": "Uma edificação antiga protegida por um selamento poderoso. Se você infundir uma grande quantidade de Energia no selamento, talvez consiga abri-lo..."}
+{"id": "LocalText/buildingDesc_162107", "revision": "b72f353911694359351a17c1df4a003f8aa1c8a2f9d6634d2f33b2d6eec0ea02", "ptbr": "Uma matriz que isola Energia e parece ter sobrevivido aos tempos primordiais... Partes dela estão abandonadas, mas ainda emana uma aura imponente."}
+{"id": "LocalText/buildingDesc_162114", "revision": "8d1702f8ddac23e7a576ab68861028d7450175d4e9db89997989c0f9338be895", "ptbr": "O ar ao redor está impregnado de um perfume medicinal embriagador... Há um altar por perto. Para entrar, você precisará sacrificar algo ao dono deste lugar."}
+{"id": "LocalText/buildingDesc_162115", "revision": "406d1c33edc99e0c27ae25c8c10d37150dfcb3a6d406744dcaaf9aaa13fd039d", "ptbr": "Umas ruínas misteriosas e arruinadas. Parecem estar protegidas por um selamento de Foco poderoso...\\nSerá necessária uma grande quantidade de <r>foco</r> para romper o selamento..."}
+{"id": "LocalText/buildingDesc_162120", "revision": "b4c3d350d175dbcb087c89cac84d600834373050dc231f92d455d4e90cc421f0", "ptbr": "Umas ruínas misteriosas e arruinadas. Parecem estar protegidas por um selamento de Foco poderoso...\\nSerá necessária uma grande quantidade de <r>foco</r> para romper o selamento..."}
+{"id": "LocalText/buildingDesc_1631", "revision": "c8008ec07455556c6ff1a7a04f2c8a85ba16c21fdd676cbbd284696a9ba67a45", "ptbr": "O vento guincha. Mesmo de longe, você sente a ameaça que ele carrega."}
+{"id": "LocalText/buildingDesc_1641", "revision": "04b73375ef85eb13e33d7bb5a14d565bfc6f524fd39c414bdeced434b15db35f", "ptbr": "Masmorra de Batalha"}
+{"id": "LocalText/buildingDesc_1651", "revision": "9b99d986b6b4a23b8ec556fcefe565d72483a8b36a948738ab1e7f4a33095158", "ptbr": "Sob a neve está enterrada uma fornalha gigante. Ela emite um zumbido grave dentro dos ventos. Quem seria o dono dela...?"}
+{"id": "LocalText/buildingDesc_1661", "revision": "942f7d415349c4d49ec51110944c8c3571c8f48eb12e73a9a64ea57d11f89e32", "ptbr": "Estas ruínas parecem não ser visitadas há muito tempo. Deve haver tesouros lá dentro!"}
+{"id": "LocalText/buildingDesc_1671", "revision": "e74f46b6347cd096a152a4a8ba0b8eb64ad4a728fea6d91065541fda0f1ce42d", "ptbr": "Parece ser uma matriz de tempos antigos..."}
+{"id": "LocalText/buildingDesc_1681", "revision": "393d7ec5eba0fd47c307a94e24f70dc11e16e69acaad6ec0a60d5394d681caa3", "ptbr": "Mesmo de longe, você sente o Qi que a árvore emana. Parece haver vários frutos espirituais crescendo nela..."}
+{"id": "LocalText/buildingDesc_1691", "revision": "441268538edce177c5c8b8c5b2435f1b20f93a699bebc097ba093a3e097d3ec1", "ptbr": "Masmorra de Batalha"}
+{"id": "LocalText/buildingDesc_1701", "revision": "824b373a788c8b8aae884e0af91cc738099086c7ed8c8554085095aadcac7642", "ptbr": "Masmorra de Batalha"}
+{"id": "LocalText/buildingDesc_1711", "revision": "3c00a17a8bd4b9c36218f1ea9e0bcf68e3095fd928305e4b07ecdc8cef9aa1bd", "ptbr": "Masmorra de Batalha"}
+{"id": "LocalText/buildingDesc_1721", "revision": "1246a0e233b9f0d34762aee878c9ea8d3e3e87e612c5ab39dcc4bf7486693750", "ptbr": "Masmorra de Batalha"}
+{"id": "LocalText/buildingDesc_1731", "revision": "b9c15c69f6e7725d2e81d9ac95ac7eb84bc67e3dbd93e38c0214e1b48aa92ca4", "ptbr": "Masmorra de Batalha"}
+{"id": "LocalText/buildingDesc_173201", "revision": "50ed19752db27ab14276f453df417686a3ff6fa1e229cd9ccbba53d31f6ae9df", "ptbr": "Um pagode imponente construído em um passado desconhecido; dizem que a torre devora a alma de todos que se aproximam.\\nCriaturas vivas que entram na torre têm a <r>alma devorada</r> rapidamente e morrem. Por sorte, os <y>fragmentos espirituais dos monstros que morreram na torre</y> podem recarregar o seu Poder Espiritual.\\nA torre emite uma força estranha que afasta as pessoas. Há um encaixe na parede de pedra junto ao portão principal, que se abre quando um {itemLink5291101} é inserido."}
+{"id": "LocalText/buildingDesc_173202", "revision": "fc9dbc293b2184f7f4a2527c2959dfadf9b03a36eda26559a83cb333fedf1f20", "ptbr": "Um pagode imponente construído em um passado desconhecido; dizem que a torre devora a alma de todos que se aproximam.\\nCriaturas vivas que entram na torre têm a <r>alma devorada</r> rapidamente e morrem. Por sorte, os <y>fragmentos espirituais dos monstros que morreram na torre</y> podem recarregar o seu Poder Espiritual.\\nA torre emite uma força estranha que afasta as pessoas. Há um encaixe na parede de pedra junto ao portão principal, que se abre quando um {itemLink5291101} é inserido."}
+{"id": "LocalText/buildingDesc_173203", "revision": "b7a1ee312fb74886232f670b35a121f36b6a183d9853640d2aefd8b3be5e466f", "ptbr": "Um pagode imponente construído em um passado desconhecido; dizem que a torre devora a alma de todos que se aproximam.\\nCriaturas vivas que entram na torre têm a <r>alma devorada</r> rapidamente e morrem. Por sorte, os <y>fragmentos espirituais dos monstros que morreram na torre</y> podem recarregar o seu Poder Espiritual.\\nA torre emite uma força estranha que afasta as pessoas. Há um encaixe na parede de pedra junto ao portão principal, que se abre quando um {itemLink5291101} é inserido."}
+{"id": "LocalText/buildingDesc_173204", "revision": "043ac21d3f77c230074053b9233ec4282897c5fb4e4b2a7ac08e3d2e7763a9c8", "ptbr": "Um pagode imponente construído em um passado desconhecido; dizem que a torre devora a alma de todos que se aproximam.\\nCriaturas vivas que entram na torre têm a <r>alma devorada</r> rapidamente e morrem. Por sorte, os <y>fragmentos espirituais dos monstros que morreram na torre</y> podem recarregar o seu Poder Espiritual.\\nA torre emite uma força estranha que afasta as pessoas. Há um encaixe na parede de pedra junto ao portão principal, que se abre quando um {itemLink5291101} é inserido."}
+{"id": "LocalText/buildingDesc_1741", "revision": "b23815c53df806b19fbe330b6885df830f327ba21a1b9484474da1479667d85c", "ptbr": "Um perfume floral emana do Jardim de Ervas. Ervas devem estar florescendo lá dentro."}
+{"id": "LocalText/gameSetting_xinshouyindao", "revision": "19882f1eafc8d9f1336a9dc9911f147e1c043480a668b92b3a14cc1e1bd09f6a", "ptbr": "Tutorial"}
+{"id": "LocalText/map_guaiwuxiji", "revision": "a3381af4d70491a7567e40a86cf8391caa99a006f9592014c62e4196e4bbed22", "ptbr": "Você entrou em {0}. Os monstros desta área atacam sem provocação."}
+{"id": "LocalText/map_likaiquyu", "revision": "411910c5189ae4ec8267435d045ce73e2981929f7ded94c3b80a340fcb1cf170", "ptbr": "Você saiu de {0} e entrou em {1}"}
+{"id": "LocalText/monthLog_guanxi", "revision": "401f9bbc6183fe1be6925004f2dc71d90f1296772bc6305a0ee5ec1030cb733e", "ptbr": "Mudanças de Relação"}
+{"id": "LocalText/monthLog_yuejie", "revision": "7bdd8ec589575e0784f6acc03e8ac1d0fa8c616640aac87e08db4a20d61ec9ce", "ptbr": "Resumo Mensal"}
+{"id": "LocalText/playerInfo_jiechu", "revision": "391cc1135854b29ec4114fffbe627866587bd1aea68853431e0d5debc34af59c", "ptbr": "Romper"}
+{"id": "LocalText/playerInfo_jiechuguanxi", "revision": "abfa46acdcba0382a698db854f49d0b11e77380db280ee8b681e94a5b1d1fdcf", "ptbr": "Romper Relação"}
+{"id": "LocalText/s_1001_gongji", "revision": "feea8b9820f941d304f2ce4ca7667002f8ed4ee56f337960f31813ab893a65c8", "ptbr": "ATQ &1001_gongji&"}
+{"id": "LocalText/s_12111_buffProb%1", "revision": "4d3041e0471ea99a1540dbcd4f38c5159b615414107ac5e3e1097fa90f3c044e", "ptbr": "Ao atingir um inimigo, esta técnica tem &12111_buffProb%1&% de chance de aplicar uma camada de $s_xueren$ no alvo."}
+{"id": "LocalText/s_12111_buffProb%2", "revision": "107b181f8aa8f2bdcb6916ca34d0de4b2c4a8cc52fba2f510f2852d467b398a5", "ptbr": "Ao atingir um inimigo, esta técnica tem &12111_buffProb%2&% de chance de aplicar uma camada de $s_xueren$ no alvo."}
+{"id": "LocalText/s_12111_buffProb%3", "revision": "1325ee0562b3e3fba215eebbb66ea836760dad2e5a4bf9da67dda49cdbd06de8", "ptbr": "Ao atingir um inimigo, esta técnica tem &12111_buffProb%3&% de chance de aplicar uma camada de $s_xueren$ no alvo."}
+{"id": "LocalText/s_12111_cd", "revision": "2dc63b0f7cf69de5cf7cf864a4a03fb6b10a5b676348845e4561b051236ddedd", "ptbr": "Recarga desta técnica: &12111_cd&s"}
+{"id": "LocalText/s_12111_duration", "revision": "91c7b7d504c0a8623fe23eb83613e3a08227aa765ee05a0b3477528b26906676", "ptbr": "Duração de $s_xueren$: &12111_duration&s"}
+{"id": "LocalText/s_12111_layCount", "revision": "d8d76957d83ba63218d45e2e6aae7605bca9b7b9362925bffcaa9cea4e68ca6b", "ptbr": "Camadas máximas de $s_xueren$: &12111_layCount&"}
+{"id": "LocalText/s_12111_range", "revision": "94847e79f49f22867b4213de14343c96c5b00d2836c16e93a6bcfd77feb4b961", "ptbr": "Alcance desta técnica: &12111_range&"}
+{"id": "LocalText/s_12111_shts", "revision": "801cef846a4556ac8d6e3ba69f1e9ded7afa4dedc11ed7635cf9d1e9dfc8a84d", "ptbr": "Bônus de dano de $s_xueren$: &12111_shts&%"}
+{"id": "LocalText/s_12111_zdgl", "revision": "0a7be0d556c104517725227f8ce11253c6fa0596c2d7f4c29a4b492c24390e80", "ptbr": "Esta técnica tem &12111_zdgl&% de chance de disparar uma lâmina para a frente (alcance: &12111_zdsc&), causando o mesmo dano desta técnica."}
+{"id": "LocalText/s_12112_buffProb%1", "revision": "05ef2f9645563b6e5ebcdcc6c12888b7e9111aab2a2da3720bc31a7f70522ff1", "ptbr": "Ao atingir um inimigo, esta técnica tem &12112_buffProb%1&% de chance de conceder a você uma camada de $s_jueqing$."}
+{"id": "LocalText/s_12112_buffProb%2", "revision": "82ad2a7b2b8b32016665a730ac7feb0a921ab1ced7a973d9551175c325803fd9", "ptbr": "Ao atingir um inimigo, esta técnica tem &12112_buffProb%2&% de chance de conceder a você uma camada de $s_jueqing$."}
+{"id": "LocalText/s_12112_buffProb%3", "revision": "6cf7a673f4453b594297a9885927795456d3bd6244fbfa31c0bbe6eff001e408", "ptbr": "Ao atingir um inimigo, esta técnica tem &12112_buffProb%3&% de chance de conceder a você uma camada de $s_jueqing$."}
+{"id": "LocalText/s_12112_cd", "revision": "e93116087742fc6a96d37918296a2f56be68936969cd1c5c80be884139662ada", "ptbr": "Recarga desta técnica: &12112_cd&s"}
+{"id": "LocalText/s_12112_ddsl", "revision": "3d8bf5bd6351fea95b54bb5dc4c87be964fe8565c5f62c93707f0ef55200399f", "ptbr": "Marcas de Sabre liberadas: &12112_ddsl&"}
+{"id": "LocalText/s_12112_duration", "revision": "5f461470ea6c166229644ff64562e84059b84b9f5928376a19a4d95190c8c047", "ptbr": "Duração de $s_jueqing$: &12112_duration&s"}
+{"id": "LocalText/s_12112_layCount", "revision": "efa53fbca85a1a84acedbc8ad9c08a44397731c2265408885b26bba4dff611ce", "ptbr": "Camadas máximas de $s_jueqing$: &12112_layCount&"}
+{"id": "LocalText/s_12112_range", "revision": "7e09df7ddd9b0d81018c2515ad9b0e67a4185cd78dfb3bbaf608920c5a33fca8", "ptbr": "Alcance desta técnica: &12112_range&"}
+{"id": "LocalText/s_12112_zsts", "revision": "251a9f1c2407b5449614d8239e4b7f1f508fa5c91d2737271d773a48a5fc16c7", "ptbr": "Bônus de Limiar de Vitalidade de $s_jueqing$: &12112_zsts&"}
+{"id": "LocalText/s_12113_cd", "revision": "0a319e9c16ef2000c0f87454845dbcd8a4748bb14a2b489b5c260fb76e638147", "ptbr": "Recarga desta técnica: &12113_cd&s"}
+{"id": "LocalText/s_13111_buffProb%1", "revision": "096022ccea764c3fb9d4877db4b9ac279e2cd5565e2e4aaefa8cc57f33ae49b9", "ptbr": "Ao atingir um inimigo, esta técnica tem &13111_buffProb%1&% de chance de aplicar uma camada de $s_pojia$ no alvo."}
+{"id": "LocalText/s_13111_buffProb%2", "revision": "3eda838e399b54bcaa25d25324224c19da3a31083c58ffdffa91ae02fe5f9712", "ptbr": "Ao atingir um inimigo, esta técnica tem &13111_buffProb%2&% de chance de aplicar uma camada de $s_pojia$ no alvo."}
+{"id": "LocalText/s_13111_buffProb%3", "revision": "891c54725407d5ddcaf0b7fc31ce6ff9f8f931549dfdac3821193c1abc463c7f", "ptbr": "Ao atingir um inimigo, esta técnica tem &13111_buffProb%3&% de chance de aplicar uma camada de $s_pojia$ no alvo."}
+{"id": "LocalText/s_13111_duration", "revision": "f33ea57a2ccf05c625ef3b5620f837b028426d748da42225833c1092910ba085", "ptbr": "Duração de $s_pojia$: &13111_duration&s"}
+{"id": "LocalText/s_13111_jsfy", "revision": "291de994aaa08c4ceb0e722e2efd2788acd14d9131b6de7eefa89d1fa3318607", "ptbr": "DEF de $s_pojia$ &13111_jsfy&"}
+{"id": "LocalText/s_13111_layCount", "revision": "553111b4cc6b81beb0a0b6044e4fc7a34321b2b7b8982d8dfab33ef00e3c9963", "ptbr": "Camadas máximas de $s_pojia$: &13111_layCount&"}
+{"id": "LocalText/s_13112_buffProb%1", "revision": "dd3561702656f6d3e776b9408ca37f3b23ab8d26241bce367a903f6607829ea4", "ptbr": "Ao atingir um inimigo, esta técnica tem &13112_buffProb%1&% de chance de conceder a você uma camada de $s_poshi$."}
+{"id": "LocalText/s_13112_buffProb%2", "revision": "2660314f4127358eae847482ec1520be7b720cb1fdf468a08a39a076e9d65c31", "ptbr": "Ao atingir um inimigo, esta técnica tem &13112_buffProb%2&% de chance de conceder a você uma camada de $s_poshi$."}
+{"id": "LocalText/s_13112_buffProb%3", "revision": "3ba30025298fffc1c84b399837fee3f3acfe304df6ea69322540d4096d7507c7", "ptbr": "Ao atingir um inimigo, esta técnica tem &13112_buffProb%3&% de chance de conceder a você uma camada de $s_poshi$."}
+{"id": "LocalText/s_13112_duration", "revision": "ae74addd40bf2316432b1d54067cf6c0d881dab970e375ec3687bcc6fdb7a642", "ptbr": "Duração de $s_poshi$: &13112_duration&s"}
+{"id": "LocalText/s_13112_ewsh", "revision": "b3fc8dadc1b06dc9cffda4f330150237e295f0a37149717025b3906ee1f411dd", "ptbr": "Bônus de dano de $s_poshi$: &13112_ewsh&%"}
+{"id": "LocalText/s_13112_layCount", "revision": "14db37be742bca99aec2ee0d3f6fd0878a09741ee7a6f99a89ebf91c18e3213a", "ptbr": "Camadas máximas de $s_poshi$: &13112_layCount&"}
+{"id": "LocalText/s_14111_buffProb%1", "revision": "91322d0a91cd3da9519299da820b2d1b02ad2159bf4295f9b929cd34b3940398", "ptbr": "Ao atingir um inimigo, esta técnica tem &14111_buffProb%1&% de chance de aplicar uma camada de $s_liuxue$ no alvo."}
+{"id": "LocalText/s_14111_buffProb%2", "revision": "0f960c5d20c10fd54debb994025e0d6529bfb31ea7c748f682c1316c822e7214", "ptbr": "Ao atingir um inimigo, esta técnica tem &14111_buffProb%2&% de chance de aplicar uma camada de $s_liuxue$ no alvo."}
+{"id": "LocalText/s_14111_buffProb%3", "revision": "1ab98ad404e9ea1641100f34b0d2d03df43e9b3dd36dc116b0e88a9685a8c86e", "ptbr": "Ao atingir um inimigo, esta técnica tem &14111_buffProb%3&% de chance de aplicar uma camada de $s_liuxue$ no alvo."}
+{"id": "LocalText/s_14111_duration", "revision": "4a22084e9754ed44953cb07b71a992aa62c73a51f8c000d9c29e9c14bea8df0f", "ptbr": "Duração de $s_liuxue$: &14111_duration&s"}
+{"id": "LocalText/s_14111_kdsh", "revision": "6148f5dc5a6314e5afd7ad0e909560ab855641ef091956b4a495ab33ce97ef48", "ptbr": "Dano de $s_liuxue$: &14111_kdsh&/s"}
+{"id": "LocalText/s_14111_layCount", "revision": "2797d542edfc829a875eeab552bbdedbfd8a69e3cf3bb67527d9cf0285cf91d1", "ptbr": "Camadas máximas de $s_liuxue$: &14111_layCount&"}
+{"id": "LocalText/s_14112_buffProb%1", "revision": "df6b102ad7e78410b956eb35e069451a5756f3c695343e658c38209370efdee2", "ptbr": "Ao atingir um inimigo, esta técnica tem &14112_buffProb%1&% de chance de conceder a você uma camada de $s_jianzhan$."}
+{"id": "LocalText/s_14112_buffProb%2", "revision": "1c9008fb5eeb81ed3eecedf76e394cd08a81f924bd4f73d3dadf98b3c4ba14db", "ptbr": "Ao atingir um inimigo, esta técnica tem &14112_buffProb%2&% de chance de conceder a você uma camada de $s_jianzhan$."}
+{"id": "LocalText/s_14112_buffProb%3", "revision": "71f7a45cc938b4cf2672c417f09dfb6268a034bf80d036607bda2373f4635cd1", "ptbr": "Ao atingir um inimigo, esta técnica tem &14112_buffProb%3&% de chance de conceder a você uma camada de $s_jianzhan$."}
+{"id": "LocalText/s_14112_duration", "revision": "0f4610ae0f94d09ed1b8afb412837cbd59b2b1371522dc09a2f2ece6e3f54380", "ptbr": "Duração de $s_jianzhan$: &14112_duration&s"}
+{"id": "LocalText/s_14112_ewsh", "revision": "07b95d9b4ec32c979bba9a34d2ff0585309bebe02e4bc25083cf613a19fdfc1e", "ptbr": "Bônus de dano de $s_jianzhan$: &14112_ewsh&%"}
+{"id": "LocalText/s_14112_layCount", "revision": "e9412a1adfb4a4c8ef4b6c3ffee8cf5986925e69f0722c3eb817a87b7aeab4cf", "ptbr": "Camadas máximas de $s_jianzhan$: &14112_layCount&"}
+{"id": "LocalText/s_15111_buffProb%1", "revision": "7a91a5af74462f57499e838ebc5c4c61d9b39afb24b39b3b2d8370b5753e8215", "ptbr": "Ao atingir um inimigo, esta técnica tem &15111_buffProb%1&% de chance de aplicar uma camada de $s_suigu$ no alvo."}
+{"id": "LocalText/s_15111_buffProb%2", "revision": "e4671d79f327ec72230a90e8de875b852dc8e0ba0a06c38bbe146d46f40f45f9", "ptbr": "Ao atingir um inimigo, esta técnica tem &15111_buffProb%2&% de chance de aplicar uma camada de $s_suigu$ no alvo."}
+{"id": "LocalText/s_15111_buffProb%3", "revision": "d6d1d0a3b3770534f9905541673708ad4f11c221b34bfc9beae109a6ba37e499", "ptbr": "Ao atingir um inimigo, esta técnica tem &15111_buffProb%3&% de chance de aplicar uma camada de $s_suigu$ no alvo."}
+{"id": "LocalText/s_15111_duration", "revision": "9fce96d3c5daae8421cc84f91c1a967e8906f230702e65f3f7f270fc7cc17bf1", "ptbr": "Duração de $s_suigu$: &15111_duration&s"}
+{"id": "LocalText/s_15111_layCount", "revision": "ee83d8deec0811cefbaf1a0af0e0a416feb98fc85e8b1a152d8861932b000a4a", "ptbr": "Camadas máximas de $s_suigu$: &15111_layCount&"}
+{"id": "LocalText/s_15111_yxgl", "revision": "2e5ae13cb337ba55d378a706590a3250494f0d1d575fe981ff01bfc5ee2d7bc7", "ptbr": "Chance de atordoar de $s_suigu$: &15111_yxgl&%"}
+{"id": "LocalText/s_15112_buffProb%1", "revision": "75d0b1249035b39a21f49ba182cc63c17cd975a2904c5ff2e4a3a9753af577c7", "ptbr": "Ao atingir um inimigo, esta técnica tem &15112_buffProb%1&% de chance de conceder a você uma camada de $s_tongpi$."}
+{"id": "LocalText/s_15112_buffProb%2", "revision": "0353e8e385ef9b9f7f8431d21bac8acbc8313d247fc878d6749e1f0767765dc9", "ptbr": "Ao atingir um inimigo, esta técnica tem &15112_buffProb%2&% de chance de conceder a você uma camada de $s_tongpi$."}
+{"id": "LocalText/s_15112_buffProb%3", "revision": "42518a11788d8b3fd433794d89ab2037ce5cb31824e4b63ed9ebdd2ca0a8e6a2", "ptbr": "Ao atingir um inimigo, esta técnica tem &15112_buffProb%3&% de chance de conceder a você uma camada de $s_tongpi$."}
+{"id": "LocalText/s_15112_hdsj", "revision": "32b629bf0557700aaa0eb15b0853f453acd4a8197923b1ea197f727d81330aae", "ptbr": "Duração do Escudo: &15112_hdsj&s"}
+{"id": "LocalText/s_15112_hdsx", "revision": "fb8fbfea636b3f5c7ebdde6500a5c327a4ff0f6459e4a5e37ca9dd8b63534cee", "ptbr": "Vitalidade Máxima de Escudo &15112_hdsx&"}
+{"id": "LocalText/s_15112_hdts", "revision": "a27d6635b6948c814bd200c970b91d2c79e5ec0aeb8d595e8046688ff5ecc376", "ptbr": "Vitalidade de Escudo de $s_tongpi$: +&15112_hdts&"}
+{"id": "LocalText/s_16111_buffProb%1", "revision": "b68d2fe6ad937f7187768142d0f09e4830bb615f0b5a885a06a76d292472ea9f", "ptbr": "Ao atingir um inimigo, esta técnica tem &16111_buffProb%1&% de chance de aplicar uma camada de $s_neishang$ no alvo."}
+{"id": "LocalText/s_16111_buffProb%2", "revision": "c9fe20a7bdf97221dc465b5de710f3fc67818d056c1282927b0cf9324e94900b", "ptbr": "Ao atingir um inimigo, esta técnica tem &16111_buffProb%2&% de chance de aplicar uma camada de $s_neishang$ no alvo."}
+{"id": "LocalText/s_16111_buffProb%3", "revision": "f208643978f54991d9b71b0bedd1cd2daea0996d663251682565141fdde65db8", "ptbr": "Ao atingir um inimigo, esta técnica tem &16111_buffProb%3&% de chance de aplicar uma camada de $s_neishang$ no alvo."}
+{"id": "LocalText/s_16111_duration", "revision": "817f5526a0c03b367bbb4ed1f8835f2a91f22516fe89514f714fc35f86acc347", "ptbr": "Duração de $s_neishang$: &16111_duration&s"}
+{"id": "LocalText/s_16111_gdsh", "revision": "81babdf1d282a970b9c0af3cac320623469feb9fe4e8e94e49bb6acfd16eac6f", "ptbr": "Bônus de dano de $s_neishang$: &16111_gdsh&"}
+{"id": "LocalText/s_16111_layCount", "revision": "cb1e3be19886575afa185180a4ce72d9e2436f01510d514f801e0af58990628f", "ptbr": "Camadas máximas de $s_neishang$: &16111_layCount&"}
+{"id": "LocalText/s_16112_buffProb%1", "revision": "ce3c20ce8dff9aa25a8113d39ee3d78d4b9141ca514244e1935f5ba82455aa94", "ptbr": "Ao atingir um inimigo, esta técnica tem &16112_buffProb%1&% de chance de conceder a você uma camada de $s_neijing$."}
+{"id": "LocalText/s_16112_buffProb%2", "revision": "c7b2977280c49c752bcb931b5e4929ffaaee7e62bd69a3c05b3b161272135227", "ptbr": "Ao atingir um inimigo, esta técnica tem &16112_buffProb%2&% de chance de conceder a você uma camada de $s_neijing$."}
+{"id": "LocalText/s_16112_buffProb%3", "revision": "e4d4a7e69128fdce9156a73b09f5df61eb7c44c041ea3c17d529dbed973c7df8", "ptbr": "Ao atingir um inimigo, esta técnica tem &16112_buffProb%3&% de chance de conceder a você uma camada de $s_neijing$."}
+{"id": "LocalText/s_16112_duration", "revision": "d5e9c0f17a597bd4bc92a7a9b16948ed2dec1808f67f35127b59593e8b14ba9c", "ptbr": "Duração de $s_neijing$: &16112_duration&s"}
+{"id": "LocalText/s_16112_layCount", "revision": "d46224f5577ef873815ef229e05904de5508b23b9b43fd09cc7cb3ae28eb35a4", "ptbr": "Camadas máximas de $s_neijing$: &16112_layCount&"}
+{"id": "LocalText/s_16112_zfgl", "revision": "3dc87deb0218b5434aad6169776e6d315bdb61b5dc8721d08fb64c1aa070e5ff", "ptbr": "Chance de gerar um Vento de Palma de $s_neijing$: &16112_zfgl&%"}
+{"id": "LocalText/s_17111_buffProb%1", "revision": "ececa0bdaab9ccbe66ffbcdae6286a421e1e01f6ed742a02215d52d16dac2467", "ptbr": "Ao atingir um inimigo, esta técnica tem &17111_buffProb%1&% de chance de aplicar uma camada de $s_neixu$ no alvo."}
+{"id": "LocalText/s_17111_buffProb%2", "revision": "3866bf03950ef2647046526cd56bdf21de71c27686a3f24b7c9d82b1e2d55931", "ptbr": "Ao atingir um inimigo, esta técnica tem &17111_buffProb%2&% de chance de aplicar uma camada de $s_neixu$ no alvo."}
+{"id": "LocalText/s_17111_buffProb%3", "revision": "cebea50f90f787105d4df48326626ca703e6f3e02bf852b28b66c3eb32cdb2cd", "ptbr": "Ao atingir um inimigo, esta técnica tem &17111_buffProb%3&% de chance de aplicar uma camada de $s_neixu$ no alvo."}
+{"id": "LocalText/s_17111_duration", "revision": "e9671df911999d771af0f1c5123ac981b760c0153c179522642f10049d1def51", "ptbr": "Duração de $s_neixu$: &17111_duration&s"}
+{"id": "LocalText/s_17111_jdsh", "revision": "0419f1f7cc52730af986c68ed498f677a860b10d53b93dc571fa94a781b70b9d", "ptbr": "ATK de $s_neixu$ &17111_jdsh&"}
+{"id": "LocalText/s_17111_layCount", "revision": "15e8e89b082dc2b1b6d713b3dc78547fa0fdc3bc7d1316c2a17a7ffd3387819c", "ptbr": "Camadas máximas de $s_neixu$: &17111_layCount&"}
+{"id": "LocalText/s_17112_buffProb%1", "revision": "d3556133963add082b38aa4f5b406e279c503afd84ce0875a815212519281699", "ptbr": "Ao atingir um inimigo, esta técnica tem &17112_buffProb%1&% de chance de conceder a você uma camada de $s_kaimai$."}
+{"id": "LocalText/s_17112_buffProb%2", "revision": "78b1e74c2e12d2a62b16f333aafc6c2bbb2e485e0c87573dc47da2b316cb2445", "ptbr": "Ao atingir um inimigo, esta técnica tem &17112_buffProb%2&% de chance de conceder a você uma camada de $s_kaimai$."}
+{"id": "LocalText/s_17112_buffProb%3", "revision": "5949e576becf59aba164bd77bca3ed8d2d5e84d7319becb5836eab979bb24722", "ptbr": "Ao atingir um inimigo, esta técnica tem &17112_buffProb%3&% de chance de conceder a você uma camada de $s_kaimai$."}
+{"id": "LocalText/s_17112_duration", "revision": "012fa936e9ffef2920dc514a1d11d0b996796d9ec3e43bc3f9b2e50de5d1778a", "ptbr": "Duração de $s_kaimai$: &17112_duration&s"}
+{"id": "LocalText/s_17112_layCount", "revision": "a536f2fcf64a04fdd8effe3a882d402d5eb5cda6694ab8530b395604210f4f42", "ptbr": "Camadas máximas de $s_kaimai$: &17112_layCount&"}
+{"id": "LocalText/s_17112_tsgj", "revision": "7e52171411aba466232b524474153196678386c6baa53dc05c44a67101c6e497", "ptbr": "Bônus de ATQ de $s_kaimai$: &17112_tsgj&"}
+{"id": "LocalText/s_1_0_1", "revision": "5a90f9ff9283fb4923ea8dd1a799d43d0758255121d91a057599f21fe514356d", "ptbr": "Esta técnica causa &s_1_0_1&% mais de dano a <y>todos os inimigos</y>."}
+{"id": "LocalText/s_1_0_2", "revision": "a80e68e4bcd35b1b449b93a93b161ede144ff548fc45cc21f40ef4fd99adf2b1", "ptbr": "Esta técnica causa &s_1_0_2&% mais de dano a <g>monstros normais</g>."}
+{"id": "LocalText/s_1_0_3", "revision": "9bb88e7a0d9a150e33d9affc29bb7d08666415f2eb16313fc2ebaedcc8b9846c", "ptbr": "Esta técnica causa &s_1_0_3&% mais de dano a <p>monstros de elite</p>."}
+{"id": "LocalText/s_1_0_4", "revision": "be68b11a5618101df952b5bec508a592ea2ddd80e8efebc022d7df48d9391579", "ptbr": "Esta técnica causa &s_1_0_4&% mais de dano a <r>Feras Míticas</r>."}
+{"id": "LocalText/s_1_0_5", "revision": "a36e800aee66b72a45487f63230fcba03f5dccfea595ab77c5ccee1246fb66af", "ptbr": "Esta técnica causa &s_1_0_5&% mais de dano a <b>Cultivadores</b>."}
+{"id": "LocalText/s_2001_tili", "revision": "dd8f1143e4a9002101cfade53607bb506fde7e865babbe4093376767695f41c7", "ptbr": "Vitalidade Máxima &2001_tili&"}
+{"id": "LocalText/s_2_0_1", "revision": "364ab69ed8e15689666bdd53792f82c66a080b7d13f5ac1c08bbf196750a882f", "ptbr": "Esta técnica causa &s_2_0_1&% mais de dano a <y>todos os inimigos</y>."}
+{"id": "LocalText/s_2_0_2", "revision": "bd5eb50e90767ddab5787444c4a02b3e962251e02e731c77bc811a40aaede3c0", "ptbr": "Esta técnica causa &s_2_0_2&% mais de dano a <g>monstros normais</g>."}
+{"id": "LocalText/s_2_0_3", "revision": "d694c09773706a49678ba6c122f9b49a27050588a5faedf8a1d3abddd6c84280", "ptbr": "Esta técnica causa &s_2_0_3&% mais de dano a <p>monstros de elite</p>."}
+{"id": "LocalText/s_2_0_4", "revision": "a055fc17c48ad4cbe69b57ac61c3235c41353bccb26e96dc76886caa4b1c1554", "ptbr": "Esta técnica causa &s_2_0_4&% mais de dano a <r>Feras Míticas</r>."}
+{"id": "LocalText/s_2_0_5", "revision": "9a2a2631027fc544fa9d8b7ece94a042081809ff63667cb7d94225628bc6ecf6", "ptbr": "Esta técnica causa &s_2_0_5&% mais de dano a <b>Cultivadores</b>."}
+{"id": "LocalText/s_3001_fangyu", "revision": "eedcb070533142573ee6eeb3accaa1121d8c0e410f13ea1d802014a1a6a13e3a", "ptbr": "DEF &3001_fangyu&"}
+{"id": "LocalText/s_4001_lingli", "revision": "ae09145ef2695428da03c2d13ca90871af401fd82776f07d77f0201c7ee96f1c", "ptbr": "Energia Máxima &4001_lingli&"}
+{"id": "LocalText/s_41111_buffProb%1", "revision": "d6644cf9a1dd1a9972bb65a43ea7b3243168fb0f3abb603c283b1c35c4177e40", "ptbr": "Ao atingir um inimigo, esta técnica tem &41111_buffProb%1&% de chance de aplicar uma camada de $s_zhuoshao$ no alvo."}
+{"id": "LocalText/s_41111_buffProb%2", "revision": "895a8508399cf10352f53fb315194e1cd9fdbfc8147a5b072463d3e26fcea72f", "ptbr": "Ao atingir um inimigo, esta técnica tem &41111_buffProb%2&% de chance de aplicar uma camada de $s_zhuoshao$ no alvo."}
+{"id": "LocalText/s_41111_buffProb%3", "revision": "87673a7c4d926447a2120c936aa182575a662921ac393bcdcaf0b860504b8c99", "ptbr": "Ao atingir um inimigo, esta técnica tem &41111_buffProb%3&% de chance de aplicar uma camada de $s_zhuoshao$ no alvo."}
+{"id": "LocalText/s_41111_duration", "revision": "fc7d0c103b0911ca8a835cf2462d90068bcad28798af4ae1108defec1ef9f1e5", "ptbr": "Duração de $s_zhuoshao$: &41111_duration&s"}
+{"id": "LocalText/s_41111_layCount", "revision": "5fe2f9d459f5035ffb47ff5b0f0068fd6e85ac0f16cedec146e5e5d6dcf82949", "ptbr": "Camadas máximas de $s_zhuoshao$: &41111_layCount&"}
+{"id": "LocalText/s_41111_shwl", "revision": "136f1802b97203971b337c7e30f8080d6dba5e9c0f3ed2e8e1a5c4c88e62b1a9", "ptbr": "Dano de $s_zhuoshao$: &41111_shwl&/s"}
+{"id": "LocalText/s_41112_buffProb%1", "revision": "8318875a5b959f9c9db65888a3c4ccc1f6428aa59762f2a267c171c3decbce45", "ptbr": "Ao atingir um inimigo, esta técnica tem &41112_buffProb%1&% de chance de conceder a você uma camada de $s_ranhun$."}
+{"id": "LocalText/s_41112_buffProb%2", "revision": "9b968e7f16f741934f8e3ce2985b634c7ba397cf480292340919f273e18f52bd", "ptbr": "Ao atingir um inimigo, esta técnica tem &41112_buffProb%2&% de chance de conceder a você uma camada de $s_ranhun$."}
+{"id": "LocalText/s_41112_buffProb%3", "revision": "8b0b1f7134eb6874f7623a4a7b8ecba33a8244ab85a77cfbd74c2aa86745a61e", "ptbr": "Ao atingir um inimigo, esta técnica tem &41112_buffProb%3&% de chance de conceder a você uma camada de $s_ranhun$."}
+{"id": "LocalText/s_41112_duration", "revision": "c805ad64a6a2bb6d1a77ddb9029decff8ba70b480adae3e5690a90369234af67", "ptbr": "Duração de $s_ranhun$: &41112_duration&s"}
+{"id": "LocalText/s_41112_layCount", "revision": "0ca552a5cfb084daaee32c3ba36cf8533da7d2dd1842d00e45086ea5ef435dd4", "ptbr": "Camadas máximas de $s_ranhun$: &41112_layCount&"}
+{"id": "LocalText/s_41112_tssh", "revision": "4850c8586056f22633e3e5f98b97fedd4e7e22edb9b53d675ed7debd15223482", "ptbr": "Bônus de dano de $s_ranhun$: &41112_tssh&%"}
+{"id": "LocalText/s_42111_buffProb%1", "revision": "0b7b9256a8e21642c7f04df3c1ef71f1c11afcdc285ef66d706d82955b31133a", "ptbr": "Ao atingir um inimigo, esta técnica tem &42111_buffProb%1&% de chance de aplicar uma camada de $s_hanshuang$ no alvo."}
+{"id": "LocalText/s_42111_buffProb%2", "revision": "3934670ad9daf4f8426d1646240596fa5d7df8a69166ff625aeca561177d3bb0", "ptbr": "Ao atingir um inimigo, esta técnica tem &42111_buffProb%2&% de chance de aplicar uma camada de $s_hanshuang$ no alvo."}
+{"id": "LocalText/s_42111_buffProb%3", "revision": "38d8b110d378523c0b1319379741f7b04d2fa363a7d6bfebd5ef54ed6f3113e0", "ptbr": "Ao atingir um inimigo, esta técnica tem &42111_buffProb%3&% de chance de aplicar uma camada de $s_hanshuang$ no alvo."}
+{"id": "LocalText/s_42111_duration", "revision": "6e2834a48b5389836d6084e031c15397e62521f8a1a4671426c991b2fff55c5c", "ptbr": "Duração de $s_hanshuang$: &42111_duration&s"}
+{"id": "LocalText/s_42111_jdys", "revision": "fe0e8d55ada2dab81fd402e02048d6cc85a93b92cb3d0a279ee995956eb03f68", "ptbr": "$s_hanshuang$: Agilidade &42111_jdys&%, redução de Velocidade de Ataque &42111_tscd&%"}
+{"id": "LocalText/s_42111_layCount", "revision": "371f367122faa998c7af0932eccaf3435bd9a648d9f38bbcdd7b352a9618d6ce", "ptbr": "Camadas máximas de $s_hanshuang$: &42111_layCount&"}
+{"id": "LocalText/s_42112_buffProb%1", "revision": "15f0fe926e984d3cbf3ad3b3ad302640422bd8981a6a66a4142c5d5023984f6b", "ptbr": "Ao atingir um inimigo, esta técnica tem &42112_buffProb%1&% de chance de conceder a você uma camada de $s_lingyong$."}
+{"id": "LocalText/s_42112_buffProb%2", "revision": "5511b4b71aa995bf44a1197090995e3de7eac7260d928c57bbb5b4848a9d1efe", "ptbr": "Ao atingir um inimigo, esta técnica tem &42112_buffProb%2&% de chance de conceder a você uma camada de $s_lingyong$."}
+{"id": "LocalText/s_42112_buffProb%3", "revision": "0c1cc7288dc0f782004d93a381ccd5b65451f8f1e81b50b047829bd8dd70981f", "ptbr": "Ao atingir um inimigo, esta técnica tem &42112_buffProb%3&% de chance de conceder a você uma camada de $s_lingyong$."}
+{"id": "LocalText/s_42112_duration", "revision": "72eb5449fcc195dd344d263758b83d79df312555a93afc2d6520772e4fb8f297", "ptbr": "Duração de $s_lingyong$: &42112_duration&s"}
+{"id": "LocalText/s_42112_hfll", "revision": "a511211b2117863abf8bb6331efae8c903bece28d067a630a341e3a5edca0e2d", "ptbr": "Recuperação de Energia de $s_lingyong$: &42112_hfll&/s"}
+{"id": "LocalText/s_42112_layCount", "revision": "4a7965eda440d866f26b46197149b6b18d4f507195c96086a631744e68e1cab5", "ptbr": "Camadas máximas de $s_lingyong$: &42112_layCount&"}
+{"id": "LocalText/s_43111_buffProb%1", "revision": "0a41907a6577ad65b0c861451541f8923f9865ec78e25d995adbee6be99524a8", "ptbr": "Ao atingir um inimigo, esta técnica tem &43111_buffProb%1&% de chance de aplicar uma camada de $s_luanliu$ no alvo."}
+{"id": "LocalText/s_43111_buffProb%2", "revision": "c0a5e1b29e1ed96b892abeaea78329e4294bad3c3000d107ed0927cf297750c3", "ptbr": "Ao atingir um inimigo, esta técnica tem &43111_buffProb%2&% de chance de aplicar uma camada de $s_luanliu$ no alvo."}
+{"id": "LocalText/s_43111_buffProb%3", "revision": "331d7ead0cca1b26f8cbe0920bc1c716da4b59b8330b77a03e95c085088fb20b", "ptbr": "Ao atingir um inimigo, esta técnica tem &43111_buffProb%3&% de chance de aplicar uma camada de $s_luanliu$ no alvo."}
+{"id": "LocalText/s_43111_duration", "revision": "115aaaf3ef1dc3ce8efc49f68e710a865c95369e30daee94adccee75c23f0190", "ptbr": "Duração de $s_luanliu$: &43111_duration&s"}
+{"id": "LocalText/s_43111_layCount", "revision": "5c55bf34260dfa462f1abc69c662f7b140b906b30ed93f0b19e99eabd250111a", "ptbr": "Camadas máximas de $s_luanliu$: &43111_layCount&"}
+{"id": "LocalText/s_43111_shgl", "revision": "b14270519decfd207074d7c81b6ecdffd7db4d168179ab9bd94d46d9e90f8ad0", "ptbr": "Probabilidade de ser atingido por raio de $s_luanliu$: &43111_shgl&%"}
+{"id": "LocalText/s_43112_buffProb%1", "revision": "eb542a145e4e0b930658bc2e115ba348b48a0fb6a34031ca2b876ac2ba5b115a", "ptbr": "Ao atingir um inimigo, esta técnica tem &43112_buffProb%1&% de chance de conceder a você uma camada de $s_leiyong$."}
+{"id": "LocalText/s_43112_buffProb%2", "revision": "265ae7a730e28205e8ec3c830c74ce7950ae3daf22057e95201f473ef7b1eeee", "ptbr": "Ao atingir um inimigo, esta técnica tem &43112_buffProb%2&% de chance de conceder a você uma camada de $s_leiyong$."}
+{"id": "LocalText/s_43112_buffProb%3", "revision": "3a38f4f52326430bd0001748845812f7bc818759f135e7ac0b17dfd78df25639", "ptbr": "Ao atingir um inimigo, esta técnica tem &43112_buffProb%3&% de chance de conceder a você uma camada de $s_leiyong$."}
+{"id": "LocalText/s_43112_duration", "revision": "6fd35ce7cc3235ddaf42e1705479109931cd41cc961e4a0c60fa85ad0cb03b98", "ptbr": "Duração de $s_leiyong$: &43112_duration&s"}
+{"id": "LocalText/s_43112_layCount", "revision": "c4122cf9e48dc4d98b861c54559bdf1c864f00940bfae6aef353e5039589fb9f", "ptbr": "Camadas máximas de $s_leiyong$: &43112_layCount&"}
+{"id": "LocalText/s_43112_shjg", "revision": "64b0ac91d348eace9cb43407ae5bd9a699f81a92e9ba9db2e656c84bc207b136", "ptbr": "Intervalo de ataque de $s_leiyong$: &43112_shjg&s"}
+{"id": "LocalText/s_44111_buffProb%1", "revision": "df91680f60bd4b57bd891c86016bf2f23d078c021f1d0bb9b20f254d28a8a314", "ptbr": "Ao atingir um inimigo, esta técnica tem &44111_buffProb%1&% de chance de aplicar uma camada de $s_nifeng$ no alvo."}
+{"id": "LocalText/s_44111_buffProb%2", "revision": "7675f9d819cc19b93900e04074e4307474de52327ecfbe62e3dc59b2e6552153", "ptbr": "Ao atingir um inimigo, esta técnica tem &44111_buffProb%2&% de chance de aplicar uma camada de $s_nifeng$ no alvo."}
+{"id": "LocalText/s_44111_buffProb%3", "revision": "c12a419891907f928917f13da52a1c3c5ec033af32630b2e3ff8b93e0c37159c", "ptbr": "Ao atingir um inimigo, esta técnica tem &44111_buffProb%3&% de chance de aplicar uma camada de $s_nifeng$ no alvo."}
+{"id": "LocalText/s_44111_duration", "revision": "ad5b07730550eabeeee2ebd6b7937857795b71828a985ac71a78d0f81cfd6190", "ptbr": "Duração de $s_nifeng$: &44111_duration&s"}
+{"id": "LocalText/s_44111_jdys", "revision": "262769efedf7f4255de282b3c69beb1d08247963d02f6633ba22908ac436ebc0", "ptbr": "Redução de Agilidade de $s_nifeng$: &44111_jdys&%"}
+{"id": "LocalText/s_44111_layCount", "revision": "43852689a0a56e794720c66a59ebb9319a366f7c0d20bf1aee7b42f8494b0476", "ptbr": "Camadas máximas de $s_nifeng$: &44111_layCount&"}
+{"id": "LocalText/s_44112_buffProb%1", "revision": "ec412bb8435f8bb1f69a924bf5551b7bd28020ada086dbe25c946470e70c79a0", "ptbr": "Ao atingir um inimigo, esta técnica tem &44112_buffProb%1&% de chance de conceder a você uma camada de $s_lingfeng$."}
+{"id": "LocalText/s_44112_buffProb%2", "revision": "6688e079ca5e630f7234b5aafab48cdcab16e17e871d05e68d50087dfe0f107c", "ptbr": "Ao atingir um inimigo, esta técnica tem &44112_buffProb%2&% de chance de conceder a você uma camada de $s_lingfeng$."}
+{"id": "LocalText/s_44112_buffProb%3", "revision": "2474dbbcabcf6c7420afb73b67909caba2e4d8f964a7bc2d0fdf0ca8bc8b4546", "ptbr": "Ao atingir um inimigo, esta técnica tem &44112_buffProb%3&% de chance de conceder a você uma camada de $s_lingfeng$."}
+{"id": "LocalText/s_44112_duration", "revision": "918ca4fb9d76bab3a92d11ee67df9c48fa6115a620365753f109bb0245ded494", "ptbr": "Duração de $s_lingfeng$: &44112_duration&s"}
+{"id": "LocalText/s_44112_layCount", "revision": "dd60f59aa976a8d790f677df48ba402226f43d40fe59c66a0392858af980924f", "ptbr": "Camadas máximas de $s_lingfeng$: &44112_layCount&"}
+{"id": "LocalText/s_44112_lfgl", "revision": "1987985cc40a2b2e6bf25f86492aaa719bb1cb24b27e34f8082132bf565b1845", "ptbr": "Chance de gerar um pequeno redemoinho de $s_lingfeng$: &44112_lfgl&%"}
+{"id": "LocalText/s_45111_buffProb%1", "revision": "06e9a2ab026709d3ba56326bd9561bd96922eddad716a902c4828c9311e10611", "ptbr": "Ao atingir um inimigo, esta técnica tem &45111_buffProb%1&% de chance de aplicar uma camada de $s_chidun$ no alvo."}
+{"id": "LocalText/s_45111_buffProb%2", "revision": "1dc5473825f303699d9e01668687b2d4b0c0b3cec5d59de408bdecd82c954f0f", "ptbr": "Ao atingir um inimigo, esta técnica tem &45111_buffProb%2&% de chance de aplicar uma camada de $s_chidun$ no alvo."}
+{"id": "LocalText/s_45111_buffProb%3", "revision": "6b93321570cf871210762412d01df8477c9d1681a3d101b1fcfceaa413743008", "ptbr": "Ao atingir um inimigo, esta técnica tem &45111_buffProb%3&% de chance de aplicar uma camada de $s_chidun$ no alvo."}
+{"id": "LocalText/s_45111_duration", "revision": "d4ba41c464148ccc35d23b378e9df5bdebcf8fc39641d80e6d2cb8b2b7a6fa41", "ptbr": "Duração de $s_chidun$: &45111_duration&s"}
+{"id": "LocalText/s_45111_jdsh", "revision": "e45ec68ffd7cf0ecf19f9fba392f235be1c79e611d429949275440c9fd8f17eb", "ptbr": "$s_chidun$: &45111_jdsh&% de Agilidade extra, &45111_jdsh&% de dano extra"}
+{"id": "LocalText/s_45111_layCount", "revision": "390b9ef6c071a9508e6947b307debefe0ed973b8b59bda5ec40d3f62e88e4c74", "ptbr": "Camadas máximas de $s_chidun$: &45111_layCount&"}
+{"id": "LocalText/s_45112_buffProb%1", "revision": "1cc8206c91d7cd947daf4988d494e3927554fe5c698caf2dd1ccb098fecbc519", "ptbr": "Ao atingir um inimigo, esta técnica tem &45112_buffProb%1&% de chance de conceder a você uma camada de $s_shifu$."}
+{"id": "LocalText/s_45112_buffProb%2", "revision": "5dc15db33e9bf073eef7c52d3a2625ba9ca466aa8683e9ec312d39af1ae30b75", "ptbr": "Ao atingir um inimigo, esta técnica tem &45112_buffProb%2&% de chance de conceder a você uma camada de $s_shifu$."}
+{"id": "LocalText/s_45112_buffProb%3", "revision": "f7be02d1ec66e2a5cbdf016885ebd8533fbe44fd277e6b8d7f141dd6998b996e", "ptbr": "Ao atingir um inimigo, esta técnica tem &45112_buffProb%3&% de chance de conceder a você uma camada de $s_shifu$."}
+{"id": "LocalText/s_45112_duration", "revision": "5471554e7071229ab9831add964b2e9740e5c1efd272e47d06caf830f4ffc0a1", "ptbr": "Duração de $s_shifu$: &45112_duration&s"}
+{"id": "LocalText/s_45112_jmsh", "revision": "6e7a862b11d187cf9bc0654f0ffdf0c7271fac4154a823d4b462cf43660ef01e", "ptbr": "Redução de dano de $s_shifu$: +&45112_jmsh|/-1|f0&"}
+{"id": "LocalText/s_45112_layCount", "revision": "6a76b3802fe8d6402b3a84555e693b311188a881e0f81a14fe746be17d30b406", "ptbr": "Camadas máximas de $s_shifu$: &45112_layCount&"}
+{"id": "LocalText/s_46111_buffProb%1", "revision": "9ad34783f3f2ff2e676a0c56004297b8b28727059bf8de0537cc4f1c9381f6a0", "ptbr": "Ao atingir um inimigo, esta técnica tem &46111_buffProb%1&% de chance de aplicar uma camada de $s_duci$ no alvo."}
+{"id": "LocalText/s_46111_buffProb%2", "revision": "246307efec1bd1405919da0f94d5be9f391ce1825cd4d275f17eef0b01584964", "ptbr": "Ao atingir um inimigo, esta técnica tem &46111_buffProb%2&% de chance de aplicar uma camada de $s_duci$ no alvo."}
+{"id": "LocalText/s_46111_buffProb%3", "revision": "1d4c0c53aad6469952b93ddca127b8677418510da84fbed59cfffb2c7a81639c", "ptbr": "Ao atingir um inimigo, esta técnica tem &46111_buffProb%3&% de chance de aplicar uma camada de $s_duci$ no alvo."}
+{"id": "LocalText/s_46111_duration", "revision": "fed880fec2399f9e711ad75bc6a11e9a92ee96bba4e5432a1fa0d7c8406cd979", "ptbr": "Duração de $s_duci$: &46111_duration&s"}
+{"id": "LocalText/s_46111_layCount", "revision": "32a110e17f1c9c3954694d71512e523137e7e082551ed371a187e26086b0aa5b", "ptbr": "Camadas máximas de $s_duci$: &46111_layCount&"}
+{"id": "LocalText/s_46111_shwl", "revision": "43f5fa64297b9fef0008861a80aa9e53720db23420865b6eef4bfbd768e1f2f0", "ptbr": "Dano de $s_duci$: &46111_shwl&/s"}
+{"id": "LocalText/s_46112_buffProb%1", "revision": "553397630ebcba9c73aab3d920b05cf451a85181862cb8abe9bf1948f8ee4fd7", "ptbr": "Ao atingir um inimigo, esta técnica tem &46112_buffProb%1&% de chance de conceder a você uma camada de $s_hualing$."}
+{"id": "LocalText/s_46112_buffProb%2", "revision": "a8ab7084eca31478450459b5cabaa65b6d9728457529dad8c96ec526be539c45", "ptbr": "Ao atingir um inimigo, esta técnica tem &46112_buffProb%2&% de chance de conceder a você uma camada de $s_hualing$."}
+{"id": "LocalText/s_46112_buffProb%3", "revision": "86528bc47aa043d22e639d26a4a3865cad958630ab96436dfbc49bb243c0a4cd", "ptbr": "Ao atingir um inimigo, esta técnica tem &46112_buffProb%3&% de chance de conceder a você uma camada de $s_hualing$."}
+{"id": "LocalText/s_46112_duration", "revision": "b69037c7261c4ea01abfad6555f73588feba3c5659ef00897bbf006ba9cad17f", "ptbr": "Duração de $s_hualing$: &46112_duration&s"}
+{"id": "LocalText/s_46112_hygl", "revision": "218680caac3d3f1f438fb4e5a11c4b47a241834e801cc448cc8404631ba9be8c", "ptbr": "Chance de $s_hualing$ invocar uma $s_xiaohuayao$: &46112_hygl&%"}
+{"id": "LocalText/s_46112_layCount", "revision": "883caa110e5a78b3c30d54f93dac590db25ccefbc1b39c42d637d4780d69312c", "ptbr": "Camadas máximas de $s_hualing$: &46112_layCount&"}
+{"id": "LocalText/s_5001_nianli", "revision": "85633bdc2ee2c89ee9e8d32c27baf9ef62f03836dd16dc6606d2e0f7b2d05537", "ptbr": "Foco Máximo &5001_nianli&"}
+{"id": "LocalText/s_5_0_1", "revision": "d636637ec6b1f1e8e5010adb332a8cd0c8fc8e78676a09d8b8a220da399e5aca", "ptbr": "Esta técnica causa &s_5_0_1&% mais de dano a <y>todos os inimigos</y>."}
+{"id": "LocalText/s_5_0_2", "revision": "e76217f0fd94d952f553e4a65bb631a3a0d66d8f16be007c5c5f2e8d6f42d5fb", "ptbr": "Esta técnica causa &s_5_0_2&% mais de dano a <g>monstros normais</g>."}
+{"id": "LocalText/s_5_0_3", "revision": "b837d5f1eac464a2e9a17f43fd18d9c6e7d4ea1b15b65b9df398abf778cd189e", "ptbr": "Esta técnica causa &s_5_0_3&% mais de dano a <p>monstros de elite</p>."}
+{"id": "LocalText/s_5_0_4", "revision": "f4339d31778db150754fc51f3e3ea3ee51693c5e716fa1ea9f72fa9230c10980", "ptbr": "Esta técnica causa &s_5_0_4&% mais de dano a <r>Feras Míticas</r>."}
+{"id": "LocalText/s_5_0_5", "revision": "52d08b4b3880f7a200b59c001701866b937d9a7b00ab9dc16bb75743221e106b", "ptbr": "Esta técnica causa &s_5_0_5&% mais de dano a <b>Cultivadores</b>."}
+{"id": "LocalText/s_6001_mokang", "revision": "baff2abe4e77afa2ac9396a110f4c9bc8d859bbca94c5d2a6839229539db8ef7", "ptbr": "Res. Espiritual &6001_mokang&"}
+{"id": "LocalText/s_7001_wukang", "revision": "55f8278cb75f530b6c680d0682d11451f6dbea0bd6888bc95b4666fb7ccd0486", "ptbr": "Res. Marcial &7001_wukang&"}
+{"id": "LocalText/s_8001_huixin", "revision": "28761f3bac044d3a00213bacb85533b5eff3d9b3afa2149cafb1df27e269295f", "ptbr": "Crítico &8001_huixin&"}
+{"id": "LocalText/s_badao", "revision": "249b953ce179e088c77ac24a4651f2253404333a1582092757d49865735ac10a", "ptbr": "Dominador"}
+{"id": "LocalText/s_baolinghu", "revision": "4b80b130baf345b667e052561418f13767b1052d3d642a5ab0886506b1344354", "ptbr": "Lago de Energia"}
+{"id": "LocalText/s_baolinghu_desc", "revision": "a4428d5325744b99c58aa832751ead11682e29d9e54b524816c28e5a57c5fc0a", "ptbr": "Raio: &42112_lhfw&. Dentro do Lago de Energia, o poder das suas Técnicas Espirituais e Técnicas Especiais aumenta em &42112_wlts&%, e o tempo de carga das suas técnicas fica &42112_xljs&%. Mas você consome mais Energia para conjurar técnicas (Técnicas Espirituais: &42112_zjxh&; Técnicas Especiais: &42112_yjxh&).\\nO Lago de Energia existe por &42112_lhsj&s."}
+{"id": "LocalText/s_bingyan", "revision": "5934cfa735b645c8ce063d805f9306a858c1996f14b77a37baef100a2d05f0f0", "ptbr": "Olho Gélido"}
+{"id": "LocalText/s_buff", "revision": "6799175de65ac839ac232c0267e4007c56814f58bfa976eb6150c43f964a6dfe", "ptbr": "Efeito"}
+{"id": "LocalText/s_chanrao", "revision": "c7f0296644305779a3eeb5255d3c66d9ebee19c23496328edf29aa569c3a96bd", "ptbr": "Enredamento"}
+{"id": "LocalText/s_chanrao_desc", "revision": "5913fab15ba817c0865aaa68442867ffe16e8f9613d0e590d0e3c969b3eac852", "ptbr": "O alvo atingido não pode se mover."}
+{"id": "LocalText/s_chidun", "revision": "fae9d4ce66887a3c28cc2c63aa21d28c9f79a77de2b4d229c8f19c1125838d7f", "ptbr": "Lentidão"}
+{"id": "LocalText/s_chidun_desc", "revision": "8063bae2e4f2dc31ae646f222e42d61d79d8e789bf7e7be542806cca216cd51d", "ptbr": "A Agilidade e o dano do alvo atingido ficam &45111_jdys&% e &45111_jdsh&% por &45111_duration&s. Camadas máximas: &45111_layCount&."}
+{"id": "LocalText/s_chixushifa", "revision": "c62e8dc308f733600189d442278c7c72589ef3778d9ab6439c8dc29da87e6e9c", "ptbr": "Técnica Contínua"}
+{"id": "LocalText/s_chixushifa_desc", "revision": "6ab8357275b66e1796d1dcd4ed98386e8cea9615241fb2402f5ebf2618133699", "ptbr": "Mantenha o botão do mouse pressionado para conjurar esta técnica continuamente. A conjuração para quando você solta o botão ou quando a duração da técnica termina."}
+{"id": "LocalText/s_chongneng", "revision": "e5e9f7de8088c90103630ebd8cc201e9b2948c19fc1c3042d333278eadd5dd19", "ptbr": "Recarregando"}
+{"id": "LocalText/s_chongneng_desc", "revision": "563428f4d7d7a4576e1269a33528e265bd842754dd3a7b184f45d510664959ad", "ptbr": "Os Pontos de Recarga se recuperam automaticamente com o tempo até atingirem &23112_cnnl&."}
+{"id": "LocalText/s_dao", "revision": "1bfee7b010a5fe32756f52929ce267cfab704e651e879bd81fe021d68dfee5c1", "ptbr": "Sabre"}
+{"id": "LocalText/s_daofazizhi", "revision": "cd310df1d3b6c950f0648bc6f342b376c489ee6e2999ff8f83b2cdd2e3fb211a", "ptbr": "Sabre"}
+{"id": "LocalText/s_dongjie", "revision": "aa71ce81ee48cf2d167aa7a9f1048df756dee9161e34e10ef6627f062815eb01", "ptbr": "Congelamento"}
+{"id": "LocalText/s_dongjie_desc", "revision": "952672c02f5ed271665b625611fa213787b99b0b385710ca40bc0bb25750a93d", "ptbr": "O alvo atingido não pode executar nenhuma ação por &42111_djsj&s."}
+{"id": "LocalText/s_duci", "revision": "be96fa89b5afd0cd8cd585265fee22ae0152b67fe5cf356a602ec4620dfeabe0", "ptbr": "Ferrão Venenoso"}
+{"id": "LocalText/s_duci_desc", "revision": "56ef5c0cb73129cd1b1d2ec26bb900aba61130d0b390c71da0ec0645ef8063d3", "ptbr": "O alvo atingido recebe &46111_shwl&/s de dano de $s_mu$ e a Agilidade dele fica &46111_jsys&% (o efeito de lentidão não se acumula). Este efeito dura &46111_duration&s e acumula até &46111_layCount& vezes."}
+{"id": "LocalText/s_dulonghua", "revision": "52009a830fb6ea7817794b26273911cb1b726435a438275b481590cf9fb1af47", "ptbr": "Flor do Dragão Venenosa"}
+{"id": "LocalText/s_dulonghua_desc", "revision": "ef9f0d52c8ad147d5de3ea7ed0c7683f448af8d12b1e7b9d445b33575188f1cc", "ptbr": "Unidade grande que não se move. A boca gigante dela devora monstros normais e de elite. Cada vez que devora um inimigo, leva um tempo para digeri-lo. Durante esse tempo, o inimigo devorado recebe &66111_xhwl|x66111_dmg|/10000|f0&/s de dano de $s_mu$ até a Vitalidade dele chegar a zero. Ao atacar outros inimigos, aplica $s_fushi$.\\nAtributos herdados do invocador: &66111_dhtl&% de Vitalidade, &66111_dhgj&% de ATQ, &66111_dhfy&% de DEF.\\nExiste por &66111_dhsj&s."}
+{"id": "LocalText/s_dunying", "revision": "424394c06253fce6a73449cdd8dba56f19325f75fdfea3c3479b37d54ac47e09", "ptbr": "Sombra de Escudo"}
+{"id": "LocalText/s_dunying_desc", "revision": "abf551d648a2967bfe4d01d453e2b47330e68ea00487d28fd726b834979e5ccf", "ptbr": "A Sombra de Escudo bloqueia projéteis recebidos &35111_dycs& vezes antes de desaparecer."}
+{"id": "LocalText/s_dushanghai", "revision": "0cfa49035f2cf5120cfd1f078c59b4273a723e3adac47a075aa9ba3dfc6ac6e4", "ptbr": "Dano de Veneno"}
+{"id": "LocalText/s_dushanghai_desc", "revision": "2c63429c67dc68701d6bcec9f69600c1a2520a12e96292a1bfd83130dfaff8bc", "ptbr": "Algumas técnicas aplicam Dano de Veneno, como Ferrão Venenoso, Ferrão Enredante e Pântano Venenoso."}
+{"id": "LocalText/s_dushi", "revision": "c18947cf8adaba83b9adaf25a85ff6df5e4d92584f36d918603120b50d93105a", "ptbr": "Veneno Erosivo"}
+{"id": "LocalText/s_duwa", "revision": "76d959254f3507fb7e1533ad5df879ce774c10c3557c07066ee3ec8991963e05", "ptbr": "Sapo Venenoso"}
+{"id": "LocalText/s_duwa_desc", "revision": "4cd4d7badd4272cd9e1b57104acb5780e3fed0020bc3bb0c70cd2b05ebaf4ae5", "ptbr": "Unidade pequena que cospe veneno para causar &56113_jnwl& de dano de $s_mu$.\\nAtributos herdados do invocador: &56113_dwtl&% de Vitalidade, &56113_dwgj&% de ATQ, &56113_dwfy&% de DEF.\\nExiste por &56113_dwsj&s."}
+{"id": "LocalText/s_duzhu", "revision": "eaf892cbc106a7e3107ee6d4549e7d25fa9493ce4dfb8946b2ec64ad4c0c2dad", "ptbr": "Planta Venenosa"}
+{"id": "LocalText/s_duzhu_desc", "revision": "2fcc61a51e262426b1c94b44b324c30ff1953003069f3c6640f71182391c9530", "ptbr": "Unidade pequena que solta fumaça venenosa para atacar os inimigos próximos dentro de &56115_gjfw&, causando &56115_gjwl& de dano de $s_mu$.\\nAtributos herdados do invocador: &56115_dztl&% de Vitalidade, &56115_dzgj&% de ATQ, &56115_dzfy&% de DEF.\\nExiste por &56115_dzsj&s."}
+{"id": "LocalText/s_feixue", "revision": "1e71fec26e07c746e0ca206ff0e3b2f4535b91541506c11db88acbaaec0c9578", "ptbr": "Sangue em Ebulição"}
+{"id": "LocalText/s_feng", "revision": "4d31eed55e76a67c9f7e5c2728281fceae2509872dc70bd4162b2de17456cb00", "ptbr": "Vento"}
+{"id": "LocalText/s_fenglinggen", "revision": "d850a3dce5f2d7e2d7d80ea9840a0e7b14c06fd67720637f680b4abff00aa0a3", "ptbr": "Vento"}
+{"id": "LocalText/s_fengmai", "revision": "1ebbc6bbdfe36a49bbbfe1b9f2a211899db06874b5d9ac9b4f9a862e694ed9e5", "ptbr": "Meridianos Selados"}
+{"id": "LocalText/s_fengmai_desc", "revision": "6964fe3b299a10f14c4a7c3e9d476467e2950608884b70eb269bdb0c8b194079", "ptbr": "O alvo atingido não pode conjurar técnicas. Este efeito não pode ser aplicado a <p>monstros de elite</p> ou <r>Feras Míticas</r>."}
+{"id": "LocalText/s_fengshen", "revision": "37d9f61564f6985b6e5f6f2dcb691e46c3e478f01200e3ce723f72d05fb529a2", "ptbr": "Deus do Vento"}
+{"id": "LocalText/s_fushi", "revision": "d76781fe4148bcd7969ca66fe9277413950366c84028370467e10b360a417458", "ptbr": "Corrosão"}
+{"id": "LocalText/s_fushi_desc", "revision": "dfec8be2e4f5ea6c83216375a32a461610fd420cfb22813071482300a42a3763", "ptbr": "O alvo atingido recebe &66111_fssh|x66111_dmg|/10000|f0&/s de dano de $s_mu$."}
+{"id": "LocalText/s_guishen", "revision": "61719ba5e17e0b594a0365713ab33eb283356a868dbc45d30c2c27e232024ba9", "ptbr": "Descanso Eterno"}
+{"id": "LocalText/s_hanshuang", "revision": "5746f5702047cf35bb3a374875360b4e96821fc4d43be5ec14ccb801bb1ed043", "ptbr": "Geada"}
+{"id": "LocalText/s_hanshuang_desc", "revision": "5f28628daa09cce64cabd440f1baafbad1f70871670dbd455cc114acdfb99113", "ptbr": "A Agilidade do alvo atingido fica &42111_jdys&% e a Velocidade de Ataque -&42111_tscd|/-1|f2&% por &42111_duration&s. Camadas máximas: &42111_layCount&."}
+{"id": "LocalText/s_hualing", "revision": "32469e8eb6accc6eb523d8b8816175f36ec5abcb8741314e33cd26e624805c8a", "ptbr": "Espírito de Flor"}
+{"id": "LocalText/s_hualing_desc", "revision": "4e1f18b5bfdab17b7367feaee75583cc1475a2020a30284c69c4a52bc8787012", "ptbr": "Cada vez que você conjura uma técnica de $s_mu$, há &46112_hygl&% de chance de invocar uma Fada das Flores Pequena. Até &46112_hysl& Fadas das Flores Pequenas podem existir ao mesmo tempo. Este efeito dura &46112_duration&s e acumula até &46112_layCount& vezes."}
+{"id": "LocalText/s_huangjilishi", "revision": "832a69c089e1fa0b03e192d42487fddaa9f85af9fac2a7b0e5af411990ed8994", "ptbr": "Guerreiro Celestial"}
+{"id": "LocalText/s_huangjilishi_desc", "revision": "a888e75f01876ba6c87d634bd30e14069062fa61710c10b9d46f8fc9dca59718", "ptbr": "Unidade grande que usa um martelo pesado para causar &700025_gjwl& de dano de $s_tu$.\\\\nAtributos herdados do invocador: &700025_jctl&% de Vitalidade, &700025_jcsx&% de ATQ, &700025_jcsx&% de DEF."}
+{"id": "LocalText/s_huanying", "revision": "c70ffde06a46de103c8446bf57d3e7ea8213175ab14f89185d53c86d50229696", "ptbr": "Fantasma"}
+{"id": "LocalText/s_huanying_desc", "revision": "59fecc19ffec742e2fe9a96187f6e11a1988bb794ff8c987d99ddec59dd237f7", "ptbr": "Um fantasma seu. Ele não se move, mas conjura Técnicas Espirituais automaticamente para atacar os inimigos próximos.\\nCausa &510121_hysh&% de dano e recebe &510121_hyss&% de dano.\\nExiste por &510121_cxsj&s."}
+{"id": "LocalText/s_huayao", "revision": "d0713e5815577fea547d42d1a16d516d591c58a100c638de7239f00090a18c07", "ptbr": "Fada das Flores"}
+{"id": "LocalText/s_huayao_desc", "revision": "4da226db59a4c81bc98a20f239cb0ced076960f5d2f348535fa470f8ac25251b", "ptbr": "Unidade média que não se move. Causa &46112_jnwl& de dano de $s_mu$ disparando Botões de Flor.\\\\nAtributos herdados do invocador: &700027_jctl&% de Vitalidade, &700027_jcsx&% de ATQ, &700027_jcsx&% de DEF."}
+{"id": "LocalText/s_huayaohou", "revision": "e9688f88a54141d51a072fa18270c3fac0cf738780a514b92b2b9f84670dee7e", "ptbr": "Rainha das Fadas das Flores"}
+{"id": "LocalText/s_huayaohou_desc", "revision": "9aa2e42b46b245c5dc979d436998a63f655c1508102d1f9bd943a424fd1b8855", "ptbr": "Unidade pequena que dispara Pétalas de Flor para a frente. Cada Pétala de Flor causa &66112_jnwl& de dano de $s_mu$.\\nAtributos herdados do invocador: &66112_yhtl&% de Vitalidade, &66112_yhgj&% de ATQ, &66112_yhfy&% de DEF.\\nExiste por &66112_yhsj&s."}
+{"id": "LocalText/s_huazhong", "revision": "8e2b203bcaa7ea18e0893bb221f34a884e49624b5da72826087716274471183a", "ptbr": "Semente de Flor"}
+{"id": "LocalText/s_hudun", "revision": "7e916b01fafcfd2fb49e19dba4aedb356b360e7988e38c46215641881921d5f7", "ptbr": "Escudo"}
+{"id": "LocalText/s_hudun_desc", "revision": "81925ed4ff16b572835f60ef630a7ec67981a368806d86c15c00e0066f4b9167", "ptbr": "O escudo (acumulável) bloqueia até &15112_hdsx& de dano recebido e dura &15112_hdsj&s."}
+{"id": "LocalText/s_huo", "revision": "61ae619f5ebbde6a664d7c5197137fa3d4bb67975f3b66058b35b1af97ec8004", "ptbr": "Fogo"}
+{"id": "LocalText/s_huoli", "revision": "9c79341bcca1039c0ec45bf43930988c528f586d97dae3a9210bce9555916133", "ptbr": "Espírito Espinhoso"}
+{"id": "LocalText/s_huoli_desc", "revision": "420deb7d003033db3128aa93e2bd736af0351411a883d3f1b0deeeb85fef379d", "ptbr": "Unidades com este efeito têm +&56116_tstl& de Vitalidade Máxima, e os projéteis delas explodem ao atingir um inimigo. A explosão causa dano a todos os inimigos dentro de &56116_zjbk& (o tamanho da área de explosão aumenta conforme o efeito se acumula). Cada unidade pode acumular este efeito até &56112_qhcs& vezes."}
+{"id": "LocalText/s_huoling", "revision": "481576ad76d9baf1b2f6846ffece089873348646995d1f420acb1d47ad6f403c", "ptbr": "Espírito Floral"}
+{"id": "LocalText/s_huoling_desc", "revision": "d65212ee499baa7d9b9d74119a050e8d5e1561eef6093eab37365767482aa3cc", "ptbr": "Unidades com este efeito têm +&56114_tstl& de Vitalidade Máxima, e os projéteis delas +&56114_zjdd&. Cada unidade pode acumular este efeito até &56112_qhcs& vezes."}
+{"id": "LocalText/s_huolinggen", "revision": "19039dc150aef2d99072ca9dc1a51d15915cad533db01961164de6e85f1c12cf", "ptbr": "Fogo"}
+{"id": "LocalText/s_huoshen", "revision": "3636c5a2c0072dab976a9c935511c77466e3ed103f2325bb813067281625cbbd", "ptbr": "Deus do Fogo"}
+{"id": "LocalText/s_huoyuan", "revision": "6d0cd91d5804141c5a55d3ba601604f82bd6f325ef4f57a377b4b50d0338cdf9", "ptbr": "Energia Primordial"}
+{"id": "LocalText/s_huoyuan_desc", "revision": "c62e9dc7c7f5cdfa72b6d61d696ca7754c6762c4f6b01014c3edaba7fe966a99", "ptbr": "Unidades com este efeito têm +&56112_tstl& de Vitalidade Máxima, e o intervalo de ataque delas fica &56112_tsgs&%. Cada unidade pode acumular este efeito até &56112_qhcs& vezes."}
+{"id": "LocalText/s_huozhong", "revision": "e3a75320bfba36c2fc82a6e4defa3ca0ad48d8a7a0dc8524f84ea6fccca421fc", "ptbr": "Brasa"}
+{"id": "LocalText/s_jian", "revision": "cc1d6a9ecbc52eae13eed232dbab59675db401dc0907e62a607dba37b6e4c89f", "ptbr": "Espada"}
+{"id": "LocalText/s_jianfazizhi", "revision": "c77efe0cff0b3702b73f4daca55fed918a2b31b1c5e5f10ec199c1480a49d65c", "ptbr": "Espada"}
+{"id": "LocalText/s_jianhun", "revision": "b03fe0ce8a32fdb846f1b4f99c45ab1d74e9c58633c059e1a9c79f6467e7b0f8", "ptbr": "Alma de Espada"}
+{"id": "LocalText/s_jianying", "revision": "b7f73deea898714e3ed820d1f5ce24f51978dca11a23886bb2f47e83046c1338", "ptbr": "Sombra de Espada"}
+{"id": "LocalText/s_jianzhan", "revision": "b774e52c26cef77bd828b8586fcb477f8299469a703f0d2559604bdf9e7673a5", "ptbr": "Corte de Espada"}
+{"id": "LocalText/s_jianzhan_desc", "revision": "e4a8e13a19d6f8e01dfeaec88b8107211c3369b56ead0ab508d77e9ec86ae5c8", "ptbr": "Aumenta o seu dano contra inimigos com menos de &14112_tllj&% de Vitalidade em &14112_ewsh&% por &14112_duration&s. Camadas máximas: &14112_layCount&."}
+{"id": "LocalText/s_jifengren", "revision": "2a9316f859230d77b626cc4287edc5514f2ad45c03df1baf613ae837194ed88e", "ptbr": "Lâmina de Vento Polar"}
+{"id": "LocalText/s_jifengren_desc", "revision": "1e4e6ae936a44eab9a473fababd72cb7b0efdfd40e3f70d02103acac462cb9c6", "ptbr": "Libera a Lâmina de Vento Polar à frente, causando &64112_dmg& de dano de $s_feng$."}
+{"id": "LocalText/s_jineng", "revision": "4285b04a7a0af16fd1eb76946130180756aa98409cd57f090a4b98acc7cd43bb", "ptbr": "Efeito Especial"}
+{"id": "LocalText/s_jueqing", "revision": "4a9f1453741eb7647a888d05b0ea075fcbf2a836a5813954df24d3a2c2b5444b", "ptbr": "Impiedade"}
+{"id": "LocalText/s_jueqing_desc", "revision": "4bfff25f749fa40e90744d398302469a370bc1a2f3597765e9a102901ba0cccc", "ptbr": "Aumenta o Limiar de Vitalidade da sua Execução em &12112_zsts&. Ao causar dano de $s_dao$ a um inimigo com Vitalidade abaixo do Limiar de Vitalidade, você o mata instantaneamente. Este efeito dura &12112_duration&s e acumula até &12112_layCount& vezes."}
+{"id": "LocalText/s_julingkuilei", "revision": "609e8bb5eef433a5cc4b9fdd61c09ece5498c5923ea67dfa3fbb68f2dbb14046", "ptbr": "Golem Gigante Espiritual"}
+{"id": "LocalText/s_julingkuilei_desc", "revision": "f652a666a33b0ccd0e6dd363086f769cdfdc5145d9698d62b290fbf6b7b38168", "ptbr": "Unidade grande que esmaga um martelo de pedra para atacar inimigos em linha, causando &65112_jnwl& de dano de $s_tu$.\\nAtributos herdados do invocador: &65112_jltl&% de Vitalidade, &65112_jlgj&% de ATQ, &65112_jlfy&% de DEF.\\nExiste por &65112_jlsj&s."}
+{"id": "LocalText/s_kaimai", "revision": "392e1737dfb418e26f81ea62d08574d146af003e9a5e00a777caf66c64ae86b0", "ptbr": "Meridiano Aberto"}
+{"id": "LocalText/s_kaimai_desc", "revision": "ba91fefe9fed5b0d62591021bfec3b16a142deb1992b166f01c395eca5580263", "ptbr": "Seu ATQ fica &17112_tsgj& por &17112_duration&s. Camadas máximas: &17112_layCount&."}
+{"id": "LocalText/s_kujiehu", "revision": "d807ff26241f694b293c4483e6adfcf8ec83a0851abb29278434f025e0a2575c", "ptbr": "Lago Seco"}
+{"id": "LocalText/s_lei", "revision": "afefe51b08abe394c832149daf779a8110d35b0fd38fdfe697f631e522080feb", "ptbr": "Raio"}
+{"id": "LocalText/s_leifa", "revision": "2cbbcfa409a348e171ee8fe8dc09624875a35589901b37c5af0370794cdacb85", "ptbr": "Punição de Raio"}
+{"id": "LocalText/s_leiji", "revision": "4c9eb904bf5317b09bfbd08647038b6b41db69790626fd3b208a2bc975e9401d", "ptbr": "Raio Fulminante"}
+{"id": "LocalText/s_leiji_desc", "revision": "6b85134e2cc43d7cffa4a32dabf1d309e1c9eb530566a38ed4cf48bfc6f66878", "ptbr": "Libera um Raio Fulminante em (&53111_ljsx&-&53111_ljsd&) inimigos aleatórios dentro de &53111_ljfw&. Cada Raio Fulminante causa &53111_ljwd|x53111_ljwx|/10000|f0&-&53111_ljwd& de dano de $s_lei$."}
+{"id": "LocalText/s_leilinggen", "revision": "c8948f9dd3a18cf0d1f42990cc0b096c20941738f1a439ac90fae772c03556eb", "ptbr": "Raio"}
+{"id": "LocalText/s_leiyin", "revision": "fdefdeda378111806ac31bca40fa0f94062ab058ce3eff1eaf4a66d4fa56b415", "ptbr": "Marca de Raio"}
+{"id": "LocalText/s_leiyong", "revision": "0679cbc2890c5592eaf96d8cf91856e10bb49e04ff1075f97488ab0829805769", "ptbr": "Surto de Trovão"}
+{"id": "LocalText/s_leiyong_desc", "revision": "1fa40152a7b944bd56c182d1d4fec44aa3dfda95bca89f48b1f61361072edfaa", "ptbr": "A cada &43112_shjg&s, você libera um Surto de Trovão em até &43112_shmb& inimigos próximos, causando &43112_sdzx&-&43112_sdzd& de dano de $s_lei$. Este efeito dura &43112_duration&s e acumula até &43112_layCount& vezes."}
+{"id": "LocalText/s_lieyan", "revision": "5f7577c1048202225a2fc8cec815a2399b7eeed4415f48375af0c04feb33737e", "ptbr": "Chama Feroz"}
+{"id": "LocalText/s_lieyan_desc", "revision": "67461c75b57392637ffa615643449c3eb0de2b4c2ca427991c2bbe8e98e0aec5", "ptbr": "Causa &51111_hywl&/s de dano de $s_huo$ aos inimigos dentro do alcance."}
+{"id": "LocalText/s_lingfeng", "revision": "28bcc1dceb87859e2d7ad4d6f0dfd0f84cec80f17532211cf2ed537e84767e8c", "ptbr": "Vento Espiritual"}
+{"id": "LocalText/s_lingfeng_desc", "revision": "057f1dcdd4459fce7fec847f240b95cec7cf7f47c62e3ddc8631e5dd4485dad7", "ptbr": "Cada vez que você conjura uma técnica de $s_feng$, há &44112_lfgl&% de chance de gerar um pequeno redemoinho que avança e dura &44112_lfsj&s, causando &44112_lfwl&/s de dano de $s_feng$. Este efeito tem uma recarga de &44112_xfjg&s e dura &44112_duration&s. Camadas máximas: &44112_layCount&."}
+{"id": "LocalText/s_lingxu", "revision": "49022cf5576badd3083f9692371d2d1b9d7064c82283ba7e9eb06e383d17275b", "ptbr": "Explosão Espiritual"}
+{"id": "LocalText/s_lingyan", "revision": "2b192165da919b0d00bd04d1766dcefaabac054b61fef785109794bb0d2c4dfd", "ptbr": "Rocha Espiritual"}
+{"id": "LocalText/s_lingyong", "revision": "3b4911d8610e028559c371654a8be38c5225fd724c4fc12cc8b132d7cb7bb597", "ptbr": "Surto Espiritual"}
+{"id": "LocalText/s_lingyong_desc", "revision": "994aca3298e76bcf411439604e92bc5d3844a6ece954501e70f0c05be02737a1", "ptbr": "Restaura &42112_hfll&/s de Energia por &42112_duration&s. Camadas máximas: &42112_layCount&."}
+{"id": "LocalText/s_liuxue", "revision": "203941f736438e3ce9544b35b058e14a1a66e51f3a249f32e4c20a1767116a5e", "ptbr": "Sangramento"}
+{"id": "LocalText/s_liuxue_desc", "revision": "16bb43d58c4059a557b45725199e60268c1d14ee6141661838ba9a839ba1c625", "ptbr": "O alvo atingido recebe &14111_kdsh&/s de dano de $s_jian$ por &14111_duration&s. Camadas máximas: &14111_layCount&."}
+{"id": "LocalText/s_longhun", "revision": "a4ef0bdb2666111d36a561516bf09524e6e3c4b3f37c9ad089ced33f348f766d", "ptbr": "Alma do Dragão"}
+{"id": "LocalText/s_longqiangfuti", "revision": "18fb425b260568b50412c91b415287d15ecc7a3af9cc6c32a5d967e4217682a3", "ptbr": "Possessão do Dragão Verdadeiro"}
+{"id": "LocalText/s_longqiangfuti_desc", "revision": "ce85f879d471dda05977dcd992f5666ab62b6ab7e3788dfd2fd185ef85f3e6e7", "ptbr": "Equipar uma Técnica Especial de Lança com o efeito Recarregando permite conjurar a Possessão do Dragão Verdadeiro."}
+{"id": "LocalText/s_luanliu", "revision": "cb1b67d44ca079a5a623937e3c157b2dcf60a42d0fe9a377091cfa8edd3340fe", "ptbr": "Turbulência"}
+{"id": "LocalText/s_luanliu_desc", "revision": "498479cd3071c829ed9af5c5042873cab441251b360d471bc9e89cc8dac9bb8d", "ptbr": "A cada segundo, o alvo atingido tem &43111_shgl&% de chance de ser atingido por um relâmpago, recebendo &43111_zdsh&-&43111_zgsh& de dano de $s_lei$. Este efeito dura &43111_duration&s e acumula até &43111_layCount& vezes."}
+{"id": "LocalText/s_mabi", "revision": "1fd70dd64419c1c7010931bf12c9d032d354a4b7ca186541773fad7edf3ba420", "ptbr": "Paralisia"}
+{"id": "LocalText/s_mabi_desc", "revision": "396207cd7224535e76930bdeb8e00ecfb9600445037b85c51273ca2fea6541fc", "ptbr": "O alvo atingido não pode executar nenhuma ação."}
+{"id": "LocalText/s_maixi", "revision": "87dcd392e319eed3688cec186eb0d71d4196f410a491565abd6897fa0466c6b1", "ptbr": "Pulso"}
+{"id": "LocalText/s_miaosha", "revision": "df4f565bf13dcaf449db6e3c564f6e78b54d9c57e6b2cfb409674d974ecfb03f", "ptbr": "Morte Instantânea"}
+{"id": "LocalText/s_miaosha_desc", "revision": "b21dde47d0f9be7631e41dc3979048372ca320d60f2ee4f920b96a82fd8dbcdf", "ptbr": "Cada vez que você conjura uma Técnica Especial de Raio, há uma chance de matar instantaneamente um monstro normal."}
+{"id": "LocalText/s_mieshenzhan", "revision": "f130ab1f6833daf57b97345ac6fe568737637a43ee0569b7b31963deabd7bc3b", "ptbr": "Talho Deicida"}
+{"id": "LocalText/s_mieshenzhan_desc", "revision": "43396ae476c1006a6c96ef0b1fe7e7064df5cfc8f05870f495addec98154331b", "ptbr": "Uma Técnica Marcial: Golpeia à frente (alcance: &321111_ddbl&), causando &321111_dmg|x32111_dmg|/100|f0& de dano de $s_dao$."}
+{"id": "LocalText/s_morenzhan", "revision": "499749f639a194eaa24e2aa4785f5510f64eac63c370d52697f8229b38b67993", "ptbr": "Talho Demoníaco"}
+{"id": "LocalText/s_morenzhan_desc", "revision": "0087a49f9417421b9a51482053427e4f52123aa1ca3805d5bc1704051d0093ca", "ptbr": "Uma Técnica Especial: Golpeia os inimigos dentro de &321112_xzsc&, causando &321112_dmg|x32111_dmg|/100|f0& de dano de $s_dao$ a cada inimigo atingido."}
+{"id": "LocalText/s_mozhang", "revision": "cc5ee967ac6ad78479d95f9317f1e7d977298b7ff284ca3ddec9d0be4f914436", "ptbr": "Marca Demoníaca"}
+{"id": "LocalText/s_mu", "revision": "ae43d30ab585e5f8292c9040d0a15586604fd93591ca4f9ab4e79ab533cb516f", "ptbr": "Madeira"}
+{"id": "LocalText/s_mulinggen", "revision": "6b645c38bdedca46d1b24734e54b04d89306d57ee5cf89ee0d875d9913b50446", "ptbr": "Madeira"}
+{"id": "LocalText/s_neijing", "revision": "4d41b55593cfab6abdda417498847b1cfd6228e372bc8fe2304bb2c83b075b25", "ptbr": "Força Interna"}
+{"id": "LocalText/s_neijing_desc", "revision": "8cef9a88ffef38f2e88ad82dfb44c941bbcc44638a37179295ff7d382b1564dd", "ptbr": "Cada vez que você conjura uma técnica de $s_zhang$, há &16112_zfgl&% de chance de gerar um Vento de Palma, que causa &16112_zfsh& de dano de $s_zhang$ aos inimigos dentro de &16112_zffw&. Este efeito dura &16112_duration&s e acumula até &16112_layCount& vezes."}
+{"id": "LocalText/s_neishang", "revision": "2f083262a160c485a9ae1195a14c1c2a8bf98cba884672403acc4eea1cb4ad87", "ptbr": "Ferimento Interno"}
+{"id": "LocalText/s_neishang_desc", "revision": "8e57be61d62e8de648d68d76616d11a9f05f12f11b18737ff32e4949696048dd", "ptbr": "Aumenta o dano recebido pelo alvo atingido em &16111_gdsh& por &16111_duration&s. Camadas máximas: &16111_layCount&."}
+{"id": "LocalText/s_neixu", "revision": "013dd785ab5a2a53279d37cc1762b8cf39f1ba119ff5b294eacdd03a7042d336", "ptbr": "Vazio Interno"}
+{"id": "LocalText/s_neixu_desc", "revision": "555743257b69ab8b840f64d31117c83efbd35dea3b5365b1dc1fa1a97f011c3f", "ptbr": "O ATQ do alvo atingido fica &17111_jdsh& por &17111_duration&s. Camadas máximas: &17111_layCount&."}
+{"id": "LocalText/s_nifeng", "revision": "c0afb795d339ab20a714ad263cddb0e19c285da5cff63df9b94cd5dfaa7bdc85", "ptbr": "Vento Contra"}
+{"id": "LocalText/s_nifeng_desc", "revision": "a3aab3c168c6d0a1beffe1044eaf48e74d6bcda89cae9219a3e9d2738c1d9b6e", "ptbr": "A Agilidade do alvo atingido fica &44111_jdys&% por &44111_duration&s. Camadas máximas: &44111_layCount&."}
+{"id": "LocalText/s_nikong", "revision": "b1af0fc4522d1929b4ca7ad107e385e412a9a0521ff9a24f55b38bf710672d7f", "ptbr": "Tempo Bala"}
+{"id": "LocalText/s_pojia", "revision": "f52bb5bd3124ca09ea1358613febe255895e0a144612dfca9647a2cdbf019e4c", "ptbr": "Quebra-Armadura"}
+{"id": "LocalText/s_pojia_desc", "revision": "92004d389f8ebabb66b564e6af1522dbafe04744a4362881f801142d0ce879d9", "ptbr": "A DEF do alvo atingido fica &13111_jsfy& por &13111_duration&s. Camadas máximas: &13111_layCount&."}
+{"id": "LocalText/s_poshi", "revision": "cbded61bac61616a38969ad993b778a1269aa5eeb122a8cd9e55b37f366a27e5", "ptbr": "Quebra-Postura"}
+{"id": "LocalText/s_poshi_desc", "revision": "2bc8a0f8389f358c05988c9f3f0c227c38eb19666acd20bcabf8df8c286da496", "ptbr": "Aumenta o seu dano contra inimigos com mais de &13112_tllj&% de Vitalidade em &13112_ewsh&% por &13112_duration&s. Camadas máximas: &13112_layCount&."}
+{"id": "LocalText/s_qiang", "revision": "969322da6be1944960afd4d3c0cb1aa2fc397b24bb97fa7c585cda94184a609f", "ptbr": "Lança"}
+{"id": "LocalText/s_qiangfazizhi", "revision": "0490e3cf8faff2174c6d8291326996f37cfcad464a868762571c2b057c09ae32", "ptbr": "Lança"}
+{"id": "LocalText/s_qiangying", "revision": "e68268a85c8d3f03b61f0c0921214195dc807a45aebefe68a419d73127b26573", "ptbr": "Sombra de Lança"}
+{"id": "LocalText/s_quan", "revision": "dc2eb121dc5e930fca198fbbc7c4daf64f6fdac8b4a263a00e4dfb285bb141b2", "ptbr": "Punho"}
+{"id": "LocalText/s_quanfazizhi", "revision": "11639babed6c0e413d0f3c0a4b3646d83f778c7acb89dbb373637ad4ffcb140f", "ptbr": "Punho"}
+{"id": "LocalText/s_ranhun", "revision": "2c75d4355f24fea02d2069d8b797e0bbbae8152d8dc0753a8e5b4ea91bdacce0", "ptbr": "Alma em Chamas"}
+{"id": "LocalText/s_ranhun_desc", "revision": "6b04b745a490032ea15b4d4956449f0046d7129543c2f6065319ae63887616b0", "ptbr": "Aumenta o seu dano em &41112_tssh&% por &41112_duration&s. Camadas máximas: &41112_layCount&."}
+{"id": "LocalText/s_shenhuohe", "revision": "015c3ae52a52756a3be48935d3e5a5e4dd54c73a860225aeace2df5ed4590431", "ptbr": "Núcleo de Fogo"}
+{"id": "LocalText/s_shenhuohe_desc", "revision": "5af0479744466b4a712d6d87d530afebc99e6b3c7f75aac0182203fc8802a308", "ptbr": "Unidade antiga que segue um inimigo lentamente enquanto solta chamas ao redor. Cada chama causa &61111_dmg& de dano de $s_huo$.\\\\nExiste por &61111_hhsj&s."}
+{"id": "LocalText/s_shifu", "revision": "f217a300fdf7b09f78e47908830ac8a78a28feadae759a4bbaed02f3aaeb2584", "ptbr": "Pele de Pedra"}
+{"id": "LocalText/s_shifu_desc", "revision": "4fa5dc07a6e573aa1a5c05d1c11f5e573445c944acaeff553f95af3dbd93508b", "ptbr": "O seu dano recebido fica &45112_jmsh& por &45112_duration&s. Camadas máximas: &45112_layCount&."}
+{"id": "LocalText/s_shui", "revision": "b45d525e27ab3692d142af10820cb8f37e9f9b3aaaf93e0f07c7f8c4ab7636ce", "ptbr": "Água"}
+{"id": "LocalText/s_shuilinggen", "revision": "154f60ae54f7896efc7dfe03f527edc1ae2c4b05fa7da9d5b386795e5aa188d1", "ptbr": "Água"}
+{"id": "LocalText/s_shuxing", "revision": "48b7dd28d4fa77d9031f0c8437e735214fd030ce91481b89921030bc7db82649", "ptbr": "Atributos"}
+{"id": "LocalText/s_spell", "revision": "490e33a6c2fdd65d2b5a1edbdbdacf56036c5cfadec29f8dbf4b25a7d46e20e5", "ptbr": "Mecânica de Conjuração"}
+{"id": "LocalText/s_suigu", "revision": "6cd2b8a0b6a76b917213353bb1661b0c5d07ba56b02759fc5a65b6200a928532", "ptbr": "Estilhaço de Ossos"}
+{"id": "LocalText/s_suigu_desc", "revision": "1504fe12acd61253501579f55ef61a7c8a6fce75755b621ff92fb3e58ea3e765", "ptbr": "Ao receber dano, o alvo atingido tem &15111_yxgl&% de chance de ficar atordoado por &15111_yxsj&s. Este efeito dura &15111_duration&s e acumula até &15111_layCount& vezes."}
+{"id": "LocalText/s_summon", "revision": "ce09cab3d63745da136b0ea4619b6774a9343c48732f2894cb02f57e4dbe52b8", "ptbr": "Unidade Invocada"}
+{"id": "LocalText/s_tongpi", "revision": "a8683c45adef7ed342da377465385651fa69c112016825d2bf32f517c279efb3", "ptbr": "Pele de Bronze"}
+{"id": "LocalText/s_tongpi_desc", "revision": "4461b48b9d53595df6a68e141337d7a0fe6855aaf936a62f0e813ea287a6a4b4", "ptbr": "Receba um escudo com &15112_hdts& de Vitalidade (acumulável). O escudo dura &15112_hdsj&s e tem um limite de Vitalidade de &15112_hdsx&."}
+{"id": "LocalText/s_touzhi", "revision": "3178b732a49207525c6832254a7c8279aec04a3ddd600d5fcc019a0931982689", "ptbr": "Duração Estendida"}
+{"id": "LocalText/s_touzhi_desc", "revision": "b58c20f0ddba2c10b8063fc480d2b5764c2c5ad96c4d5a735407aa17b75bb9cf", "ptbr": "A duração de uma Técnica Contínua pode ser estendida. A cada 1s de extensão, você fica com $s_xuruo$ por &51112_xrsj&s depois que a técnica termina."}
+{"id": "LocalText/s_tu", "revision": "5428a9e4fbe62ce9ac3c641da02786380c9905e9b92250d7ef98716e432bfd47", "ptbr": "Terra"}
+{"id": "LocalText/s_tukuilei", "revision": "f65c0888e2359271e3ddb8dd5beeda47a370bd1d674ff3c7be9fe4345ee8336c", "ptbr": "Golem de Terra"}
+{"id": "LocalText/s_tukuilei_desc", "revision": "8f2cede5c876835f4e90316bd3a7552846cd10e960c8e279723dfff428285018", "ptbr": "Unidade média que esmaga o chão para causar &55112_jnwl& de dano de $s_tu$.\\nAtributos herdados do invocador: &55112_kltl&% de Vitalidade, &55112_klgj&% de ATQ, &55112_klfy&% de DEF.\\nExiste por &55112_klsj&s."}
+{"id": "LocalText/s_tulinggen", "revision": "a65dc3fe8b02a093939ef336c34fba3a77f65db4d3ed6b907375efb493399265", "ptbr": "Terra"}
+{"id": "LocalText/s_wangling1", "revision": "be42533c02bff129056dd95fcf957f1ead7dafeb63bbb707f4da6d1226c356dd", "ptbr": "Guerreiro Espectral"}
+{"id": "LocalText/s_wangling1_desc", "revision": "d85f6cdbfaba43f21f276dabca6b4fc7ae70f0d31660a2a6edf5be79032779bc", "ptbr": "Unidade média que ataca os inimigos com uma lâmina enferrujada, causando &700022_gjwl& de dano de $s_dao$.\\nAtributos herdados do invocador: &700022_jctl&% de Vitalidade, &700022_jcsx&% de ATQ, &700022_jcsx&% de DEF."}
+{"id": "LocalText/s_wangling2", "revision": "cfed4dd9596ff980cdc71b2615c0751b51c9068854f93138072b5fae9d0149e4", "ptbr": "Arqueiro Espectral"}
+{"id": "LocalText/s_wangling2_desc", "revision": "b39002f1e55732e36ac9ec11ad4951688381bdaf75d0333390561e9b8502e0c4", "ptbr": "Unidade média que ataca os inimigos com um arco desgastado, causando &700023_gjwl& de dano de $s_jian$.\\nAtributos herdados do invocador: &700023_jctl&% de Vitalidade, &700023_jcsx&% de ATQ, &700023_jcsx&% de DEF."}
+{"id": "LocalText/s_wangling3", "revision": "7c601254844a43ecf3ff285df43a2c6c7d34e4c70208bacc6ad1c3c2e74c850c", "ptbr": "Mago Espectral"}
+{"id": "LocalText/s_wangling3_desc", "revision": "52b84ab34c163a845637389dc01ee467cad6a9e627035684f68a04ca51769608", "ptbr": "Unidade média que libera uma Explosão do Submundo para causar &700024_gjwl& de dano de $s_lei$.\\\\nAtributos herdados do invocador: &700024_jctl&% de Vitalidade, &700024_jcsx&% de ATQ, &700024_jcsx&% de DEF."}
+{"id": "LocalText/s_wanmeixuli", "revision": "bea49bd087941bd4b3318cb56f3ac61541fe87992cab25cfe53e20501dfa05fa", "ptbr": "Carga Perfeita"}
+{"id": "LocalText/s_wanmeixuli_desc", "revision": "ddcf5215698f5fac4d89f5359f5fa964ad47ec6af897e87033893c43ca3a3de9", "ptbr": "No momento em que uma técnica com o efeito Carga Perfeita termina de carregar, um círculo de luz aparece. Solte o botão do mouse antes de o círculo encolher para alcançar uma Carga Perfeita."}
+{"id": "LocalText/s_wudi", "revision": "1fbf4376dfee56d9a9b09d477a7296ff6eec8c7652680cc31459f3fa6ea3e303", "ptbr": "Invencível"}
+{"id": "LocalText/s_wudi_desc", "revision": "61a9ea473760903b30b3cf8f22b40f2207ecd809a9e4b7bd7214dc90476ac567", "ptbr": "Unidades invencíveis bloqueiam todo o dano recebido."}
+{"id": "LocalText/s_xiaohuayao", "revision": "e347508b8b722ba1ee2396d62657463d637a1a0d0c42b334c18ba407c1d5e2b5", "ptbr": "Fada das Flores Pequena"}
+{"id": "LocalText/s_xiaohuayao_desc", "revision": "6a24b7e8a0f78c6a28076138525c4eb41f7e198c88a664a37d52e3e8ce8452d6", "ptbr": "Unidade pequena que não se move. Causa &46112_jnwl& de dano de $s_mu$ disparando Botões de Flor.\\nAtributos herdados do invocador: &46112_hytl&% de Vitalidade, &46112_hygj&% de ATQ, &46112_hyfy&% de DEF.\\nExiste por &46112_hysj&s."}
+{"id": "LocalText/s_xuanfeng", "revision": "30d205a96bcc175c4fd6e635abc3a3559db49618f5a715a50796fbd64853c971", "ptbr": "Redemoinho"}
+{"id": "LocalText/s_xuanfeng_desc", "revision": "2495939cecc046fccceaaa20561a510f976c30c7825431aa9693506bf08442f6", "ptbr": "Um redemoinho que dura &54112_xfsj&s e avança, causando &54112_xfwl&/s de dano de $s_feng$ a cada inimigo atingido."}
+{"id": "LocalText/s_xueren", "revision": "ba38666abb5cada9a8b9b121172f6e0a85b452f450b0bfb743feaab199e81fb1", "ptbr": "Lâmina Sanguínea"}
+{"id": "LocalText/s_xueren_desc", "revision": "03094b39ca00be3820367ffe797a8b69916ba0ea58fd79d798735f49fb375a5c", "ptbr": "Aumenta o dano recebido pelo alvo atingido em &12111_shts&% por &12111_duration&s. Camadas máximas: &12111_layCount&."}
+{"id": "LocalText/s_xulishifa1", "revision": "0861fff4e189051ee4b20e07af316b98fc052c4b9a0b7ea1ab858b6bba9e18dc", "ptbr": "Técnica Carregada"}
+{"id": "LocalText/s_xulishifa1_desc", "revision": "6ff69d1653a826e806fb315a88fcbbfc94cd4c7c49552c442af6f88d8e41ede3", "ptbr": "Mantenha o botão do mouse pressionado para carregar esta técnica; durante esse tempo, a sua Agilidade fica reduzida. Solte o botão para conjurar a técnica. Quanto mais longa a carga, maior o poder e o alcance (área de efeito maior) da técnica.\\nUma <y>Carga Perfeita</y> é alcançada se você soltar o botão exatamente quando o tempo máximo de carga for atingido, aumentando o poder da técnica em &26113_ewwl&%."}
+{"id": "LocalText/s_xulishifa2", "revision": "57d8ff9b82d0e7d25da030af50495f12219ce872194037667591448b02048c58", "ptbr": "Técnica Carregada"}
+{"id": "LocalText/s_xulishifa2_desc", "revision": "bcc77140e2a115c45586eb24f2834a8021b9ae8648868f36302fef6ec8b94044", "ptbr": "Mantenha o botão do mouse pressionado para carregar esta técnica; durante esse tempo, a sua Agilidade fica reduzida. Solte o botão para conjurar a técnica. Quanto mais longa a carga, maior o poder e o alcance (área de efeito maior) da técnica. Conjurar esta técnica antes de carregá-la por completo reduz o poder e o alcance (área) dela."}
+{"id": "LocalText/s_xuruo", "revision": "9be31f324cd725b9ffef15eccaeb41d30e6c94a7a639e8159f53a9a5860c8ed7", "ptbr": "Enfraquecido"}
+{"id": "LocalText/s_xuruo_desc", "revision": "cf5bde75973d0bf6b7b0bf340890509c1a0981ec3b079432e8fa43c99533fabb", "ptbr": "Seu dano fica &51112_xrgj&% e a Agilidade &51112_xrys&%"}
+{"id": "LocalText/s_yunxuan", "revision": "2cc6a5e5cfd1a74328c8d567047a0076da7f1c0970cb58ecc0a9b9f0db2d52f9", "ptbr": "Atordoamento"}
+{"id": "LocalText/s_yunxuan_desc", "revision": "12e1732618570ce583e4128636ba748df70ba14eab0cba3e64548f30960e4a2e", "ptbr": "O alvo atingido não pode executar nenhuma ação."}
+{"id": "LocalText/s_zhandouzizhi", "revision": "8b6897a380850d0dc9f942634677e6ec819c2e6f6ac28ceb19be36aceec1c344", "ptbr": "Atributos de Técnica"}
+{"id": "LocalText/s_zhandouzizhi_desc", "revision": "c8a734839f6d18cc80d002a97dba182d1bcb2f57da01eeb64fa927b56de53f07", "ptbr": "Os Atributos de Técnica incluem todos os atributos de Artes Marciais e de Raízes Espirituais."}
+{"id": "LocalText/s_zhang", "revision": "859d5a81c4ac8b762f1fa92f20c88aed54776e2764d5e2d8a8b5c1507281f9d0", "ptbr": "Palma"}
+{"id": "LocalText/s_zhangfazizhi", "revision": "c2b116e5f0f96181f9f3b915cbb886f775a983c2d1b1177922a725fceab936b7", "ptbr": "Palma"}
+{"id": "LocalText/s_zhangfeng", "revision": "43165ca11f737ddb6d66e15bd4e09ad79c4ddfac72b24c7999c8cefd02f43fcd", "ptbr": "Vento de Palma"}
+{"id": "LocalText/s_zhangfeng_desc", "revision": "1140e1f158733e62caeae1f2c7b732497e1de08808c768aa3171d581acd7f5a8", "ptbr": "Este Vento de Palma se expande para atacar os inimigos dentro de &16112_zffw&, causando &16112_zfsh& de dano de $s_zhang$."}
+{"id": "LocalText/s_zhansha", "revision": "1710d92c5a19fb2a33dc4f58d58b9b632f179b6872d4aefea02be057f48aba81", "ptbr": "Execução"}
+{"id": "LocalText/s_zhansha_desc", "revision": "f97d39ac6d306129671dddd44db0331dd19de41a53203f18b385416af86c1c09", "ptbr": "Conjurar uma Técnica Marcial de Sabre com o efeito Impiedade aciona a Execução."}
+{"id": "LocalText/s_zhi", "revision": "15aa742424d3d21648d599865d34ff3732b5872cd8793ea3a5be1380e67549ca", "ptbr": "Dedo"}
+{"id": "LocalText/s_zhifazizhi", "revision": "e78887af9adf38e71f2b127b1080d310b3feb0d89b2ab76b8aebd1335cbd193c", "ptbr": "Dedo"}
+{"id": "LocalText/s_zhuoshao", "revision": "3ef2ddd123caebaaa1ab06c531b76dabac04b53a66129d6e6b502ef962c3d727", "ptbr": "Queimadura"}
+{"id": "LocalText/s_zhuoshao_desc", "revision": "3c6331b591f83e4c986138c26df2a408d6b02f18b34507b06844f5dcdf4b64d5", "ptbr": "O alvo atingido recebe &41111_shwl&/s de dano de $s_huo$ por &41111_duration&s. Camadas máximas: &41111_layCount&."}
+{"id": "LocalText/school_rongyudizi", "revision": "c0b04f65365b04c9f75d79eb7922f6c2481e74bb65bcbaceef5ca69c5a86651d", "ptbr": "Discípulo Honorário"}
+{"id": "LocalText/school_rumendizi", "revision": "c3e8db16ef8834cabe5a4b8b9ac9999611e584a977e645675ea6f49009ce254c", "ptbr": "Novato"}
+{"id": "LocalText/task_jiequxinrenwu", "revision": "42b358063ea00057b729d9b82763f33c080b6a9fd64ef4fd86b5324c2116a8f1", "ptbr": "Nova missão {0} aceita"}
+{"id": "LocalText/task_renwuwancheng", "revision": "6c946dd8907d14c3740735b991034296b67353cb1916f02cc6f3c95552cb5acd", "ptbr": "Missão {0} concluída"}
