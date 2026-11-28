@@ -434,6 +434,18 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | Storm Palm / Storm(s) / Wild / Reaving / Sweeping Wind(s) / Column of Wind | Palma da Tempestade / Tempestade(s) / Vento Selvagem / Vento Saqueador / Vento(s) Varredor(es) / Coluna de Vento | — |
 | Sword/Blade auras, Spear Thorns, Fist/Finger Shadows, Palm attacks | Auras de Espada/Sabre, Espinhos de Lança, Sombras de Punho/Dedo, Golpes de Palma | — |
 
+### Lote 0039 (Técnicas de Movimento e Técnicas Supremas)
+
+| Inglês (EN) | Português Brasileiro (PT-BR) | Notas |
+| --- | --- | --- |
+| Motion Skill / Ultimate Skill (rótulos de tooltip) | Técnica de Movimento / Técnica Suprema | Já padrão do glossário |
+| Ice Eruption / Ball of Lightning / Venom Blast / Soil Blast / Lightning Blast / Shield Shadow Blast | Erupção de Gelo / Bola de Raio / Detonação Venenosa / Detonação de Terra / Detonação de Raio / Detonação de Sombra de Escudo | Efeitos detonados |
+| Titan Fist / Fire Fox(es) / Tornado / Earth Collapse / Butterfly / Phantom | Punho Titânico / Raposa(s) de Fogo / Tornado / Desabamento / Borboleta / Fantasma | Movimentos especiais (5100xx-5101xx) |
+| Dash / Blink / Charge / flying on your sword / invisibility | Investida / Teletransporte / Carga / voo de espada / Invisibilidade | Parâmetros de movimento |
+| "underneath the target/you" | "sob o alvo/sob você" | Camadas geradas no chão |
+| "max value is guaranteed to be achieved" | "esse valor máximo é garantido" | — |
+| Sentinels `s_510021_dmg00` etc. = próprio nome da chave | Preservadas verbatim | EN idêntico à chave (placeholder) |
+
 
 
 
