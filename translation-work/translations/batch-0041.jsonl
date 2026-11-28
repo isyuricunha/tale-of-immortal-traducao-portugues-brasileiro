@@ -1,0 +1,500 @@
+{"id": "LocalText/ItemHobbyLevel1", "revision": "29139b79d27b08734a6e15fcd7353b9b1054671c412bd1f177af6f256ad85dbc", "ptbr": "N"}
+{"id": "LocalText/ItemHobbyLevel2", "revision": "e27cb532e0db8ca66d79eddd2e8346499344b1f45ff784f91ccbfa4a756ec81f", "ptbr": "R"}
+{"id": "LocalText/ItemHobbyLevel3", "revision": "a6a847760bd6298ef5f3bc05a76977c3e4e41752bc9c022f33b0b24212f9fbc0", "ptbr": "SR"}
+{"id": "LocalText/ItemHobbyLevel4", "revision": "0a1f921b36a7e0c7070300dee239bf6159cc54fa8db0e379edac80261a3bc324", "ptbr": "SSR"}
+{"id": "LocalText/ItemHobbyLevel5", "revision": "c81c1ce915dd1de3d8702f03dd8a71b7383e00b85444b537644296ef3cc09941", "ptbr": "UR"}
+{"id": "LocalText/ItemHobbyLevelDiss", "revision": "ca6705404edebc3427aa15bcf5704c4f8b17d458a2a5f8c4f9ff30b93f3cfc64", "ptbr": "Você não tem interesse em itens {0}."}
+{"id": "LocalText/MonthLog_title20101", "revision": "7dc1b70520f81261c94d410cf61eee8f169d247c8b089f034477d63811b432c3", "ptbr": "Humor baixo demais"}
+{"id": "LocalText/MonthLog_title20102", "revision": "90b6d0747160b2663bd56150f4eb30db71d0d80fd0479237c0e9d674f7e67ec2", "ptbr": "Saúde baixa demais"}
+{"id": "LocalText/MonthLog_title20103", "revision": "b85d10eb5a6698cc81b4d105a652188a9546b01a44b78de833e72e04cabf3c57", "ptbr": "Saúde baixa demais"}
+{"id": "LocalText/MonthLog_title20104", "revision": "1f1382ccd4a0ae3785316e70312258bbeb0b19d7202f304312074bb2db504764", "ptbr": "Perdeu {1}"}
+{"id": "LocalText/MonthLog_title20105", "revision": "d15ee1f1d4ef29a99517f5e5c039785ddd455ef9051668d5d4f9318edbfd04ef", "ptbr": "Longevidade reduzida"}
+{"id": "LocalText/MonthLog_title20106", "revision": "66ed55b86c823e65d289e0768415d5fcbdfdc26bde9d1de6623e6d8763087866", "ptbr": "Reputação caiu"}
+{"id": "LocalText/MonthLog_title20107", "revision": "86aa8e7c08bee6ee18bc7c5c2b9f1f800465f8957d3888440618d7fa3e781e57", "ptbr": "Aviso: Longevidade!"}
+{"id": "LocalText/MonthLog_title20201", "revision": "cb192cc4ebae5da42074b937cf35f59c3bce4ca1c592591f31bfbe1023d33e7a", "ptbr": "{0} e {1} falaram de você"}
+{"id": "LocalText/MonthLog_title20202", "revision": "bf9622735ee3be981ad8e9bed84d8b6b4564dd719408f0e01aee29f7cb8f538c", "ptbr": "{0} e {1} falaram de você"}
+{"id": "LocalText/MonthLog_title20203", "revision": "4e0f69d9eb4537abc7dffcb9069a250a37f741395e924c05bc8cb7319f96487d", "ptbr": "{0} e {1} falaram de você"}
+{"id": "LocalText/MonthLog_title20204", "revision": "4da830f3896b98a8e70a40205fe877fe9bb9677dd34aa9a401225a7c39502299", "ptbr": "{2} derrotou {3}"}
+{"id": "LocalText/MonthLog_title20205", "revision": "495aa945774635644823bc42af9f893e42f310b86de329ac0c1f152f3693d516", "ptbr": "{2} derrotou {3}"}
+{"id": "LocalText/MonthLog_title20206", "revision": "2894301dbfc036db4e9ef22ddc3801c7d3bd38a24eaa76d6d3aff73353892cec", "ptbr": "{2} derrotou {3}"}
+{"id": "LocalText/MonthLog_title20207", "revision": "ba6af8314da71f8806b9d84383e6ccc3c823883ceb744eb015f3270c3e0505ac", "ptbr": "{2} derrotou {3}"}
+{"id": "LocalText/MonthLog_title20208", "revision": "e9b07a50e0c64565f984c01fdf40ac1b3d83217667fe80ac940378c05dd6764a", "ptbr": "{2} derrotou {3}"}
+{"id": "LocalText/MonthLog_title20209", "revision": "b9cc7f7dfab1d2ebf2c1228f8d13594888b1b006ef24360723edd658c45365d6", "ptbr": "{2} derrotou {3}"}
+{"id": "LocalText/MonthLog_title20210", "revision": "7bda54d6cc4533bece72f9f6d540ca71c7726853278a1bb9f73969cc388ab6db", "ptbr": "{0} alcançou {1}"}
+{"id": "LocalText/MonthLog_title20211", "revision": "323b209890bb8a30a175bef0e327fae09e6176aa63bb9c692aba9724f725fb77", "ptbr": "{3} sofreu ferimentos graves"}
+{"id": "LocalText/MonthLog_title20212", "revision": "25b9ede310b98c12e77baed569f33229b26905bae2502d5d21922b3e0d950d62", "ptbr": "{3} sofreu ferimentos graves"}
+{"id": "LocalText/MonthLog_title20213", "revision": "a06ac8461099b5c6d2b251fd05fe4d224679039100a8031dbf6fc428a41fb3e2", "ptbr": "{3} perdeu a vida"}
+{"id": "LocalText/MonthLog_title20214", "revision": "6037a488413e834b39cbb4a676e9dfe1c7e598ab380874de07287837832ba4ca", "ptbr": "{3} sofreu ferimentos graves"}
+{"id": "LocalText/MonthLog_title20215", "revision": "31b302bf13e5ae8a6147cdeea82f42e8d1103a43b1863913d35171f7edd9924e", "ptbr": "{3} sofreu ferimentos graves"}
+{"id": "LocalText/MonthLog_title20216", "revision": "c6db515404ea636c930034ba4bd7c6c637633ada422c989640c48af4d36fc261", "ptbr": "{3} perdeu a vida"}
+{"id": "LocalText/MonthLog_title20301", "revision": "e29924730cd3050f8f291f9ced449085d0ece9c8286d351abbea0642bc0a443d", "ptbr": "O leilão de {0} começou"}
+{"id": "LocalText/MonthLog_title20302", "revision": "8f778f412788992f8febcbf33c2d4fd112c11536455017e1c4c316370f17cb14", "ptbr": "O leilão de {0} vai começar"}
+{"id": "LocalText/MonthLog_title20401", "revision": "c428f25fbf0c4cd2c4668031cd2dd2e476a4bf3294fb1192cd47e0554a6f26ad", "ptbr": "{2} e {5} fizeram um duelo"}
+{"id": "LocalText/MonthLog_title20402", "revision": "3aeb7c623071f42180e551bd413674d64805d7a16fa4c708fd3f9a811247b0b5", "ptbr": "{2} e {5} fizeram um duelo"}
+{"id": "LocalText/MonthLog_title20403", "revision": "6d21782b40194dcb912aefa2d6867a9fd7381e52024cc3ca8961722640ad3faf", "ptbr": "{2} e {5} fizeram um duelo"}
+{"id": "LocalText/MonthLog_title20404", "revision": "6aa94c9916cf8a39dff41bc7d46de1d115bb6031ae91ed02921fc8056fb26df5", "ptbr": "{0}{2} ascendeu a {3}"}
+{"id": "LocalText/MonthLog_title20405", "revision": "a2ca8c25e4a88e2ab7597b75d3efc8827b489a4b10852cad612d645306ea2c1a", "ptbr": "{2} alcançou {3}"}
+{"id": "LocalText/MonthLog_title20406", "revision": "67ce70c2bf8e61f51fb72977cc686071c81fe75f3005845d4e4aff81b6c69e7e", "ptbr": "{0} mudou o clima de {1} para {2}."}
+{"id": "LocalText/MonthLog_title20407", "revision": "915b870936c66819aabeb072e23716de648cb9953779bbba22f35cc2ede1295d", "ptbr": "{0} foi derrotado"}
+{"id": "LocalText/MonthLog_title20408", "revision": "4b5dd028e145a5107ca8b637e69ef0f62a55bfdcc3e0baf1fdc34d68ce9eeaaa", "ptbr": "Muitas vidas se perderam em {1}"}
+{"id": "LocalText/MonthLog_title20409", "revision": "6cd168bccaf90f2bd612fc9c5452d93829e0c976769fd9b9a5e296cf88c94155", "ptbr": "Novas mercadorias nos Mercados"}
+{"id": "LocalText/MonthLog_title20410", "revision": "143113b1c7ea1ab0ec1188dd51424be853daac344b4c4fca96edd17cb1fe0603", "ptbr": "{2} apareceu perto de {0}"}
+{"id": "LocalText/MonthLog_title20411", "revision": "40f5d7d16b4869b449b0ce94ea691982097e5968ed4d0d76bfd0698086676b6c", "ptbr": "Novas mercadorias no Pavilhão de Manuais"}
+{"id": "LocalText/MonthLog_title20412", "revision": "cf731eadc139610d896b7cae4e2a9192223078da6103661c30b61a8103a44c19", "ptbr": "Novos Manuais na seita"}
+{"id": "LocalText/MonthLog_title20413", "revision": "237fa6fbad8ab7768039b41393388fcdce6c4f7b7ea2683c8347847a6854d224", "ptbr": "Ameaça de monstro"}
+{"id": "LocalText/MonthLog_title20414", "revision": "653bb6e46d099c86833672e9721998f30b4c02b74e63fad0b2ee6b6d572fdeee", "ptbr": "Muitas vidas se perderam em {1}"}
+{"id": "LocalText/MonthLog_title20415", "revision": "52c4e90eb143af17800f537bf0a8a7d2b2404effcd3f6e99fc0d36f58cab0497", "ptbr": "O gigante caído"}
+{"id": "LocalText/MonthLog_title20416", "revision": "a60afc4bd419e36fe682bf4c7fa7f09cfb3d6f4cefeedf8a332b0861f6e0b2ee", "ptbr": "A Arena da Seita vai começar em {1}"}
+{"id": "LocalText/MonthLog_title20417", "revision": "8ee7ff69042abe7f37555e308d9a3c14c290ef41a29f6636ce348ca9e512258f", "ptbr": "A Arena da Seita começou em {0}"}
+{"id": "LocalText/MonthLog_title20418", "revision": "7bb44b9079570b446eeb5c61d8726d98e5397c9e4e846376cd3dbe904ffb0d79", "ptbr": "O Torneio Imortal vai começar em {1}"}
+{"id": "LocalText/MonthLog_title20419", "revision": "f12906010fb5536d3f3168523bcecf32e16a9a4223dcdf9c63ea8169e568f750", "ptbr": "O Torneio Imortal começou em {0}"}
+{"id": "LocalText/MonthLog_title20420", "revision": "a9d74fddc4f1e03bff0edd3cc5f312dd33ab31dd71a3eb80aa15346e8b8c7267", "ptbr": "Um Alquimista apareceu perto de {0}"}
+{"id": "LocalText/MonthLog_title20421", "revision": "628000d1e509c401058f1f51672d1c79e69e692e5946ced848ff3e23e9b888a2", "ptbr": "O Alquimista perto de {1} foi derrotado"}
+{"id": "LocalText/MonthLog_title20422", "revision": "ac903bc015a417c7dcf6ba94fd07812d4f4a4b8a48f84fe906fd2eeb3aeb3155", "ptbr": "Uma Marionete Sanguínea apareceu perto de {0}"}
+{"id": "LocalText/MonthLog_title20423", "revision": "20170730bead743e268a4cc3c4652373141267e58a0e2c4b30b7e2a736188ef5", "ptbr": "A Marionete Sanguínea perto de {1} foi derrotada"}
+{"id": "LocalText/MonthLog_title20424", "revision": "30ba9cfb77b6c9cee8399c3a526627ab962c8dfdc50cd2fe3a335bcb68fccce8", "ptbr": "{0} tornou você Discípulo Honorário"}
+{"id": "LocalText/MonthLog_title20425", "revision": "01038e258c8aea6f8cdb27ddc8f997ea058e3c95365d1a3813f392204478ffa8", "ptbr": "Um Homem-Cogumelo apareceu perto de {0}"}
+{"id": "LocalText/MonthLog_title20426", "revision": "a23cdb8584b8312f3cb65c46fdce133aeb943d87bf42136f2aeb3bc086b8be82", "ptbr": "O Homem-Cogumelo perto de {1} foi derrotado"}
+{"id": "LocalText/MonthLog_title20427", "revision": "df4983bfe806f47cb6e9cd2ba8a578237c48b4466e892823ff0afffa224189dd", "ptbr": "{2} foi derrotado"}
+{"id": "LocalText/MonthLog_title20428", "revision": "186e9492b58a51de1edb207049714c9ee772df36fbf6b5f3fe973993186a671c", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20429", "revision": "71362ecaad327928c76e357f20bb68a5bf2a695579c1638197ab22cddc2e4aa7", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20430", "revision": "b095d7ac4b92092348c37059c9355a57727e3423225fafcd7ff9f3914d30b1b2", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20431", "revision": "1ed6a3ea9fdd72204f3ee8533420213dd9f3f404ff6dda06ffca46c355ea7a44", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20432", "revision": "6f427e2183c63aa21a3002f1c87d62805f7a40d1ce041ddd6cf04af1ac72a0cf", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20433", "revision": "f8990bc1b0f8274ee6d659c7fecbd40e7fd292ba920a9ebc0cccccc79a65b431", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20434", "revision": "3cc1cbe55a38cb60d760a8c752c4eb3f63428fffa3ea9aef81dcd0e9d0046eba", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20435", "revision": "b4726a10c32fee2c82c262d35718c9524b633a5267c2b77c82eba038e0255bd4", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20436", "revision": "4c7b1e0cbed0042c3dba512ea6e0dd91cff85d72949049608e1ade804ece4317", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20437", "revision": "cb0ddfa4dd91f1759be6c559e2054a464927f552ea5a1b17c9cdd1b43ac89863", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20438", "revision": "6bdf5eda4d2d8b4728370047dff711b2d624811ef0d1b9a3266713dc878959a2", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20439", "revision": "701e4ee4e00fba6cd31fd2fb1a6601285a1e9fc4da6b00d00bc107c15a8420bb", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20440", "revision": "aff2c3764bf81d87e7ba263d9735b48cc265905126439716b0de108ed3c3b2f0", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20441", "revision": "81855093bd371729d47444452f1510144bdb63d27829c80083a7dbb900a8ef07", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20442", "revision": "4bce86c0ccf90f61b5819a35ee67719c90401eb28212a8f78a4c89b6a9454902", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20443", "revision": "d312595452c7d6dc1962cd1fcfba487bb00d7e4e4d442fefd3d60774b3cb7e44", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20444", "revision": "e0eb1c60b83e2aaecfa0dbe26fcb7be342ebcdd47c61a39016c90126fb12c3ce", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20445", "revision": "c984c1c6fd90ec2d4062f96250b0cc9c9f1c65314b9f1db83df624f597617d03", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20446", "revision": "f7a5fb2480c5344f640cd913566c6c95a9a7d64409ee506622eb16de4b2b5119", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20447", "revision": "928370ad6f810ebd7a2aebffccf9a752f343b66df8a16707c61a330c8a00d297", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20448", "revision": "6ff7fe3b7c71015d4733ab4f1c39acc52e8051a25d8e194ae6413f75c04fd252", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20449", "revision": "21eb9ae8866ee05f6cc013a048828fc848ebafbc91a053c3483958cdbc16be78", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20450", "revision": "726a7a5ec1898856b0b757019a59cb010da06bc38da61b5fc2f88998bf904d3b", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20451", "revision": "3e67eb9491c1d2fda8f2d57f137cefba275bf4bc9886e857e6e107af27d3e413", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20452", "revision": "c775911825ffc3f85f80c8c8c1fc7c8bf6a951375a88519ee184d77afdf7d822", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20453", "revision": "d47ec86c00eac33190543ef3092d18f7b8b04f7da3b41dfa8a737ceb0180b8c6", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20454", "revision": "f3b655ca16fdf315b3f47731ac8aef48bf110addcf72510055b84987d727253f", "ptbr": "{0} morreu"}
+{"id": "LocalText/MonthLog_title20455", "revision": "5c0c7a2ce49b84a04544a2162c481c755c7cea8b3cfb6ae35379f1b1be4dc6e8", "ptbr": "{0} morreu"}
+{"id": "LocalText/MonthLog_title20456", "revision": "8a633020bcba1721eb514800aeb7cac0905ae17fce077380ad1b113575cdfb7b", "ptbr": "Tiangou apareceu"}
+{"id": "LocalText/MonthLog_title20457", "revision": "e8bf64836b7d0875783a25e23a3de897f7ba5529c603675f9b6315dc6915fc37", "ptbr": "Tiangou ficou mais forte"}
+{"id": "LocalText/MonthLog_title20458", "revision": "67b2b0f9c2a8156b3d7a4bcd1970061fed9b63d242471b449e67c7913b916cf0", "ptbr": "Tiangou foi derrotado"}
+{"id": "LocalText/MonthLog_title20459", "revision": "3b49092c4eaa73630940e4eb277c431383e391564cf40c8e235786842aaf4976", "ptbr": "O Senhor do Sangue ficou mais forte"}
+{"id": "LocalText/MonthLog_title20460", "revision": "669b6803bd30ce08721b10a6c26f9cf87430876ac906378bbb4396c384a298ff", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20461", "revision": "07e0ef094fc551f9230f9919a17b02d165b34b94198a0c18c84a0259d21b1b76", "ptbr": "{2} foi derrotado"}
+{"id": "LocalText/MonthLog_title20462", "revision": "2ccc52abcc475c3c8dd3daaad51ff0be65644ed1066ec9eee3330a4e964a2a58", "ptbr": "{2} apareceu perto de {1}"}
+{"id": "LocalText/MonthLog_title20463", "revision": "c4879fd60d0c9e814a16df9cad92e17dff2f0407bff0eedecdba6f3f8fe971c7", "ptbr": "{2} foi derrotado"}
+{"id": "LocalText/MonthLog_title20464", "revision": "8cc4a2b18c080ec48bf42c20a2889256bc78e0021f331426604570be1877f0a9", "ptbr": "Novos trajes nos Guarda-Roupas Imortais"}
+{"id": "LocalText/MonthLog_title20469", "revision": "574137fdf4c0d263b2d401618244157f58d7ce8f0a778d153284312e7d4e138e", "ptbr": "A Arena da Seita começou em {0}"}
+{"id": "LocalText/MonthLog_title20470", "revision": "268d0d84605b3c72d821c34faff118498aa86c9da4a0895eb9a1aa0fee83c2cb", "ptbr": "A Arena da Seita vai começar em {1}"}
+{"id": "LocalText/MonthLog_title20471", "revision": "207fc169b7387c91ff6559b793d99ac3ade57b153a283a8c4f1df929f1e49a6b", "ptbr": "A Arena da Seita começou em {0}"}
+{"id": "LocalText/MonthLog_title20472", "revision": "a5f23e4f67c45e29a3974faf5aeb5d257f8c3e72463115a87e8d5d426156ba47", "ptbr": "A Arena da Seita vai começar em {1}"}
+{"id": "LocalText/MonthLog_title20473", "revision": "046ccdc20f5c2cd0e26c24ba5d97044a28c1d024a127c6d64dbc91517d440464", "ptbr": "A Arena da Seita começou em {0}"}
+{"id": "LocalText/MonthLog_title20474", "revision": "adfd0f044b6d0ddaf6533a5032534ceb4bf2e442d951ca279960099e224c9c12", "ptbr": "Promoção"}
+{"id": "LocalText/SchoolTaskTypeBase1", "revision": "feb7f609f7cca13d23f9310ea0c0ed058fd16b51681e8ae49ae6a12f851f4845", "ptbr": "Ajude {ownerUnitName} a recuperar o Manual Secreto da Seita perdido."}
+{"id": "LocalText/SchoolTaskTypeBase2", "revision": "4e47ffe2601f219cd2e85c23379a3de04cf040e2a044b5b024e0b270cec043e5", "ptbr": "Mate o inimigo da seita: {killUnitName}."}
+{"id": "LocalText/TownBountyDesc108", "revision": "9e5b8dd609c5c80ec4130285505975f4c86d1dc4aee5ec0e9717f8c09a94b7c9", "ptbr": "Uma Fera Mítica apareceu na cidade próxima. Mate a Fera Mítica para evitar que ela fira os moradores."}
+{"id": "LocalText/TownBountyDesc112", "revision": "d0c92d63f13e046b9e0cf11713876e79af6e2aaff1738dcfa8323ff1c2af1589", "ptbr": "Ajude {ownerUnitName} a recuperar o Anel Espacial perdido."}
+{"id": "LocalText/TownBountyDesc113", "revision": "c2a06560f46c67bf5c084ada83293f6bf565cbb6f00ad3145ddbbae544201ab1", "ptbr": "Ajude {releaseUnitName} a localizar o Covil de Monstros. Faça Geomancia perto do covil para precisar a localização."}
+{"id": "LocalText/TownBountyDesc114", "revision": "e7a26eb2ce1276028957f513c7c9bea5648711666808bb510907ad4b643e1551", "ptbr": "Ajude {releaseUnitName} a localizar o Covil de Monstros."}
+{"id": "LocalText/TownBountyDesc115", "revision": "137f544cdf1d0b99914c1a49b03fdfebd17c3f050e864dfd3861dfddc482e844", "ptbr": "Ajude {releaseUnitName} a resgatar {salvationUnitName} do Covil de Monstros."}
+{"id": "LocalText/TownBountyDesc116", "revision": "b4a54e8213b87f0e8af7f276f68eb7105bd0a723785fff684664c5af1dfe33a4", "ptbr": "Mate o inimigo de {releaseUnitName}: {killUnitName}."}
+{"id": "LocalText/ability_beidongtisheng", "revision": "a512f40edeb2fc50d0d1b03a6c7774eed921df626b5d6a7469a915748a0fa013", "ptbr": "Bônus Passivo: "}
+{"id": "LocalText/ability_dadao", "revision": "63b4fae46bfb9ffb6556d9971716e84a3b386ac7f1f1ff4425842847c1393238", "ptbr": "alcança"}
+{"id": "LocalText/ability_name101101", "revision": "7179222817179a91b3d11a56590c77fc7c6566a0d431c0206f3b9d4c285facd3", "ptbr": "Ruptura"}
+{"id": "LocalText/ability_name101102", "revision": "68e17bf860423873109c60c58bc973a227f7b7dfe2b8f337bc6a8cd0e52a2145", "ptbr": "Investida"}
+{"id": "LocalText/ability_name101103", "revision": "5c80e98172895748f6f1738ba3fa1a94414e52f531e296138897293a3a960124", "ptbr": "Perfuração"}
+{"id": "LocalText/ability_name101104", "revision": "03d7fd423fda61a8c7e5f4ad80d92e5b24490fec03843e8ddf3dba7919a7ab4d", "ptbr": "Transfixão"}
+{"id": "LocalText/ability_name101105", "revision": "f65482777104ee0452887198ba1e7ac68b91e8ad092102c039d6d054c542dec5", "ptbr": "Meteoro"}
+{"id": "LocalText/ability_name101106", "revision": "1a5652f8d5db03ca5fc83502be9ba9ffbacc5f6bf7fff5c3f9a94615f6f92ee7", "ptbr": "Queda"}
+{"id": "LocalText/ability_name101151", "revision": "69d0d05dd634683011d1f221b3e4cff0e9a6a60a817b73819e22a62457296413", "ptbr": "Forma"}
+{"id": "LocalText/ability_name101152", "revision": "5e4cfc976ad7873d72c297c09f10c5ec673173b8edae8f5ea3b3d9cbf6a54862", "ptbr": "Sombra"}
+{"id": "LocalText/ability_name101153", "revision": "2d4d70f55ab0037f30512e9ad1bf7c6d5334c003519d1d5a92d102ab0101bcd3", "ptbr": "Maré"}
+{"id": "LocalText/ability_name101154", "revision": "d1d5581f9f2a7667a724c63dd48252c5fec3bbe57dea76e23ac4a32815c9d2ce", "ptbr": "Onda"}
+{"id": "LocalText/ability_name101155", "revision": "3a9622cf5eb0f48cf19964d43d5fb0f063accd9e2d8f44d9584f82d2dfc355ec", "ptbr": "Ondulação"}
+{"id": "LocalText/ability_name101156", "revision": "279be2670ceebadd46374c114eb13ae8355558a33a7c64acc6ecb820a008d918", "ptbr": "Marulho"}
+{"id": "LocalText/ability_name201101", "revision": "73481b6830b8a4dc8bdcd750b51d87090e2a33d2bbf4fc5320f91a1965b50db1", "ptbr": "Longínquo"}
+{"id": "LocalText/ability_name201102", "revision": "c3b3bb39435d902f78f20e3dda01688d5b31ee0d6d5a33da3fb464afaa87dbce", "ptbr": "Distante"}
+{"id": "LocalText/ability_name201103", "revision": "46477d56d471d2962aa85bf8b938b4c03d36a8434e14dc9f059751dece856887", "ptbr": "Carmesim"}
+{"id": "LocalText/ability_name201104", "revision": "f10a6c69412e90bb6b91dc763353851746a6b8c72cfec8b8bbc676b3ca9f30d8", "ptbr": "Peso"}
+{"id": "LocalText/ability_name201105", "revision": "595243b318efc5ff5ffe97e3fdfc3de7cc1ad3ecc0bde1513c0c2ac7608416b6", "ptbr": "Convergência"}
+{"id": "LocalText/ability_name201106", "revision": "223a84859996184147d321ef8c9c31fedfa279187a4edb3d9444938b188f1fc0", "ptbr": "Grandeza"}
+{"id": "LocalText/ability_name201151", "revision": "ecc9cb2ac6c7e9fbce3d9a78efcb3f077ef29018a29b58e3f891122c9dee686a", "ptbr": "Névoa"}
+{"id": "LocalText/ability_name201152", "revision": "c3ad31f628c9e78e1c4da57cf45cf5b76814a8b72003f40ec10cc1346f75628a", "ptbr": "Som"}
+{"id": "LocalText/ability_name201153", "revision": "f808fa6a353fdeadbef17e535060076798924049911ecfb643b3dd3b353b7f62", "ptbr": "Pena"}
+{"id": "LocalText/ability_name201154", "revision": "838daf60e6822501ba4dc1e0f034d0fa37fd92efc3bab493f229ca79aff0f9fc", "ptbr": "Asa"}
+{"id": "LocalText/ability_name201155", "revision": "bcd761d7792b10626d1c4e734f9a60a092b196b7f04a8b494f8dbd8a11488ee4", "ptbr": "Alma"}
+{"id": "LocalText/ability_name201156", "revision": "0de8e7822cb8bd713e9ee7bc0deb164e3440169e0c32bd5b57a7ab548dd46585", "ptbr": "Ânimo"}
+{"id": "LocalText/ability_name301101", "revision": "0248bbdeb4ac7562b833217f7af940d07bcf0cade9788b26a9c69bae167ab82d", "ptbr": "Nove"}
+{"id": "LocalText/ability_name301102", "revision": "1faab5bf80399f37cd996c3cdf39768853ca1d8aef2ab7cb42aa66780985f830", "ptbr": "Arcano"}
+{"id": "LocalText/ability_name301103", "revision": "a06b8d8a04828b39da5748e084eed8d1d1ffd8f3a9440b29b2f6835b4a68b477", "ptbr": "Véu"}
+{"id": "LocalText/ability_name301104", "revision": "0a1e72c0a838f00e007f30f968c7c726f340818af3ed7c6986dd3793a9621f2f", "ptbr": "Encobrimento"}
+{"id": "LocalText/ability_name301105", "revision": "96c6590223a1a56b50024c2202679ae26a65cb7fe376601299498686f22af985", "ptbr": "Arranque"}
+{"id": "LocalText/ability_name301106", "revision": "ce5fab16caed54a34857d2c27dcb66809104b02838e37e598a8218bbf4daadf9", "ptbr": "Ascensão"}
+{"id": "LocalText/ability_name301151", "revision": "50a6e46ddc506e5109680b0652526cc903d6a33ba6e5269151a4ad5a21f3a1aa", "ptbr": "Empíreo"}
+{"id": "LocalText/ability_name301152", "revision": "b9d03f1ab1c77b0df881e5ac75a97de8a6df2904d518a925c17300a4520f73ae", "ptbr": "Nuvem"}
+{"id": "LocalText/ability_name301153", "revision": "7557f27a5a925913c94dd89ac4e013d4c1950a50d4f78713b4ade3c96cfc8906", "ptbr": "Constelação"}
+{"id": "LocalText/ability_name301154", "revision": "667cbfb464133fce4fd898f169584c32967af8cc608d351fda5938a63c198963", "ptbr": "Estrela"}
+{"id": "LocalText/ability_name301155", "revision": "d618ff4aa63d3004977c0f005dffd0cd0597eb51cff7a4d419e28a94d2f02d9d", "ptbr": "Lua"}
+{"id": "LocalText/ability_name301156", "revision": "7620113eaa8e929e7b29bd7dc87187f260fbc038a9600f3c2f8d6ae726d7d911", "ptbr": "Sol"}
+{"id": "LocalText/ability_name400103", "revision": "6feed040ca9c26842dba65f31ff4a8d8b502bc382bff7b5ddf02c7f070b696da", "ptbr": "Alma Desprendida"}
+{"id": "LocalText/ability_name400104", "revision": "818cfc7ed761cddc11cd454414d079ba7bce7134b696392ba276f69db6feeb40", "ptbr": "Tiangang"}
+{"id": "LocalText/ability_name400105", "revision": "9b5f7d95e110f4c189412e2d1c1f72e6bd0821967b1e488e1eb28060350954fa", "ptbr": "Devora-Sol"}
+{"id": "LocalText/ability_name400106", "revision": "df386b21935d6f0cfcd3a485cd85488bcb7ac8d3d9e167e316c817d33108e0d5", "ptbr": "Imperecível"}
+{"id": "LocalText/ability_name400151", "revision": "0f75664d42624d8b48d58c3072f85bd8728153cebb8be78563d3bfba6bb88690", "ptbr": "Transmuta-Nuvens"}
+{"id": "LocalText/ability_name400152", "revision": "156b7d29575a3bbc563904f032a33d29f31457c499332593e161ba588b543dc7", "ptbr": "Yang Menor"}
+{"id": "LocalText/ability_name400153", "revision": "60a10c03c1fb456667948ad84f15ea9df42b75a3f87331950e05e3639d4f3fb2", "ptbr": "Transmuta-Forma"}
+{"id": "LocalText/ability_name400154", "revision": "454427ee3955cf55dbd9b7bf70e2ea9698f623dc27991973e8437f40e5995513", "ptbr": "Explosão de Origem"}
+{"id": "LocalText/ability_name400155", "revision": "67424788f3e0a860b2371aa2abc4728aacd5d6057ec186aba6adddcf699f3be9", "ptbr": "Ruptura do Inferno"}
+{"id": "LocalText/ability_name401101", "revision": "b46b811124059eb5b0f3fd18c04ea43390009a35c449bcf780d2ded218c52c0a", "ptbr": "Estilhaçamento"}
+{"id": "LocalText/ability_name401102", "revision": "93bfcf29274f0ddca5c053f0cd467e90b1436d203da15a52ae290e41a2b6b747", "ptbr": "Quebra"}
+{"id": "LocalText/ability_name401103", "revision": "7ee89bab8d7dc1d077761e9731d01586d268a23a130304add34ee9d0df786468", "ptbr": "Cravamento"}
+{"id": "LocalText/ability_name401104", "revision": "897f61d86e7917bce59863a5e3eb48e4ac1abe5cf2a936b067fe46c8a983e1dd", "ptbr": "Sentença"}
+{"id": "LocalText/ability_name401105", "revision": "57a2b088d04a416a1529eaab6ae054e4e4f078c8510a6e38b3072e5aee37e427", "ptbr": "Corte"}
+{"id": "LocalText/ability_name401106", "revision": "53998a96bebb08e3238551dd062160f62def67266fefb5c1a311fe92ff5c2644", "ptbr": "Rebelião"}
+{"id": "LocalText/ability_name401151", "revision": "95819d7fe3c44a73002b4490d7c26cd8454fbf2097582725b879c8e1b2e2635f", "ptbr": "Pico"}
+{"id": "LocalText/ability_name401152", "revision": "0ec72a49b71b3137a912e911f2f9856757d7028bfe3754eff13e8321d0f37e2f", "ptbr": "Monte"}
+{"id": "LocalText/ability_name401153", "revision": "191ea71e015c082e7e943b0c2824e800d47b0b1d26f0e9e6ed23b6446a4e252b", "ptbr": "Selo"}
+{"id": "LocalText/ability_name401154", "revision": "1daa8949ac1cdf8b47cdb0b1713a504f55b3b30445b8845e09b48ec7450e7c79", "ptbr": "Rastro"}
+{"id": "LocalText/ability_name401155", "revision": "1523b90132d44bdee26fdf90552975bc981c82c3b99c109e3dfc931dc0eb59af", "ptbr": "Sino"}
+{"id": "LocalText/ability_name401156", "revision": "389bd057b6f1b203a646dd4fad002dbf6389cdf4ca375a4bb5b66234b6454429", "ptbr": "Trípode"}
+{"id": "LocalText/ability_name500101", "revision": "a32e99b439ddbac3d47807c73e97998ac0e5061202853ba0a3e61ffaf24701b1", "ptbr": "Lótus Azur"}
+{"id": "LocalText/ability_name500102", "revision": "0ae4aba0ac487c0d160edd7eb48b59e84ff68dd90a0fd5ba169df3aaf0ce1dd5", "ptbr": "Plenitude Espectral"}
+{"id": "LocalText/ability_name500103", "revision": "57ed4085510b248567bbcdd0831a107397727bf05252ef0086c2a84dffb3c6ac", "ptbr": "Dez Mil Verdades"}
+{"id": "LocalText/ability_name500104", "revision": "7485f6b009dc7e7fe096814631c1a51fd91581ef628604e0249c2426e6b5ed5f", "ptbr": "Abóbada de Azur"}
+{"id": "LocalText/ability_name500105", "revision": "608c7400b524e7d9d9f5050c999f59fc1a0cfcaa671385d360a3d5a302972633", "ptbr": "Extremo Celestial"}
+{"id": "LocalText/ability_name500106", "revision": "20e81aa4816493f35fa7224c9e001d744e6116931b48636edfac111bedb224ba", "ptbr": "Convergência de Estrelas"}
+{"id": "LocalText/ability_name500151", "revision": "b9789d3e0ec0bfd69deb6c31e9a14d91940c501d36aade74d1899f7bca2d00f6", "ptbr": "Queda de Poeira"}
+{"id": "LocalText/ability_name500152", "revision": "b27c76ab7ecc0cb52725b34fbf5e97bba5440c357a4faf46439809b308e750c1", "ptbr": "Pena Arcana"}
+{"id": "LocalText/ability_name500153", "revision": "90108185248bb7edf34876d83f16aeb0ac4a84f90aa25aab92de671839961aba", "ptbr": "Jade Vermelha"}
+{"id": "LocalText/ability_name500154", "revision": "48177b12002391788aae2d3d4a344d6570cadcc4558edb80228d05b99d8e80ce", "ptbr": "Sombra Miragem"}
+{"id": "LocalText/ability_name500155", "revision": "644a94fe226915a77d288976c274edf37fb7ca3bc51310fe7fe2ad1b4981c805", "ptbr": "Retorno à Origem"}
+{"id": "LocalText/ability_name501101", "revision": "9f2641300006729b2692718f69fa7e23b8f39b757d024264d47b05210a0f5c93", "ptbr": "Pureza"}
+{"id": "LocalText/ability_name501102", "revision": "af78bfa78738bbf60dad11e5a2154e4be5f1828bbbba4ec0d825a156cc2018ea", "ptbr": "Claridade"}
+{"id": "LocalText/ability_name501103", "revision": "83283209f6e76239025420b9e836fd4588fe7e96ba7b2d25c0a2d6fcd0ffe25c", "ptbr": "Brasa"}
+{"id": "LocalText/ability_name501104", "revision": "60eaa63d7895de4b42873341beb583d52742bf57852bc3fa062eba2f5762f7f9", "ptbr": "Frio"}
+{"id": "LocalText/ability_name501105", "revision": "8ac13bcd895db9c185531df213cddea9e0a17e99e3c7c9a7ad97be2e719d9f5f", "ptbr": "Delírio"}
+{"id": "LocalText/ability_name501106", "revision": "8e59bfa1b3d29dc76f64f08af3c81b6e1b8359e0d9b156bc2f84ec35ad7719a2", "ptbr": "Hegemonia"}
+{"id": "LocalText/ability_name501151", "revision": "a4768e4552b53982a3c63ad6f4ed7a1bfa527b86f4200def0f63f3cff69c74a6", "ptbr": "Lago"}
+{"id": "LocalText/ability_name501152", "revision": "7cc4c7f575da5d7e56f224eb1cc6117243927531d2adad097326e772dece54a7", "ptbr": "Correnteza"}
+{"id": "LocalText/ability_name501153", "revision": "25f78ac1a46f108b090d982bac9e22a06b31ee02492b3082db1ae3d126925650", "ptbr": "Rio"}
+{"id": "LocalText/ability_name501154", "revision": "817c30fe952f5bcbe3adf4242317b1aadea48ce4ece00d43c364cbfd900df59e", "ptbr": "Grande Rio"}
+{"id": "LocalText/ability_name501155", "revision": "12600b1c7458286443b95250f2eec3c9fb8aa1c13775f7665689664a942f80f4", "ptbr": "Qi"}
+{"id": "LocalText/ability_name501156", "revision": "4017f245c0d73c181fa22eaf5148a3f1c24f973063480ec6c732aaefe5516990", "ptbr": "Vacuidade"}
+{"id": "LocalText/ability_name600101", "revision": "d77aa212fff6cd3ca3f8a8da6f990b81fa864970ec387b091fa791b9bc446797", "ptbr": "Fogo Li"}
+{"id": "LocalText/ability_name600102", "revision": "5979cd00563824f5a93af5922a37b3d6d7ff73e146ba4c8080f45b387da05ab7", "ptbr": "Vento Xun"}
+{"id": "LocalText/ability_name600103", "revision": "a2cf9e5a625021e0257935fe306596d03c4447fe8ebbd99f7b776752d1b828e9", "ptbr": "Fumaça Voadora"}
+{"id": "LocalText/ability_name600104", "revision": "2a8e0903fbdd32b9aaba7b53fd78ab01595115f1f18af4f8a28a5eec89bf4907", "ptbr": "Seis Yang"}
+{"id": "LocalText/ability_name600105", "revision": "e203d196e2a7814f1ae1c5d6bc5d6aa55939c8030ec84757c5a7572bf0b37fab", "ptbr": "Oito Ramificações"}
+{"id": "LocalText/ability_name600106", "revision": "72c95e4302c359fb4468cb6b156f6546f9157b507c66feb6b6c4a338cc82c559", "ptbr": "Soberano Supremo"}
+{"id": "LocalText/ability_name600151", "revision": "eea9d2d4e96bebd169b44e75831ad4795f0664635546566cd8323f5e5f167ca6", "ptbr": "Sonho Embriagado"}
+{"id": "LocalText/ability_name600152", "revision": "1225fc35c146dd3956412fcaa5915510671f5249393feed8c9a286f9ffd936a9", "ptbr": "Tranca-Espíritos"}
+{"id": "LocalText/ability_name600153", "revision": "fc12ad8ea966738d1b9b57fdcec6185c2fdc573d717910f5edb4176804f0e2d0", "ptbr": "Pena Dourada"}
+{"id": "LocalText/ability_name600154", "revision": "2c30f2007fd185908351e3faf2f155087294a69c5edcd70d1729e4334ce05a31", "ptbr": "Cem Li"}
+{"id": "LocalText/ability_name600155", "revision": "510b5d321d796bb51fd84014c09fc69f374cc51fbfeaa2b04c133bafa7b780d2", "ptbr": "Bicho-da-Seda Celestial"}
+{"id": "LocalText/ability_name700101", "revision": "f175993d3b9db5ac4e322fb196953c5bea7ed6336ae3bd8b2016d9a9caa2236a", "ptbr": "Trovão Verde"}
+{"id": "LocalText/ability_name700102", "revision": "20dc596db889b1399d942911f878f6eaab50f4117c57aa4dde6eb42b7c83f2a4", "ptbr": "Perfura-Nuvens"}
+{"id": "LocalText/ability_name700103", "revision": "467dbd59058d05dde149f56b292aaea92e9a7f12c5eaac7b58ef010dbe6f78fd", "ptbr": "Vento Feroz"}
+{"id": "LocalText/ability_name700104", "revision": "d8413cc90429e83ff3754b505a682d2323a918755a984dde024d0d79c5f44b67", "ptbr": "Luz Fosforescente"}
+{"id": "LocalText/ability_name700105", "revision": "a48f8a4400198c1ab2494dbb4221848ed14516629b15c2ab8e728edaf37f6efb", "ptbr": "Serpente Voadora"}
+{"id": "LocalText/ability_name700106", "revision": "59a48d45ec28c2258f3af9751ef8a6570d4c8cd715989c353f676fc21093561f", "ptbr": "Maré Dourada"}
+{"id": "LocalText/ability_name700151", "revision": "70b16ecff4c8e1d21e5cb2fc753c62cd14325e5a2885a0eff5c78e25ef608333", "ptbr": "Flor-Borboleta"}
+{"id": "LocalText/ability_name700152", "revision": "b6d27d099ca7ba24c386e7f4dbe0c5d5a1120997f09b422b1270376ab6a5275b", "ptbr": "Inigualável"}
+{"id": "LocalText/ability_name700153", "revision": "9ab9f3ecfead0aae8f77e90d00e26ae526845d6dc459e388e9c5cf6733821a22", "ptbr": "Divindade Espiritual"}
+{"id": "LocalText/ability_name700154", "revision": "d31719376ab8df41544fed309184dc0699e7d60305110d4f903fa00f7e331b62", "ptbr": "Rei Luo"}
+{"id": "LocalText/ability_name700155", "revision": "ed62f16aa36166dbd18b6a9e48c12ff7d5558f04ae6b15128ead65bf53b7e397", "ptbr": "Nove Hegemonias"}
+{"id": "LocalText/ability_name800101", "revision": "7eff25e86eb637102eb2f42acac7eb468a2c526675fc218a04a496238729cd11", "ptbr": "Nove Provações"}
+{"id": "LocalText/ability_name800102", "revision": "2f39ec79c95ef1e72f8ae5d93ad5af152c7cca9f8f556adeb87a92304ce991b0", "ptbr": "Trovão Estremecedor"}
+{"id": "LocalText/ability_name800103", "revision": "8e49cd444034c6970618913e94ccc2888fdadbcfdb7faf266ce0d96b2000d6cc", "ptbr": "Trípode Dourado"}
+{"id": "LocalText/ability_name800104", "revision": "ab1dcea12466f3c5d509bed1aa1b56d1601c448c3ffe85f05390bb29b622f0e3", "ptbr": "Lua em Chamas"}
+{"id": "LocalText/ability_name800105", "revision": "bf5317569089b83ff74896eff3d22136d3f9357ff3c25888888149e59ed9c263", "ptbr": "Refino do Coração"}
+{"id": "LocalText/ability_name800106", "revision": "a7bbc8973593a5ad6e7bf18e4dedd7edb8d1ea20b0b343d704e260a9cef41a11", "ptbr": "Tristeza Celestial"}
+{"id": "LocalText/ability_name800151", "revision": "9fbb1c4298347d076e5bdf685f9d067f0dec5ee64803462c5f09b84a74a40781", "ptbr": "Fogo Verdadeiro"}
+{"id": "LocalText/ability_name800152", "revision": "1f54f4fb98deae43364e4d77e78095a30c5b6458ebc5e7c6b9c31070df75948d", "ptbr": "Força Concentrada"}
+{"id": "LocalText/ability_name800153", "revision": "5de639ffb501dfdb7278c921900b9313ef96ddb09528655108dc8ddec1dc33f8", "ptbr": "Desprezo do Mundo"}
+{"id": "LocalText/ability_name800154", "revision": "060b3340dd7025cb90860bff051d0edbb8238274ab7934d8880d639d8eb1f07e", "ptbr": "Meditação Firme"}
+{"id": "LocalText/ability_name800155", "revision": "6667973086e552fcff32274943326f174d1ed9993ae91ddd49e79c2282da27e9", "ptbr": "Veia Purpúrea"}
+{"id": "LocalText/ability_zhuangbeiyiben", "revision": "4fce09166d193dfb5053b4c6add5d746953636b6f69e2a80cecc7a3816088cfd", "ptbr": "Já há uma Técnica Mental do mesmo tipo equipada: “{0}”"}
+{"id": "LocalText/battleEnd_text1", "revision": "348523b0b3198b7d4d357882acfd3313ad328eb4e3c50d4a3d624a168b36165b", "ptbr": "Itens"}
+{"id": "LocalText/battleEnd_text10", "revision": "22777df01e484cc4966fcf5295af58b47460e4981474ff34595470029c124561", "ptbr": "Saúde Reduzida"}
+{"id": "LocalText/battleEnd_text11", "revision": "cc22f8b890b7413cbc1d2f6257c017cd5ae136434fdb031de444b406410dc0d2", "ptbr": "EXP de Técnica"}
+{"id": "LocalText/battleEnd_text12", "revision": "0aa81d5d2c5583dde68ac7132cc590ddec1d5c7142adc2fc3506045302ee97b0", "ptbr": "1 de Vigor é consumado a cada 1 minuto em batalha."}
+{"id": "LocalText/battleEnd_text13", "revision": "a59763758023ccfd1a59c64f736aa5e0f97787501a5769595e5620c61e14ae77", "ptbr": "A cada 10% de Vitalidade perdida em batalha, 1 de Saúde é reduzida."}
+{"id": "LocalText/battleEnd_text14", "revision": "a3a4b245968ae206f647f45b987e65e3be9b4249873eed4963e5dc2ec2a757ee", "ptbr": "Você ganha EXP de Técnica cada vez que conjura uma técnica em combate.\\nVocê ganha EXP de Técnica Mental cada vez que derrota um inimigo do mesmo Reino."}
+{"id": "LocalText/battleEnd_text2", "revision": "52e05bb850260c1d5056ebc591871d7ec5e8d825c8a367e90c766e1b6ad7a6a9", "ptbr": "Resumo da Batalha"}
+{"id": "LocalText/battleEnd_text3", "revision": "d3c819c7324f030d5f04cc308a83c29496cd235b17d77073f137d1a48fa9f8d4", "ptbr": "Duração da Batalha: "}
+{"id": "LocalText/battleEnd_text4", "revision": "f8f8e1fcdac61323db9b3d212ec869fb0d127e0913f88518c3eb8a0c8ccb2f3a", "ptbr": "Sala: "}
+{"id": "LocalText/battleEnd_text5", "revision": "ed07848420adce01db3be1dacc45466af3b6276639490d38c91707476626dce2", "ptbr": "Dano Recebido: "}
+{"id": "LocalText/battleEnd_text6", "revision": "ab8227e3951bce77c38c88a953bad207a71e31f58599f7383aefe6110c162f11", "ptbr": "Golpes Recebidos: "}
+{"id": "LocalText/battleEnd_text7", "revision": "720e7e0d3ea6f4df2be1bbe9bb9d4f394828ed174ef779a1638830d8b3e185cc", "ptbr": "Dano Causado: "}
+{"id": "LocalText/battleEnd_text8", "revision": "f454df606e6025a23849da607fd2a1532371494d2518cd026493ba78ef3a1d8e", "ptbr": "Inimigos Derrotados: "}
+{"id": "LocalText/battleEnd_text9", "revision": "1598f219bb593ada8139190b4555ec9bfadd1fa09ce06fc75e7201b0c4a60af2", "ptbr": "Custo de Vigor"}
+{"id": "LocalText/bawantishi", "revision": "ba2f8a95f447a1a3775cae23090d7c296308491fac238a52d4485fdd234040c1", "ptbr": "Requer Interesse: {0}"}
+{"id": "LocalText/biwu_wufashiyongdaoju", "revision": "66bba0c9c932f2b18d63d6dc4c4d49658b72b7136f1d9cc9fc91fa3863ccc4d4", "ptbr": "Itens não podem ser usados durante duelos de seita."}
+{"id": "LocalText/bukediuqi", "revision": "45277239902b5d94d3eeb66084c8cbaedf2ec4dc19353a5e0a2e220d11662fd5", "ptbr": "Este item não pode ser descartado"}
+{"id": "LocalText/canwu_canwutishi", "revision": "9e932db4547b38ab9ffca8f666915811fcf87679948b3a32c56ddff5a77dd317", "ptbr": "Compreenda esta técnica para obter o afixo máximo dela: {0}."}
+{"id": "LocalText/canwu_canwuzhong", "revision": "25e0bcde6a4571562275e7aafd3de12aa8a0ca78d45961adab280f39bb758ce5", "ptbr": "Compreendendo..."}
+{"id": "LocalText/canwu_huisu", "revision": "0ca6891a3f052530878e4939de679fda8c6cf58473292c8b28eeb3b53bfa6182", "ptbr": "Reverter"}
+{"id": "LocalText/canwu_huisudian", "revision": "dda35a4e4d61e0245e7515f65da14f885d68a2fedec40108852cbe79c34b608e", "ptbr": "Pontos de Reversão: "}
+{"id": "LocalText/canwu_huisudianbuzu", "revision": "dbf328a0024a3bd4696482e939e0f85dce93ca0ff13b8736d9518cb6e139944c", "ptbr": "Pontos de Reversão insuficientes."}
+{"id": "LocalText/canwu_huisuquxiao", "revision": "47f8a7a44370b8f3f423b43f09eced01047861d69b113b3d52ea32c253e47791", "ptbr": "Cancelar"}
+{"id": "LocalText/canwu_jiejinwanmei", "revision": "319b4036c996aaeb387639f1aee2e3d133cee08f37cefc8f7f4a4b0d75fe53d7", "ptbr": "Quase Perfeito!"}
+{"id": "LocalText/canwu_pingjun1", "revision": "92f2487ef490f7a49511e51821f8deddb3bab4ff99dd396f19de1fce64d49af3", "ptbr": "Média de Artes Marciais"}
+{"id": "LocalText/canwu_pingjun2", "revision": "e363044ad1a7549838d161504e07540dc31584fc8887249f679ed50ca820a7d5", "ptbr": "Média de Raízes Espirituais"}
+{"id": "LocalText/canwu_pingjun3", "revision": "f0e7f08a90f25597db95999a3018655395caecbc6c761f6716d9127372daf49c", "ptbr": "Média de Atributos de Técnica"}
+{"id": "LocalText/canwu_wancheng", "revision": "10db5d0922d41f1ae8341179392e59657df9e5dca36cdfcc70ac23a22bf0d9eb", "ptbr": "Compreendida!"}
+{"id": "LocalText/canwu_wanmei", "revision": "66486647d86feb7738ce3ae8beb112bf8696cb9b1c26816ba3c39013045b6bd7", "ptbr": "Perfeito!"}
+{"id": "LocalText/canwu_wufacanwu1", "revision": "041bbb1d8853a563af4985b86e05bc1f6c4e1a64e7a45844a9ef89f123eefc5d", "ptbr": "Esta técnica não tem afixo e não pode ser compreendida!"}
+{"id": "LocalText/canwu_wufacanwu2", "revision": "292d520154fe3c0c9a9fcc1f1604f699fabd1dc573463c1a63c500cf73f836d4", "ptbr": "Esta técnica não tem afixo desbloqueado e não pode ser melhorada!"}
+{"id": "LocalText/canwu_yicanwucishu", "revision": "2f5d37aaf01634d7e42276aff909e6a1f75a1510719afd6779f165442704e6c0", "ptbr": "Compreensões: {0}"}
+{"id": "LocalText/chuansong", "revision": "93d1c88bb6838c44e203db6000f0eef79ea248359998c9d94cc37fe414de5e56", "ptbr": "Teletransportar"}
+{"id": "LocalText/common_caozuoshibai", "revision": "0938a41a94841f3fa3c1f13954111df50dd7dbcb369758377ae01020b3b0e4ed", "ptbr": "Dias insuficientes neste mês"}
+{"id": "LocalText/common_queding2", "revision": "942e4fb115970c13f564404456527bf2828c9590513a47a5bc483e010135bc87", "ptbr": "OK"}
+{"id": "LocalText/cost_daoju", "revision": "09ad7ef7700bd3d96735b5ef86d028de220240e3f7742d62827931b1bc8fd253", "ptbr": "Itens insuficientes!"}
+{"id": "LocalText/cost_tianshu", "revision": "daeb3a971a1205c0600aefea8bc73af750cd766b3278e7a1f0711d0d206ac77a", "ptbr": "Dias insuficientes neste mês."}
+{"id": "LocalText/cundang_chongqi", "revision": "195480f9ac8c67f9050c72ab331a5a58c5071de79b9577d3bf35f48eb7b1afce", "ptbr": "Reinicie o jogo"}
+{"id": "LocalText/cundang_gengxin1", "revision": "366fd8e0d9258c9e9a3abbd512a27a414d725fd924357e1747dd0a4c575ef927", "ptbr": "Espere uma atualização do jogo ou contate os desenvolvedores."}
+{"id": "LocalText/cundang_gengxin2", "revision": "a663c3a864533b8d6b046df095d56c32995bd1a69c12eff5afb9affa8df7ad8b", "ptbr": "Ocorreu um erro ao carregar este save. Excluir?\\n(Você pode esperar uma atualização do jogo ou contatar os desenvolvedores.)"}
+{"id": "LocalText/cundang_shengji", "revision": "d1dd102ec875460de0b57f1c25c5982138a2676b7c2a48eadf4f94dc12c05c94", "ptbr": "Este save está sendo atualizado. Aguarde."}
+{"id": "LocalText/cundangxiufu", "revision": "f20c8f8f7fa88818cb9ce8cd5700cacfbe2399fccc29d4c4a2ea923a1a214805", "ptbr": "O save está sendo atualizado. Fechar o jogo agora vai corromper o save!"}
+{"id": "LocalText/danyaojiemianlingilibiaoti", "revision": "1a2a6b66bde56f95874abe22298feb0170e7000f58b9cbb3b873fd7c73c0bc7f", "ptbr": "Recuperação Rápida"}
+{"id": "LocalText/danyaojiemianlinglitishi", "revision": "a6c1f1b80d54025f00f79efff78983a3bd66cf25c3056ec1b7ef071b6c823b72", "ptbr": "Clique em um Elixir para recuperar Energia"}
+{"id": "LocalText/danyaojiemiantilibiaoti", "revision": "9b96a6af65e7db39760216e40d17263348cb213ef31f7df858cdbce2a539cb28", "ptbr": "Recuperação Rápida"}
+{"id": "LocalText/danyaojiemiantilitishi", "revision": "62a444f950514b45c61784493d68021466291bd0aad422653c0daff117273c57", "ptbr": "Clique em um Elixir para recuperar Vitalidade"}
+{"id": "LocalText/ditu", "revision": "67265bfd6ac7cbd242ceba9618eea4cd8363128e8835949713218fcf715021ff", "ptbr": "Mapa da Região"}
+{"id": "LocalText/ditu_chuansong", "revision": "ff035dfb587fb7fff5721583934843784469b07f7780f5968ec85bcea349238d", "ptbr": "Teletransportar para"}
+{"id": "LocalText/ditu_chuansongtishi", "revision": "a6cb4ceaedbf966aa4c94a2ed5429848d08bfbc86f03833c4626838764e707ff", "ptbr": "Gastar {0} para teletransportar para {1}?"}
+{"id": "LocalText/ditu_wufachuansong", "revision": "bd52429e5d83ede2a31c5551f45499ce95f08e6b18d43dc93a703d18c251deee", "ptbr": "{0} não tem Portal. Não é possível teletransportar para {0}."}
+{"id": "LocalText/duihua", "revision": "fc25db046248485cd96a128003fb3d5d867724a08c33a5e75cc1e67117286e30", "ptbr": "Diálogo"}
+{"id": "LocalText/dungeon_typeDesc1", "revision": "462ca01d6b306bdea96f845d22f22fb838eb2bf93e162a601aad376aab1572a1", "ptbr": "Luta até a Morte"}
+{"id": "LocalText/dungeon_typeDesc2", "revision": "d43c1df463fdda410a1e7a1601768c1b2a4aa06efe4814e65065203d363ebc79", "ptbr": "Duelo de treino"}
+{"id": "LocalText/dungeon_typeDesc3", "revision": "516d0f34f389a140069c53c8c8d507c6eef7ea950202162f9f5c0454394b2f41", "ptbr": "Provação do Raio"}
+{"id": "LocalText/dungeon_typeDesc4", "revision": "0233320ab18950c313b77dc7583488484e9e9a6eacddef8aa00fea6827dfb913", "ptbr": "Espólio"}
+{"id": "LocalText/dungeon_typeDesc5", "revision": "7407561dadb1aa396837e8a34d0a036a6307966eeb4a349a77cf6f5136bdeb5c", "ptbr": "Exploração"}
+{"id": "LocalText/dungeon_typeDesc6", "revision": "b9f6c856199857f4807912bc07a93790692604e17ecc1606d94e63e6e095ca78", "ptbr": "Conquista"}
+{"id": "LocalText/dungeon_typeDesc7", "revision": "c8afc6bbc7b2a7455599fcebb2024568c3e976be99e216bf3c6dd22b57f26bac", "ptbr": "Escaramuça"}
+{"id": "LocalText/gaiming", "revision": "90c70039f36a5ad0c764af5bd8866bd9fd7cf95e1d0bca1175ac3a304c32bf45", "ptbr": "Reescrever o Destino"}
+{"id": "LocalText/game_jiangkangzonggao", "revision": "cd003f1f50c5c2d9ea8855b1cbe58fc754dba3eed8d1fa794626c6a39a2d3ac9", "ptbr": "Resista a jogos impróprios, recuse jogos piratas. Cuide de si, evite golpes. Jogar com moderação traz benefícios; o excesso faz mal. Organize seu tempo e aproveite uma vida saudável."}
+{"id": "LocalText/grade_fangshi", "revision": "64f730497b0176dcbb652a0fd334508b5e78dbfcebb2c88908854dd9fde4ca81", "ptbr": "Método"}
+{"id": "LocalText/grade_sanzhongfangshi", "revision": "fd445aecce55854d15ef5c908a4d7f815a1466acda43ce9b0b5dc0d403300090", "ptbr": "{0} métodos ({1})"}
+{"id": "LocalText/huifumorenchenggong", "revision": "77cf10ef197bc3083760b8826724576ed22d320df9fcdcb4daa43a358538eca9", "ptbr": "Configurações restauradas ao padrão!"}
+{"id": "LocalText/item_bawan", "revision": "aad13a6963af33f5f96f8e9ee6022e41f441052e5ca5714c129f47515aeba10e", "ptbr": "Jogar"}
+{"id": "LocalText/item_horse_desc_3021011", "revision": "5ffcb7cdbca76352d32e10f1334766be9c80b3e2a6973cb6f3c3e35d966b042d", "ptbr": "O Zouyu é uma fera lendária raramente avistada, do Reino Lin. Parece um tigre, mas com pelagem branca e padrões pretos, e uma cauda mais longa que o corpo. Não é predador de criaturas vivas e pode caminhar mais de mil quilômetros por dia, o que faz dele uma montaria excelente."}
+{"id": "LocalText/item_horse_desc_3021021", "revision": "6dd781a09f5ff23c1bc4887944428845ccead20360021985be055b9460b672a5", "ptbr": "O Tenghuang é uma fera mística das lendas, também conhecida como cavalo divino. “Ao norte de onde o Longyu pode ser encontrado fica a Nação do Povo Branco. As pessoas de lá têm a pele branca e cabelos longos. Há uma fera chamada Tenghuang, que lembra uma raposa, mas com um chifre nas costas. Quem a montar viverá até dois mil anos.” — Clássico das Regiões Além dos Mares: Oeste"}
+{"id": "LocalText/item_horse_desc_3021031", "revision": "f92eae88dc990c98e16a601bd270b6d1e08f4e28261c6627e659dcac28cabad6", "ptbr": "“Ao norte fica o lar do Longyu. Esse peixe lembra a carpa comum, embora alguns digam que é maior, com longos bigodes.” — Clássico das Regiões Além dos Mares: Oeste “Também dizem que o Longyu é como uma carpa com um chifre.” — Anotações de Guo Pu"}
+{"id": "LocalText/item_horse_desc_3021041", "revision": "b6efcfb5dfe4a923c97733cdf8da3101272a8543a63470d7ed4bc25aa628e825", "ptbr": "Uma espada pesada forjada com ferro negro. É bastante larga e inadequada para o combate."}
+{"id": "LocalText/item_horse_desc_3021051", "revision": "a11bd6b1e8f77732e33a4d5544463d676d4ee8e06b61e9a61131a31463405624", "ptbr": "Uma espada pesada forjada com ferro negro. É bastante larga e inadequada para o combate."}
+{"id": "LocalText/item_horse_desc_3021061", "revision": "666a5a3fb862e3263c7f1777e1dd51ed33f31a3e82fdf449012cd4bb68acbb5a", "ptbr": "Uma arma de metal longa e esguia, com ponta afiada. Na parte de trás tem um punho curto e lâminas dos dois lados."}
+{"id": "LocalText/item_horse_desc_3021071", "revision": "37d681fffbf7832b16a568885a7a9eb7b117c4b74ed78ddfa65c9a79357bcd02", "ptbr": "A espada é um objeto reverenciado desde tempos antigos, altamente valorizado por humanos e deuses. É a ancestral de todas as armas de combate corpo a corpo e exige maestria incomparável."}
+{"id": "LocalText/item_horse_desc_3021081", "revision": "ccd50f4af0a4fe2fb8b0429eebc0fb4d3bf719d6963da68bff230cb2c34fa03f", "ptbr": "Zhanlu é uma espada dotada de poderes espirituais. Desprezando seu dono moralmente depravado, Helu, partiu por conta própria rumo ao Reino de Chu."}
+{"id": "LocalText/item_horse_desc_3021091", "revision": "358f1310cf41f77368b21ac9abd700cf4ec9cada4398300d38c1c0c2c13ffc7a", "ptbr": "A espada é uma arma usada em momentos de extremo perigo. É também uma arma para ser mantida por perto e oculta junto aos braços."}
+{"id": "LocalText/item_horse_desc_3021101", "revision": "bff4eb56cfe6eeeae08b4812cb74e3040c23fdea0494ec725a62525de9d0076b", "ptbr": "“Na nação de Quanfeng, há um magnífico cavalo chamado Jiliang, de corpo branco como a neve, crina carmesim e olhos dourados. Quem o montar viverá até os mil anos.” — Clássico das Regiões Dentro dos Mares: Norte"}
+{"id": "LocalText/item_horse_desc_3021111", "revision": "9e30d28998c2b7cee29845df5ce1f789c113d1059290d8834c4c11de7ce4e45b", "ptbr": "“O Monte Qin é rico em minérios e jades, mas não em rochas comuns. As águas do Shi nascem aqui e fluem para o Haoze, ao norte. Muitas enguias e mariscos coloridos podem ser encontrados nas águas. Nas montanhas há uma fera com a forma de um javali presas. Quando ruge, parece dizer ‘Dangkang’, e assim ganhou o nome. Quando é avistada, é provável que haja colheitas fartas.” — Clássico das Montanhas: Leste II"}
+{"id": "LocalText/item_horse_desc_3021121", "revision": "0eb3e22f8bd5e497a2b6ed1d9b4b3802e3907a76a327524197f5c9d33dd48268", "ptbr": "“Trezentos quilômetros ao norte, ergue-se o Monte Dai, abundante em jades e pedras azuis. Nas montanhas vive uma fera muito semelhante a um cavalo, mas com um chifre ramificado na cabeça. Chama-se Shu e pode ser usada para afastar incêndios.” — Clássico das Montanhas: Norte"}
+{"id": "LocalText/item_horse_desc_3021131", "revision": "bad410d8538e643d136035672138bdfc175e8cfc6d875061c411a3f724c3fa26", "ptbr": "Um tesouro de valor exorbitante que simboliza prestígio e habilidade. Um cultivador comum terá grande dificuldade para dominar algo assim."}
+{"id": "LocalText/item_horse_desc_3021141", "revision": "43088d57ede84a7c0084ecebb3f64354c07267992b301941dd454e92170954e5", "ptbr": "O Rio Guai nasce aqui, fluindo para o leste até as águas do Xianyi. Nesse rio vivem muitos Xuanguis, feras com forma de tartaruga, mas com cabeça de pássaro e cauda de serpente. Os seus cantos lembram o barulho de se rachar lenha. Essa fera faz bem à audição e também pode ser usada para curar calos nos pés."}
+{"id": "LocalText/item_horse_desc_3021151", "revision": "9e5f05325454a2d7e600892f1115a1710df3b4359e165b2720f2bd5570d903b9", "ptbr": "O Rio Guai nasce aqui, fluindo para o leste até as águas do Xianyi. Nesse rio vivem muitos Xuanguis, feras com forma de tartaruga, mas com cabeça de pássaro e cauda de serpente. Os seus cantos lembram o barulho de se rachar lenha. Essa fera faz bem à audição e também pode ser usada para curar calos nos pés."}
+{"id": "LocalText/item_horse_desc_3021161", "revision": "b1843bd1e61b7afad1bb15d7b64c273f9e6f237b4ecddeea06f01873ee41d3fc", "ptbr": "O Rio Guai nasce aqui, fluindo para o leste até as águas do Xianyi. Nesse rio vivem muitos Xuanguis, feras com forma de tartaruga, mas com cabeça de pássaro e cauda de serpente. Os seus cantos lembram o barulho de se rachar lenha. Essa fera faz bem à audição e também pode ser usada para curar calos nos pés."}
+{"id": "LocalText/item_horse_desc_3021176", "revision": "8a2bcdcd83491a8a4c8105b6d155d2755d4e637c2f77f1de5991fd72d840eebf", "ptbr": "“Toda primavera, carpas amarelas se reúnem na Porta do Dragão, vindas dos oceanos e rios. Porém, só 72 peixes conseguem passar pela Porta do Dragão a cada ano. Os que conseguem são seguidos por nuvens de trovão, com chamas celestiais queimando a cauda deles. Com isso, a carpa se torna um dragão.” — Anedotas dos Três Qins"}
+{"id": "LocalText/item_horse_desc_3021186", "revision": "1ccd0eb399d4ce249817fdd63c265e115067202415c2ac77690794c1ea463b81", "ptbr": "Nuvem mágica que voa no alto das montanhas, permitindo que o cavaleiro viaje sem deixar rastro, enquanto chuvas claras se reúnem abaixo."}
+{"id": "LocalText/item_horse_desc_3021196", "revision": "c7f6a1e82e262da4887f0397e3f100994c44a9063687593d3fc101980326589c", "ptbr": "Acredita-se que esta nuvem venha de um reino distante, e ela foi deixada para trás, sem querer, em algum banquete imortal. Encontrada apenas por pessoas de sorte incrível, tem o poder de reverter a sua fortuna."}
+{"id": "LocalText/item_horse_desc_3021206", "revision": "0df5509e9d350854eb5a0b9ca96ef2bbb13f38d6cfaae947a85d48288b7ed9a1", "ptbr": "Ovo roxo-azulado de aparência bizarra, aninhado entre nuvens. Que criatura cresce dentro dele e se pode ser criado, ninguém sabe."}
+{"id": "LocalText/item_horse_desc_3021216", "revision": "12519806127e256d621969b6b5675fd693fc5684140f6f4d66b1943d866b1080", "ptbr": "Barco voador construído por mestres artesãos com materiais preciosos. Bem-feito e durável, é um meio de transporte indispensável para o viajante exigente."}
+{"id": "LocalText/jianzhulengqueshijian", "revision": "e3d99acd049683e1cb39df7bd30c7721a39ebb849bfd6874f2a726184128168b", "ptbr": "{0} estará disponível para exploração em {1} mês(es)"}
+{"id": "LocalText/jianzhuyongjiulengque", "revision": "f835a2b5d2c105cdae06c8bdaa30bca09a414ffa8a5c220f2363f98e2301a77f", "ptbr": "{0} já está ativado."}
+{"id": "LocalText/kancetishi", "revision": "bd6c23f66ff439e80839472873dc3a1dea7fb2597737aa84a3f0e0f47949b0b9", "ptbr": "{0} espaço(s) anômalo(s) detectado(s)"}
+{"id": "LocalText/leftbutton", "revision": "fa047a2344074150ce030f15a499795dbc50f58d82d8ecf9e9ca0f1bb0bc538d", "ptbr": "Segure o botão esquerdo"}
+{"id": "LocalText/level_1", "revision": "0508d1e34527fd39de40c0fc3cac9bbb4d8f44a2b2da968ae3939d5810b37982", "ptbr": "Comum"}
+{"id": "LocalText/level_2", "revision": "5b8a3bf937186a6aeb0d62cc43a4f4677890fd5ae18ca16c4a029334c5dcbb3a", "ptbr": "Incomum"}
+{"id": "LocalText/level_3", "revision": "483d018c3049d61f69218a0e6a17ff32fbb2c22290ea5226618e64b2bec5ca61", "ptbr": "Raro"}
+{"id": "LocalText/level_4", "revision": "85b2cc29d737432fe2ee5d47d740deb0e7bf87d740f168d01f9ae72062832c70", "ptbr": "Épico"}
+{"id": "LocalText/level_5", "revision": "0ca4b532075f0b01b2149321ab36cf90f064ecb01f4838aefcd9737c3e63a3f7", "ptbr": "Lendário"}
+{"id": "LocalText/level_6", "revision": "66bd679312f68662d078b50a56648bdf32dc4a57d95a9e321bbf006e075cc60b", "ptbr": "Mítico"}
+{"id": "LocalText/logTitle_1", "revision": "0434032c0a355cea1fb95771fda664b6fcaec46478a51aa3ac0eb950468133d0", "ptbr": "Personagem"}
+{"id": "LocalText/logTitle_2", "revision": "f8e6bef7499e7432a2786d3d4852ea5e378d134eac96bea11e7eb52b310cb049", "ptbr": "Social"}
+{"id": "LocalText/logTitle_3", "revision": "f9033152359c40f151cdcf76161d6a48cbff5c2f4e182a56d81cf367ed3523ce", "ptbr": "Leilão"}
+{"id": "LocalText/logTitle_4", "revision": "6176e95f8bcc524d42287e13b8f47d885f9c1d784872e87cbe1f6de188af7d29", "ptbr": "Rumores"}
+{"id": "LocalText/log_riqi", "revision": "c272aaa2a2c5822a0b134fb4fb493124f5ff6d581a7fa69064244c5592373206", "ptbr": "Ano {0} Mês {1}"}
+{"id": "LocalText/log_wujilu", "revision": "ca844fc2d1cccaad678456706f139c49c403dcc5246bc584ce2bd8217702006d", "ptbr": "Sem registros"}
+{"id": "LocalText/log_wushijian", "revision": "2650a4c8f8dd4f7be32170472631ed3b792c1da214556a3bfc56554ba266b3ba", "ptbr": "Nada aconteceu"}
+{"id": "LocalText/map_huidaoyuandian", "revision": "b91bf88393839a526084e0982bb33e188a1712ed6f5f6c230fdde153768182d6", "ptbr": "Voltar ao Ponto de Partida"}
+{"id": "LocalText/map_tiaoguobenyue", "revision": "4bb29747c0af702148ad93611be538283e0adc11ef7dd59f4dca067b762edfe3", "ptbr": "Pular o mês atual?"}
+{"id": "LocalText/marketJueji", "revision": "5723d248a583b4e5d6a7671692e3ca75ddbda2caa47b0e64e81f416766f93fdf", "ptbr": "Técnica Especial"}
+{"id": "LocalText/marketShenfaXinfa", "revision": "6201c4e50cd3f8423adfdd27c73052a24125b9de191070f1c7fc030d132f539c", "ptbr": "Técnica Mental/De Movimento"}
+{"id": "LocalText/marketShenfaXinfaShentong", "revision": "0abec869c635c415434aefb47a7440efe7ece4bae0c175557f0e6efbd472d790", "ptbr": "Técnica Mental/De Movimento/Suprema"}
+{"id": "LocalText/marketWujiLingji", "revision": "1ff4729a52e6638c312b9e4191c1d9fc4c1ff72fea80a39eb1bf318ac45a8bd0", "ptbr": "Técnica Marcial/Espiritual"}
+{"id": "LocalText/marketZhenzongzhibao", "revision": "0ce1b37280a4e5ce16cae68b6a2611dceaef229bef0930a873f9da616ce13f28", "ptbr": "Tesouro da Seita"}
+{"id": "LocalText/minmap_chuansongtishi", "revision": "fabc242e38d80f20a2b2baeb3837c46e04e1f2b843a9c86fd8e170d93a749d7d", "ptbr": "Destino inválido!"}
+{"id": "LocalText/p_meimiaoshanghai", "revision": "d13db1a7f7027a2aab05da2f033e05e8f76de97e8400280c4f3ad978e6317375", "ptbr": "DPS: {0}"}
+{"id": "LocalText/paimaiTipsButton", "revision": "2a69de3db5e8de7b208f644a38b1c5bc232d214fc12a81720f7f4249a84086a9", "ptbr": "Regras"}
+{"id": "LocalText/paimaiTipsDesc", "revision": "a6a62b78141d87a8fa642be4ccd3439e210760af0cd9e726cefae7c00eaeda6f", "ptbr": "1. O evento de leilão acontece uma vez a cada 2 anos. Qualquer pessoa pode participar de graça.\\n\\n2. Qualquer pessoa pode colocar itens de raridade alta em leilão nas Casas de Leilões. 10% do Preço Mínimo é pago como taxa.\\n\\n3. Casas de Leilões diferentes têm requisitos de Reino de Item diferentes. Só itens qualificados podem ser colocados em leilão em uma Casa de Leilões.\\n\\n4. Itens colocados em leilão ficam disponíveis para lances quando o próximo leilão começar. Não podem ser recuperados antes de o leilão terminar.\\n\\n5. Depois de o leilão terminar, os itens não vendidos precisam ser recuperados manualmente dentro do prazo, ou a Casa de Leilões decidirá o que fazer com eles.\\n\\n6. Depois de um item ser vendido, a Casa de Leilões fica com 10% do preço de venda como taxa, o que significa que o vendedor recebe 90% do preço de venda."}
+{"id": "LocalText/paimaiTipsTitle", "revision": "01d4249b1b604519aa5d06cf14543f457c09216aecaaadce30eb9801372a20ef", "ptbr": "Regras do Leilão"}
+{"id": "LocalText/qiecuo_wufashiyongdaoju", "revision": "d21fcf44d66cae2e27fa170d72bc6f4fa30345cc6af6d30da41bcfd702d0cd48", "ptbr": "Não é possível usar itens durante um duelo de treino."}
+{"id": "LocalText/qiyun_askfor", "revision": "9ae48c1ef132bec73de48813fdd6067fbeb61a5ffc17aa4cc0ab73ad99a81342", "ptbr": "Pedir"}
+{"id": "LocalText/qiyun_attack", "revision": "9fa7423e59f0cce4baa316a0aed42def73ec65989824f2f86cae1f8bd19f251e", "ptbr": "Atacar"}
+{"id": "LocalText/qiyun_chat", "revision": "680860bfa39ec857ab6de3934fdb578f40ca3d3b79f3ee3a64696019004d4649", "ptbr": "Conversar"}
+{"id": "LocalText/qiyun_convoy", "revision": "28cdb54d9c4b50c700bd3b84d013752352d7e64cbd91b77776938aadedea302b", "ptbr": "Escoltar"}
+{"id": "LocalText/qiyun_drill", "revision": "74b2a7324aec5e660a754732bb015f8d80cf413269c1180419c0eeb3447118da", "ptbr": "Duelo de treino"}
+{"id": "LocalText/qiyun_dung", "revision": "08583c3fa8f9326e54e6e8201663a71ddf718175406259d2e4656fe5249ed2bc", "ptbr": "Lutar"}
+{"id": "LocalText/qiyun_escape", "revision": "3035074fc7cdfd72689b9285830e3c469c009b0507841486e8f82028da058c7a", "ptbr": "Fugir"}
+{"id": "LocalText/qiyun_getExp", "revision": "d9df2073612634436d24e6f900f5eea8e691ae46cd0066955aac767bc802f50e", "ptbr": "Cultivar"}
+{"id": "LocalText/qiyun_give", "revision": "b6dee5ddc712a2b0d9c729178d370ef734a1db392a3525d3d4f03fc9122a8d70", "ptbr": "Presentear"}
+{"id": "LocalText/qiyun_horse", "revision": "3bba848c6524e8460ab0fa3160f619a5b8b75add936f6825bc45b0e00edf5d63", "ptbr": "Usar Montaria"}
+{"id": "LocalText/qiyun_jinzhixingwei", "revision": "51e78a766c2ba89085949953d75a420a7fca2622f310e69629414f7bd84bfa11", "ptbr": "{1} indisponível por causa do Destino: {0}."}
+{"id": "LocalText/qiyun_pil", "revision": "66ddfc687cca920831ab6c4d9554d1c144e7bfe065894815a0d7235614c1bd00", "ptbr": "Usar Elixir"}
+{"id": "LocalText/qiyun_stealItem", "revision": "2f5d5ed67b1bbdf1c973952f229f092c9d93c2df3c2236443876055ade4456f7", "ptbr": "Roubar"}
+{"id": "LocalText/qiyun_trains", "revision": "bb0f15feb8ec73edfdc6b966652d7a342cd35bd160a629750dd28bb451a91636", "ptbr": "Cultivo Dual"}
+{"id": "LocalText/qiyun_viewItem", "revision": "7df4619aa6e43b3098e1041eb97ae2bd279e116c4fda0733e79ff721ff6810e4", "ptbr": "Inspecionar Inventário"}
+{"id": "LocalText/rightbutton", "revision": "e57129dbfe621f4e45131b30b15e372585d509f011671ebb17a71272531991ed", "ptbr": "Segure o botão direito"}
+{"id": "LocalText/school_canwu", "revision": "bf0902b4277071da862de6da4500b5a587d375a453da77f29809a8fcca1d679d", "ptbr": "Compreender"}
+{"id": "LocalText/school_dijiceng", "revision": "e5027257a6ae7089dbe5252c7c8b4243b716ef17df2f7990ea919e855a4dd582", "ptbr": "Andar {0}"}
+{"id": "LocalText/school_kechayue", "revision": "a8414ebfa831bc68bc40a142218a73bce2c1ad6ed59c4d3123363354193b7bec", "ptbr": "Pode resgatar este andar"}
+{"id": "LocalText/school_keduihuan", "revision": "dab528369c795896e10934399b2b29880aa2278092c09154d3125c236d693646", "ptbr": "{#kong}"}
+{"id": "LocalText/school_qianghua", "revision": "94cae26efa06c4ff7892417a33f60a0508414b521ac2e3a1063a20ca4d2f1a47", "ptbr": "Aprimorar"}
+{"id": "LocalText/school_shuaxinmiji", "revision": "45d6576c03f45bb84825ce8789ee067882c1dc4d62159a5e9c6ac30ee600262c", "ptbr": "Gastar {0} de Contribuição de Seita para renovar os Manuais?"}
+{"id": "LocalText/school_zongmenmifa", "revision": "54c09a92411ee6b60cf6399b647890db58fbe0a3b26aca2759b64b85040d067b", "ptbr": "Técnica Secreta da Seita"}
+{"id": "LocalText/shanchucundang", "revision": "4742e818605e37aa688d156b1e85ea1dddab10a2a1b536e835ace68702b887f7", "ptbr": "Excluir Save"}
+{"id": "LocalText/shijian_shangren", "revision": "4ed00bdb907a2e85be2a0f84bb1d1034afa7ff086408cc8ba899ccebde5a7994", "ptbr": "Viaje pelo mundo para coletar tesouros! (O Mercador Andarilho vai embora em {0})"}
+{"id": "LocalText/task_renwu112shibai", "revision": "2b156062c4f0f214cf4f41b827864b0c790193c5b399d74d94204a1a64849288", "ptbr": "<r>Item perdido. Missão falhou!</r>"}
+{"id": "LocalText/task_renwu116shibai", "revision": "fc88aae38ac18a58b7c1ae1efe6d84600f6043b8711ec91b025d8dad9f0270b1", "ptbr": "<r>Alvo morreu. Missão falhou!</r>"}
+{"id": "LocalText/task_renwu117shibai1", "revision": "ef79fc18c18095fcada45a83c543da82b59b6fcab05bfa7e4bc23f9ed10a7d63", "ptbr": "<r>Item perdido. Missão falhou!</r>"}
+{"id": "LocalText/task_renwu117shibai2", "revision": "8f8410ea934cc9efd782b24348844c1641ef24dbcb8cd926dc28a1b38f7c02c2", "ptbr": "<r>Alvo morreu. Missão falhou!</r>"}
+{"id": "LocalText/tesumiaoshu", "revision": "2e84b8ab7ce75c2d9f9cf40bcd7027b437d0141cd2eee162a53c02046aaaf9d6", "ptbr": "Descrição Especial"}
+{"id": "LocalText/tiaoguo", "revision": "ac3d6a2ae4e837371c5b602450e260b01856b359bd4775e047da564bd012ebce", "ptbr": "Pular Mês"}
+{"id": "LocalText/tip_mingganci", "revision": "c19ce848832c03540755c1ff5adc7182929465eaa243693f3b1c80caf5cc0250", "ptbr": "Nome inválido!"}
+{"id": "LocalText/tip_youxicuowu", "revision": "421541a0c8eb0f5e0878739584fb843b802d0a18e4db8dd5d703a72596ad4792", "ptbr": "Ocorreu um erro.\\nAs informações detalhadas foram copiadas para a área de transferência.\\n"}
+{"id": "LocalText/town_cailiaobuzu", "revision": "7e1190f0c2f029c8a31ac60940fc2f71c4d19512a44a7b9fdae35048294072a8", "ptbr": "Materiais insuficientes!"}
+{"id": "LocalText/town_hecheng", "revision": "199e621c639eae558cd85b7961a08b8d76ae6bc726eff0c74b4e8a89b851dd1e", "ptbr": "Combinar"}
+{"id": "LocalText/town_hechengshibai", "revision": "e87550482af104a95ffe025a019159df89dd99da553ec60f37200fd2305da555", "ptbr": "Falha ao combinar!"}
+{"id": "LocalText/town_hechengxiaohao", "revision": "4ec783a9b1fb12e5331cae29d52b0b616b3a2e3e3849c120dd2797a8427384ef", "ptbr": "Custo: "}
+{"id": "LocalText/town_kehecheng", "revision": "7b4a96bc16f80c0aafaa935fda1432156ba64e0941f088c85956d7d3788811b8", "ptbr": "Combinar"}
+{"id": "LocalText/town_liandan", "revision": "811e305615d35159fdf3cd45574a20a2dc4bae1a232d4b1553238b17550dcc02", "ptbr": "Alquimia"}
+{"id": "LocalText/town_refine_name1", "revision": "a729f939262ab4fd0e5b85a83613d7f121d487e5385d2ecd7ab4e71c4d8d8d41", "ptbr": "Qi de Fogo"}
+{"id": "LocalText/town_refine_name10", "revision": "061ed86db73c5d4371c1ca632c29c23002664603636c7889cfa141a5fb3f1a17", "ptbr": "Orbe de Qi de Vento"}
+{"id": "LocalText/town_refine_name11", "revision": "596065cc616a29f64f7d89ee80d2625ef70ca7dd02953073e606402f49cd06fb", "ptbr": "Orbe de Qi de Terra"}
+{"id": "LocalText/town_refine_name12", "revision": "a6f2c988d9c7d4e5faa0ba8c8e2b49490acb38e9f830ed833afdf88ea7b0a730", "ptbr": "Orbe de Qi de Madeira"}
+{"id": "LocalText/town_refine_name13", "revision": "95f9279f2e8adebf64d8f299dc7da1488a3f3367b23d6353037819379453e261", "ptbr": "Aura Celestial"}
+{"id": "LocalText/town_refine_name14", "revision": "ae45d82eca507f8167b9fe7bec43a3df2d81a10cc90b14940bea9264b3b4cdf9", "ptbr": "Aura Terrestre"}
+{"id": "LocalText/town_refine_name15", "revision": "338756c1c481bb7eaeaa733313b5b320e50aaca640bbcb740d7d8b291ca8bdce", "ptbr": "Qi Condensado de Fogo"}
+{"id": "LocalText/town_refine_name16", "revision": "3ca258d459001602f3befd2e5f4e09be66207a196224061139170e45bdeb3f20", "ptbr": "Qi Condensado de Água"}
+{"id": "LocalText/town_refine_name17", "revision": "9c6f054d93724540bfd8ae5ce8673adcdb6e85e1dd822034f0e23517ce801317", "ptbr": "Qi Condensado de Raio"}
+{"id": "LocalText/town_refine_name18", "revision": "ff91bb5eba45c59048c0e9509a32a1b2318e3b5bdb28305635a8b2b3cabc11dd", "ptbr": "Qi Condensado de Vento"}
+{"id": "LocalText/town_refine_name19", "revision": "7153203bb1030288aaded9cd5a2bb59094f2aef4b54b9d61ed8d7980eb7d3d31", "ptbr": "Qi Condensado de Terra"}
+{"id": "LocalText/town_refine_name2", "revision": "e69408ec476bb547472cd757f756d535b2f5381685918f39e954778d76e3c628", "ptbr": "Qi de Água"}
+{"id": "LocalText/town_refine_name20", "revision": "9dbe70e33b8e8cf7f6bd041f0a245ee96da6368b9af777e100de403448243851", "ptbr": "Qi Condensado de Madeira"}
+{"id": "LocalText/town_refine_name21", "revision": "fbefaa50fa52af18202f5397e878119a70301fe08b9e65210d6092d452f03b77", "ptbr": "Orbe de Qi Condensado de Fogo"}
+{"id": "LocalText/town_refine_name22", "revision": "30ccc875ee0ee917e1e419f35fd90409a7900d33688f700ddf262bbc03303fee", "ptbr": "Orbe de Qi Condensado de Água"}
+{"id": "LocalText/town_refine_name23", "revision": "47794377a567ebb518877b63e2dd252bce3dbd1a3352d7ee1101cef5c7946f18", "ptbr": "Orbe de Qi Condensado de Raio"}
+{"id": "LocalText/town_refine_name24", "revision": "d8479bd673a07a5d5f237f1deb31d1de2c8da0d09fcd01f4091e84a09a0ce63f", "ptbr": "Orbe de Qi Condensado de Vento"}
+{"id": "LocalText/town_refine_name25", "revision": "78cd2a374679f12c6037d8cdbe28b9a79a60c6fcba54932c0930233d6c3d9742", "ptbr": "Orbe de Qi Condensado de Terra"}
+{"id": "LocalText/town_refine_name26", "revision": "5aa9438614b0697b5956b91f34bb78245e1a6e308c671f3d94ffcfa8c79e47b1", "ptbr": "Orbe de Qi Condensado de Madeira"}
+{"id": "LocalText/town_refine_name27", "revision": "b80abe8d1464160decbdc36f359eb40fdece411d7295cda496389622b90c0a9d", "ptbr": "Pedra de Alma G2"}
+{"id": "LocalText/town_refine_name28", "revision": "a916c160b96b0df83aefe63b396d8f11c884966e45d0b4b83b068fb442fc1c4e", "ptbr": "Pedra de Alma G1"}
+{"id": "LocalText/town_refine_name29", "revision": "b6e0a0be1b3754f2ac982a4c57f346b3a9b96938ba9fba4f287ec196c78ce127", "ptbr": "Cristal de Alma G2"}
+{"id": "LocalText/town_refine_name3", "revision": "c12a6a84d333704ac28f33f92ed262d851f3f1f15486929df6b44da379adfa0e", "ptbr": "Qi de Raio"}
+{"id": "LocalText/town_refine_name30", "revision": "88c8f9ade8bb9d85e7785d5396d0ff04ad00fb4ec84a1b166acab33b93e0a058", "ptbr": "Cristal de Alma G1"}
+{"id": "LocalText/town_refine_name31", "revision": "e2a7b434c492b87ac501ff58bc95905f3411da06a04e1c76a3ccee997ff45e7e", "ptbr": "Jade de Alma G2"}
+{"id": "LocalText/town_refine_name32", "revision": "38ede95b63de36157c227171049d39cb6819c2e1c0f1d4e9c8832c3c42924798", "ptbr": "Jade de Alma G1"}
+{"id": "LocalText/town_refine_name33", "revision": "45da79fa022232d5e28a28b391453c6aff785e8c5e22519c35daa8a9561d69df", "ptbr": "Sopro da Alma G2"}
+{"id": "LocalText/town_refine_name34", "revision": "e7e0d4ee182d9c919102cf9a8370c5e635aa9fa4cbeffc8737d6f7a5efdcb133", "ptbr": "Sopro da Alma G1"}
+{"id": "LocalText/town_refine_name35", "revision": "32e242bafa8ce2fb2431289d57c0c54e5261cb3ab1dd174302ae1b6615404b40", "ptbr": "Sopro da Alma Sagrada G2"}
+{"id": "LocalText/town_refine_name36", "revision": "95ced732bcd70de90f7be3e4294117844d0fc252e80e2ce81b4ca990b6fff49f", "ptbr": "Sopro da Alma Sagrada G1"}
+{"id": "LocalText/town_refine_name4", "revision": "dd2bbc9c47be8cc4e1a6723cd4fb2b83f46e98ced14c52998ffab5981db2187f", "ptbr": "Qi de Vento"}
+{"id": "LocalText/town_refine_name5", "revision": "69d89c23561169957e3ad8fa88fedbe5afec515df6a13ec1fd889fe02fc989a8", "ptbr": "Qi de Terra"}
+{"id": "LocalText/town_refine_name6", "revision": "403a789a8a6ce748a90ba2062f19f088551a5d5da6011d3a7981a359040e70d6", "ptbr": "Qi de Madeira"}
+{"id": "LocalText/town_refine_name7", "revision": "c7a37d6c21034d098c89a49212242c2d50243672a2688af626bbaeda13c744fe", "ptbr": "Orbe de Qi de Fogo"}
+{"id": "LocalText/town_refine_name8", "revision": "84a9b19fc51dc2053650854c0c422593c9fdbe39d2b8c6a4f493cde7a90de99d", "ptbr": "Orbe de Qi de Água"}
+{"id": "LocalText/town_refine_name9", "revision": "46da4619d85372e484f900bd1130bc6a182822fb9edfaf59af92f207a8ac908d", "ptbr": "Orbe de Qi de Raio"}
+{"id": "LocalText/town_shengwangyaoqiu", "revision": "207a17b1ad7680b509751f695fccf45528e893a3750d85147b87b2d358b66b84", "ptbr": "Requer {0} de Reputação"}
+{"id": "LocalText/town_shuaxinmiji", "revision": "8d8ce216dcc19bb7aa5a7d298e62a35af6195d0a65eacce0c73a6ab6a1ef3171", "ptbr": "Gastar {0} Pedras Espirituais para renovar os Manuais?"}
+{"id": "LocalText/town_xiaohaocailiao", "revision": "4144b48b53ee2408cc620f0f0c10c5c9079b760984073c8fbea82e66f9d8b0c5", "ptbr": "Custo"}
+{"id": "LocalText/weatherNameTianqiBaoyu", "revision": "5d03a69334aa3b50a2c5b9a53d455b2cbafe1bda40f63ad09ff540db0c3d1406", "ptbr": "Tempestade"}
+{"id": "LocalText/weatherNameTianqiJinwu", "revision": "f29ab1bc96deca9c1b05fced463b37f11e3d3400fafa37474480814f86118f9a", "ptbr": "Sol Radiante"}
+{"id": "LocalText/weatherNameTianqiQingtian", "revision": "93beb683d90c03e4f15ab4e0ee7a1b3fbf38bb8388717bb961357e3850b7f283", "ptbr": "Ensolarado"}
+{"id": "LocalText/weatherNameTianqiXuetian", "revision": "b5ce3ba848834304ad14044cd6f4ef507df4cd5fe3233ff0aa103de1467a1414", "ptbr": "Nevando"}
+{"id": "LocalText/weatherNameTianqiYintian", "revision": "b0fd9c8a6643c918d0b3fe2046974a8ceb2827baf2af9065ef0505e65a169f28", "ptbr": "Nublado"}
+{"id": "LocalText/weatherNameTianqiYutian", "revision": "6bb3aa43a262f7c1c669b3667664f6f8efa856e73264d73e4fe15ff3d4664188", "ptbr": "Chuvoso"}
+{"id": "LocalText/wodejipai", "revision": "633fbdda2f79fe11625b6886a8d208a737cf5b3b4e0d5f242f67c840af7b8431", "ptbr": "Meus Itens em Leilão"}
+{"id": "LocalText/wufataopao", "revision": "426a2ed0e25bdeaa747d3d9348bb0e3c5deeb42997504465c591059c93b28d52", "ptbr": "Você já está morto e não pode fugir!"}
+{"id": "LocalText/wuxue_cailiaobuzu1", "revision": "f354ae8587aa4105710525f3508d7f3f3a0d0f2f0f28d8f938f2c3970e33e64c", "ptbr": "Materiais insuficientes para melhorar esta técnica!"}
+{"id": "LocalText/wuxue_cailiaobuzu2", "revision": "162495bdf3bc4b5b79ad456e27f4c06fedd301268ded916a603b8ab34ebe874f", "ptbr": "Materiais insuficientes para compreender esta técnica!"}
+{"id": "LocalText/wuxue_canwu", "revision": "1c838ff73d6fe7a1d67194f765722df6d8a533b9e91b6dff61c458b0c6b71582", "ptbr": "Compreender Técnica"}
+{"id": "LocalText/wuxue_canwubiaoti", "revision": "dd966d95206adbbdf439aa64c47b5f4492c6d9eebcaa50ecfd69487ee5cf7a35", "ptbr": "Compreensão"}
+{"id": "LocalText/wuxue_canwucishu", "revision": "767b9720e1642ae185e619287f2a05f0634688b3fd90c4d9056be931cce126c1", "ptbr": "Compreensão n.º<g>{0}</g>"}
+{"id": "LocalText/wuxue_canwuguize", "revision": "bf87948771c9032fd7fc0dd94a1129b1dfdf2b2a6aef535c4adc9bd622bf1dfa", "ptbr": "1. Assim que o aprendizado começa, <b>[Percepções] (Azuis)</b> e <r>[Desvios] (Vermelhos)</r> saem do corpo do seu personagem e duram um tempo.\\n2. Clique com o botão esquerdo em uma <b>[Percepção] (Azul)</b> ou em um <r>[Desvio] (Vermelho)</r> e segure o botão para coletá-lo. Clique com o botão direito em uma <b>[Percepção] (Azul)</b> ou em um <r>[Desvio] (Vermelho)</r> e segure o botão para destruí-lo.\\n3. Você precisa coletar <b>[Percepções] (Azuis)</b> e destruir <r>[Desvios] (Vermelhos)</r>. <r>[Desvios] (Vermelhos)</r> que não forem destruídos quando desaparecerem voltam para o corpo do seu personagem.\\n4. Quanto mais <b>[Percepções] (Azuis)</b> você coletar, melhor o efeito de aprendizado. <r>[Desvios] (Vermelhos)</r>, por outro lado, afetam negativamente o seu progresso de aprendizado.\\n5. Quanto maior a Percepção do seu personagem, maior a chance de <b>[Percepções] (Azuis)</b> aparecerem."}
+{"id": "LocalText/wuxue_canwuhou", "revision": "a5c126fe9c6d433c419ce5949031b86fb98194604ab50494bb35bce9e0b94b71", "ptbr": "[Depois]"}
+{"id": "LocalText/wuxue_canwuqian", "revision": "785b876d04885f2be304ab22c47142a936bf60e69c23a9117baaaab9007119e2", "ptbr": "[Antes]"}
+{"id": "LocalText/wuxue_canwurumo", "revision": "ff13bc6b937f05064f64d12fe0b9045768c17e6b61cd4ca0961dd6151ca96961", "ptbr": "[Desvio de Qi acionado durante a compreensão]"}
+{"id": "LocalText/wuxue_canwuwancheng", "revision": "09202fb9d73608c25f432e8032c7135c8ce4454fe95def7b0587fa08bb5665c8", "ptbr": "Compreendida"}
+{"id": "LocalText/wuxue_caozuotishi", "revision": "c382ede5a407ddf4b96216ca8909375e69fd1705d9db3c8696cdccb8a0cc1e99", "ptbr": "Aviso"}
+{"id": "LocalText/wuxue_dadao", "revision": "cd52198074b30994fe8042d796fc1ac0ae4e7051cb39764ebb088d83123c671b", "ptbr": " alcança "}
+{"id": "LocalText/wuxue_dangqian", "revision": "bece92ba7f380d8cca9a1216ee10d888655a824c3960b1ac8c4b6ee6cc7b0d45", "ptbr": "[Atual]"}
+{"id": "LocalText/wuxue_daodianxiaohao", "revision": "4407fcc8017fde7ef796044a54b9213fe6defc9fa0d43a113aff49cea99571c5", "ptbr": "Custo em Pontos de Dao: "}
+{"id": "LocalText/wuxue_dian", "revision": "3ea3de2a4fb4fb410edad15b6cf4468a37ec9e8ca7b622cc51727fd6240ac0c0", "ptbr": "{#kong}"}
+{"id": "LocalText/wuxue_gaopinzhitishi", "revision": "309ebfd28071362f43df69b650d45882c482bd9ca13f660b191cb4998bd7206e", "ptbr": "A raridade máxima é possível para este afixo por compreensão."}
+{"id": "LocalText/wuxue_jinenglengque", "revision": "1f293912c6c2a8e6a8cc7c5cb7e8202f7d110a7888cca226bd8157863869e115", "ptbr": "Recarga: "}
+{"id": "LocalText/wuxue_jinengshuoming", "revision": "597517ad0eeb579acd51011f24f674d2f123457ea5f278ca982bfd348664b6b2", "ptbr": "Informações da Técnica"}
+{"id": "LocalText/wuxue_jinengxiulian", "revision": "f1a76a2e38de8d644e47a1caefb83edce673f6db3adb0d88d04940880636067e", "ptbr": "Cultivo da Técnica"}
+{"id": "LocalText/wuxue_jinengyimanji", "revision": "af8216448d2e4d9719a82f0e7a3b6919edb01bf853bac6038bc040c51153704d", "ptbr": "Esta técnica alcançou o nível máximo!"}
+{"id": "LocalText/wuxue_jipin", "revision": "6cd9431fe31608f09b33cab90787f3ae3841b205b6f126f2fcfaccced7d1e30f", "ptbr": "[Máximo]"}
+{"id": "LocalText/wuxue_jipinshuxing", "revision": "7f99e9ef53d9f17585092c82bd95fef311d8d7edd498333275e35b78e233f13c", "ptbr": "Raridade máxima alcançada para este afixo. Não é possível compreender."}
+{"id": "LocalText/wuxue_kaishicanwu", "revision": "0c4b362db6e7fcc587e9e48e65a77cd68fa25c8a9b3ed060755330285e1fd21d", "ptbr": "Aprender"}
+{"id": "LocalText/wuxue_mijinandu", "revision": "7cd56311783d50e7d810660078f0fb072a3f18397ff4b00e134b2d8c530c1f80", "ptbr": "Dificuldade: "}
+{"id": "LocalText/wuxue_rumo", "revision": "f9bc2d93f772864bbc815ae3fda224291daab96a02eb6360125874bf6b32ce45", "ptbr": "Desvio de Qi"}
+{"id": "LocalText/wuxue_rumocanwutishi", "revision": "7bb395a60fb3e106f537479ef68648975ec3a28a0e76dc1a05cb71ae583e69b5", "ptbr": "Desvio de Qi acionado. Não é possível compreender!"}
+{"id": "LocalText/wuxue_rumotishi", "revision": "67bb23a2ca59f16eb372bffb94bdd965c0a74170f081abec2789045861d911ad", "ptbr": "<r>Desvio de Qi acionado: Clique com o botão esquerdo em um [Desvio] e segure o botão para coletá-lo. Clique com o botão direito em uma [Percepção] e segure o botão para destruí-la.</r>"}
+{"id": "LocalText/wuxue_shifaxiaoaho", "revision": "312f631537d8cdca60439bbcaf801424c39ab063adb5b37c927292c768bf85fb", "ptbr": "Custo: "}
+{"id": "LocalText/wuxue_weijiesuo", "revision": "074a7006edb641b0d838221a81c6eab18afd0a2555a1e8bebe47d36c8656d9a1", "ptbr": "Bloqueada! Não é possível compreender!"}
+{"id": "LocalText/wuxue_wucailiao", "revision": "d24c50cd9803180fae0cef65f64c11abdc32e0ada9b1a8d7bb11cbcd0d7e3d3f", "ptbr": "Sem materiais"}
+{"id": "LocalText/wuxue_wutiaojian", "revision": "34cdcf099adb226588a53ae3c96bd9e5d4273a371c31b70cef7405f50effc3ce", "ptbr": "Sem requisitos"}
+{"id": "LocalText/wuxue_wuxiaohao", "revision": "551b5632da651809c262795aa98e4c3915895e66493d8ed9959498c25ad324a3", "ptbr": "Sem custo"}
+{"id": "LocalText/wuxue_wuxing", "revision": "1e42ee079f49792403af325d9bce790aee3f6a9caa9cf78bd5960e1c36fafb23", "ptbr": "Percepção: "}
+{"id": "LocalText/wuxue_xiaohao", "revision": "b5881fad0acc4c2f0f34fac0896e0243a615a06ad05b2527d6dc90fdba0adcda", "ptbr": "Custo: "}
+{"id": "LocalText/wuxue_xinqing", "revision": "8c67a3a6dd60e8e1ec548f5d4bac1889937c15f2d8bc4b36bebc4ba9cba1ea12", "ptbr": "Humor: "}
+{"id": "LocalText/wuxue_xiulian", "revision": "a9343f037ff59f985662de466eca6b5c106b69eba106264b1f40a214db172a0a", "ptbr": "Melhorar Técnica"}
+{"id": "LocalText/wuxue_xiulian1", "revision": "337896932a98690ba8456ef9e1de387626528c18d0e03384da749206136b5a58", "ptbr": "Melhorando {0}..."}
+{"id": "LocalText/wuxue_xiulian2", "revision": "56a4326d5f869bf8f5bb7f26449a1f80593a9ee3e10366f5327cca78f20f2473", "ptbr": "EXP de Técnica aumentou ({0})"}
+{"id": "LocalText/wuxue_xiulianbiaoti", "revision": "a5907b031434d3428bd9817a73892011b225eac2d555fd16e439405233603d42", "ptbr": "Cultivo"}
+{"id": "LocalText/wuxue_xiulianchenggong", "revision": "475895a6bc8778eff533bbbd892b219e793514f9e6f56741ea59cdfc9f419e20", "ptbr": "Cultivo concluído!"}
+{"id": "LocalText/wuxue_xuexi", "revision": "4b14a8b6ac22bf5278ab065471985cb0888c7f01044ebd659427ef6eaff61ae7", "ptbr": "Aprender"}
+{"id": "LocalText/wuxue_xuexi1", "revision": "3b3ed0aa78ebe678e0fbe595dfe4f9af0d70efa8746653fafd9fb4262744585d", "ptbr": "Aprendendo {0}..."}
+{"id": "LocalText/wuxue_xuexi2", "revision": "c3a4f7cb61fc9d1822bcbea9e965f4fb02db2342dcfbe9293da18545de9b4afe", "ptbr": "Estudar Manuais é entediante. Seu Humor caiu ({0})"}
+{"id": "LocalText/wuxue_xuexi3", "revision": "279b3a25e0ae80714fbb6cb6dbe14a47d7362d9e8cae011f79320130c64162fa", "ptbr": "Progresso de aprendizado aumentou ({0})"}
+{"id": "LocalText/wuxue_xuexi4", "revision": "d6790d7f7cb08ac74e120a900b522d75874c28f39952bc84679bb02f785d0bfe", "ptbr": "Você teve uma centelha de gênio. Seu Humor subiu ({0})"}
+{"id": "LocalText/wuxue_xuexi5", "revision": "26a53294fd7307277665c25a1d6dbcfb960ffe06df0886bf9908f4f2a5db7756", "ptbr": "Você aprendeu muito com o Manual e recebeu progresso de aprendizado extra."}
+{"id": "LocalText/wuxue_xuexi6", "revision": "733dc6b0a96796b7d37e8ea3d1b11bd8dd5bf1cd9c6661c7f5ef0103884dd23f", "ptbr": "{0} aprendida! Equipe a nova técnica na página de Técnicas."}
+{"id": "LocalText/wuxue_xuexi7", "revision": "db64e7ce0d0c00f7c32d5d9ec2237d1620d6a95d9bf68e87abb459ff80dc91f3", "ptbr": "Progresso de Cultivo"}
+{"id": "LocalText/wuxue_xuexijieshu", "revision": "358b08d9d2fdb0be7dfbc1635e429e9c099b8b501d7dc8fe8019458226e194bf", "ptbr": "Aprendizado concluído"}
+{"id": "LocalText/wuxue_xuexijindu", "revision": "0bf6a229629196c7406cbb9b9584cd9adb0bf228e168b639c7d233c050085782", "ptbr": "Progresso"}
+{"id": "LocalText/wuxue_xuexinandu", "revision": "4f5854f6108c8ddc2626c38f384729a8e0ab2d678823b31074db527d01ad51c4", "ptbr": "Dificuldade: "}
+{"id": "LocalText/wuxue_xuexitiaojian", "revision": "b90f4b4f98b822fbb1f67119605be3efa884cad9377872ecc35bcf4a4b3710bb", "ptbr": "Requisitos"}
+{"id": "LocalText/wuxue_xuexitishi1", "revision": "578e64c2dfd0af887621e753d6d2ff6e460b60fe38ae4fdc519b62e55e1fdfb4", "ptbr": "Progresso de aprendizado +<g>{0}</g>\\nHumor -<r>{1}</r> (Humor atual: {2}/{3})"}
+{"id": "LocalText/wuxue_xuexitishi2", "revision": "9c6af6fe6e856d05c77e5863715d59a3b4d108132c98fdf5430889c3368a1346", "ptbr": "{0} aprendida!\\nHumor -<r>{1}</r> (Humor atual: {2}/{3})"}
+{"id": "LocalText/wuxue_xuexixiaolv", "revision": "458b677424defe5d1909820c3a175399e506007b433ea5237e6f8648900b674d", "ptbr": "(Eficiência de Aprendizado {0})"}
+{"id": "LocalText/wuxue_xuexizhuangtai", "revision": "f1971d5aefd514e4f2336dd2d5715ad154d001b2d764cad5ec68ea7e5dd6d946", "ptbr": "Status"}
+{"id": "LocalText/wuxue_yiawng", "revision": "acf229007086f934673149b17a01a7cbeb3d113447501d317db0bf09e575d174", "ptbr": "Desaprender"}
+{"id": "LocalText/wuxue_yimanji", "revision": "cf0ce5d4e4e1fa1eb7e633a9e0d3a3521dfdc33e66a058bb4f8e71c389e5547a", "ptbr": "Nível Máximo"}
+{"id": "LocalText/wuxue_yiwangchenggong", "revision": "d73b5257813e45fb9dcf329d8f65c546953e8f013c7193504375a0ee7813c802", "ptbr": "Técnica desaprendida!"}
+{"id": "LocalText/wuxue_yiwangtishi", "revision": "260363379e6a3d8301e0a3f5dabde66a42e8bd2ca5309f2edc5cf257eff3e862", "ptbr": "Você receberá os materiais abaixo ao desaprender {0}"}
+{"id": "LocalText/xinfalantishi", "revision": "3b8a5a3d47f553dced8dce5cc1108789091077c7c2828b2869fc64d505b9976b", "ptbr": "Só uma Técnica Mental de cada tipo pode estar equipada."}
+{"id": "LocalText/xiulian_dangqian", "revision": "45e186842b639f6e7c95d0b5e6dbf20debb21fbeb90b3969f3ebe90fbee8da1e", "ptbr": "(Atual: {0})"}
+{"id": "LocalText/yiyouzongmen", "revision": "8481e5039425f37c02b88b62006373f032ddf10dcc908a795021ef300a208bd4", "ptbr": "Você já está em uma seita!"}
+{"id": "LocalText/zhandouhuode", "revision": "8bea0a0482c0cd66d9e95517e0ccb3ea9ea3dac4effc4a44b865f5e7e5effff3", "ptbr": "Obtido: "}
+{"id": "LocalText/zhandoujisha", "revision": "bcd23772efc6a6b6fa99ce18c54a51db3350e0b2c448f11f5f7de0ae18008801", "ptbr": "{0} morto!"}
+{"id": "LocalText/zhiweirensuyiman", "revision": "f5ddc842f885c283405c318597c289c05aff4110e131259c9310a8c9ac9c9584", "ptbr": "Este cargo já está completo!"}
+{"id": "LocalText/zhuangtaiyiman", "revision": "c032a2cb46705f976a308828aa93c7be84ba221c9d7cac1e346335026b9163a0", "ptbr": "Já está cheio!"}
+{"id": "LocalText/zuoqi_beijinggushi", "revision": "b55a3c8bdb026b22587218de5c16c2f12f59d62464f3fcf2478929f23b50188c", "ptbr": "História"}
+{"id": "LocalText/zuoqi_chengqi", "revision": "6e4ca7a187fce84e899253324d885e2f1100c32f213eada434ccbc9954516fc2", "ptbr": "Montar"}
+{"id": "LocalText/zuoqi_diuqi", "revision": "4eb74fc771f911685ffe2366a4a6335978049c2ac7971b4214c224c00ad8b385", "ptbr": "Descartar"}
+{"id": "LocalText/zuoqi_shuxing", "revision": "99051578e2feba723e2b1a6ea1d144a9ff8cc88a3ba4bf50dd50f916b1f5fe1f", "ptbr": "Atributos da Montaria"}
+{"id": "LocalText/zuoqi_teshuxiaoguo", "revision": "d9a43cd0462c064ba75ee59921e1870f1f786417eabc40b61aa89265049fa83c", "ptbr": "Efeitos Especiais"}
+{"id": "LocalText/zuoqi_xiexia", "revision": "db1d6d497376b9c53ec313a65937e9ed4018f2fdb9f5641d38879963a6464adc", "ptbr": "Desmontar"}
+{"id": "LocalText/zuoqi_zuoqi", "revision": "17170016c36c6f965b844fb96b974ff4bdde2e013be23328001d23594d9d82f1", "ptbr": "Montaria"}

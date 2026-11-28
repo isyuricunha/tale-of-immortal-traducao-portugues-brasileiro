@@ -456,6 +456,21 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | "Crit DMG" / "Crit DR" | Dano Crítico / Redução de Dano Crítico | — |
 | "damage taken from X" | "dano recebido de X" | Tooltips de defesa dos artefatos |
 
+### Lote 0041 (Logs de Evento, Montarias, Manuais e UI Geral)
+
+| Inglês (EN) / Chinês (CH) | Português Brasileiro (PT-BR) | Notas |
+| --- | --- | --- |
+| Logs de evento ("{2} appeared near {1}", "{2} defeated {3}") | "{2} apareceu perto de {1}", "{2} derrotou {3}" | Slots {N} preservados; voz neutra quando possível ("sofreu ferimentos graves") |
+| Blood Puppet / Blood Lord / Tiangou | Marionete Sanguínea / Senhor do Sangue / Tiangou | Tiangou em pinyin (fera celestial) |
+| Qi Deviation (走火入魔) | Desvio de Qi | Termo clássico de xianxia; [Insights]/[Deviations] = [Percepções]/[Desvios] |
+| affix (词缀) | afixo | Sistema de compreensão de técnicas |
+| Rollback Points / Rollback | Pontos de Reversão / Reverter | — |
+| Mind Skill / Motion Skill (rótulos) | Técnica Mental / Técnica de Movimento | marketShenfaXinfa = "Técnica Mental/De Movimento" |
+| Sect Arcane Manual / Interspatial Ring / Monster Lair / Geomancy | Manual Secreto da Seita / Anel Espacial / Covil de Monstros / Geomancia | — |
+| town_refine (itens de refino) | Qi de Fogo… Orbe de Qi Condensado de Madeira, Sopro da Alma G1/G2 | Alinhado aos nomes de item do corpus |
+| Zouyu / Tenghuang / Longyu / Xuangui / Dangkang | Zouyu / Tenghuang / Longyu / Xuangui / Dangkang | Feras do *Shan Hai Jing*; nomes em pinyin (Shan Hai Jing citações) |
+| Montarias: Mount / Dismount / Discard | Montaria / Desmontar / Descartar | — |
+
 
 
 
