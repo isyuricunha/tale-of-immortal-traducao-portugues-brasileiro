@@ -509,3 +509,23 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | Artifact / Artifact Spirit / Forge / Tempering Resin | Artefato / Espírito de Artefato / Forja / Resina de Têmpera | 0.8.30xx |
 | Tartaruga Venerável / Eternal Rest / last breath | Tartaruga Venerável / Descanso Eterno / Último Fôlego | Círculo Tranca-Espíritos |
 | Notas de atualização: "Bug fix" / "Optimization" / "New" / "Internal Test Version" | Correção / Otimização / Novo / Beta interno | Formato das dicas de início de jogo |
+
+### Lote 0045 (Conquistas, Notas 0.8.4xxx-1.1.105 e Eventos de Natureza)
+
+| Inglês (EN) / Chinês (CH) | Português Brasileiro (PT-BR) | Notas |
+| --- | --- | --- |
+| Reinos (conquistas): Foundation, Qi Condensation, Golden Core, Origin Spirit, Nascent Soul, Soul Formation, Enlightenment, Reborn, Transcendent | Fundação, Condensação de Qi, Núcleo Dourado, Espírito Original, Alma Nascente, Formação da Alma, Iluminação, Renascido, Transcendente | Idênticos aos reinos do jogo |
+| Sábios e Demônios de arma: Blade/Spear/Sword/Fist/Palm/Finger Sage & Demon | Sábio/Demônio do Sabre, da Lança, da Espada, do Punho, da Palma, do Dedo | — |
+| Constituições (Yang Fire, Heavenly Thunder, Aquatic Breathing…) | Constituição de Fogo Yang, de Trovão Celestial, de Respiração Aquática… | — |
+| Mythical Gourd / Imp / imp adventure | Cabaça Mítica / Diabrete / aventura de Diabrete | Sistema 0.8.70xx |
+| Refining Demon Gourd | Cabaça de Refino de Demônios | Artefato beta 092801 |
+| Nether Feather / Nether Demon / Nether Seed / Wave of Monsters | Pena Sombria / Demônio Sombrio / Semente Sombria / Onda de Monstros | Sistema 0.8.60xx |
+| Cultivator Alliance / Alliance Master | Aliança Imortal / líder da Aliança Imortal | — |
+| Shrine / Shattered Altar / Immortal Power Pts | Santuário Imortal / Altar Fragmentado / Pontos de Poder Imortal | — |
+| Heavenly Art / Traditional Mind Skill (sets) | Arte Celestial / Técnica Mental Tradicional (conjuntos) | — |
+| Eye of Providence | Olho da Providência | Artefato beta GodEye |
+| Tian Yuan Mountain dungeons: Treading the Void, Mirror Sea of Illusions, Sacred Platform, Mist Isle, Summit, Earth Vein Nexus | Trilha do Passo no Vazio, Mar Espelhado de Ilusões, Terraço Sagrado de Contemplação, Ilhota na Névoa, Cume de Tian Yuan, Nexo do Pulso Terrestre | — |
+| Enigmatic Stone / World Boundary Stone | Pedra Enigmática / Pedra do Limite de Mundo | — |
+| Feng Shui Diagram / Exquisite Stone Plate / talisman mini-game | Diagrama de Feng Shui / Disco de Linglong / mini-jogo de caligrafia de talismãs | 0.8.80xx |
+| New outfits: Empyreal Elegance, Yanchu Chaoran, Jingxing Fenglin, Zixuan Tianyun, Imortal de Roupas Simples, Hóspede dos Sonhos | Elegância Empírea, Yanchu Chaoran, Jingxing Fenglin, Zixuan Tianyun, Imortal de Roupas Simples, Hóspede dos Sonhos | Nomes de personagem em pinyin |
+| Notas 1.0.10x-1.1.10x (DLC) | formato "Notas de Atualização X" | Mesma estrutura de patch notes |
