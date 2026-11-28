@@ -366,6 +366,15 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | Swift Shield / Aura Hunter | 疾风护盾 / 炼魂猎手 | Escudo Veloz / Caçador de Auras | Traços 9081/9091 e habilidades 19/20 da torre |
 | Frutos da estátua (Spiritual Fruit + stat) | 灵果 | Fruto Espiritual (+ Vitalidade/Energia/Foco) | — |
 
+### Lote 0034 (Prefixos de técnica, continuação)
+
+| Caractere (CH) | Português Brasileiro (PT-BR) | Notas |
+| --- | --- | --- |
+| 锁 御 虚 暗 夜 玉 荒 蚀 寂 乱 煞 | Travamento, Guarda, Vacuidade, Escuridão, Noite, Jade, Ermo, Erosão, Silêncio, Caos, Funesto | — |
+| 爆 裂 劫 岩 道 虎 贯 岳 震 魄 | Explosão, Fenda, Tribulação, Rocha, Dao, Tigre, Transfixão, Monte, Tremor, Ânimo | 岳 = Monte (distinto de 山 = Montanha) |
+| 玄 碧 冰 紫 瘴 衡 逐 驱 隐 极 | Arcano, Esmeralda, Gelo, Roxo, Miasma, Equilíbrio, Perseguição, Expulsão, Furtividade, Extremo | 碧 alinhado a Fruto Esmeralda |
+| 冷 沧 形 溟 圣 | Gélido, Oceânico, Forma, Mar Profundo, Sagrado | 寒 = Frio; 冷 = Gélido |
+
 
 
 
