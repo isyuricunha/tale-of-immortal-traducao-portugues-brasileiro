@@ -495,6 +495,17 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | "the mist lifts" | "a névoa levanta" | Recorrente nos eventos de névoa |
 | battle_unit_name: Demonic Elder, Well-Attired Man, White-Clad Man, Blue-Clad Cultivator, Azurite Leader, Tundra Girl, Umber Beast | Ancião Demoníaco, Homem Bem-Vestido, Homem de Branco, Cultivador de Azul, Líder Azurita, Garota da Tundra, Fera Umber | — |
 
+### Lote 0044 (Notas de Atualização 0.8.x e Sistema de Seitas)
 
-
-
+| Inglês (EN) / Chinês (CH) | Português Brasileiro (PT-BR) | Notas |
+| --- | --- | --- |
+| Sect Competition / points race / ring match / Open Challenge Match | Grande Torneio da Seita / fase de pontos / duelos / Desafio Aberto | Sistema de seitas 0.8.40xx |
+| Sect War / resource spot / plunder / occupation | guerra de Seita / ponto de recurso / saque / ocupação | — |
+| Council Hall / Mission Hall / Treasure Pavilion / Manual Library / Spirit Pavilion (灵阁) / Cultivation Chamber | Salão do Conselho / Salão de Missões / Pavilhão do Tesouro / Biblioteca de Manuais / Pavilhão do Espírito / Câmara de Cultivo | Pavilhão do Espírito padronizado (antes “Espírito de Espírito”) |
+| Sect Leader / Grand Elder / Elder / True Disciple / registered disciple | Líder de Seita / Grande Ancião / Ancião / Discípulo Real / discípulo registrado | — |
+| Sect legacy / Tradition / Sect Rules / Traits / Prosperity / Stability / Loyalty | Tradição da Seita / Regras da Seita / Características / Prosperidade / Estabilidade / Lealdade | — |
+| Heaven Chosen (NPC) / Taoist Mind / Taoist Seed / Wayborne Path | Escolhido pelo Céu / Mente Taoísta / Semente Taoísta / Caminho Portador do Dao | — |
+| Flying Boat / Signal Fire Turret / boar nest / Dangkang / sect protector beast | Barco Voador / Torre de Sinalização / toca de javalis / Dangkang / Fera Protetora da seita | — |
+| Artifact / Artifact Spirit / Forge / Tempering Resin | Artefato / Espírito de Artefato / Forja / Resina de Têmpera | 0.8.30xx |
+| Tartaruga Venerável / Eternal Rest / last breath | Tartaruga Venerável / Descanso Eterno / Último Fôlego | Círculo Tranca-Espíritos |
+| Notas de atualização: "Bug fix" / "Optimization" / "New" / "Internal Test Version" | Correção / Otimização / Novo / Beta interno | Formato das dicas de início de jogo |
