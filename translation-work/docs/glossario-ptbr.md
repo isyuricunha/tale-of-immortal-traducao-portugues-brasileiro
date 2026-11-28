@@ -446,6 +446,16 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | "max value is guaranteed to be achieved" | "esse valor máximo é garantido" | — |
 | Sentinels `s_510021_dmg00` etc. = próprio nome da chave | Preservadas verbatim | EN idêntico à chave (placeholder) |
 
+### Lote 0040 (Artefatos da Torre e Traços de Artefato)
+
+| Inglês (EN) | Português Brasileiro (PT-BR) | Notas |
+| --- | --- | --- |
+| ability_name (2 caracteres, EN=CH) | Quebra-Origem, Refina-Fio, Encume Cruel, Chama Esmeralda, Devora-Origem, Instante Demoníaco, Nuvem Roxa, Luz Gélida, Empíreo Carmesim, Submundo Verde, Estilhaça-Almas, Nove Estrelas, Lua Esmeralda, Guarda da Vacuidade, Origem Verdadeira, Nove Céus, Princípio Primordial, Sombra Verde, Retorno do Coração, Estrelas, Névoa Miragem, Condensação de Alma, Coração Luminoso, Proteção da Origem, Dança Celestial, Dragão Yang, Guarda de Almas, Oceano Profundo, Pena Derivante, Espírito Puro, Forma Selada, Equilíbrio em Queda, Suprema Pureza, Arte Marcial Celestial, Corta-Almas | Compostos com os caracteres já padronizados |
+| Wild Boar (aliado) / spirit sword / lightning strike / shockwave / Stormward / orbs | Javali aliado / espada espiritual / raio / Onda de Choque / Guarda de Vento / orbes | Artefatos da torre |
+| Mind Skill / artisanship / Feng Shui / Reputation / Legendary or Mythic Skill | Técnica Mental / Artesanato / Feng Shui / Reputação / técnica Lendária ou Mítica | — |
+| "Crit DMG" / "Crit DR" | Dano Crítico / Redução de Dano Crítico | — |
+| "damage taken from X" | "dano recebido de X" | Tooltips de defesa dos artefatos |
+
 
 
 
