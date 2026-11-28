@@ -547,3 +547,20 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | dramakuafu UI (Current Status, Monthly Move Distance, Destiny) | Estado atual, Distância de movimento mensal, Destino | Interface do Kuafu |
 | Skip Month / Select Difficulty / EXP | Pular o mês / Selecionar dificuldade / EXP | UI geral |
 | Lightning Punishment / Thunderous Punishment | Punição de Raio / Punição Trovejante | effect_desc |
+
+### Lote 0047 (Destinos Pós-Nascimento, Aventuras 63x e Isca de Monstros)
+
+| Inglês (EN) | Português Brasileiro (PT-BR) | Notas |
+| --- | --- | --- |
+| Monster Lure / Monster Repellent | Isca de Monstros / Repelente de Monstros | itens 63310xx |
+| sect territories (high energy) | territórios de seita (de energia alta) | diálogo do Armário Imortal |
+| wood sprites / Wood Sprite Cave | espíritos da madeira / Gruta dos Espíritos da Madeira | masmorra 100092 |
+| Immortal Wardrobe | Armário Imortal | loja de roupas |
+| Soul Devouring Pagoda | Pagode Devora-Almas | idêntico ao termo das notas 0.8.30xx |
+| Fate Feature Breakthrough / Breakthrough Items | Rompimento / Itens de Rompimento | interface |
+| Names de destinos pós-nascimento (Haunted, Berserk, Answered Prayer, Sacred Wine…) | Assombrado, Enfurecido, Oração Atendida, Vinho Sagrado… | 95 nomes |
+| Atributos: ATK, DEF, Crit, Crit DMG, Crit RES, Spiritual RES, Insight, Luck, Cultivation Speed/Efficiency, Travel Speed | ATQ, DEF, Crítico, Dano Crítico, RES de Crítico, RES Espiritual, Percepção, Sorte, Velocidade/Eficiência de Cultivo, Velocidade de Viagem | padrão de afixos |
+| Divine Order (Destiny) | Ordem Divina | reescreve 0.8.30xx “Ordem Divina” |
+| Taoist Mind Pavilion / Mindsnap Temple | Pavilhão da Mente Taoísta / Templo da Mente partida | organizações 0.8.4036 |
+| Dark Abyss / Mount Daowo | Abismo Sombrio / Monte Daowo | masmorras |
+| UI Kuafu: Current Status, Monthly Move Distance | Estado atual, Distância de movimento mensal | idêntico ao lote 46 |
