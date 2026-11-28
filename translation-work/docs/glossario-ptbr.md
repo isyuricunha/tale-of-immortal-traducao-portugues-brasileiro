@@ -374,6 +374,8 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | 爆 裂 劫 岩 道 虎 贯 岳 震 魄 | Explosão, Fenda, Tribulação, Rocha, Dao, Tigre, Transfixão, Monte, Tremor, Ânimo | 岳 = Monte (distinto de 山 = Montanha) |
 | 玄 碧 冰 紫 瘴 衡 逐 驱 隐 极 | Arcano, Esmeralda, Gelo, Roxo, Miasma, Equilíbrio, Perseguição, Expulsão, Furtividade, Extremo | 碧 alinhado a Fruto Esmeralda |
 | 冷 沧 形 溟 圣 | Gélido, Oceânico, Forma, Mar Profundo, Sagrado | 寒 = Frio; 冷 = Gélido |
+| 凌 凛 吞 啸 岚 念 折 曜 清 燎 (lote 0035) | Supremo, Severidade, Insaciável, Uivo, Neblina, Mente, Fratura, Esplendor, Purificação, Labareda | — |
+| 独 瑕 璃 白 脉 虹 融 轰 迅 追 霄 霸 鬼 (lote 0035) | Solitário, Falha, Cristal, Branco, Veia, Arco-Íris, Fusão, Estrondo, Presteza, Caçada, Empíreo, Hegemonia, Assombração | — |
 
 
 
