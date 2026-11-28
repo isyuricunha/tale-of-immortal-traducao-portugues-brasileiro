@@ -627,3 +627,20 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | Artisanship books: Elixir Recipe, Artifact Blueprint, Feng Shui Book, Talismans Book, Prescription, Ore Chart | Receita de Elixir, Projeto de Artefato, Livro de Feng Shui, Livro de Talismãs, Prescrição, Quadro de Minérios | modEnum10109 |
 | Secret Order | Ordem Secreta | idêntico ao lote 48 |
 | Mail (letter UI) | Carta | — |
+
+### Lote 0052 (Seitas personalizadas, Monstros e Masmorras do editor de Mods)
+
+| Inglês (EN) / Chinês (CH) | Português Brasileiro (PT-BR) | Notas |
+| --- | --- | --- |
+| Minor Sect / Normal Sect / Sect Base | Seita Pequena / Seita normal / Base de Seita | editor de seitas |
+| Sect scale (Minor/Small/Medium/Large) | Escala da Seita (Pequena/Pequena II/Média/Grande) | modEnum10118 |
+| First Kill Item Drop / Kill Item Drop | Derrubada de primeira morte / Derrubada por morte | monstros |
+| BOSS Monster / Elite Monster | Monstro CHEFE / Monstro de elite | mod_guaiwu |
+| Victory/Defeat Condition (Kill BOSS, dungeon time up) | Condição de vitória/derrota (Matar o CHEFE, tempo da masmorra esgotado) | modEnum10124-10125 |
+| Room Route Type | Tipo de rota de salas | modEnum10122 |
+| Traditional Dungeon (Tradition challenge) | Masmorra tradicional (desafio da Tradição) | mod_chuancheng |
+| Mount Model / Mount Effect | Modelo da Montaria / Efeito da Montaria | editor de montarias |
+| Local Mods / Mod Root Directory | Mods locais / Diretório raiz de Mods | — |
+| Export Mod / share | Exportar Mod / compartilhar | — |
+| Taoist Seed / Taoist Mind | Semente Taoísta / Mente Taoísta | idêntico ao lote 44 |
+| Mod Editor User Agreement (mod_tiaokuan5, fonte CH) | Contrato de usuário do editor de Mods | traduzido do chinês |
