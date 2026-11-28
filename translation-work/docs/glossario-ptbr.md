@@ -376,6 +376,23 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | 冷 沧 形 溟 圣 | Gélido, Oceânico, Forma, Mar Profundo, Sagrado | 寒 = Frio; 冷 = Gélido |
 | 凌 凛 吞 啸 岚 念 折 曜 清 燎 (lote 0035) | Supremo, Severidade, Insaciável, Uivo, Neblina, Mente, Fratura, Esplendor, Purificação, Labareda | — |
 | 独 瑕 璃 白 脉 虹 融 轰 迅 追 霄 霸 鬼 (lote 0035) | Solitário, Falha, Cristal, Branco, Veia, Arco-Íris, Fusão, Estrondo, Presteza, Caçada, Empíreo, Hegemonia, Assombração | — |
+| 雾 刹 吟 地 石 陨 腾 界 惊 (lote 0036) | Névoa, Instante, Canto, Terra, Pedra, Meteoro, Ascensão, Fronteira, Sobressalto | — |
+
+### Lote 0036 (Descs de Prefixo, UI de Técnicas e Dicas de Carregamento)
+
+| Inglês (EN) / Chinês (CH) | Português Brasileiro (PT-BR) | Notas |
+| --- | --- | --- |
+| Camadas de status dos prefixos (血刃, 绝情, 破甲, 破势, 流血, 剑斩, 碎骨, 铜皮, 内伤, 内劲, 内虚, 开脉, 灼烧, 燃魂, 寒霜, 灵涌, 乱流, 雷涌, 逆风, 灵风, 震岩, 石肤, 毒刺, 花灵) | Lâmina Sanguínea, Impiedade, Quebra-Armadura, Quebra-Postura, Sangramento, Corte de Espada, Estilhaço de Ossos, Pele de Bronze, Ferimento Interno, Força Interna, Vazio Interno, Meridiano Aberto, Queimadura, Alma em Chamas, Geada, Surto Espiritual, Turbulência, Surto de Trovão, Vento Contra, Vento Espiritual, Tremor de Rocha, Pele de Pedra, Ferrão Venenoso, Espírito de Flor | Usadas em `skillPrefixDesc*`; “一叠X” = *uma camada de X* |
+| Damage (伤害威力) | Poder de dano | Rótulo e frases `Poder de dano desta técnica +N` |
+| Qi de Espada (剑气) / Sword Shadows (剑影) | Qi de Espada / Sombras de Espada | Sombras de Espada já existente (traço 700039) |
+| Sect Tryouts | Seletivas de Seita | — |
+| Taoist Mind / Taoist Title | Mente Taoísta / Título Taoísta | 道心 / 道号 |
+| Stone Array / Tree Vault / Auction House / dummy (arena) | Matriz de Pedras / Cofre de Árvore / Casa de Leilões / boneco de treino | — |
+| Last Breath | Último Fôlego | Deixado por Núcleo Dourado (IV)+ ao morrer |
+| Heavily Wounded | Gravemente Ferido | Destino negativo citado em colchetes nas dicas |
+| Tao Power (道力) / peddler (货郎) | Poder de Dao / mascate | — |
+| Honor token `honor_text65` = `{#kong}` e `honor_text66` = `F` (层) | Preservados verbatim | Gálibo de UI sem equivalente natural; registrar se o jogo mostrar texto |
+| `common_xiaoshi`/`common_fen`/`common_di` | h / min / # | Unidades de tempo e ordem, idênticas ao EN |
 
 
 

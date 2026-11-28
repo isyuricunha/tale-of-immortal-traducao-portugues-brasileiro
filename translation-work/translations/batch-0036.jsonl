@@ -1,0 +1,500 @@
+{"id": "LocalText/battleInfo_daolibuzu", "revision": "0fad025a83c899ba052f1e9f4a3ec2a09f0bc1cd3c510f73abeabeaff388d631", "ptbr": "Poder de Dao insuficiente"}
+{"id": "LocalText/battleInfo_linglibuzu", "revision": "08358ce3d910ba5f02d84849d86f49950a077f56ad3ec05b40ba923a241944e1", "ptbr": "Energia insuficiente"}
+{"id": "LocalText/chat_sinian", "revision": "bcaeab2d4f57894d84a02a1b4e87346b9315c1b676eaaaf6d3f679fa9ec985bf", "ptbr": "Senti sua falta"}
+{"id": "LocalText/chat_tanlunlichang", "revision": "892d11b65f7bb20f3050ddece44be240c517048574aba67a1cef5a3d8efb14ca", "ptbr": "Falar de opiniões"}
+{"id": "LocalText/chat_tanlunmouren", "revision": "53c561bddb4ea68851b3438b03c15890a84d64a1960ce97b0fe011bce4409bf2", "ptbr": "Falar sobre {0}"}
+{"id": "LocalText/chat_tanlunzongmen", "revision": "44a372e38eb0b0e7a81d32bd0b8c36ea4fe5aed6fc452fd7efe55619deecfa5a", "ptbr": "Falar sobre {0}"}
+{"id": "LocalText/chat_xianliao", "revision": "924a7dfb5134424b2abccf50d84b756769b68f2d2129593e6d75660e5dfad916", "ptbr": "Bate-papo"}
+{"id": "LocalText/common_di", "revision": "180da5e30f220a4d6db7fee1e6b58753adad4adce692b770257128919b8a4cee", "ptbr": "#"}
+{"id": "LocalText/common_fen", "revision": "e4c65ef9622d430d22cf40695aa45cfd1ab9a7190090a1a8f25fd8b626f1ac37", "ptbr": "min"}
+{"id": "LocalText/common_kaishiyouxi", "revision": "9db04b05a6aea121e45e67372ecd656fc8e41b9679d7d9be7cdac7ed16ea874a", "ptbr": "INICIAR JOGO"}
+{"id": "LocalText/common_xiaoshi", "revision": "88e054b21e62930302e163408c1c3fd0243a9e30b05e82fe0683fa60ce58c7fc", "ptbr": "h"}
+{"id": "LocalText/createPlayer_fanhuicaidan", "revision": "2afc8800ef967d857929be859d0ff1603b149cb9bcf1aee04c06ce106bd554be", "ptbr": "Menu Principal"}
+{"id": "LocalText/dialogRoleChat61", "revision": "bfb59b46d1e3d3364840c2d627a20eb2ef609e1ff924ce93da890189bff7c3da", "ptbr": "(Sobre o que você quer falar?)"}
+{"id": "LocalText/game_zhendong", "revision": "af64d815367a14eda60d64393d1a55e60d2c81bd592fe92c0809c89dede093be", "ptbr": "Tremor de Tela"}
+{"id": "LocalText/honor_text65", "revision": "70ad92bd5fd85b202cfd358af16cb96443887a3848c91b3b8dc373f7527bf08a", "ptbr": "{#kong}"}
+{"id": "LocalText/honor_text66", "revision": "089af7b96cd5e7be3766e755a5ebb06b12509c6a6689cacd6ce4a3e68cf7cd64", "ptbr": "F"}
+{"id": "LocalText/honor_text67", "revision": "8db5f2de3ea8cc9e1d8a49e3e4d0b62d4419000422715755da9a232901941405", "ptbr": "Destino acionado! Você recebeu uma recompensa adicional!"}
+{"id": "LocalText/honor_text68", "revision": "0331b8c3d785aa19d7d303827967a9e2895ac57433315116acbcbf21eec730d3", "ptbr": "Não tenha medo. Estou aqui para te salvar!"}
+{"id": "LocalText/honor_text69", "revision": "1cfe47ffa123c1a2afc434a9229a47d139e1be8cb6d3e1634e6ce5dd79387262", "ptbr": "Iniciar desafio"}
+{"id": "LocalText/itemTitle1101003", "revision": "df901575951a8c3c269c8613a154d287b4747c6f41b5a1f10f671ebb7d67d08f", "ptbr": "Entregar Orbe de Alma do Sempre-Verde"}
+{"id": "LocalText/load_yanbian", "revision": "44f351b3987799a9fe0c3923a6947a2df6fa117bbe4588bb8deb2bcd27cb284e", "ptbr": "O mundo está evoluindo..."}
+{"id": "LocalText/loading_text1", "revision": "9705a0c527281e4bf236998a2104bf994773e3df3606ed4b6e019cd994b85c0b", "ptbr": "Quando você não tem Energia suficiente para usar uma Técnica Espiritual equipada, o jogo troca automaticamente para uma Técnica Espiritual básica que não consome Energia."}
+{"id": "LocalText/loading_text10", "revision": "2ebcb4151a3daaf49a5ba52152776a8ea128d21e4e0bb638c36631eccdcc8583", "ptbr": "Você ganha Cultivo ao cultivar em um local do mapa-múndi. Quanto maior o valor de Qi do local, mais Cultivo você ganha."}
+{"id": "LocalText/loading_text11", "revision": "af5a8396d8dfccd85ccefd75d4f960900dc1680dd5b582fb8de58f875e101f70", "ptbr": "Você colhe Ervas ao coletar em um local do mapa-múndi. Quanto maior o valor de Ervas do local, mais valiosas são as Ervas colhidas."}
+{"id": "LocalText/loading_text12", "revision": "fdcdb1ae6e584e491a6c4a5f27ce4a54179e86bb11d4566ef249be0e9da99860", "ptbr": "Você extrai Minérios ao minerar em um local do mapa-múndi. Quanto maior o valor de Minérios do local, mais valiosos são os Minérios extraídos."}
+{"id": "LocalText/loading_text13", "revision": "8de050373254694b8e11897020ea11a7337136fdb242a45094055d68ce5480c6", "ptbr": "As Ervas servem para confeccionar Elixires. Elixires melhores precisam de Ervas melhores."}
+{"id": "LocalText/loading_text14", "revision": "83895412d0005f1725b7733faf89283041a9d6e4f70a142f1b2610c750cdd6f0", "ptbr": "Elixires básicos podem ser comprados em várias cidades."}
+{"id": "LocalText/loading_text15", "revision": "6390b5474de953a50690cc6c3f68b73cdf38edf75e17f4073a9e9ab0099a782b", "ptbr": "Descanse nas Estalagens das cidades para recuperar a Vitalidade, a Energia e o Foco."}
+{"id": "LocalText/loading_text16", "revision": "45ffbab2871dc6ed675a2ba711a409fd436e4646ab58126c0ea2beb8f4d86582", "ptbr": "Descanse nas Estalagens das cidades para recuperar parte do Vigor e da Saúde. Há também uma chance de remover Destinos negativos como [Gravemente Ferido]."}
+{"id": "LocalText/loading_text17", "revision": "cc4f405000700dd1220a11fbebc73c011585f7121d85ffdcf8450291a886ab77", "ptbr": "Manuais básicos podem ser comprados no Mercado de várias cidades."}
+{"id": "LocalText/loading_text18", "revision": "82547e1c9ce0eedc040f89e8b436238490567e4e1a9782103f6fa124db8e6ff5", "ptbr": "Você pode pedir informações ao dono da Taverna."}
+{"id": "LocalText/loading_text19", "revision": "82abd70eadeb969442c6c165a0fbb765e5c67bc672cdf4090cdeb25418f3e8d1", "ptbr": "Confira o Quadro de Recompensas de cada cidade. Complete missões de recompensa para ganhar Pedras Espirituais."}
+{"id": "LocalText/loading_text2", "revision": "6711f5953cc26fe6c25de4301ef6bc78dfa1c7f600243e20a0ff878e45ed3571", "ptbr": "Durante as aventuras, leve Elixires suficientes para recuperar a sua Vitalidade e a sua Energia."}
+{"id": "LocalText/loading_text20", "revision": "6035c17f26ba4922c02e3654e50d9c778d5c4d634e32704bf3ee0d4fd27393b1", "ptbr": "Envie itens para outras pessoas para aumentar a Afinidade entre você e quem recebe."}
+{"id": "LocalText/loading_text21", "revision": "bf36b03d3bb343c8c2618ed7117d0ee659819369cbec7fd86a4e0418404786d2", "ptbr": "Pedir itens a outras pessoas reduz a Afinidade delas por você."}
+{"id": "LocalText/loading_text22", "revision": "0a74df5616f024a05b2d07ab7f8d4beb6ec68d1b73fdab38a71ceafd92210ece", "ptbr": "Você precisa passar nas Seletivas de Seita antes de poder entrar em uma."}
+{"id": "LocalText/loading_text23", "revision": "24043392f31369eb4a3594bc4f0968872610bc08a3f02366ff8d57357fa40161", "ptbr": "Inspecionar o Inventário de outra pessoa consome Foco. Quanto maior o seu Foco, mais itens você vê."}
+{"id": "LocalText/loading_text24", "revision": "bda28e92e99a284a59afdb2dd5de5ecb83f20c1eabbe1b6556874caab6d9f820", "ptbr": "Você pode aprender Artes Marciais com o seu Mestre."}
+{"id": "LocalText/loading_text25", "revision": "760e3621367e6b4ec8fa8701108b1345b503ce0bb3c893039a737d80ef6ceab8", "ptbr": "Pais Adotivos podem tirar você das piores situações."}
+{"id": "LocalText/loading_text26", "revision": "ddcbd504e0e594ab732af2ca32cdd6042977fedfcef388c9483950991dbc3ef8", "ptbr": "Visite Santuários Imortais para obter o reconhecimento e as habilidades extraordinárias dos imortais."}
+{"id": "LocalText/loading_text27", "revision": "bf30c39e0cf63fd79e6d11bd7340f2c094dc5dbaaba4eef4cc7bfc221ea16d3a", "ptbr": "A Matriz de Pedras pode iluminar a área ao redor para você."}
+{"id": "LocalText/loading_text28", "revision": "e16d1e448bb75fd957d3a4c381dfdd33f26ec86a13a970e01c6948b1d6908da7", "ptbr": "Você encontra Manuais avançados na Biblioteca de Manuais da sua Seita."}
+{"id": "LocalText/loading_text29", "revision": "4e40f73e61d5538824b1fc80332b894aee24a709a43a4fe526496e8e72024c6e", "ptbr": "Leilões acontecem a cada dois anos. Prepare Pedras Espirituais suficientes antes de entrar na Casa de Leilões."}
+{"id": "LocalText/loading_text3", "revision": "4993cda0f4d39b7665ab702aca063c5f90ee64527e891482fe83a2bb8de8305b", "ptbr": "Fora de combate, usar Elixires para recuperar Vitalidade ou Energia não consome Foco."}
+{"id": "LocalText/loading_text30", "revision": "1ae6e2c09f933ed14c97b13ede40c8d6ec5d499ba0b784eda7599b7c45f3697d", "ptbr": "O Cofre de Árvore oferece um lugar seguro para guardar os seus tesouros."}
+{"id": "LocalText/loading_text31", "revision": "194d221dc346a5be27f65d3ef30fe55f060d02f22706072c840b7e9142e3085c", "ptbr": "Você pode fazer Cultivo Dual para ganhar Cultivo extra. Mas obtenha o consentimento da outra pessoa antes."}
+{"id": "LocalText/loading_text32", "revision": "033a0198255607cf8890fd43a9939cfeac94a0d2503ef80befe96974bd9da7b3", "ptbr": "Você pode Debatir com outras pessoas para ganhar Pontos de Dao."}
+{"id": "LocalText/loading_text33", "revision": "18d9547f87413e986fb088b2e1946fb6eebf11c9f74bad9f909aafda6f574257", "ptbr": "É sempre sábio conhecer a rede de relações de alguém antes de transformá-la em inimiga."}
+{"id": "LocalText/loading_text34", "revision": "bc547159aeef51eec2130ae30633b0459d9266257e665e355a443083c7acd0ae", "ptbr": "Cultivadores escolhidos pelo céu têm Mentes Taoístas e costumam ser difíceis de conviver. Presenteie-os com o que precisam para fazê-los seus amigos."}
+{"id": "LocalText/loading_text35", "revision": "44cd677ea99115711adbbdc04ab1a050bcb2faa6b52e2aecaa865f8d7a69bf92", "ptbr": "Um Título Taoísta traz muita admiração."}
+{"id": "LocalText/loading_text36", "revision": "12f2055d2a3cda0e935be50e409bac4898738bf34484e32a52a716e0d07d1c18", "ptbr": "Beber na Taverna pode conceder bônus de atributos ao custo de Pedras Espirituais."}
+{"id": "LocalText/loading_text37", "revision": "e8a9908e8bac39b37a8dcb4eba84aa201f6be7626ca9c489a0db65fbfb8e8414", "ptbr": "Para testar suas habilidades, vá à Arena de Artes Marciais e lute contra o boneco de treino de lá."}
+{"id": "LocalText/loading_text38", "revision": "2bfb55935b79781fa93a0bb45facdc71d46f5a271e2e03963d295fc108a99ef8", "ptbr": "Cultivadores em Núcleo Dourado (IV) ou acima deixam um Último Fôlego ao serem mortos e podem ser ressuscitados com certos elixires."}
+{"id": "LocalText/loading_text39", "revision": "8b98b89052567dc3d2e34a0ecdbcdea23687f99c7889af6da39136d40c3a0f31", "ptbr": "Viu uma experiência embaçada nos Eventos Recentes de alguém? Não se preocupe. Foi só gente fazendo boas ações."}
+{"id": "LocalText/loading_text4", "revision": "525dd316d591040f8b1fc2cdeb01cc88f55bfba91e353be6557c771e24e50f19", "ptbr": "Depois de usar um Elixir em combate, todos os outros Elixires também entram em recarga, então use-os na hora certa."}
+{"id": "LocalText/loading_text40", "revision": "fa44ee11f42ef31465f4eae057f5e3e2794d1dc6e537a5ec666d90e9a415ef5e", "ptbr": "Pedras Espirituais são difíceis de ganhar. Compare preços antes de comprar de um mascate."}
+{"id": "LocalText/loading_text41", "revision": "249ac18fb1c7cd893d7ba550ec2c9c53c1dbdb4321449a1ad7bf887ff46e346a", "ptbr": "Dizem que a carne do Leviatã é suculenta e saborosa..."}
+{"id": "LocalText/loading_text42", "revision": "d803d40c8c969b1c975b9dc45a922715324e0f83800c7501fb97c9daa781de33", "ptbr": "Atenção! Se você vir duas garotas de cabelo branco, não se aproxime e peça a elas para voltar para o pai."}
+{"id": "LocalText/loading_text43", "revision": "9f3bbdf21acfca096dadeb6356fb5a8f081f6e2a05ed249ed086afce5b456f28", "ptbr": "Não se assuste com a aparência horrível dos Demônios. Eles não atacam na maior parte do tempo."}
+{"id": "LocalText/loading_text44", "revision": "acce2ebce16b19ab77ceb17345aa5e7f9d20de1d8caf6029bbb2e7926fd620dc", "ptbr": "Não tome o Elixir de Yang Luminoso!"}
+{"id": "LocalText/loading_text5", "revision": "3e88bcf7dbddce525200f9e39623da2c1e2eefd913279c9cc515bceddd6ad77a", "ptbr": "Se você matar alguém, a família e os amigos dessa pessoa vão passar a te odiar e buscarão vingança."}
+{"id": "LocalText/loading_text6", "revision": "6fd0a2f3fed0d78510793db8a72e69518cc6e593751a5bd66408fe877baf4fca", "ptbr": "Melhorar uma técnica só é possível quando seus atributos atendem aos requisitos."}
+{"id": "LocalText/loading_text7", "revision": "edac041e0568086cdd297d7e32ea790d4985385f066971df074b7120d544ab94", "ptbr": "Usar uma técnica em combate também a melhora."}
+{"id": "LocalText/loading_text8", "revision": "e672efc50badb76fca045f4deaa432817b74ede39b73bdd27425faf175c22e8f", "ptbr": "Existem 12 níveis de técnica, de I a XII."}
+{"id": "LocalText/loading_text9", "revision": "c42075a1e8dc37f40675352a6417b3fed16326e7fe3dedfb3247a9046d6f0dca", "ptbr": "Melhore as técnicas para desbloquear os efeitos especiais delas."}
+{"id": "LocalText/playerInfo_juelietishi", "revision": "ea6a1f3d9e0688ad4ac85ea00033edabae150fdd8b2fbf4306c88152dbba0b01", "ptbr": "Se você romper a relação, toda a Afinidade entre vocês será perdida e o Ódio aumentará um pouco."}
+{"id": "LocalText/prop_dakai", "revision": "2f18f7d4e615906f7f30d3a1b0b0195bd96f3bfd8a55f1c04bbd79e98f664d08", "ptbr": "Abrir"}
+{"id": "LocalText/prop_qiangdu", "revision": "1b604e3a383646d8e57e42612f11f4c9ef8a55e3d942b3a80420121f8815c670", "ptbr": "Nível de Selamento"}
+{"id": "LocalText/prop_qiangdutishi", "revision": "fef5093a69194f5ebf18a1886e0d0e33f2fbff2467ff14ae507ee5006cadac78", "ptbr": "(Quanto maior o Nível de Selamento, menos itens aparecem quando outras pessoas examinam sua Mochila.)"}
+{"id": "LocalText/prop_qinglibeibao", "revision": "63135c20f8ac6f1c0accf5bb380ab7b7eaca49ffbac4578f20c810b56bdcffef", "ptbr": "Há itens demais no seu Inventário. Não é possível remover o anel. Limpe o Inventário antes de tentar de novo."}
+{"id": "LocalText/prop_shangxian", "revision": "fa746ed251ac3a4f3a6eb73396753287dba486dc28c1a802846d3f1127abaa9a", "ptbr": "Capacidade de Inventário"}
+{"id": "LocalText/skillPrefixDesc1211101", "revision": "5e00f86ae963fa46ff7fb12b6a0b4ab3023e0d913f5273f3fa0e20faf0620594", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Lâmina Sanguínea neles."}
+{"id": "LocalText/skillPrefixDesc1211102", "revision": "884b842e3b4c654a3250c31957931d6950caf70e7be1635d9ae18f17b9e7d447", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Impiedade em você."}
+{"id": "LocalText/skillPrefixDesc1311101", "revision": "9d5299517fafaa4dce3926949e9e2f032271d06274ce7b6c3b580e42a481defb", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Quebra-Armadura neles."}
+{"id": "LocalText/skillPrefixDesc1311102", "revision": "cc160ba68eb6c94f7f76c74d23e6ac8e7e050a5d369e0d65c706644c1d0f41ca", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Quebra-Postura em você."}
+{"id": "LocalText/skillPrefixDesc1411101", "revision": "2731426485a4e535d913bcdf405cd6669d1a167e88e9189ed86d4fc2e0d368d3", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Sangramento neles."}
+{"id": "LocalText/skillPrefixDesc1411102", "revision": "b45639d6522cd0f814843785eac605492544692d94d9eb53011239bebd876345", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Corte de Espada em você."}
+{"id": "LocalText/skillPrefixDesc1511101", "revision": "f71c4e3014bc2eef0fc60e1fafb448d4d0c7bee9966074b2da75dfbbc9bfe76f", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Estilhaço de Ossos neles."}
+{"id": "LocalText/skillPrefixDesc1511102", "revision": "2668c1879c6cf987f7bc18f5b3d55c5baa693b61ea54cf730d73323dc0268dc1", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Pele de Bronze em você."}
+{"id": "LocalText/skillPrefixDesc1611101", "revision": "ad4266ad10de66d87bc4ef0fcb616087e407cc9b15582ac69c37813d99e1bd65", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Ferimento Interno neles."}
+{"id": "LocalText/skillPrefixDesc1611102", "revision": "ec69df9e34c18c9fdc7cb3024639028fb6992d4b5a5e005638df028893b2ac77", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Força Interna em você."}
+{"id": "LocalText/skillPrefixDesc1711101", "revision": "d90d726e7d07a74bbfa8516d5c2c4972be25b52a7f3bc50d1430522a768d5918", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Vazio Interno neles."}
+{"id": "LocalText/skillPrefixDesc1711102", "revision": "cddc9d87477c9a5d32276735e568e02660d64a0e670ccde47354a8bf18e579c2", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Meridiano Aberto em você."}
+{"id": "LocalText/skillPrefixDesc4111101", "revision": "d5e6277d08182a7a01873a3b6e6f6268aa5d7aa4040c279260950a4df35ad139", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Queimadura neles."}
+{"id": "LocalText/skillPrefixDesc4111102", "revision": "0004ddf7db8cae552ba85b3680da5f8863c23dd638be533f881f023dd63413b4", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Alma em Chamas em você."}
+{"id": "LocalText/skillPrefixDesc4211101", "revision": "13c4ed0a52e427231feaefa73e0834684bce76549b2c70adfbbbbe0c888963da", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Geada neles."}
+{"id": "LocalText/skillPrefixDesc4211102", "revision": "eea4d436b5bfff05472041f97b8b21d04659c83f269259d4d6dbca73a836b3ef", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Surto Espiritual em você."}
+{"id": "LocalText/skillPrefixDesc4311101", "revision": "7c3917736481d928d402f9b831b11d4a43c7db12c35417f9e2704b76e28ece34", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Turbulência neles."}
+{"id": "LocalText/skillPrefixDesc4311102", "revision": "0db072483cd6662411bb7926b2acb195b7eed802be75187e3911acd1ee32750e", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Surto de Trovão em você."}
+{"id": "LocalText/skillPrefixDesc4411101", "revision": "affeb521d0481582cf456bfdb0446d54e57690d44e17db237fe174ee0fe60020", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Vento Contra neles."}
+{"id": "LocalText/skillPrefixDesc4411102", "revision": "73582e12446275032739a478e297ce85e9e0d93cf9685fdaaf99500dfc304c81", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Vento Espiritual em você."}
+{"id": "LocalText/skillPrefixDesc4511101", "revision": "0bef392b14f88e4d8b2a85a639dafcdae89097274e0747566e5dfabbdcdb66f2", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Tremor de Rocha neles."}
+{"id": "LocalText/skillPrefixDesc4511102", "revision": "b2ad676cfcb0667cc18e41d63187be8f5c46d13d1036c0a5c84f8c00044dddb3", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Pele de Pedra em você."}
+{"id": "LocalText/skillPrefixDesc4611101", "revision": "c68a2a049b5786a3329e0bb78f303ddc8ab779e2eb251131ae4eb7a74f28507e", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Ferrão Venenoso neles."}
+{"id": "LocalText/skillPrefixDesc4611102", "revision": "da0bc012ae972d17d73054a55d8d4ada19a9cd29922b128406e6578b561255bd", "ptbr": "E ao atingir inimigos, há uma chance de acumular uma camada de Espírito de Flor em você."}
+{"id": "LocalText/skillPrefixDescA2025107", "revision": "5828bd6d864992af22eaa304eb385bb1eb5e4d31dcda30280d19edfd0b52368a", "ptbr": "Poder de dano desta técnica +2."}
+{"id": "LocalText/skillPrefixDescA2025108", "revision": "cce313bb6135424bbccb233c82190ecc3f823791ad4312c37ff4b54460955957", "ptbr": "Poder de dano desta técnica +2."}
+{"id": "LocalText/skillPrefixDescA2025109", "revision": "1d3e9d5d608222156c7475847658abbb1ccbd13c1005a728c6cd067280939014", "ptbr": "Poder de dano desta técnica +2."}
+{"id": "LocalText/skillPrefixDescA2025110", "revision": "3f61683611c50faf4e6aad8fbb2c0d6e5a88ce212b9c22ca26b2bf1c656b6bcc", "ptbr": "Poder de dano desta técnica +2."}
+{"id": "LocalText/skillPrefixDescA2025111", "revision": "cc478ec86ca9b481d443b4b10ab511ee2b19436b756351f9fed956fc95b3f747", "ptbr": "Poder de dano desta técnica +2."}
+{"id": "LocalText/skillPrefixDescA2025112", "revision": "ed05342f42638f434a6251ccf95bb0872ec29d7c3fbc8e0aee83301657cb9c8f", "ptbr": "Poder de dano desta técnica +2."}
+{"id": "LocalText/skillPrefixDescA2026107", "revision": "aa1fd606ea73252543e4f520e95b666e190a8196d269b972561a59fb1104d2e8", "ptbr": "Poder de dano desta técnica +2."}
+{"id": "LocalText/skillPrefixDescA2026108", "revision": "ed14addf0651831ba2405c38eedec3da7d84e0ccc1d777fc1adc4ee4bdb43b49", "ptbr": "Poder de dano desta técnica +2."}
+{"id": "LocalText/skillPrefixDescA2026109", "revision": "d91648cab1993933daf64f715cd3a58b472a023fdb47d6bedbdbbbe259940edd", "ptbr": "Poder de dano desta técnica +2."}
+{"id": "LocalText/skillPrefixDescA2026110", "revision": "31ff07ed4aa32e710ae955563552dd040d5cd9fd7fda9e7de4a002b7b6ffcc80", "ptbr": "Poder de dano desta técnica +2."}
+{"id": "LocalText/skillPrefixDescA2026111", "revision": "c9833dd376c81377e527486b555d1f03bb1bcd87b4961225bb6e1d8c3b36f73a", "ptbr": "Poder de dano desta técnica +2."}
+{"id": "LocalText/skillPrefixDescA2026112", "revision": "0db1e9c416d7c709d810c40a3ec2a5143eb15f2bab8414b92c171947b14be8cb", "ptbr": "Poder de dano desta técnica +2."}
+{"id": "LocalText/skillPrefixDescB2025101", "revision": "2df723b158a82d2662f6d7ad530afb123ad16c1172f4dd42dab151565ba26421", "ptbr": "Reduz o custo de Energia em 2."}
+{"id": "LocalText/skillPrefixDescB2025102", "revision": "6eec9ee4fbc55680d855c97960b3c229bf1f5bd2353b2bf5109e59a016ce9bf1", "ptbr": "Reduz a recarga em 2s."}
+{"id": "LocalText/skillPrefixDescB2025103", "revision": "edf926081c8421be7f489925c3ca7619aefee3d1bb8b6aa2ca682e0c96da056a", "ptbr": "Reduz o custo de Energia em 3."}
+{"id": "LocalText/skillPrefixDescB2025104", "revision": "98132de809e118a2e3c2ddc264b8c2fab572c5c1f0de90d724b59ad939f81cdf", "ptbr": "Reduz a recarga em 3s."}
+{"id": "LocalText/skillPrefixDescB2025105", "revision": "73dab5a10ebbf5e562c0a174b51e80bc6c5df8a6f06d241cd592b92c3f7adc1f", "ptbr": "Reduz o custo de Energia em 4."}
+{"id": "LocalText/skillPrefixDescB2025106", "revision": "62cbbd9d6789b9592b26368d4ce14a0dd58d2ada165c20842ff964269db84790", "ptbr": "Reduz a recarga em 4s."}
+{"id": "LocalText/skillPrefixDescB2025107", "revision": "d6e08f2a25ee934920a21827bd451005dbe8a070f3080da81a14d70c529a8cf3", "ptbr": "Cada camada de Qi de Espada, ao explodir, aplica uma redução de 30 de velocidade de movimento por 5s."}
+{"id": "LocalText/skillPrefixDescB2025108", "revision": "de5663c061da12962b01c77263e3cb93e3166b85aec61b72136ed7c7b78e7ea8", "ptbr": "Cada camada de Qi de Espada, ao explodir, aplica uma redução de 30 de velocidade de movimento por 5s."}
+{"id": "LocalText/skillPrefixDescB2025109", "revision": "8748b3540927a688b8fb0d8de3abc2b53b5af86540b45de71a6d56802dd15ec9", "ptbr": "Ao usar esta técnica, aumenta em 30 a sua velocidade de movimento por 10s."}
+{"id": "LocalText/skillPrefixDescB2025110", "revision": "c9ccb0dbde340fc5e7de7cc2f0a0a534921e12c51ddfe9b0eb3a21509cb27ff7", "ptbr": "Cada camada de Qi de Espada, ao explodir, aplica uma redução de 30 de velocidade de movimento por 7s."}
+{"id": "LocalText/skillPrefixDescB2025111", "revision": "5af0b5ee940f88a4b20779352cbdab5df4be24dbc9f7db5a852a421fa6f01471", "ptbr": "Cada camada de Qi de Espada, ao explodir, aplica uma redução de 30 de velocidade de movimento por 7s."}
+{"id": "LocalText/skillPrefixDescB2025112", "revision": "685b1172992394e071185f7c6977fe02d97a2d6882c89add7ba6d0c113b3c818", "ptbr": "Ao usar esta técnica, aumenta em 50 a sua velocidade de movimento por 10s."}
+{"id": "LocalText/skillPrefixDescB2026101", "revision": "8b488f050a5397be76b838a8cf84716c582053c675c3a08f7221ddbf612eadad", "ptbr": "Reduz o custo de Energia em 2."}
+{"id": "LocalText/skillPrefixDescB2026102", "revision": "b156745290b409886d4a644705d871127e39b9aa5c3eaa41ca3a19b430fc5274", "ptbr": "Reduz a recarga em 2s."}
+{"id": "LocalText/skillPrefixDescB2026103", "revision": "4df464764e5efd3a4cd71b3efb43c0e4753c7a9bda761c6fc41b545c723255ee", "ptbr": "Reduz o custo de Energia em 3."}
+{"id": "LocalText/skillPrefixDescB2026104", "revision": "8df2abc909eb69a6f86c672df8252507c956b53445b9c1833dbb0eed6e17ae53", "ptbr": "Reduz a recarga em 3s."}
+{"id": "LocalText/skillPrefixDescB2026105", "revision": "fb71e0de9a68ac9e25d91dad72e423bd1d2852b0d8f61f0cfc3a2d64ca89e257", "ptbr": "Reduz o custo de Energia em 4."}
+{"id": "LocalText/skillPrefixDescB2026106", "revision": "ed50f6a7220e5c43e2cfab4630c4ac4110cb76933804e6bc181817f17a2d92f3", "ptbr": "Reduz a recarga em 4s."}
+{"id": "LocalText/skillPrefixDescB2026107", "revision": "82d12db384960789521da2041ca300de3e325d47596223ccb3b27078d1ea6851", "ptbr": "Sombras de Espada +2."}
+{"id": "LocalText/skillPrefixDescB2026108", "revision": "81360a1d9575951244747c0e5e0645410149525142eca43ee59d11a714d219b5", "ptbr": "Sombras de Espada +2."}
+{"id": "LocalText/skillPrefixDescB2026109", "revision": "bf1d4c2a440f2a9e0431323e801d10f48b740587db8dd414086474ef32f76314", "ptbr": "Sombras de Espada +3."}
+{"id": "LocalText/skillPrefixDescB2026110", "revision": "bdb007f1d9c3b182bff14fffa836ae995ba1e4a2405b3217d810f38ac71e6ab7", "ptbr": "Ao usar esta técnica, aumenta em 30 a sua velocidade de movimento por 10s."}
+{"id": "LocalText/skillPrefixDescB2026111", "revision": "21d7ad67d8b9bb5d5f7b053877131ad9869c33b9e4c996704c16ada35e53884c", "ptbr": "Ao usar esta técnica, aumenta em 50 a sua velocidade de movimento por 10s."}
+{"id": "LocalText/skillPrefixDescB2026112", "revision": "6c994315b1c88fe9f49cd880796cfdfc69e08118d5bb7433f0a924d4c6403e8e", "ptbr": "Sombras de Espada +3."}
+{"id": "LocalText/skillPrefixDescC2025101", "revision": "eee38657e9212f351f0a97c52e9f04f3414a1bc46d6b8bfe8c63c70cd25c6154", "ptbr": "Reduz a recarga em 2s."}
+{"id": "LocalText/skillPrefixDescC2025102", "revision": "91552f40abf7225bc7ccb1c2358e78621815b14a5bc7ad2e4e4c6c0786451fa5", "ptbr": "Reduz o custo de Energia em 3."}
+{"id": "LocalText/skillPrefixDescC2025103", "revision": "d1294612d8d71d45a2a129b8c96bb30977176c480699b62bbf61d2037cb91690", "ptbr": "Reduz o custo de Energia em 4."}
+{"id": "LocalText/skillPrefixDescC2025104", "revision": "6f2d4858f932d72e79f087f64ad4e5667525ccae51f900515235592666ae52f2", "ptbr": "Reduz a recarga em 4s."}
+{"id": "LocalText/skillPrefixDescC2025105", "revision": "5c6c5c4895f1eeb40235cf2268cd786cc93e7a9fa0dd17ca75f8fc1a21c75ec5", "ptbr": "Reduz a recarga em 5s."}
+{"id": "LocalText/skillPrefixDescC2025106", "revision": "e4a0e61dd357fda1a2d06660172e972fa56c891f89688cf8fbdeb01d930e2eef", "ptbr": "Reduz o custo de Energia em 7."}
+{"id": "LocalText/skillPrefixDescC2025107", "revision": "cdd0567d92f7426bbfed7c636c1d0242b419cecffb864bf8642a5f0f7c248475", "ptbr": "Quando a aptidão de Espada atinge 30, Poder de dano desta técnica +10."}
+{"id": "LocalText/skillPrefixDescC2025108", "revision": "54206198da5888d3ee94e390cb9f0eb3a5724e08e90c4e00f03a017505358965", "ptbr": "Cada vez que um golpe de espada mata um inimigo, há 30% de chance de reduzir imediatamente 1s da recarga desta técnica."}
+{"id": "LocalText/skillPrefixDescC2025109", "revision": "3dbd3806483741f7f4842e767bb07fd53310261088a9cdb9d051de55e25f2147", "ptbr": "Quando a aptidão de Espada atinge 35, Poder de dano desta técnica +15."}
+{"id": "LocalText/skillPrefixDescC2025110", "revision": "fad6055706f307c5e89356057b843609402a95fb62b315c1cb0acb35040ade73", "ptbr": "Cada vez que um golpe de espada mata um inimigo, há 40% de chance de reduzir imediatamente 1s da recarga desta técnica."}
+{"id": "LocalText/skillPrefixDescC2025111", "revision": "116fe7560e7d457f8b7de7089cc36fddfdd98f69e8d0d3401695a3374f1dbc1e", "ptbr": "Quando a aptidão de Espada atinge 40, Poder de dano desta técnica +20."}
+{"id": "LocalText/skillPrefixDescC2025112", "revision": "793c5a1835d2c85727e190c2d13e531c1ea239f2f22ce6e0996213b2f36509ab", "ptbr": "Cada vez que um golpe de espada mata um inimigo, há 50% de chance de reduzir imediatamente 1s da recarga desta técnica."}
+{"id": "LocalText/skillPrefixDescC2026101", "revision": "53bf4fe8b8c76f5ee955779ededef38c26d541e5fbad5501106550babf1e9625", "ptbr": "Reduz a recarga em 2s."}
+{"id": "LocalText/skillPrefixDescC2026102", "revision": "f6d693db9ab2664e614c7bbc66d9ec7fc7954aada61438d2e83b7d7cdad2164c", "ptbr": "Reduz o custo de Energia em 3."}
+{"id": "LocalText/skillPrefixDescC2026103", "revision": "1ddda49b0e1592078b609e8c102103d4832279b3b473f86266a42d113e98234c", "ptbr": "Reduz o custo de Energia em 4."}
+{"id": "LocalText/skillPrefixDescC2026104", "revision": "9e9e1d339cdd47de38caea87de2d0a424c7f894b397f4656fb533aa07e417c8c", "ptbr": "Reduz a recarga em 4s."}
+{"id": "LocalText/skillPrefixDescC2026105", "revision": "6d2b68c7833d865d54e32e259dd17f70e9df10877f7c9cf657a651d715cb748c", "ptbr": "Reduz a recarga em 5s."}
+{"id": "LocalText/skillPrefixDescC2026106", "revision": "23790d1e0f9db05ae9358626d9f96e9ba570051af92bca4bfae50341bbe97ceb", "ptbr": "Reduz o custo de Energia em 5."}
+{"id": "LocalText/skillPrefixDescC2026107", "revision": "2c267acf3930c02f81cf58b0644c0055e3fc84723a4b629c6b096fd42ffbaeb0", "ptbr": "Quando a aptidão de Espada atinge 30, Poder de dano desta técnica +10."}
+{"id": "LocalText/skillPrefixDescC2026108", "revision": "2c149a4bb6976d99023f29733c69a04670c891c2e3e713fca95201cad641f57b", "ptbr": "Usar uma Técnica de Movimento reduz imediatamente 3s da recarga desta técnica."}
+{"id": "LocalText/skillPrefixDescC2026109", "revision": "0a8c29f0c8b87305bf24590c629d12f98e57d594357c7d8c80f4140392849664", "ptbr": "Quando a aptidão de Espada atinge 35, Poder de dano desta técnica +15."}
+{"id": "LocalText/skillPrefixDescC2026110", "revision": "986d15ff0242159e03ee6afb7bc1a90c5c8435ba0558b77b7b80111c8e170d02", "ptbr": "Usar uma Técnica de Movimento reduz imediatamente 5s da recarga desta técnica."}
+{"id": "LocalText/skillPrefixDescC2026111", "revision": "e84424e2650959cb31d9fa9cad104fe9adf82f8e888e41688a483675b3f01906", "ptbr": "Quando a aptidão de Espada atinge 40, Poder de dano desta técnica +20."}
+{"id": "LocalText/skillPrefixDescC2026112", "revision": "8b661f51c0ddbafec5cfd551575e77ebb73e206a7e3ddc6188ae26f1fb763607", "ptbr": "Usar uma Técnica de Movimento reduz imediatamente 10s da recarga desta técnica."}
+{"id": "LocalText/skillPrefixName4511101", "revision": "873e1aa9a88adbdf5072b26e3130aee742ddfbc5b6b9edd85981034cb2386ef6", "ptbr": "Estilhaçamento"}
+{"id": "LocalText/skillPrefixName4511102", "revision": "ee0e18a976f53d879b88c83242b62b9a2afe067838bacc21d176dd0b700d6641", "ptbr": "Tremor"}
+{"id": "LocalText/skillPrefixName4511103", "revision": "e1796c4be961bde71b3b435ef1b740f2f7a74de30019b89ff16f6deb13acf972", "ptbr": "Voo"}
+{"id": "LocalText/skillPrefixName4511104", "revision": "a604e0a75bfca47b416dc2e6aa23adbb38c600de0bad861c9d0481ca62ac4cc3", "ptbr": "Terra"}
+{"id": "LocalText/skillPrefixName4511105", "revision": "98126a3d25cbc065f9b6c33d10a7d6a663c831f75ebe36d4a43df02e30bc1b69", "ptbr": "Miragem"}
+{"id": "LocalText/skillPrefixName4511106", "revision": "bd849bcc756a728f4ccf5062fd1532b4c46b36ecda7309bf1a7390289b2a80ed", "ptbr": "Uivo"}
+{"id": "LocalText/skillPrefixName4511151", "revision": "4eb35ab4c3a9f2cde341fb68856b2ead90abde795b8545a52a50a598d2f8951d", "ptbr": "Rocha"}
+{"id": "LocalText/skillPrefixName4511152", "revision": "2bdea6eca3f32eaadf7742cc149d347e9b9cbe9903a1ef4da0e9d66557621283", "ptbr": "Monte"}
+{"id": "LocalText/skillPrefixName4511153", "revision": "61c10ff95412eefd5b60ea2c6da0f7e902e8859055aa77b332f53be6e45d92d0", "ptbr": "Estrela"}
+{"id": "LocalText/skillPrefixName4511154", "revision": "556e44bbb1f8770771757b684fc793f30cee223128c67b1bfb0d03c7e134988d", "ptbr": "Ermo"}
+{"id": "LocalText/skillPrefixName4511155", "revision": "5eaeb16148038cb6fcc82ea02eef93f5331a035f3ea5369f92764f649d2a51a8", "ptbr": "Pedra"}
+{"id": "LocalText/skillPrefixName4511156", "revision": "13cad26452b053f64e9d8fcc17f731de1214cb914e7048bb2971f046eed8a36f", "ptbr": "Meteoro"}
+{"id": "LocalText/skillPrefixName4511201", "revision": "91612d83473a23c3bc76d24f6c08724410086c4815a31c6c2727e0234f7f7af3", "ptbr": "Explosão"}
+{"id": "LocalText/skillPrefixName4511202", "revision": "d046e66ddeb60d7036579f4a1386b0e06ad4d468e92ceeaaf0db90ab29fa3c7c", "ptbr": "Condensação"}
+{"id": "LocalText/skillPrefixName4511203", "revision": "aa36143335d2e7fc3b0d7a5f2e8a609d70433ba073b2dabc0cd2cb43836d2524", "ptbr": "Colapso"}
+{"id": "LocalText/skillPrefixName4511204", "revision": "520e8dac9e3fdd9ac21e5a7aa99f0f18361281e951962356bf98dc86a5904373", "ptbr": "Selamento"}
+{"id": "LocalText/skillPrefixName4511205", "revision": "37829ce3a8162b6d37ef57815dc802ee6187f7244a85226cc59100b601a360cf", "ptbr": "Emboscada"}
+{"id": "LocalText/skillPrefixName4511206", "revision": "42031407c6b7c2bece29e5873334bf83c6602e5a80d71c67d8bf7c088ce76ae4", "ptbr": "Ascensão"}
+{"id": "LocalText/skillPrefixName4511251", "revision": "20ad17450f99c5e474359ddcc013c1f0a4e95e9a358e3752dea9123fb4aa5741", "ptbr": "Chama"}
+{"id": "LocalText/skillPrefixName4511252", "revision": "59e4346cbf73641b6e6373aa949632bbeba2cac9ade9d1a59a499710e9e4acd0", "ptbr": "Rocha"}
+{"id": "LocalText/skillPrefixName4511253", "revision": "4f3be776e34188e3efdfc5c13e36f96976a03636102fa53f21470ef91d08fe4c", "ptbr": "Dragão"}
+{"id": "LocalText/skillPrefixName4511254", "revision": "355c91b51667fe66136e85dcfdfd361219fb0c759e9ae879db2692893828ae42", "ptbr": "Nuvem"}
+{"id": "LocalText/skillPrefixName4511255", "revision": "a093550903788925c16ca1e060ac8ec26c5c0e90203e982463b594527b4ce5b1", "ptbr": "Pena"}
+{"id": "LocalText/skillPrefixName4511256", "revision": "f41c30e235416d0c6e9e2902964cdb7eea9e2d61356070c84d5dd390ac10e4b9", "ptbr": "Chuva"}
+{"id": "LocalText/skillPrefixName4511301", "revision": "dec5638602268c497d4d2bf1525a4a2b3cfc8de34debd01cb906e1387526e9a0", "ptbr": "Ira"}
+{"id": "LocalText/skillPrefixName4511302", "revision": "0ebecbf92852c796d9eee0829afe4caf081931663a1f0ff2969d7ae8e390adf5", "ptbr": "Fúria"}
+{"id": "LocalText/skillPrefixName4511303", "revision": "dad3d3f0381b7763eb41d010dc56c6d0669e1b7ac90359b23c85403d2e13c3c4", "ptbr": "Delírio"}
+{"id": "LocalText/skillPrefixName4511304", "revision": "7b825bdcc2756a73c8654cf384aa83a170cb9167ddd13660d4b541c91ac2d353", "ptbr": "Malícia"}
+{"id": "LocalText/skillPrefixName4511305", "revision": "3a0790e536d2de970d43639576520b1ac1b3672c867170bef2711dd95f203828", "ptbr": "Demolição"}
+{"id": "LocalText/skillPrefixName4511306", "revision": "b5380bddde97d9782b66823e275e3cc2bd4f5c19aa8ca4af873047e9c8057ef7", "ptbr": "Yang"}
+{"id": "LocalText/skillPrefixName4511351", "revision": "b9482023c15b2417a331be83f58a38494e03d586f3b0ff0b5cf67a6b4c4213e8", "ptbr": "Lótus"}
+{"id": "LocalText/skillPrefixName4511352", "revision": "33abb545888f40be15b6c7716e97248ed2ef510da19768202dc0f48d57930bee", "ptbr": "Encume"}
+{"id": "LocalText/skillPrefixName4511353", "revision": "b65a0b1cdd120e2baf593a7f2dfe8538f06efa53c4b6324c2af3ac83d71e68d8", "ptbr": "Fio"}
+{"id": "LocalText/skillPrefixName4511354", "revision": "6839eb240d362ca0e27b12a3ae6ad47725d9171d45aaa840723221289933c60f", "ptbr": "Rastro"}
+{"id": "LocalText/skillPrefixName4511355", "revision": "0eebb2e53832fdf64b5f86e75e80a019208ff545368d766dd57702cde1fce2d2", "ptbr": "Monte"}
+{"id": "LocalText/skillPrefixName4511356", "revision": "a15682ff84f5b7ddae5822dafec08c28a079cbd21645f6cc5db5348ba7ad1d6e", "ptbr": "Domínio"}
+{"id": "LocalText/skillPrefixName4611101", "revision": "5317a7a906c8752c424096fd0ba248a457a1f843e7118c6af43078c14426875d", "ptbr": "Voo"}
+{"id": "LocalText/skillPrefixName4611102", "revision": "458bc20f4770f1d5f7a6aa5e708347c09c905b7e5dcd54a27c8aab2d0c2d4291", "ptbr": "Dança"}
+{"id": "LocalText/skillPrefixName4611103", "revision": "a358b88ede0995838b3832f7f56f08be5e3b5f70628109497fdf4c77019240b6", "ptbr": "Queda"}
+{"id": "LocalText/skillPrefixName4611104", "revision": "fdcf6cb5e60836e9d1058a392279a4de72e7f5960eeff8c1efd2daf114b27554", "ptbr": "Deriva"}
+{"id": "LocalText/skillPrefixName4611105", "revision": "78e6a334579c4b2e5758bd7009379c877f49c752370e1ce2f78fe59216c970f3", "ptbr": "Leveza"}
+{"id": "LocalText/skillPrefixName4611106", "revision": "bca826b1d721fe44b584bb5457a37fecdd185ff7b0615a3f7fd4baee2262e80b", "ptbr": "Carmesim"}
+{"id": "LocalText/skillPrefixName4611151", "revision": "22b9d2e00028dc55dd21c6f933f774123a1340f136986329bc5e3562d945c44f", "ptbr": "Estrela"}
+{"id": "LocalText/skillPrefixName4611152", "revision": "fa5f69ce8c65ada68da91aa158b52653fb99b7d8c799398952675ac0c669585b", "ptbr": "Flor"}
+{"id": "LocalText/skillPrefixName4611153", "revision": "ace1350748b106918722342c9cd293f818a64252543849a3b93c889546ca6ef6", "ptbr": "Chuva"}
+{"id": "LocalText/skillPrefixName4611154", "revision": "7db8443de5cb966124f0566b31ef03f5bbffa610a08aa7eb65e71d609fec8a3b", "ptbr": "Neve"}
+{"id": "LocalText/skillPrefixName4611155", "revision": "494454a9121fefd79b3e04d9759bac78ebf0e53660dae2f0f0df940a6b88b5ca", "ptbr": "Pena"}
+{"id": "LocalText/skillPrefixName4611156", "revision": "b8507acbb14700494993687b6610b2539a0992540b274e26a75026a62776b57b", "ptbr": "Encume"}
+{"id": "LocalText/skillPrefixName4611201", "revision": "8f4e777099a849167bddfe29676886b8a94f3352e6a1509388438bcc06408e56", "ptbr": "Branco"}
+{"id": "LocalText/skillPrefixName4611202", "revision": "4f4f0f00c1949a69fa8fb49db663267d8d99a7207b80dcdd6c3080cdaab7c1d9", "ptbr": "Nada"}
+{"id": "LocalText/skillPrefixName4611203", "revision": "8644ef8e91bfb15141f8090de1ea4b1bf8ea68237db3fbf7e2ecbbdb2e5503a4", "ptbr": "Escuridão"}
+{"id": "LocalText/skillPrefixName4611204", "revision": "9f35eeb0aa0784331dcd3f2a660b49a8cd06e45027a5d91f95d4c68823d83646", "ptbr": "Verde"}
+{"id": "LocalText/skillPrefixName4611205", "revision": "53991206cf6d811d7493dc8a9965db97ae0f261fe3455e1222eb4f7f9df76144", "ptbr": "Caos"}
+{"id": "LocalText/skillPrefixName4611206", "revision": "c8d712109776922505e443ae0411807d3d4a2248ef117aa5817e3fc69449aad7", "ptbr": "Insuperável"}
+{"id": "LocalText/skillPrefixName4611251", "revision": "fd9834208612cda3821db235a1422d1dc1f0b9420b4b386d533e1861180c1d46", "ptbr": "Lótus"}
+{"id": "LocalText/skillPrefixName4611252", "revision": "3c44bba9bd89ebe9afb47d28a48b3da8aa02275b8287d1a5ab6138dc0d1ff4bd", "ptbr": "Fio"}
+{"id": "LocalText/skillPrefixName4611253", "revision": "3574ffacca9a3a5cd60f0aac1226a810c647fd129981a13ae278956746918c1a", "ptbr": "Asa"}
+{"id": "LocalText/skillPrefixName4611254", "revision": "808f408f3ba6faa2f9939feab22f9382e5479cabca2e64a6428af458fad9ce5b", "ptbr": "Corvo"}
+{"id": "LocalText/skillPrefixName4611255", "revision": "418d1d9cbfdb8be2d763a8c5d479cd4eaf8daec634cd3658b10fb2a6d0902481", "ptbr": "Forma"}
+{"id": "LocalText/skillPrefixName4611256", "revision": "76d57d86dc58e13e676eadf4db87547582dc4981444cd43a5e5c5bb8ebc38a47", "ptbr": "Severidade"}
+{"id": "LocalText/skillPrefixName4611301", "revision": "c1992aa78f408e27450d674579ebdd6bb795803727774d9b586558927f08403f", "ptbr": "Quebra"}
+{"id": "LocalText/skillPrefixName4611302", "revision": "17dab76d0d365c086431790b7b05118ba0001ebd933e56ff1072fae12460a2e7", "ptbr": "Ruptura"}
+{"id": "LocalText/skillPrefixName4611303", "revision": "2cba73c867305d1608976f761f9b7f2e2f78b092e6e96416e6b5eb351c71b316", "ptbr": "Estilhaçamento"}
+{"id": "LocalText/skillPrefixName4611304", "revision": "e8dda317a580f1d790a650eae56d1ee016b106441f88fdaefe680b6f10c2d1b9", "ptbr": "Corte"}
+{"id": "LocalText/skillPrefixName4611305", "revision": "a989b106277379846e8f714977f0420b34c4bc73e918bd4e53539ba1cd3adb17", "ptbr": "Cravamento"}
+{"id": "LocalText/skillPrefixName4611306", "revision": "0a41d0f9e392e1fc48a992b1dd4815344f38c0ab24451127264de1562a9dd2e2", "ptbr": "Demolição"}
+{"id": "LocalText/skillPrefixName4611351", "revision": "98d115c516a6af0caaef95077757eb5b4521337b6cf1d128a1ad5704167c51ca", "ptbr": "Céu"}
+{"id": "LocalText/skillPrefixName4611352", "revision": "be3f64f8fb7c5a954fc5d51172227c1f833c3b0f2ae5e15101772288a30565fa", "ptbr": "Vazio"}
+{"id": "LocalText/skillPrefixName4611353", "revision": "e3b415dc296ca18fb72a454dd7eafd75f6c7cfeebd48d009ee683eba76f0d7e9", "ptbr": "Furtividade"}
+{"id": "LocalText/skillPrefixName4611354", "revision": "2e2dac628027a8a87a521999b277d02b83445d43d2deec65b796ffb99ddb384d", "ptbr": "Funesto"}
+{"id": "LocalText/skillPrefixName4611355", "revision": "4dbac229d693f1f665708ff619980958b09e1d732a48d3f998771b3a3e63db01", "ptbr": "Equilíbrio"}
+{"id": "LocalText/skillPrefixName4611356", "revision": "c617813e70b21e2999b6d66d4f223923a2a877abe7c8211d11ef32f1dfa51c72", "ptbr": "Espírito"}
+{"id": "LocalText/skillPrefixName5411402", "revision": "f2ceb1aaefaf51c9065a9c3423250d08b1c1756d2d1b16e1a1ab09c0cd1f9a69", "ptbr": "Caos"}
+{"id": "LocalText/skillPrefixName5411403", "revision": "e4a42f1d40eee6b8a3dda227bd9bcbeec1a017ed518995bf9d7753ad19f6ac37", "ptbr": "Crueldade"}
+{"id": "LocalText/skillPrefixName5411404", "revision": "219074c9c1160f49dee2ea346ee32047e217b5e56553bc1492d2a0aac8bb9946", "ptbr": "Perfuração"}
+{"id": "LocalText/skillPrefixName5411405", "revision": "4feb5ff2ca262677dedc0a5b94a027b6445a2e254b916f79aff7223827fa1f8c", "ptbr": "Demolição"}
+{"id": "LocalText/skillPrefixName5411406", "revision": "c462941bfe2735cd67117ee941648b2ebfc3451c5348dde06ab160919efe5e02", "ptbr": "Erosão"}
+{"id": "LocalText/skillPrefixName5411451", "revision": "ad5d46c73b16854910f54609c0a122fc2a5a862d860fd7448c3bfcfe54064562", "ptbr": "Demônio"}
+{"id": "LocalText/skillPrefixName5411452", "revision": "c847b9ce23ed4d8c215f2ad1cdf3a8e6dfa16f45efb0496c09396ea2de27f9ee", "ptbr": "Origem"}
+{"id": "LocalText/skillPrefixName5411453", "revision": "1dae5d60333817df95c629a81f4162e62679e6a70dcd3c57e066a9f11514837f", "ptbr": "Malícia"}
+{"id": "LocalText/skillPrefixName5411454", "revision": "6868bfcc677c67097fc237109e8d9b3e208ec72077db13a2699ff90084ca9a16", "ptbr": "Névoa"}
+{"id": "LocalText/skillPrefixName5411455", "revision": "3762e731d163f555ae4445e4cbfe7e0e723b3109268a09f6306c5dfc77e73441", "ptbr": "Mente"}
+{"id": "LocalText/skillPrefixName5411456", "revision": "abddccf3457d8ad58df8f3495aa6a45e7fee22a14c08a12ea901020a410a5def", "ptbr": "Forma"}
+{"id": "LocalText/skillPrefixName5411501", "revision": "8a5440473c0a6b54f54c5bed18e74ab1160742a0516d113f22a62f3aa4718e2a", "ptbr": "Funesto"}
+{"id": "LocalText/skillPrefixName5411502", "revision": "86a88a9bf591d61d9f7d6c4e3339cf53f3d22aec35094e68325a724fffa2458f", "ptbr": "Instante"}
+{"id": "LocalText/skillPrefixName5411503", "revision": "15cc490fa8d1b34d8c1a0408312a30e85f9de248852ed8fbfd44ef90eaacfb36", "ptbr": "Lua"}
+{"id": "LocalText/skillPrefixName5411504", "revision": "b8fec80616b4b2445e1e05d47e9ceb84f4b17334ae5cf019bcc7c2c2e7b621de", "ptbr": "Deriva"}
+{"id": "LocalText/skillPrefixName5411505", "revision": "11c725c4cff59c89b47801492eb258fb85b1653b74492a62f16bd7cb699439b5", "ptbr": "Celeridade"}
+{"id": "LocalText/skillPrefixName5411506", "revision": "8c12671aa2bb09781158928cf03fc2f3f6f800b055f67235c32c83e986476f2d", "ptbr": "Refino"}
+{"id": "LocalText/skillPrefixName5411551", "revision": "d9e51aeaa794b498bc6ca195cecbe671ed69dd3ecaf01c8d86852e495522578c", "ptbr": "Sombra"}
+{"id": "LocalText/skillPrefixName5411552", "revision": "3555df56cd4e849580cb3cda25ee29adcca98e92c4a4142274c7ad2796b284d2", "ptbr": "Forma"}
+{"id": "LocalText/skillPrefixName5411553", "revision": "08eaa240219788d03f8f7c3078a70159757fe8ba225921bcea51f11372cf5927", "ptbr": "Furtividade"}
+{"id": "LocalText/skillPrefixName5411554", "revision": "de94416a359e52dec096824538ae45b92ab9f884490b1eefc913a87558a9439d", "ptbr": "Asa"}
+{"id": "LocalText/skillPrefixName5411555", "revision": "8abe322362e16e9ffea917ed02701ad4711ce518e2827cf844b62bad75596233", "ptbr": "Sonho"}
+{"id": "LocalText/skillPrefixName5411556", "revision": "289561fdd9eb7214540ab54920cf19e66b29562e60c469a1de510ea5ea73ccdc", "ptbr": "Mar Profundo"}
+{"id": "LocalText/skillPrefixName5411601", "revision": "4211dd6f1a59cc40a3693e9eb1ddf07d7cb077004f3c7ff3e5cf743488fe1e86", "ptbr": "Purificação"}
+{"id": "LocalText/skillPrefixName5411602", "revision": "9845304098fee3f053144d4608eca28055aeeb628d36179ee130d3c73fbcb920", "ptbr": "Verde"}
+{"id": "LocalText/skillPrefixName5411603", "revision": "9ddaa433fd228556c113fc3190808bd861984dbf9b447081652b96b576dde5f4", "ptbr": "Leveza"}
+{"id": "LocalText/skillPrefixName5411604", "revision": "b43a98dd9d61a908b4ec6d63596155be43d11ff34c260d6930ec73dbccd1f583", "ptbr": "Oceânico"}
+{"id": "LocalText/skillPrefixName5411605", "revision": "39d861bf960bc0a54b1da995a9a2db4410c38ccb02c52cacf73616e21601e7f2", "ptbr": "Vacuidade"}
+{"id": "LocalText/skillPrefixName5411606", "revision": "84c9958f43014011358efc24c31d6d32b6d295ecd3dd39ef8ba6d51672f30232", "ptbr": "Miragem"}
+{"id": "LocalText/skillPrefixName5411651", "revision": "2fc5e0b5c02a927fc91bd8aa319d8493d4f6b885eb7553d6332b9d6f0e86b1d2", "ptbr": "Lua"}
+{"id": "LocalText/skillPrefixName5411652", "revision": "f12b7a64b9abe76ca7ae1c2445ae92861d437fc7ba06d7cf763878c1cd35cc4d", "ptbr": "Nuvem"}
+{"id": "LocalText/skillPrefixName5411653", "revision": "98663d803007181899aad8fbfb17e7fd6a2ed6c6c9cf5c4dcf3c1773398fde13", "ptbr": "Lótus"}
+{"id": "LocalText/skillPrefixName5411654", "revision": "b5c10102f10c6b75470354f0deed2e501e22992da1c5dad624cde4ce5260eaf2", "ptbr": "Fio"}
+{"id": "LocalText/skillPrefixName5411655", "revision": "ff22b089f6512664deff95175eea1b95cd73601bd071cb92d09680afe857e475", "ptbr": "Canto"}
+{"id": "LocalText/skillPrefixName5411656", "revision": "a2bf4e3fc05689c7adca7cf71d3119e1d42fd7a667b0e9331742e6f83d515301", "ptbr": "Falha"}
+{"id": "LocalText/skillPrefixName5511101", "revision": "80056e8182675de14e0535dda9040507fc03c316683387dc8cae8bf038bf9a04", "ptbr": "Quebra"}
+{"id": "LocalText/skillPrefixName5511102", "revision": "0aa1a129f7cbecb4973f4a3eb686b06f752a606b85c4138f39e52351cbf3eaa0", "ptbr": "Ruptura"}
+{"id": "LocalText/skillPrefixName5511103", "revision": "c42e5a264e438b2b83fb4a472b32c5859aea0533287fe3c59e19f510199b6954", "ptbr": "Insuperável"}
+{"id": "LocalText/skillPrefixName5511104", "revision": "5bb3a8104d4b80f121dd71171ff98c1a72788e6182413daa648ca34d152f580f", "ptbr": "Perfuração"}
+{"id": "LocalText/skillPrefixName5511105", "revision": "955a6769fad3e8cefbebaf51b42b54a271e0e11f7ee318e19069121cf93ac8d5", "ptbr": "Fulgor"}
+{"id": "LocalText/skillPrefixName5511106", "revision": "d0d5e56b7f89337b3853dc879e8c2510e2c8315c661acea2772832fd372d34ba", "ptbr": "Transfixão"}
+{"id": "LocalText/skillPrefixName5511151", "revision": "211ca9277d9710ffd87c5e4daa4fb46a3595d72280fb9761ae02bdd27acf5c47", "ptbr": "Poeira"}
+{"id": "LocalText/skillPrefixName5511152", "revision": "5c92cfe642ca40c0c0ffc9a5359bfdb62fe092bc40dbae204b778a5074c1e8c7", "ptbr": "Sombra"}
+{"id": "LocalText/skillPrefixName5511153", "revision": "fe1767bacb94c75dca6d9124c8056650b4275d93ab86130f916222c8fb9ba53c", "ptbr": "Miasma"}
+{"id": "LocalText/skillPrefixName5511154", "revision": "ee6fb2cd934831e74edca3d58a1042afa0281b3487f27b5840aaea59ba79835d", "ptbr": "Equilíbrio"}
+{"id": "LocalText/skillPrefixName5511155", "revision": "93d1981dc411b51880087526ffc56eba1e9df6baf1e406981f542cd4d3f94476", "ptbr": "Fronteira"}
+{"id": "LocalText/skillPrefixName5511156", "revision": "5bc4e45ca9e91b61329a0eea903963eeaf3cc083f3320e185dd02c5c0c7f43f3", "ptbr": "Yang"}
+{"id": "LocalText/skillPrefixName5511201", "revision": "7ccb4a8f084b6cdd06910c2bcef3509876b06172f0e38992babdb0878741ecd5", "ptbr": "Queda"}
+{"id": "LocalText/skillPrefixName5511202", "revision": "898ffbe46a926552a2d1932154c5a0a5069feac139d587172a2df1d368f8be90", "ptbr": "Poeira"}
+{"id": "LocalText/skillPrefixName5511203", "revision": "5d891ad4a7259ba4075af6892a1cf1d6bd88fbb9fdf2397b534d07d36a026854", "ptbr": "Devoração"}
+{"id": "LocalText/skillPrefixName5511204", "revision": "ba567582edf84675794ca8b52d1dea862f4ea845d019af9ba22994b86bd68bc2", "ptbr": "Extermínio"}
+{"id": "LocalText/skillPrefixName5511205", "revision": "086869e0930b1ce59f87233c147295de838b436cac2c327372e4e876f0299304", "ptbr": "Estrondo"}
+{"id": "LocalText/skillPrefixName5511206", "revision": "ff397e5149865eee55c8d7644d5004b58a7e55615ed3959fc2c0967eee557c6e", "ptbr": "Fenda"}
+{"id": "LocalText/skillPrefixName5511251", "revision": "c04baa819c3f56f49cae8f2a9e97a02889c405744faaec89e4f2f8a1fd9ed431", "ptbr": "Estrela"}
+{"id": "LocalText/skillPrefixName5511252", "revision": "de07eee170ad6283ba905d50b446bb2355ce262e9646b4ed5d7960e1c7ec189c", "ptbr": "Chama"}
+{"id": "LocalText/skillPrefixName5511253", "revision": "def15e649d5959ce730c481f31bee2bf082f4a2ccab6a574d135f2d147672813", "ptbr": "Rocha"}
+{"id": "LocalText/skillPrefixName5511254", "revision": "eba890f11a0047730f0c8907e3a8dbed6073739cbee2f8fca389b778151a4b87", "ptbr": "Furtividade"}
+{"id": "LocalText/skillPrefixName5511255", "revision": "c5bdc71e7777e17bbc2b0b54288d1ad4690f216410765659f8a4a1244d9704c7", "ptbr": "Asa"}
+{"id": "LocalText/skillPrefixName5511256", "revision": "c2e472604c84ac2c059dc4af590a6a47de2d0775329a5f1f2ede4f432e215062", "ptbr": "Yang"}
+{"id": "LocalText/skillPrefixName5511301", "revision": "e8df4ff36c88987e49d89abbd2ce2691b5148dbbc839aae749d60c6930bb185d", "ptbr": "Estrela"}
+{"id": "LocalText/skillPrefixName5511302", "revision": "9bbbda3f9cbc461ef02f30688167f347ca1fd7548d59e728229a2456e873ffc3", "ptbr": "Azur"}
+{"id": "LocalText/skillPrefixName5511303", "revision": "09b46af482b5e41aeae3aab7cd2de4a0185b912fe564af2f9d74f2da4c5eded5", "ptbr": "Oceânico"}
+{"id": "LocalText/skillPrefixName5511304", "revision": "18301f127d72e4463e5c2205f5e19e964b554f38ac99e9bc146c45033e3ba147", "ptbr": "Escuridão"}
+{"id": "LocalText/skillPrefixName5511305", "revision": "0629370bd91fb036ecbfd709cd18614fa9998bafe6b3c150338df180a5da930f", "ptbr": "Penumbra"}
+{"id": "LocalText/skillPrefixName5511306", "revision": "74438f0f7d7e44b6dd9b1fe9fc3c4ce11bab579ff8dec7edad8f7b9a4c61a454", "ptbr": "Lua"}
+{"id": "LocalText/skillPrefixName5511351", "revision": "1973eed5ddf5e495e2d7154e528bc1013360bfa7383540db863704dcbea6cc5f", "ptbr": "Meteoro"}
+{"id": "LocalText/skillPrefixName5511352", "revision": "84adf7c82ba952dfc9ce6a2184a44b98feee478eef28cb0595fb358c2e7d3c73", "ptbr": "Quebra"}
+{"id": "LocalText/skillPrefixName5511353", "revision": "00a87ab3f7e078aad60624d486a3ba2b7b0cf769ee5f74bf760a089e0d547b4a", "ptbr": "Quebra"}
+{"id": "LocalText/skillPrefixName5511354", "revision": "1c96d8c7dbf62b725d1a64ac0aab987d7001d660a7b60bd68ef21af26ddcfc29", "ptbr": "Queda"}
+{"id": "LocalText/skillPrefixName5511355", "revision": "74e63c86c308ada7ac4711c4532048f60f09523998cbba5a7ee772f9093c4f41", "ptbr": "Encume"}
+{"id": "LocalText/skillPrefixName5511356", "revision": "ccfbe0c0f39bb5c04eaa0acb623736899e6a8222f2829dc3c81367d617a692bc", "ptbr": "Sombra"}
+{"id": "LocalText/skillPrefixName5511401", "revision": "9f143feacab552342fc794f8858af031a7e8325d3e09e06ba7f9d9615b23d438", "ptbr": "Ermo"}
+{"id": "LocalText/skillPrefixName5511402", "revision": "16c9a806983db6356625b78868a5211310b59f434a0afd7bdcc41aafaeaf454b", "ptbr": "Tinta"}
+{"id": "LocalText/skillPrefixName5511403", "revision": "2751289617d38d042125e1e62e734ed395e8b42ceab0494c8c5513ce3ff152bc", "ptbr": "Frio"}
+{"id": "LocalText/skillPrefixName5511404", "revision": "1195c74baa608bc65aa330f4b027dedf676870bed33a79ebaa1195504391ba6d", "ptbr": "Solidão"}
+{"id": "LocalText/skillPrefixName5511405", "revision": "da6872a299109a9de136aa0dd77a4cac22a519f42ff38b16d849eda5902ec897", "ptbr": "Crueldade"}
+{"id": "LocalText/skillPrefixName5511406", "revision": "853bc5c318a882b42ad31a743a57873e484224971441477f93abdedc43624962", "ptbr": "Proibição"}
+{"id": "LocalText/skillPrefixName5511451", "revision": "48da3f9d46cd85aec46d420b670d2845a402478c964bd26b4b23c18359425820", "ptbr": "Monte"}
+{"id": "LocalText/skillPrefixName5511452", "revision": "26509a906c5b3c9ce4bc5dcfe47770889f167b15d27c99b376644ac263463a83", "ptbr": "Esplendor"}
+{"id": "LocalText/skillPrefixName5511453", "revision": "1ce3bb6d09100eb7523bdf3b0cc2877122d06820731b439de19b4731b28e2774", "ptbr": "Rastro"}
+{"id": "LocalText/skillPrefixName5511454", "revision": "f48baa2fbcdf39896e75beac1948fc78be74f55550bca9fc13ab5bd8a1061669", "ptbr": "Fio"}
+{"id": "LocalText/skillPrefixName5511455", "revision": "49ae541bdbe0239e6a318a3dc0e202957f4227cef22d43279ac3b2a685d148a1", "ptbr": "Furtividade"}
+{"id": "LocalText/skillPrefixName5511456", "revision": "8cbd81eecd9763fe9b0bd75a990b07db6aaaffab67d853987f6fb9d32cba65bd", "ptbr": "Poeira"}
+{"id": "LocalText/skillPrefixName5511501", "revision": "a24e7ad163cbe388340de3dbf6791441344c588315083fb19621a489f2222999", "ptbr": "Condensação"}
+{"id": "LocalText/skillPrefixName5511502", "revision": "a648944f343bfabfd1a5e5c80caacb30f9ff60c40c4da63d7c10e3a881c258ce", "ptbr": "Transmutação"}
+{"id": "LocalText/skillPrefixName5511503", "revision": "b92d4760b0906c6d42ec3e4bca9822b40999a3830d732cebb1cdd84a4a42ba5f", "ptbr": "Retorno"}
+{"id": "LocalText/skillPrefixName5511504", "revision": "2db6c2974491e4fac7916f71ca92b6ee05fa643aec11c6c016dda35598c601d8", "ptbr": "Verde"}
+{"id": "LocalText/skillPrefixName5511505", "revision": "b60e14a35270a616237547ee5e4c2dabc1f47cc740b26cd3a927c5cab86da02a", "ptbr": "Purificação"}
+{"id": "LocalText/skillPrefixName5511506", "revision": "e6ca4ffbdd88ca81c29cb8e6c1851eaf382846905cf7fa251661581683d4328b", "ptbr": "Fulgor"}
+{"id": "LocalText/skillPrefixName5511551", "revision": "9fe211be4b12866cb1a3004e6731e55725114f68434d35cc71ad31602338059b", "ptbr": "Coração"}
+{"id": "LocalText/skillPrefixName5511552", "revision": "5df299416bf207165d46b158d3d7d41a734ddbd308587a4cc298682cd7dabcf4", "ptbr": "Espírito"}
+{"id": "LocalText/skillPrefixName5511553", "revision": "d068e68c62eb332592f645ff802029a1ffc2923cdd613818dd8fcab6319ceaea", "ptbr": "Origem"}
+{"id": "LocalText/skillPrefixName5511554", "revision": "fef8a2a255459a19363ed969a40ac4dd58158dc065206dc1121ded686a5f9e8d", "ptbr": "Poeira"}
+{"id": "LocalText/skillPrefixName5511555", "revision": "e17563a64dbc5ea9737bfc447e20c3787aa6b949d1586f7d038a72ed00a04110", "ptbr": "Furtividade"}
+{"id": "LocalText/skillPrefixName5511556", "revision": "bd999e641cd787e71261b587b42c2f8d87f284baa6be4093e3d96535b7edf8f8", "ptbr": "Vacuidade"}
+{"id": "LocalText/skillPrefixName5511601", "revision": "a61ba41cf195e08bba91c37e2be78c460048ea68c823fc7fb0c25a36a24c6482", "ptbr": "Arcano"}
+{"id": "LocalText/skillPrefixName5511602", "revision": "df1e82040019ead7eb43b94e5ecaa5d8375ac05299de72474f5b92d02a2143c8", "ptbr": "Escuridão"}
+{"id": "LocalText/skillPrefixName5511603", "revision": "9074ae58daa9626893396755720510ec827f1cf5551bb26d7c1554820e7cfec1", "ptbr": "Negro"}
+{"id": "LocalText/skillPrefixName5511604", "revision": "3bc9fe904c37d6ae2b702dbdc5353f2aaa0733419605af11798b810e1bcc8266", "ptbr": "Verde"}
+{"id": "LocalText/skillPrefixName5511605", "revision": "f78e1378401ea2af83e12c73f383bad5f310440c0ffae8749fd075a1e182da84", "ptbr": "Leveza"}
+{"id": "LocalText/skillPrefixName5511606", "revision": "9f21325a5632906621b0e2d460b4291e1197105c8c8b5ec202faa1baf94c0a46", "ptbr": "Ira"}
+{"id": "LocalText/skillPrefixName5511651", "revision": "6c7eec9bf41371faa244b5d40ec47dfcf396ba067384e40b3724f0b035ebfe7f", "ptbr": "Lótus"}
+{"id": "LocalText/skillPrefixName5511652", "revision": "baba86073e28c90301f0e3175c68774caf840753496c14d24c0082b37a7f4ca0", "ptbr": "Meteoro"}
+{"id": "LocalText/skillPrefixName5511653", "revision": "d7b009d09254f573b571fb3213733e96f4214ccaafb91d6177a3b4a615ab9961", "ptbr": "Asa"}
+{"id": "LocalText/skillPrefixName5511654", "revision": "3afac653d237e8e216fa7c0bf16482e785e5c378041fe51de359df9d70eb886b", "ptbr": "Funesto"}
+{"id": "LocalText/skillPrefixName5511655", "revision": "293d01e69f208ed9e53784363ea46f7e81847da6970843a6c646cbeafc9fe01a", "ptbr": "Jade"}
+{"id": "LocalText/skillPrefixName5511656", "revision": "31ff1fba6a41fcb054b5a142a9619d28b685893e89ab7bd2882a72df5788d36a", "ptbr": "Corvo"}
+{"id": "LocalText/skillPrefixName5611101", "revision": "bf96513eac7b5b4b7f35aead860ad590e23421bc89b597833d61a12327383e2d", "ptbr": "Transmutação"}
+{"id": "LocalText/skillPrefixName5611102", "revision": "63c129001207fbc71fe00ef9068d10fe58f73712d20741886a20297e3d5d25ef", "ptbr": "Leveza"}
+{"id": "LocalText/skillPrefixName5611103", "revision": "66191b54f4b5d10d27b85691ad3fda6e64c18d5f189d001a931d410d9a24dc58", "ptbr": "Guarda"}
+{"id": "LocalText/skillPrefixName5611104", "revision": "342391451a767b367a05eced6f967ca48d4033d2bba421d2544f385755948e0f", "ptbr": "Fenda"}
+{"id": "LocalText/skillPrefixName5611105", "revision": "759f23d47c2f7361189e30d32a31b44d0ab8f0c9254f20d66a65a1636f9ab6fd", "ptbr": "Tinta"}
+{"id": "LocalText/skillPrefixName5611106", "revision": "4cdea92da615f0174508bfa617ddf163555c9e48e900ecb56a4c7bc2fd3b9847", "ptbr": "Solidão"}
+{"id": "LocalText/skillPrefixName5611151", "revision": "6c99ff6658003922021112ad69fbd73a4d2ea13bbf19cf2cf8a5be3c4196dffa", "ptbr": "Nuvem"}
+{"id": "LocalText/skillPrefixName5611152", "revision": "37389f80de30dd6702e3568f89948d245e1390b2c47a2aabf225d630d810f796", "ptbr": "Submundo"}
+{"id": "LocalText/skillPrefixName5611153", "revision": "e01beab3d9b7b2427d3225f7aaa75d8aea87ccf1127623cb05cb3c3493c7347c", "ptbr": "Origem"}
+{"id": "LocalText/skillPrefixName5611154", "revision": "84aa0424528f2eec9df41aa5e654492e6fee7f395e99c0c00f5f4857452c776d", "ptbr": "Sombra"}
+{"id": "LocalText/skillPrefixName5611155", "revision": "5493090231b879de72e03d7de80913a13253c06c1114736642262226fc71301f", "ptbr": "Arco-Íris"}
+{"id": "LocalText/skillPrefixName5611156", "revision": "e9a15359c052783834f539df0ecb1f7372e73490c96fe96a3d457ed987ae532e", "ptbr": "Asa"}
+{"id": "LocalText/skillPrefixName5611201", "revision": "e9d5b79533bfcf1110ee5dabcf8fef2c35cbbb2a379c36e04b697e02fc497afa", "ptbr": "Condensação"}
+{"id": "LocalText/skillPrefixName5611202", "revision": "987d05a0b8940049a8decf9afe15fd8fd6e2c4966817ed565935788bf132678a", "ptbr": "Convergência"}
+{"id": "LocalText/skillPrefixName5611203", "revision": "d8bb5ff0ee1985caa66f10ea535cea7192f06bf1964c40d759fd331dde1e9bc4", "ptbr": "Purificação"}
+{"id": "LocalText/skillPrefixName5611204", "revision": "acca55ddcff4d6741819a82b18b51ba376db6d456c7ee463d29b976dc80180ed", "ptbr": "Transmutação"}
+{"id": "LocalText/skillPrefixName5611205", "revision": "fd8016a965ed8950ddbc8768fb08f7200671ee475564e7007e44592fb44e74f6", "ptbr": "Verde"}
+{"id": "LocalText/skillPrefixName5611206", "revision": "d354bbfdb54819c664832920dcb2e507c3479078f99304487a2536ea5bda3a99", "ptbr": "Retorno"}
+{"id": "LocalText/skillPrefixName5611251", "revision": "051aa91f3d9ce96f4977bfc85a4c509c1e363be341ee58b8eab4c40c50784938", "ptbr": "Espírito"}
+{"id": "LocalText/skillPrefixName5611252", "revision": "dabb4b3093ac3e6c05fafcc415f45935c7fea19b3efd71096add5fa3603f8f0e", "ptbr": "Lua"}
+{"id": "LocalText/skillPrefixName5611253", "revision": "82941fe0914bb9ed1973a4be80c5c603d828332d0c313be93e8708fec232f366", "ptbr": "Nuvem"}
+{"id": "LocalText/skillPrefixName5611254", "revision": "c019d1735489ee12417e5bdbb79ce8bbfdcf314743e524635c22b6d84e958e5a", "ptbr": "Fumaça"}
+{"id": "LocalText/skillPrefixName5611255", "revision": "938a7991a4b62b0b975bededd065226852d578c5c233632271628cba0c63866e", "ptbr": "Sonho"}
+{"id": "LocalText/skillPrefixName5611256", "revision": "1feb5cb3875747c4a777bba017672a3c01cff8f946e1eb0476a7356a949512f8", "ptbr": "Falha"}
+{"id": "LocalText/skillPrefixName5611301", "revision": "0f6ff63358a822936868622a6f43f6d598280c32b2dded0f376e25e1aac09d2f", "ptbr": "Extermínio"}
+{"id": "LocalText/skillPrefixName5611302", "revision": "f996c2c2aed3fb839649a03f7ccc06cbb620e73dee35a6e8626f106fdeb3ba91", "ptbr": "Deicídio"}
+{"id": "LocalText/skillPrefixName5611303", "revision": "5a04c18b11efe6bd95f546dd617ccc2de2e04a33f2bfe0522ffc2084ce979319", "ptbr": "Devoração"}
+{"id": "LocalText/skillPrefixName5611304", "revision": "d12c9a7491567ea45a890af06ced9805074b4432b9ff9eaf07b989d451cd88b2", "ptbr": "Crueldade"}
+{"id": "LocalText/skillPrefixName5611305", "revision": "b1ccd9972dc497e172e9ab5eca5fd2fc13bc907e7e3710b6f8b63c41f7a104bb", "ptbr": "Penumbra"}
+{"id": "LocalText/skillPrefixName5611306", "revision": "c7b23b6790bd9f3cc3eaa79609151516269cbaba1cb7d87e984f1ac0a4cc51f7", "ptbr": "Azur"}
+{"id": "LocalText/skillPrefixName5611351", "revision": "262cf2ccc3ebb43ac7e7d175f20a9d897f603925d49a343111c0915b55689bbf", "ptbr": "Alma"}
+{"id": "LocalText/skillPrefixName5611352", "revision": "8129e212e0e42c41f0a80ac3e659dd5dc5758f3b16925e706f1d0d5f341a3243", "ptbr": "Divino"}
+{"id": "LocalText/skillPrefixName5611353", "revision": "f69bf154815fa873cd2e7dd4d1882a60abe313a5476b2b8b90b0acddfd7a9908", "ptbr": "Demônio"}
+{"id": "LocalText/skillPrefixName5611354", "revision": "459ca4ab9df1e94881c3525b3d06108eb270bf52b85c0ead58257df28b2aa790", "ptbr": "Domínio"}
+{"id": "LocalText/skillPrefixName5611355", "revision": "a331e06cb00ffbfd9056c55e53a4b5aef00bcaceefd3f484a8609ff0ef5a73a5", "ptbr": "Inferno"}
+{"id": "LocalText/skillPrefixName5611356", "revision": "223d2003554c8ee9188d9bb4b4262d2e01ab37427e259452125aeb7d72a50fcf", "ptbr": "Funesto"}
+{"id": "LocalText/skillPrefixName5611401", "revision": "8d9135b144a57bbba6218ce444a43de7f10d6d23111188a59b32d98199621b27", "ptbr": "Transmutação"}
+{"id": "LocalText/skillPrefixName5611402", "revision": "79700780cb753a1bf68ad311ee638a92d2b0a025c0f93a5709869310809ebafe", "ptbr": "Ruptura"}
+{"id": "LocalText/skillPrefixName5611403", "revision": "6cba6f8098a4582609f60cff36af59bee886d47ebd569886ff57b94693c4efb2", "ptbr": "Emboscada"}
+{"id": "LocalText/skillPrefixName5611404", "revision": "0fce320e9b53a8b010e40c8b8f50eaafe0dbf9429fec021c59448a4c425278ce", "ptbr": "Cravamento"}
+{"id": "LocalText/skillPrefixName5611405", "revision": "37ecf41fb72c8f6433c4fe2f21990ee217a598a0851cd42da370f2302b95df43", "ptbr": "Supressão"}
+{"id": "LocalText/skillPrefixName5611406", "revision": "a10d227aba61d064ca0e5e6c6abe5b1430e26b9e801b11cb89850280f1822e0f", "ptbr": "Caos"}
+{"id": "LocalText/skillPrefixName5611451", "revision": "f9a418f654f7fb956a0420f39f2ae9a21a031a7424bfc99cfe0e321065a3562c", "ptbr": "Pena"}
+{"id": "LocalText/skillPrefixName5611452", "revision": "82efc0ce134d1ecdddeee7e3b06bff06add5cdbd9a9cdfbcc2ff3c96242ce2f2", "ptbr": "Lótus"}
+{"id": "LocalText/skillPrefixName5611453", "revision": "c06baa6f5f3a99ae9df9bd7b9b6561d941e1f428b353901abd38652a83c94f9b", "ptbr": "Jade"}
+{"id": "LocalText/skillPrefixName5611454", "revision": "24e05d0e24f8f4a1c125ebbc7268f295c9473e00389e82a6b67ca6f447d3da8e", "ptbr": "Forma"}
+{"id": "LocalText/skillPrefixName5611455", "revision": "106f9aa4b5bbeead3a43848e3324e461837813628641d1a0bb15ff71dc642df6", "ptbr": "Monte"}
+{"id": "LocalText/skillPrefixName5611456", "revision": "99c6ddde57116fb4f0707cd16d198b5c2a52c7331fb10d908a539567f66e88e8", "ptbr": "Equilíbrio"}
+{"id": "LocalText/skillPrefixName5611501", "revision": "f222c2b7c6b205721e5d4f8cec0f19be7faa35957132d4af44a8b50a49030456", "ptbr": "Frio"}
+{"id": "LocalText/skillPrefixName5611502", "revision": "c4a42a60f3b3d382f4f958c3f50748c8803314918886272e2ea69f7f9bda6277", "ptbr": "Nuvem"}
+{"id": "LocalText/skillPrefixName5611503", "revision": "e01712fbbd6c3768d76f0c281212e99177e20b755d41264af47e7e6284cf27d6", "ptbr": "Lua"}
+{"id": "LocalText/skillPrefixName5611504", "revision": "ec03e93f94615eeef2ef0ad7621dda7a16c54dc4b8d5d4373b1f591ec4d8e50d", "ptbr": "Guarda"}
+{"id": "LocalText/skillPrefixName5611505", "revision": "b5ca94e465ab3716a28752234f182d5faa18a99444b5d9f07f256d73172546f9", "ptbr": "Perseguição"}
+{"id": "LocalText/skillPrefixName5611506", "revision": "7b160535794155fc2c20f5246c64c0402cf7d69795158667825d9fc3b01c1709", "ptbr": "Crueldade"}
+{"id": "LocalText/skillPrefixName5611551", "revision": "24d5167621cbc5bdd03796d98be5e02dfdbb68996c763267f60593c4e71fab97", "ptbr": "Submundo"}
+{"id": "LocalText/skillPrefixName5611552", "revision": "ce13ce2d464c118dcd762baf701e4711162b9338a5cfd5a34194badf7c2d52da", "ptbr": "Corvo"}
+{"id": "LocalText/skillPrefixName5611553", "revision": "54ca603bdc4b1236cbe5af162427377618ae0fb5716155eed8f7ae4c03155018", "ptbr": "Sombra"}
+{"id": "LocalText/skillPrefixName5611554", "revision": "4af5328d80f4d5d6107160e783c982d3a9fbafc1a7186b59e25dc9df52cf07f7", "ptbr": "Furtividade"}
+{"id": "LocalText/skillPrefixName5611555", "revision": "701afd55e539a96ef18767abf7977d32301237c792b20a34d2053c28180cb591", "ptbr": "Rastro"}
+{"id": "LocalText/skillPrefixName5611556", "revision": "df8582f65ee0e4a2ebe816c9d5a9d26e9320f0d8e866287e917a710393e86e9c", "ptbr": "Funesto"}
+{"id": "LocalText/skillPrefixName5611601", "revision": "f1541e11880708e62579d890615a01f3cdcef2805844a715f13e52508a4cfa23", "ptbr": "Delírio"}
+{"id": "LocalText/skillPrefixName5611602", "revision": "5c37092473ca01d35259aec968ead9126dd89425c01a238ecf11c94a91d22e52", "ptbr": "Nada"}
+{"id": "LocalText/skillPrefixName5611603", "revision": "0ab97ea50ef9c4ca541fd5fbddbf1c5ab1485d6a0885d220375716b5a7e1895e", "ptbr": "Azur"}
+{"id": "LocalText/skillPrefixName5611604", "revision": "8b0960462ef053c18d17bd4dc8f286eac844cb1fc142dc9fb6b2a72a076ad6fc", "ptbr": "Oceânico"}
+{"id": "LocalText/skillPrefixName5611605", "revision": "75754ddbf43d3f3c6551f61d74877e559487c21e9c52a843b3190b2ef157836b", "ptbr": "Colapso"}
+{"id": "LocalText/skillPrefixName5611606", "revision": "f502662b7ed66b881aa2b6906df8fa9a0fc3913eda5513f6a7896e10e9f69efe", "ptbr": "Submundo"}
+{"id": "LocalText/skillPrefixName5611651", "revision": "fcd4bad9546b3cc438fc7e9a688d3898d6ba916073f9065af681328da509c690", "ptbr": "Monte"}
+{"id": "LocalText/skillPrefixName5611652", "revision": "6d48e72b5cb240b89c6d67cbd6f4888fae8642334da1c3be6b23710a372485f2", "ptbr": "Névoa"}
+{"id": "LocalText/skillPrefixName5611653", "revision": "f79cbd46ad158e2ab50f8590a22eadf15d49ec28c32f1d7b889e5f785e73a9cd", "ptbr": "Cristal"}
+{"id": "LocalText/skillPrefixName5611654", "revision": "6f2d3ea5049b1943f3f6abf618afa3da2d3f00895bf0e2e53c5b7120f5388d21", "ptbr": "Lua"}
+{"id": "LocalText/skillPrefixName5611655", "revision": "0f72cc47c840a0866cc3add86e2bc8b5115679bfe178a09d2b5a07aea34d29ff", "ptbr": "Coração"}
+{"id": "LocalText/skillPrefixName5611656", "revision": "73b7937690a72caf1b7d74e2c68c2e9a12c8da03688f29f111930814828565ba", "ptbr": "Pena"}
+{"id": "LocalText/skillPrefixName6411101", "revision": "c92f2e9cbfc7c55910926935796f90ae6aebd3d8d37e6c9bba6a6c33796b8f26", "ptbr": "Extermínio"}
+{"id": "LocalText/skillPrefixName6411102", "revision": "af2a66c6bd359fe25895e78f1b7e4271bd2bc2f32b653c4b289d24a080d2077c", "ptbr": "Deicídio"}
+{"id": "LocalText/skillPrefixName6411103", "revision": "6284831f8351d9ac5ed66012a360e479c6655e0f40dd5394effdafb78706d881", "ptbr": "Devoração"}
+{"id": "LocalText/skillPrefixName6411104", "revision": "b86d4ad2833c28e739d5ae86cbb1c05ade2c3038ded0beddafb8f3d916ecb8f4", "ptbr": "Quebra"}
+{"id": "LocalText/skillPrefixName6411105", "revision": "82eeab6123f94e5d558d6ebccb11216fcb4e01cdf48a2ccbcccf1373c5ce8dd5", "ptbr": "Transmutação"}
+{"id": "LocalText/skillPrefixName6411106", "revision": "345a9a735940a80abc6bbd3285161e6b3aae8d570ce077be4d7f871c9b1eaea4", "ptbr": "Azur"}
+{"id": "LocalText/skillPrefixName6411151", "revision": "7c769e06af00659527dd8e0ecf4b9aa253a9481d6b51aaad6c674249d13a92cf", "ptbr": "Vazio"}
+{"id": "LocalText/skillPrefixName6411152", "revision": "80aa11d76f18638f57405c2dc141bb49fdf42d84d03e9b0b572f523c04d72c74", "ptbr": "Céu"}
+{"id": "LocalText/skillPrefixName6411153", "revision": "b00ab644ae00bc27c7cb70ff710a4e7938d51a9cb813205597eda50708a01cc7", "ptbr": "Inferno"}
+{"id": "LocalText/skillPrefixName6411154", "revision": "b2242b7cf1d698cac8bf123583890d172218bb17b217152466400591ecd3ada5", "ptbr": "Demônio"}
+{"id": "LocalText/skillPrefixName6411155", "revision": "bf5a03e5ff22c5b38c24b195403c4bd3ff068b484e6768b28499915669302517", "ptbr": "Alma"}
+{"id": "LocalText/skillPrefixName6411156", "revision": "c9dbe90883fbf562f4d6ec4d28dc214d6b2be9adf85f760d2f3b52aee299c322", "ptbr": "Rastro"}
+{"id": "LocalText/skillPrefixName6411201", "revision": "aa7522e751183343614390fccdd8128620c87ae4cb6c88790397e4c6c0e17fc5", "ptbr": "Selamento"}
+{"id": "LocalText/skillPrefixName6411202", "revision": "c313f0f681599ec37f9c881612c775d945db1aaac6d07d86b52ebf212d00c6b8", "ptbr": "Supressão"}
+{"id": "LocalText/skillPrefixName6411203", "revision": "0e69f30ba8106384f13ddb3580051f2412d9638a7db7dbdcc05cc20290e33000", "ptbr": "Tremor"}
+{"id": "LocalText/skillPrefixName6411204", "revision": "fdd04af01f1db63952179753e212abac5ced7717e4ff2c852422e3984032060d", "ptbr": "Travessia"}
+{"id": "LocalText/skillPrefixName6411205", "revision": "9d40dd4f9ce800eb6f791ce8e184a1292aa9621b63163bbb1817a47c014a2ae9", "ptbr": "Fenda"}
+{"id": "LocalText/skillPrefixName6411206", "revision": "5951ea8e68d8c7a0495e0128161550307a1c22ff91aeebd148511ba51bc07952", "ptbr": "Perseguição"}
+{"id": "LocalText/skillPrefixName6411251", "revision": "adf10fca253e6a1f3d22a2e3d5b6b773cb1887b598b0f9531d38fc260efe6ae8", "ptbr": "Inferno"}
+{"id": "LocalText/skillPrefixName6411252", "revision": "941b16d061f6d532d1bcf7e5f875090b1efc395bb6fcf97ca99da97b5905ab58", "ptbr": "Domínio"}
+{"id": "LocalText/skillPrefixName6411253", "revision": "4196799b2993d5954485fb787d474fe882be6b074e9a434832cd318c771943eb", "ptbr": "Jade"}
+{"id": "LocalText/skillPrefixName6411254", "revision": "055f4a385946d8624ac348819e4c5c0b6f84326e8dabb0f662851e1940eae42c", "ptbr": "Espírito"}
+{"id": "LocalText/skillPrefixName6411255", "revision": "3ae30e376a5e64cef231a78c7a621c682ee9dfe5a97bf92798c40649a64e5505", "ptbr": "Origem"}
+{"id": "LocalText/skillPrefixName6411256", "revision": "0a3f3832d23930724590f78872de6b5d83e995d0649cf599c5e7476325f3c742", "ptbr": "Corvo"}
+{"id": "LocalText/skillPrefixName6511101", "revision": "8ca7b730fecb27c3e1100cda07c58946b751b145dec04fe9983e018c55ec28e7", "ptbr": "Supressão"}
+{"id": "LocalText/skillPrefixName6511102", "revision": "9aa03c1c164e4a1fa437ec087cc89069087e4de4bc7d514395881f01d4e2767b", "ptbr": "Selamento"}
+{"id": "LocalText/skillPrefixName6511103", "revision": "a5331f8a6dceedc9dd479ae29f724833ee625f223e11b0543bff8234f4b84790", "ptbr": "Travamento"}
+{"id": "LocalText/skillPrefixName6511104", "revision": "5c5480c72d31fecd6daa5289d606d05a2bd98054fa04cc5620147aa1622f74e5", "ptbr": "Sobressalto"}
+{"id": "LocalText/skillPrefixName6511105", "revision": "25c2b6672bd4e89d58c3676303cd471a96597583a568e11edf1572d37c17ea03", "ptbr": "Extermínio"}
+{"id": "LocalText/skillPrefixName6511106", "revision": "e05cfa9889eb0e52143bddfab0e895288951ef1cc7f0c6cb11d0c03bed76778a", "ptbr": "Cravamento"}
+{"id": "LocalText/skillPrefixName6511151", "revision": "74e4ef10664394947bdca9906f8ae6e9e7f1f8ac33899892ac134e10a13861ab", "ptbr": "Rocha"}
+{"id": "LocalText/skillPrefixName6511152", "revision": "2eb79e055f9fedafd7dd864b5f2b2a5018d319f3a2738354b1667ca5fbc2d7a6", "ptbr": "Monte"}
+{"id": "LocalText/skillPrefixName6511153", "revision": "9cea430fe6378384abbd0bf433d436c68372a5a9bb626292f0bfb07414981927", "ptbr": "Inferno"}
+{"id": "LocalText/skillPrefixName6511154", "revision": "b20189755a7b94a634ca0191739795ac3d3f84bcf612897dec7efc129c560a20", "ptbr": "Domínio"}
+{"id": "LocalText/skillPrefixName6511155", "revision": "33d42e67db52997d7e87538056e6c88d86cf5d497d25b08f606f6790ee978359", "ptbr": "Rastro"}
+{"id": "LocalText/skillPrefixName6511156", "revision": "22a7758237e9ba5fc846f1331b06d8501177fd6edff4440087e349278981b9cd", "ptbr": "Jade"}
+{"id": "LocalText/skillPrefixName6511201", "revision": "8444cf72f06cecd9a48129f2402e987859ab8db4d32393a7404db57fdce54b78", "ptbr": "Fenda"}
+{"id": "LocalText/skillPrefixName6511202", "revision": "372f84b84afed2765690e89d6798023ce81f4211467436f7cb440a6f536ac1a1", "ptbr": "Supressão"}
+{"id": "LocalText/skillPrefixName6511203", "revision": "5164f0090890f64e654d230707f44e49d4237f973b96735115440518ae342823", "ptbr": "Estrondo"}
+{"id": "LocalText/skillPrefixName6511204", "revision": "a713ae2f705154a4cd2335d538c7eb4281655dfdbfec1aa3c8f2d324cb9c1d86", "ptbr": "Ira"}
+{"id": "LocalText/skillPrefixName6511205", "revision": "6d3751e0179d12eccb5c5d3bd0f3979cf6f98b241329f50d2cc9f8e93419e45c", "ptbr": "Emboscada"}
+{"id": "LocalText/skillPrefixName6511206", "revision": "6b8d7f4633961e01b60c4a32f35229cb734db902a1fd04869d431dace5d23161", "ptbr": "Fulgor"}
+{"id": "LocalText/skillPrefixName6511251", "revision": "e03de05fb331581614c79d7cc051c2922f259ea96d93ce23a1f5771d82fc140a", "ptbr": "Céu"}
+{"id": "LocalText/skillPrefixName6511252", "revision": "f5aff199a1e35e724990285b8007de54cb0e71920892500a83eed9677b9dca4e", "ptbr": "Vazio"}
+{"id": "LocalText/skillPrefixName6511253", "revision": "65ecf8908d4b63f3f06deff4f6d91991af62e2be4deac61c11b48a3bbae31872", "ptbr": "Meteoro"}
+{"id": "LocalText/skillPrefixName6511254", "revision": "0c1342c68615b6c35f89a50ecbce03128cb4c8d92494612fdf7969c53d5cda9c", "ptbr": "Alma"}
+{"id": "LocalText/skillPrefixName6511255", "revision": "f16b481f58c8e259cb751ea66f49242b9cf855b9f02277253271acf2a29b8d75", "ptbr": "Forma"}
+{"id": "LocalText/skillPrefixName6511256", "revision": "2aff99755d17c2fbc8dcbd312be179bc1bdf1233abeabdbf1e3d6b0e386a7f52", "ptbr": "Cristal"}
+{"id": "LocalText/skillPrefixName6611101", "revision": "575d935ee5976c91bcfd8f33502118cfabd43a899fa3235e627bb95ebdfaa8bb", "ptbr": "Supressão"}
+{"id": "LocalText/skillPrefixName6611102", "revision": "dea01a6ed41d2f2eab1bc3d7b626e5ee3e86e3e6227fdf968752d2ee3cf9e332", "ptbr": "Selamento"}
+{"id": "LocalText/skillPrefixName6611103", "revision": "a56746e1dbfb048a145b40d8bc8bd959f4ebf178e0a3ee32f1f8c421fd44b457", "ptbr": "Tremor"}
+{"id": "LocalText/skillPrefixName6611104", "revision": "23111873a5248824b4bb43ddd52922a6cb84be8c6cbd17051ece05486c076e58", "ptbr": "Sonho"}
+{"id": "LocalText/skillPrefixName6611105", "revision": "8f010c89a85e804a20d61f15a7e0a43acfd8c070aed87d81c81b8ecb3904d6ef", "ptbr": "Falha"}
+{"id": "LocalText/skillPrefixName6611106", "revision": "d31102cfe073929aa158830f60b518447715c0127c00d9e58c57d3128fbba672", "ptbr": "Mente"}
+{"id": "LocalText/skillPrefixName6611151", "revision": "0a7daddd7edd2922b7db29fcdf496239c82e1ae96d6fd422b9ccb8ff88e9e5cb", "ptbr": "Domínio"}
+{"id": "LocalText/skillPrefixName6611152", "revision": "4fa4a1d38f19d6d5e9087d89eac3a06e1b2767550d22ecb9b53d14fbe30e8803", "ptbr": "Inferno"}
+{"id": "LocalText/skillPrefixName6611153", "revision": "b5026deb1e6a823def30d7f8fcd46a34fef8952d82337493a0510b2b7c86f3ef", "ptbr": "Fronteira"}
+{"id": "LocalText/skillPrefixName6611154", "revision": "822614c2e80d50b999b2a7b34a9b7e9c40c9bc591db813fa9190e47c9af08258", "ptbr": "Alma"}
+{"id": "LocalText/skillPrefixName6611155", "revision": "f4dddab74e797d2a9873345c1c3957e7bddc32120412f2611e1541f7422e03e4", "ptbr": "Demônio"}
+{"id": "LocalText/skillPrefixName6611156", "revision": "a07973a24aea17308b5e1bbfb24e69847e31673e88b9d04fa9438308ab6ada74", "ptbr": "Sombra"}
+{"id": "LocalText/skillPrefixName6611201", "revision": "361fcb5005a2603d5504ccd295649a1ab1bfd052eed40e01b94d9b8e6d2f3cd2", "ptbr": "Oceânico"}
+{"id": "LocalText/skillPrefixName6611202", "revision": "896fbb4efeaa1dea1add9550008971846cf01aa3407841c66e160ef0cb49765c", "ptbr": "Extermínio"}
+{"id": "LocalText/skillPrefixName6611203", "revision": "cf7a0c1f8a06c184432ce7bbb5e86e46aab8339f90d6adb3e78b497da0efa0f7", "ptbr": "Deicídio"}
+{"id": "LocalText/skillPrefixName6611204", "revision": "9624cf4825e0648e2e3983817d58d4fb71b56e818b85b2c6720d5c426aef3699", "ptbr": "Penumbra"}
+{"id": "LocalText/skillPrefixName6611205", "revision": "302ccb6b25ba37545864477e1648705385da0aefc0db47dba78e9cee292aa45e", "ptbr": "Azur"}
+{"id": "LocalText/skillPrefixName6611206", "revision": "4040e5e3c22dfb4df5d1c64ec4f66f30cfc48b6525de0bfb63c6da1402ca78cb", "ptbr": "Esmeralda"}
+{"id": "LocalText/skillPrefixName6611251", "revision": "4c2b20caa84e248f10f6efa5560e699241bb2db2e1fe223a33eee26e6f4db042", "ptbr": "Poeira"}
+{"id": "LocalText/skillPrefixName6611252", "revision": "b294211c6bbcccd588d3cd3a9fc6b810fcc1749b0d61827c3fb340132d0aa617", "ptbr": "Mar Profundo"}
+{"id": "LocalText/skillPrefixName6611253", "revision": "1aa0eaef1090d5e9a0025a967f7ed65eabb7eb0e20a5e36870fdd8185b95ba65", "ptbr": "Rastro"}
+{"id": "LocalText/skillPrefixName6611254", "revision": "ebda8d7ce53a4bc1d2c4d035fd3d590bb78b23cf3cb43320b7e6127419f82215", "ptbr": "Tinta"}
+{"id": "LocalText/skillPrefixName6611255", "revision": "918b330ecde28b5750c570645fa44db19c893a52205b019c3af672677c787f47", "ptbr": "Vacuidade"}
+{"id": "LocalText/skillPrefixName6611256", "revision": "5317d37a715cf6aef0c9657b6a196973a5788da9a6e1e69ab9eab7624b01ffc5", "ptbr": "Fumaça"}
+{"id": "LocalText/skill_daodianxuqiu", "revision": "4e8e7fa1868f610de73708ae86a49e3622750b97630e23c6c467d4a72a85d080", "ptbr": "Pontos de Dao necessários: "}
+{"id": "LocalText/skill_fa", "revision": "34300b3a0e85b45da24d9a293495ca1dab20e701e35e8c7f81c7386198b41b1f", "ptbr": "Técnica"}
+{"id": "LocalText/skill_huozhe", "revision": "3729a8a82f3d6812a7d26f81a2d702572c916a2ec2e551b6a61f8dcfb52ebe27", "ptbr": "Ou"}
+{"id": "LocalText/skill_jinengshuoming", "revision": "0406d253c29c3a9834a30d0b50bc466cce214650d3cee30e360b45af72fcff0a", "ptbr": "Informações da Técnica"}
+{"id": "LocalText/skill_jueji", "revision": "40a5ce49e476f75cf0c28b279fd2d50f11330da1e213ee567c1418fc16e3019c", "ptbr": "Técnica Especial"}
+{"id": "LocalText/skill_juli", "revision": "e45a6de0877eebdb8bfb026cf26e68dce10e52b2f67a09d6727a66e2a40c4150", "ptbr": "Alcance: "}
+{"id": "LocalText/skill_lengque", "revision": "57c8eb3e74b5d5010074c6f80c139ab8bff2150f8c50eebe0d00238e7c9a6025", "ptbr": "Recarga: "}
+{"id": "LocalText/skill_lingji", "revision": "cd95466b771363a42e238b9c986d5c50ec276e0723225bd96985ee298450fc37", "ptbr": "Técnica Espiritual"}
+{"id": "LocalText/skill_renyizizhiyaoqiu", "revision": "3a49e3fa2c0b3040d0f932f4984c2281819aad9580d31642f638800d51f8b9c3", "ptbr": "Qualquer um de {0} alcança {1}"}
+{"id": "LocalText/skill_shanghaiweili", "revision": "6f80cc319610acd28bd0f17acb7e5e6ec5fe8702f99644426d6786db873ccc85", "ptbr": "Poder de dano: "}
+{"id": "LocalText/skill_shecheng", "revision": "1615d79c60db3e1e20422ecdd6012716c51d34b310c236e04d79be7990fe5120", "ptbr": "Alcance: "}
+{"id": "LocalText/skill_shentong", "revision": "f60c009884f698e6f2bceb4c74213789d884464d251c3c9ad5a9b0d3243a0da0", "ptbr": "Técnica Suprema"}
+{"id": "LocalText/skill_shiyong", "revision": "661bb679d18cf910e7032b4a839d77d453ea4e4c8ac2778aed88dfb57e66a333", "ptbr": "Usar"}
+{"id": "LocalText/skill_wanmeixuli", "revision": "e1b959e6f4bf1e509024cfb3e50ecc45c48d820bace1a060071d842d72326399", "ptbr": "Perfeito!"}
+{"id": "LocalText/skill_wuxiaoguo", "revision": "a00fe8562051785c2a10f918529eab23d6d031e2082f4941070ebf57154899bd", "ptbr": "Sem efeitos"}
+{"id": "LocalText/skill_xiaohao", "revision": "b7b42ab15a3ee9392836ad7b45150b38f7f9cdd99a1fe8ee103d1eeddfe065f6", "ptbr": "Custo: "}
+{"id": "LocalText/skill_xiulian", "revision": "e3c176a09cfee7b1ddeeaa96f6c36c801109b84350c1bc6c120d180038bb9350", "ptbr": "Cultivo"}
+{"id": "LocalText/skill_xiulianjingjie", "revision": "9c32c77383655efde8ef64aa1e91ca2624f8254f4bc881cb614088be23953a13", "ptbr": "Reino de Cultivo"}
+{"id": "LocalText/skill_xiulianzhiziyaoqiu", "revision": "8efab11f7a330ded5bc577de98b66b5364824502a6e3fc52d8ec75e3dfdb6cc5", "ptbr": "Aptidão de cultivo requerida: "}
+{"id": "LocalText/skill_xiulianzhiziyaoqiu2", "revision": "b6dbea7621e583fad673d458926f1c2b6ff309c471a3c6341fd7978eaab05262", "ptbr": "Aptidão requerida: "}
+{"id": "LocalText/skill_xuyaodadao", "revision": "7012fc19f51cb4a6d6e9173d3726c9b1c97c75c081cfbc257137a27eff307796", "ptbr": "Precisa alcançar {0}"}
+{"id": "LocalText/skill_zizhiyaoqiu", "revision": "a87e43034b96f5ea56e18fb9a715910696f2ec9c5da38cff7ad526178e6cd37b", "ptbr": "A aptidão {0} precisa alcançar {1}"}
