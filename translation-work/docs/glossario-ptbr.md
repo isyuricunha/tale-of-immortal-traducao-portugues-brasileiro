@@ -350,5 +350,22 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | Perguntas da taverna (pubAsk): "How do I break through to X?" | — | "Como faço para romper para a X?" | Usar nomes de reino do glossário §1 |
 | Linha sentinel `pubAnswer3` = "123" | 123 | 123 | EN e CH idênticos; preservar verbatim |
 
+### Lote 0033 (Torre de Tian Yuan: Estátua, Dádivas e Prefixos de Técnica)
+
+| Inglês (EN) | Chinês (CH) | Português Brasileiro (PT-BR) | Notas |
+| --- | --- | --- | --- |
+| Estrutura da torre: stage / floor / rest point | 大关 / 层 / 休整点 | estágio / andar / ponto de descanso | 闯关 = desafio |
+| Statue / Statue's Grace / Manifestation | 神像 / 神像恩典 / 神像显灵 | Estátua / Graça da Estátua / Manifestação da Estátua | — |
+| Blessing / Divine Stone | 恩赐 / 神石 | Dádiva / Pedra Divina | — |
+| Guardian Bear / Green Fruit | 守护之熊 / 碧果 | Urso Guardião / Fruto Esmeralda | — |
+| Righteous Aura / Demonic Aura | 正道之气 / 魔道之气 | Aura do Caminho Justo / Aura Demoníaca | Alinhado a `item_name10031` |
+| Mystic realm immortal spirit / Fortuitous Mystic Realms / Yuntai Mystic Realm | 秘境仙灵 / 奇遇秘境 / 云台秘境 | espírito imortal do domínio / domínios místicos de aventura / Domínio Místico de Yuntai | — |
+| 阶 (grau da estátua) | 一阶…十阶 | Grau 1…Grau 10 | Mesmo padrão de Grau (G1-G9) |
+| Prefixos de técnica (`skillPrefixName`/`fixName`) | 飞 舞 斩 云 月 天 空 … | Voo, Dança, Corte, Nuvem, Lua, Céu, Vazio… | Caracteres únicos com termos curtos combináveis; mesma string para `fixName*` e `skillPrefixName*` com o mesmo caractere |
+| Essências da torre (聚元/聚灵/聚气精华) | … | Essência de Vitalidade/Energia/Foco Acumulada | Distintas das Essências de 700xxx |
+| Swift Shield / Aura Hunter | 疾风护盾 / 炼魂猎手 | Escudo Veloz / Caçador de Auras | Traços 9081/9091 e habilidades 19/20 da torre |
+| Frutos da estátua (Spiritual Fruit + stat) | 灵果 | Fruto Espiritual (+ Vitalidade/Energia/Foco) | — |
+
+
 
 
