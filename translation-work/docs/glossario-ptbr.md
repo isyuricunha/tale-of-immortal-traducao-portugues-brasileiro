@@ -483,6 +483,18 @@ Topônimos chineses consolidados são preservados em pinyin; topônimos descriti
 | `<Soul Lamp Story>` em drama_dialogue611423/611609 | Preservada verbatim | O toolkit trata `<...>` como tag; o conteúdo não pode ser traduzido |
 | "Confirm1"…"Confirm10" (opções de diálogo) | Confirmar 1…Confirmar 10 | Botões confirm placeholder |
 
+### Lote 0043 (Aventuras de Jun Yuanzhi, Mo Xue, Coelho e Macaco)
+
+| Inglês (EN) | Português Brasileiro (PT-BR) | Notas |
+| --- | --- | --- |
+| Jun Yuanzhi / Mount Daowo / Examine Oneself | Jun Yuanzhi / Monte Daowo / Examine-se | Nomes próprios e citações da estela |
+| Moon Fae / Shade / Ape Shade / Fuxi's Rope | Fada Lunar / Sombra / Sombra do Macaco / Corda de Fuxi | — |
+| Mo Xue / Mo Jia Tribe / Lady Yan / Chiyuzi | Mo Xue / Tribo Mo Jia / Dama Yan / Chiyuzi | — |
+| "Rogue Cultivator" | Cultivadora Errante | Cultivador sem seita |
+| River of No Return / Haunted Tree | Rio Sem Volta / Árvore Assombrada | — |
+| "the mist lifts" | "a névoa levanta" | Recorrente nos eventos de névoa |
+| battle_unit_name: Demonic Elder, Well-Attired Man, White-Clad Man, Blue-Clad Cultivator, Azurite Leader, Tundra Girl, Umber Beast | Ancião Demoníaco, Homem Bem-Vestido, Homem de Branco, Cultivador de Azul, Líder Azurita, Garota da Tundra, Fera Umber | — |
+
 
 
 
